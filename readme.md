@@ -1,6 +1,6 @@
-# TechiDaily
+# Sound Tweaking Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://sound-tweaking.techidaily.com](https://sound-tweaking.techidaily.com)
 
 ## Publish
 

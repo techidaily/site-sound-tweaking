@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Perfecting Audio Balance The Guide to Volume Control in Audacity
-date: 2024-05-05T10:08:54.666Z
-updated: 2024-05-06T10:08:54.666Z
+date: 2024-06-10T05:53:04.588Z
+updated: 2024-06-11T05:53:04.588Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Perfecting Audio Balance The Guide to Volume Control in Audacity
 excerpt: This Article Describes Updated 2024 Approved Perfecting Audio Balance The Guide to Volume Control in Audacity
 keywords: the essential guide to volume manipulation in audacity,the modern producers guide to applying gradual volume decrease in audio production,mastering the art of volume control a guide to seamless audio transitions in adobe after effects,customizing audio intensity the ultimate guide to volume management in audacity,the ultimate guide to audacitys free audio post production capabilities including automated tuning,the complete guide to muting unwanted audio layers in audacity,perfecting audio balance the guide to volume control in audacity
-thumbnail: https://www.lifewire.com/thmb/MgXYGqoMMbFkRcMCb9oaCyNjJGE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6g-4717cafbb03b4d0eb3dae878b5ad134e.png
+thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e6a52b60eb890177d543e794.png
 ---
 
 ## Perfecting Audio Balance: The Guide to Volume Control in Audacity

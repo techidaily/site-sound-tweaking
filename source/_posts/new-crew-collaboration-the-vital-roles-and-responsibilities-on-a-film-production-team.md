@@ -1,7 +1,7 @@
 ---
 title: New Crew Collaboration The Vital Roles and Responsibilities on a Film Production Team
-date: 2024-05-20T05:45:29.204Z
-updated: 2024-05-21T05:45:29.204Z
+date: 2024-06-10T05:53:09.343Z
+updated: 2024-06-11T05:53:09.343Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Crew Collaboration The Vital Roles and Responsibilities on a Film Production Team
 excerpt: This Article Describes New Crew Collaboration The Vital Roles and Responsibilities on a Film Production Team
 keywords: harmonizing visuals and audio the impact of piano compositions in film production,navigating the capabilities of lexis audio editor comprehensive reviews professional demonstrations and instructional content,pooch pulses vocalizations a comprehensive collection for creatives,crew collaboration the vital roles and responsibilities on a film production team,behind the scenes the essential roles of film production team members,exploring the possibilities methods for vocal variation and control,an overall introduction to the wave editor standout features critical analysis and instructional content
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## "Crew Collaboration: The Vital Roles and Responsibilities on a Film Production Team"

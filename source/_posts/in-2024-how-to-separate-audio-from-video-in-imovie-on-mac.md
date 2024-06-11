@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Separate Audio From Video in iMovie on Mac?
-date: 2024-05-20T05:45:56.043Z
-updated: 2024-05-21T05:45:56.043Z
+date: 2024-06-10T05:52:58.392Z
+updated: 2024-06-11T05:52:58.392Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, How to Separate Audio From Video in iMovie on Mac?
 excerpt: This Article Describes In 2024, How to Separate Audio From Video in iMovie on Mac?
 keywords: how to remove audio from a video in imovie,how to fade music and audio in imovie on mac,separate audio from video imovie mac,how to mute audio from video,how to remove audio from video online,Is it possible to separate audio from video in iMovie on Mac? Of course,how to remove audio from video in magix movie edit pro
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## How to Separate Audio From Video in iMovie on Mac?

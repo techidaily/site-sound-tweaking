@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Creating a Diminuendo Effect in iMovie Audio Tracks
-date: 2024-05-05T10:24:00.346Z
-updated: 2024-05-06T10:24:00.346Z
+date: 2024-06-10T05:53:08.155Z
+updated: 2024-06-11T05:53:08.155Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Creating a Diminuendo Effect in iMovie Audio Tracks
 excerpt: This Article Describes 2024 Approved Creating a Diminuendo Effect in iMovie Audio Tracks
 keywords: the art of diminishing sound effects fading out audio in imovie projects,the novices blueprint for efficient audio track mixing in adobe premiere pro 2023 edition,premier audio detachment programs in the realm of video editing 2024 roundup,creating a diminuendo effect in imovie audio tracks,mastering mic sounds a comprehensive approach to eliminating ambient audio distractions,guide to isolating and removing audio tracks in video editing using premiere pro,advanced editing eliminating audio tracks in imovie productions
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## Creating a Diminuendo Effect in iMovie Audio Tracks

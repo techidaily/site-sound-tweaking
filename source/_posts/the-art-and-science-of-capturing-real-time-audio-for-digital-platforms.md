@@ -1,7 +1,7 @@
 ---
 title: The Art and Science of Capturing Real-Time Audio for Digital Platforms
-date: 2024-05-20T05:45:13.026Z
-updated: 2024-05-21T05:45:13.026Z
+date: 2024-06-10T05:53:01.529Z
+updated: 2024-06-11T05:53:01.529Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes The Art and Science of Capturing Real-Time Audio for Digital Platforms
 excerpt: This Article Describes The Art and Science of Capturing Real-Time Audio for Digital Platforms
 keywords: demystifying the art of anime adaptation for global audiences,the art and science of capturing real time audio for digital platforms,leading audio enhancement platforms for professional soundscapes,the ultimate list of cost free digital sound balancing apps,mastering the art of audio enhancement in digital media creation,the future of silence leading applications for pure auditory experience,the ultimate list of digital sound capture apps excluding audacity for android users
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## The Art and Science of Capturing Real-Time Audio for Digital Platforms

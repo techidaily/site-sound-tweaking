@@ -1,7 +1,7 @@
 ---
 title: New Mindful Browsing A Compendium of Online Destinations to Find Tranquility and Relaxation This Year
-date: 2024-05-20T05:45:48.439Z
-updated: 2024-05-21T05:45:48.439Z
+date: 2024-06-10T05:52:54.721Z
+updated: 2024-06-11T05:52:54.721Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mindful Browsing A Compendium of Online Destinations to Find Tranquility and Relaxation This Year
 excerpt: This Article Describes New Mindful Browsing A Compendium of Online Destinations to Find Tranquility and Relaxation This Year
 keywords: the ins and outs of anime localization from translation to sound design,the ultimate guide to eliminating auditory disturbances tools and tactics for offlineonline sound control,unveiling the finest 8 android based digital audio workstations of this year,unveiling the secrets a guide to 7 exceptional transition audio files complimentary,mindful browsing a compendium of online destinations to find tranquility and relaxation this year,echoes of clarity a comprehensive tutorial on eliminating background distractions in web tools,a curated compilation of the best windows applications for transcribing audio to text
-thumbnail: https://www.lifewire.com/thmb/8693hBAeE81sk6n359fo6i01-Hc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1168002788-1bccccf67a1f4988bd355c09748383ab.jpg
+thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
 ## "Mindful Browsing: A Compendium of Online Destinations to Find Tranquility and Relaxation This Year"

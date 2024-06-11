@@ -1,7 +1,7 @@
 ---
 title: Audacity for Windows A Complete Guide to Recording System Audio
-date: 2024-05-20T05:45:04.914Z
-updated: 2024-05-21T05:45:04.914Z
+date: 2024-06-10T05:52:45.295Z
+updated: 2024-06-11T05:52:45.295Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Audacity for Windows A Complete Guide to Recording System Audio
 excerpt: This Article Describes Audacity for Windows A Complete Guide to Recording System Audio
 keywords: audacity for windows a complete guide to recording system audio,exclusive guide to high quality audio recording on windows 10 systems,explore the leading audio editors a windows mac comparison guide,how to audacity recording computer audio,capturing sound with precision your complete guide to audio recording in windows 10,capturing sounds on the go a guide to free audio recording with audacity,guidelines for exporting audio from audacity to mp3
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Audacity for Windows: A Complete Guide to Recording System Audio

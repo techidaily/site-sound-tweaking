@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Understanding Amplitude Adjustments in Audacity A Comprehensive Overview
-date: 2024-05-05T10:21:08.908Z
-updated: 2024-05-06T10:21:08.908Z
+date: 2024-06-10T05:53:06.442Z
+updated: 2024-06-11T05:53:06.442Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Understanding Amplitude Adjustments in Audacity A Comprehensive Overview
 excerpt: This Article Describes New In 2024, Understanding Amplitude Adjustments in Audacity A Comprehensive Overview
 keywords: understanding amplitude adjustments in audacity a comprehensive overview,audience adjustment pros incorporating autotune and its plugin support into audacity,leveraging the power of lame a comprehensive installation manual for audacity users,tailoring voice effects a comprehensive instruction for audacity users on autotune use,mastering autotune a comprehensive guide to using plugins within audacity,mastering audio recording with audacity a comprehensive installation and removal handbook for ubuntu users,setting up audacity on ubuntu linux a 2023 comprehensive instruction manual for audio enthusiasts
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## Understanding Amplitude Adjustments in Audacity: A Comprehensive Overview

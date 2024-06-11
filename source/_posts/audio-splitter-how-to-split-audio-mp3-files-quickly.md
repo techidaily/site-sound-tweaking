@@ -1,7 +1,7 @@
 ---
 title: Audio Splitter How to Split Audio (MP3) Files Quickly
-date: 2024-05-20T05:45:05.367Z
-updated: 2024-05-21T05:45:05.367Z
+date: 2024-06-10T05:53:11.950Z
+updated: 2024-06-11T05:53:11.950Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Audio Splitter How to Split Audio (MP3) Files Quickly
 excerpt: This Article Describes Audio Splitter How to Split Audio (MP3) Files Quickly
 keywords: how to edit mp3 files,efficient mp3 dividing techniques mastering audio splitting speedily,Step by step guide teaching you how to convert AIF audio files to MP3 easily and quickly.,championing quiet calls how to silence zoom audio quickly and easily,guide to mute audio in mp4 files without distorting video quality,audio splitter how to split audio files easily,quickcut audio efficient methods for splitting mp3 files with speed
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## Audio Splitter: How to Split Audio (MP3) Files Quickly

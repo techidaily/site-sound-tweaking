@@ -1,7 +1,7 @@
 ---
 title: Updated Ways to Export Audacity to Mp3 for 2024
-date: 2024-05-05T10:23:05.934Z
-updated: 2024-05-06T10:23:05.934Z
+date: 2024-06-10T05:52:53.145Z
+updated: 2024-06-11T05:52:53.145Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Ways to Export Audacity to Mp3 for 2024
 excerpt: This Article Describes Updated Ways to Export Audacity to Mp3 for 2024
 keywords: guidelines for exporting audio from audacity to mp3,the complete process for exporting audio from audacity to mp3 format,converting audacity projects to mp3 format,we will introduce you two way to export audacity to mp3 format.,how to export audacity to mp3,ways to export audacity to mp3,tips for exporting audacity tracks as mp3 audio
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## Ways to Export Audacity to Mp3

@@ -1,7 +1,7 @@
 ---
 title: New Where Can I Find Clapping Sound Effect?
-date: 2024-05-05T09:47:50.335Z
-updated: 2024-05-06T09:47:50.335Z
+date: 2024-06-10T05:53:02.538Z
+updated: 2024-06-11T05:53:02.538Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Where Can I Find Clapping Sound Effect?
 excerpt: This Article Describes New Where Can I Find Clapping Sound Effect?
 keywords: where can i find glass breaking sound effect,where can i find clapping sound effect,where can i find bell sound effect,where can i find dog sound effects,where can i find applause sound effect,where can i find wolf howling sound effect,where can i find laughing sound effect
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Where Can I Find Clapping Sound Effect?

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Add Audio Fade Out Effect?
-date: 2024-05-05T10:02:43.307Z
-updated: 2024-05-06T10:02:43.307Z
+date: 2024-06-10T05:53:04.024Z
+updated: 2024-06-11T05:53:04.024Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved How to Add Audio Fade Out Effect?
 excerpt: This Article Describes New 2024 Approved How to Add Audio Fade Out Effect?
 keywords: how to fade in out audio in adobe rush,add audio effects to video,fade out in audio after effects,how to add audio fade out effect,progressive audio fade out effects in adobe rushs 2023 update,how to add audio fade in effect,how to fade in and fade out audio in adobe after effects
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## How to Add Audio Fade Out Effect?

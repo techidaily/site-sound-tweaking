@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Mute Audio From Video
-date: 2024-05-05T09:50:13.564Z
-updated: 2024-05-06T09:50:13.564Z
+date: 2024-06-10T05:53:07.322Z
+updated: 2024-06-11T05:53:07.322Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, How to Mute Audio From Video
 excerpt: This Article Describes New In 2024, How to Mute Audio From Video
 keywords: how to remove audio from mp4 video,how to mute audio from video,how to extract audio from videos,cut audio from video iphone mac,how to remove audio from video online,how to remove audio from a video in imovie,ai audio editing how to mute audio from video
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## How to Mute Audio From Video

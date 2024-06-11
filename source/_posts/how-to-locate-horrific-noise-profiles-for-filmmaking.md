@@ -1,7 +1,7 @@
 ---
 title: How to Locate Horrific Noise Profiles for Filmmaking
-date: 2024-05-20T05:45:08.679Z
-updated: 2024-05-21T05:45:08.679Z
+date: 2024-06-10T05:52:45.213Z
+updated: 2024-06-11T05:52:45.213Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How to Locate Horrific Noise Profiles for Filmmaking
 excerpt: This Article Describes How to Locate Horrific Noise Profiles for Filmmaking
 keywords: silent film techniques how to minimize background noise in your mac imovie projects,woof howl repertoire dognoises for filmmakers game developers,navigating to horror film soundscape pieces,how to locate horrific noise profiles for filmmaking,how to locate and apply a kakaring noise effect,the filmmakers voice how to raise your pitch for impact using filmora,locate horrifying noise sample
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## How to Locate Horrific Noise Profiles for Filmmaking

@@ -1,7 +1,7 @@
 ---
 title: How to Remove Audio From a Video in iMovie?
-date: 2024-05-20T05:45:08.744Z
-updated: 2024-05-21T05:45:08.744Z
+date: 2024-06-10T05:53:15.760Z
+updated: 2024-06-11T05:53:15.760Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How to Remove Audio From a Video in iMovie?
 excerpt: This Article Describes How to Remove Audio From a Video in iMovie?
 keywords: how to remove audio from avi,how to remove audio from a video in imovie,how to remove audio from mkv,how to remove audio from video online,remove audio from video in magix movie edit,how to remove audio from video in magix movie edit pro,how to remove audio from mp4 video
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## Silent the Screen: How to Strip Audio From Your Movies in iMovie

@@ -1,7 +1,7 @@
 ---
 title: Mastering PC Speaker Capture with Audacity A Step-by-Step Guide for 2024
-date: 2024-05-20T05:45:47.076Z
-updated: 2024-05-21T05:45:47.076Z
+date: 2024-06-10T05:53:03.460Z
+updated: 2024-06-11T05:53:03.460Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Mastering PC Speaker Capture with Audacity A Step-by-Step Guide for 2024
 excerpt: This Article Describes Mastering PC Speaker Capture with Audacity A Step-by-Step Guide for 2024
 keywords: a step by step guide to integrating lame mp3 encoder with audacity,mastering autotune a step by step guide for audacity users,mastering pc sound capture an audacity guide,mastering vocal modification in audacity a step by step guide,mastering pc speaker capture with audacity a step by step guide,harnessing audacity for zero cost audio capture from pc speakers,mastering autotune a step by step guide for audacity users 2023 edition
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Mastering PC Speaker Capture with Audacity: A Step-by-Step Guide

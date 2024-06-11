@@ -1,7 +1,7 @@
 ---
 title: Perfecting Auditory Aesthetics in Video Production
-date: 2024-05-20T05:45:10.680Z
-updated: 2024-05-21T05:45:10.680Z
+date: 2024-06-10T05:52:59.993Z
+updated: 2024-06-11T05:52:59.993Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Perfecting Auditory Aesthetics in Video Production
 excerpt: This Article Describes Perfecting Auditory Aesthetics in Video Production
 keywords: methods for diminishing delay effects in audio production,navigating the world of audio production a beginners guide to reaper,budget beats for video production finding no cost music,perfecting auditory aesthetics in video production,the art of audio conjunction preparing sounds for video production,selecting the premier windows application for auditory emptying in videos,best practices in music video production and editing
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## Perfecting Auditory Aesthetics in Video Production

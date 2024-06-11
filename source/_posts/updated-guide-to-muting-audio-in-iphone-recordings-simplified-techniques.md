@@ -1,7 +1,7 @@
 ---
 title: Updated Guide to Muting Audio in iPhone Recordings Simplified Techniques
-date: 2024-05-20T05:45:39.404Z
-updated: 2024-05-21T05:45:39.404Z
+date: 2024-06-10T05:53:00.858Z
+updated: 2024-06-11T05:53:00.858Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Guide to Muting Audio in iPhone Recordings Simplified Techniques
 excerpt: This Article Describes Updated Guide to Muting Audio in iPhone Recordings Simplified Techniques
 keywords: guide to muting audio in iphone recordings simplified techniques,translating music into words easy online techniques for mp3 to text conversion updated guide,speedy guide to mute vocals in recording software audacity edition,effortless mp3 audio to text translation explore 3 simplified online techniques,free techniques for recording desktop microphone input in audacity,harmonizing media effective techniques to combine multiple audio files in videos,eliminating audible hum techniques for silence in recorded sounds
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## "Guide to Muting Audio in iPhone Recordings: Simplified Techniques"

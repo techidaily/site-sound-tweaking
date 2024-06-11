@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Find Scary Sound Effect
-date: 2024-05-05T10:11:15.407Z
-updated: 2024-05-06T10:11:15.407Z
+date: 2024-06-10T05:53:05.185Z
+updated: 2024-06-11T05:53:05.185Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Find Scary Sound Effect
 excerpt: This Article Describes Updated 2024 Approved Find Scary Sound Effect
 keywords: where can i find scream sound effect,scary sound effect,scary sound effects,where can i find clapping sound effect,hound harmony curated dog sounds and effects,where can i find scary sound effect,where can i find applause sound effect
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Where Can I Find Scary Sound Effect?

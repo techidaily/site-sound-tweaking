@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Introduction to Jazz Fundamental Concepts and Techniques
-date: 2024-05-05T10:04:40.166Z
-updated: 2024-05-06T10:04:40.166Z
+date: 2024-06-10T05:53:13.731Z
+updated: 2024-06-11T05:53:13.731Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Introduction to Jazz Fundamental Concepts and Techniques
 excerpt: This Article Describes Updated In 2024, Introduction to Jazz Fundamental Concepts and Techniques
 keywords: introduction to jazz fundamental concepts and techniques,music meets motion advanced techniques for beats alignment in final cut pro x,precision in perception advanced techniques for taming tangled sounds,enhancing communication techniques for altering your tone and pitch,introduction guide mastering wave editor tools and techniques,the fundamentals of podcast production an introduction to basic editing techniques,advanced techniques for audio detachment in newly updated mkv files mkv 2023
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## Introduction to Jazz: Fundamental Concepts and Techniques

@@ -1,7 +1,7 @@
 ---
 title: Updated Discover Popular Sad Background Music
-date: 2024-05-20T05:45:30.961Z
-updated: 2024-05-21T05:45:30.961Z
+date: 2024-06-10T05:52:57.534Z
+updated: 2024-06-11T05:52:57.534Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Discover Popular Sad Background Music
 excerpt: This Article Describes Updated Discover Popular Sad Background Music
 keywords: sad background music,guitar background music,most popular background scores for films videos updated list 2023,discover popular sad background music,comedy background music,popular sites to free download guitar background photos and music,pop background music
-thumbnail: https://www.lifewire.com/thmb/IOefl4e_6Yr9ZAczXaVDoLd0G88=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1365158534-d6952b03afff43f7a1c5f0405f31dc92.jpg
+thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
 ---
 
 ## Discover Popular Sad Background Music

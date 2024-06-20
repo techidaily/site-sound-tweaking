@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Mute Audio and Add New Sound in Windows Movie Maker
-date: 2024-05-05T10:07:54.695Z
-updated: 2024-05-06T10:07:54.695Z
+date: 2024-06-19T06:52:12.416Z
+updated: 2024-06-20T06:52:12.416Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Mute Audio and Add New Sound in Windows Movie Maker
 excerpt: This Article Describes Updated 2024 Approved Mute Audio and Add New Sound in Windows Movie Maker
 keywords: mute movie tracks steps to strip audio from mov files in windows and mac os,mute remove audio in windows movie maker,from noise to music mastering sound with adobe audition an updated guide review,ultimate audio cleaner for videos windows mac edition 2024 update,stop background noises add exclusive audio selections in movie maker for windows,how to mute audio in windows movie maker,next gen sound exciser for improved video quality windows mac integrated 2024 version
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## Mute Audio and Add New Sound in Windows Movie Maker
@@ -38,7 +38,7 @@ thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/fi
 
 **Step 1:** In order to start editing a video, you must first import it into Windows Movie Maker. Click on the **Add Videos and Photos** icon in the software's **Home tab** and proceed to select the clip you'd like to mute.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
 
@@ -48,7 +48,7 @@ thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/fi
 
 **Step 3:** Make sure that the clip you want to mute is selected and click on the **Video Volume icon** on the left side of the Edit tab.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
@@ -58,7 +58,7 @@ thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/fi
 
 **Step 1:** After you've muted the audio, click on the **Add Music icon,** that is located next to the Add Photos and Videos icon in the Home tab.
 
-![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
 
@@ -66,7 +66,7 @@ thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/fi
 
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg)
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -76,7 +76,7 @@ thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/fi
 
 **Step 2:** Drag and drop the video file to the timeline and then right-click on it. Select the **Audio Detach**  option from the context menu. The audio file will appear in the newly created audio track, and you can just click on the **Volume** icon located at the begging of the audio track to mute that audio track.
 
-![ Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png )
+![Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png)
 
  For more details, check our guide about [How to remove audio from video in Filmora on Windows.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -116,7 +116,7 @@ Follow @Shanoon Cox
 
 **Step 1:** In order to start editing a video, you must first import it into Windows Movie Maker. Click on the **Add Videos and Photos** icon in the software's **Home tab** and proceed to select the clip you'd like to mute.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
 
@@ -126,7 +126,7 @@ Follow @Shanoon Cox
 
 **Step 3:** Make sure that the clip you want to mute is selected and click on the **Video Volume icon** on the left side of the Edit tab.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
@@ -136,7 +136,7 @@ Follow @Shanoon Cox
 
 **Step 1:** After you've muted the audio, click on the **Add Music icon,** that is located next to the Add Photos and Videos icon in the Home tab.
 
-![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
 
@@ -144,7 +144,7 @@ Follow @Shanoon Cox
 
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg)
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -154,7 +154,7 @@ Follow @Shanoon Cox
 
 **Step 2:** Drag and drop the video file to the timeline and then right-click on it. Select the **Audio Detach**  option from the context menu. The audio file will appear in the newly created audio track, and you can just click on the **Volume** icon located at the begging of the audio track to mute that audio track.
 
-![ Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png )
+![Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png)
 
  For more details, check our guide about [How to remove audio from video in Filmora on Windows.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -194,7 +194,7 @@ Follow @Shanoon Cox
 
 **Step 1:** In order to start editing a video, you must first import it into Windows Movie Maker. Click on the **Add Videos and Photos** icon in the software's **Home tab** and proceed to select the clip you'd like to mute.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
 
@@ -204,7 +204,7 @@ Follow @Shanoon Cox
 
 **Step 3:** Make sure that the clip you want to mute is selected and click on the **Video Volume icon** on the left side of the Edit tab.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
@@ -214,7 +214,7 @@ Follow @Shanoon Cox
 
 **Step 1:** After you've muted the audio, click on the **Add Music icon,** that is located next to the Add Photos and Videos icon in the Home tab.
 
-![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
 
@@ -222,7 +222,7 @@ Follow @Shanoon Cox
 
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg)
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -232,7 +232,7 @@ Follow @Shanoon Cox
 
 **Step 2:** Drag and drop the video file to the timeline and then right-click on it. Select the **Audio Detach**  option from the context menu. The audio file will appear in the newly created audio track, and you can just click on the **Volume** icon located at the begging of the audio track to mute that audio track.
 
-![ Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png )
+![Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png)
 
  For more details, check our guide about [How to remove audio from video in Filmora on Windows.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -272,7 +272,7 @@ Follow @Shanoon Cox
 
 **Step 1:** In order to start editing a video, you must first import it into Windows Movie Maker. Click on the **Add Videos and Photos** icon in the software's **Home tab** and proceed to select the clip you'd like to mute.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
 
@@ -282,7 +282,7 @@ Follow @Shanoon Cox
 
 **Step 3:** Make sure that the clip you want to mute is selected and click on the **Video Volume icon** on the left side of the Edit tab.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
@@ -292,7 +292,7 @@ Follow @Shanoon Cox
 
 **Step 1:** After you've muted the audio, click on the **Add Music icon,** that is located next to the Add Photos and Videos icon in the Home tab.
 
-![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
 
@@ -300,7 +300,7 @@ Follow @Shanoon Cox
 
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg)
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -310,7 +310,7 @@ Follow @Shanoon Cox
 
 **Step 2:** Drag and drop the video file to the timeline and then right-click on it. Select the **Audio Detach**  option from the context menu. The audio file will appear in the newly created audio track, and you can just click on the **Volume** icon located at the begging of the audio track to mute that audio track.
 
-![ Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png )
+![Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png)
 
  For more details, check our guide about [How to remove audio from video in Filmora on Windows.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -472,13 +472,13 @@ The first platform to enjoy jazz music is JazzRadio. This is the hub for Jazz ba
 
  ![jazzradio music platform](https://images.wondershare.com/filmora/article-images/2022/knowledge-about-jazz-music-11.jpg)
 
-### 2\. [Soundcloud](https://soundcloud.com/search?q=jazz%20music&query%5Furn=soundcloud%3Asearch-autocomplete%3A35eb9d1565db4803bc01c86f00e05455)
+### 2\. Soundcloud
 
 Soundcloud is a very famous music platform. You can get a variety of music on Soundcloud. To listen to jazz background music, you can type ‘Jazz Music’ in the search bar. This will display all the related results on the screen. You will get different albums, playlists, and tracks.
 
  ![soundcloud free music streaming](https://images.wondershare.com/filmora/article-images/2022/knowledge-about-jazz-music-12.jpg)
 
-### 3\. [Spotify](https://open.spotify.com/search/jazz%20music)
+### 3\. Spotify
 
 The last but top-rated platform to enjoy jazz music is Spotify. It offers music at a whole different level. You get a wide range of results for anything you search. To enjoy the jazz background music, search for it. You will get a variety of different jazz music-related playlists, albums, artists, and profiles.
 
@@ -616,13 +616,13 @@ The first platform to enjoy jazz music is JazzRadio. This is the hub for Jazz ba
 
  ![jazzradio music platform](https://images.wondershare.com/filmora/article-images/2022/knowledge-about-jazz-music-11.jpg)
 
-### 2\. [Soundcloud](https://soundcloud.com/search?q=jazz%20music&query%5Furn=soundcloud%3Asearch-autocomplete%3A35eb9d1565db4803bc01c86f00e05455)
+### 2\. Soundcloud
 
 Soundcloud is a very famous music platform. You can get a variety of music on Soundcloud. To listen to jazz background music, you can type ‘Jazz Music’ in the search bar. This will display all the related results on the screen. You will get different albums, playlists, and tracks.
 
  ![soundcloud free music streaming](https://images.wondershare.com/filmora/article-images/2022/knowledge-about-jazz-music-12.jpg)
 
-### 3\. [Spotify](https://open.spotify.com/search/jazz%20music)
+### 3\. Spotify
 
 The last but top-rated platform to enjoy jazz music is Spotify. It offers music at a whole different level. You get a wide range of results for anything you search. To enjoy the jazz background music, search for it. You will get a variety of different jazz music-related playlists, albums, artists, and profiles.
 
@@ -760,13 +760,13 @@ The first platform to enjoy jazz music is JazzRadio. This is the hub for Jazz ba
 
  ![jazzradio music platform](https://images.wondershare.com/filmora/article-images/2022/knowledge-about-jazz-music-11.jpg)
 
-### 2\. [Soundcloud](https://soundcloud.com/search?q=jazz%20music&query%5Furn=soundcloud%3Asearch-autocomplete%3A35eb9d1565db4803bc01c86f00e05455)
+### 2\. Soundcloud
 
 Soundcloud is a very famous music platform. You can get a variety of music on Soundcloud. To listen to jazz background music, you can type ‘Jazz Music’ in the search bar. This will display all the related results on the screen. You will get different albums, playlists, and tracks.
 
  ![soundcloud free music streaming](https://images.wondershare.com/filmora/article-images/2022/knowledge-about-jazz-music-12.jpg)
 
-### 3\. [Spotify](https://open.spotify.com/search/jazz%20music)
+### 3\. Spotify
 
 The last but top-rated platform to enjoy jazz music is Spotify. It offers music at a whole different level. You get a wide range of results for anything you search. To enjoy the jazz background music, search for it. You will get a variety of different jazz music-related playlists, albums, artists, and profiles.
 
@@ -904,13 +904,13 @@ The first platform to enjoy jazz music is JazzRadio. This is the hub for Jazz ba
 
  ![jazzradio music platform](https://images.wondershare.com/filmora/article-images/2022/knowledge-about-jazz-music-11.jpg)
 
-### 2\. [Soundcloud](https://soundcloud.com/search?q=jazz%20music&query%5Furn=soundcloud%3Asearch-autocomplete%3A35eb9d1565db4803bc01c86f00e05455)
+### 2\. Soundcloud
 
 Soundcloud is a very famous music platform. You can get a variety of music on Soundcloud. To listen to jazz background music, you can type ‘Jazz Music’ in the search bar. This will display all the related results on the screen. You will get different albums, playlists, and tracks.
 
  ![soundcloud free music streaming](https://images.wondershare.com/filmora/article-images/2022/knowledge-about-jazz-music-12.jpg)
 
-### 3\. [Spotify](https://open.spotify.com/search/jazz%20music)
+### 3\. Spotify
 
 The last but top-rated platform to enjoy jazz music is Spotify. It offers music at a whole different level. You get a wide range of results for anything you search. To enjoy the jazz background music, search for it. You will get a variety of different jazz music-related playlists, albums, artists, and profiles.
 
@@ -944,9 +944,7 @@ Making elaborate jokes with friends while playing video games online can make th
 
 Adding a healthy dose of humor to your video game live streams may assist you in building a loyal fan base that follows your gaming adventures closely. That is why we will introduce you to some of the **best real-time voice changers you can utilize** to modulate your voice while chatting with your friends online.
 
-Want to Change Voice while Making Videos? Here is how!
-
-[**Filmora Voice Changer**](https://tools.techidaily.com/wondershare/filmora/download/) helps to change your voice in 3 ways, tune up and down, change the audio equalizer, and apply voice effects. You can learn more operation details by watching the following video. Add and edit the changing voice in videos to add more fun! **\[Offline Program\]**
+Want to Change Voice while Making Videos? Here is how![**Filmora Voice Changer**](https://tools.techidaily.com/wondershare/filmora/download/) helps to change your voice in 3 ways, tune up and down, change the audio equalizer, and apply voice effects. You can learn more operation details by watching the following video. Add and edit the changing voice in videos to add more fun! **\[Offline Program\]**
 
 [Try Best Voice Changer](https://tools.techidaily.com/wondershare/filmora/download/) [Try Best Voice Changer](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -993,9 +991,7 @@ What’s more, this app lets you change your voice in real-time while playing St
 
 #### Best Voice Changer for Offline Use
 
-Convert voice to another voice by using different ways. Customize and re-edit audio with powerful audio and video editor!
-
-[Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/) [Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/)
+Convert voice to another voice by using different ways. Customize and re-edit audio with powerful audio and video editor![Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/) [Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Learn More >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1104,9 +1100,7 @@ What’s more, this app lets you change your voice in real-time while playing St
 
 #### Best Voice Changer for Offline Use
 
-Convert voice to another voice by using different ways. Customize and re-edit audio with powerful audio and video editor!
-
-[Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/) [Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/)
+Convert voice to another voice by using different ways. Customize and re-edit audio with powerful audio and video editor![Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/) [Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Learn More >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1215,9 +1209,7 @@ What’s more, this app lets you change your voice in real-time while playing St
 
 #### Best Voice Changer for Offline Use
 
-Convert voice to another voice by using different ways. Customize and re-edit audio with powerful audio and video editor!
-
-[Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/) [Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/)
+Convert voice to another voice by using different ways. Customize and re-edit audio with powerful audio and video editor![Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/) [Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Learn More >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1326,9 +1318,7 @@ What’s more, this app lets you change your voice in real-time while playing St
 
 #### Best Voice Changer for Offline Use
 
-Convert voice to another voice by using different ways. Customize and re-edit audio with powerful audio and video editor!
-
-[Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/) [Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/)
+Convert voice to another voice by using different ways. Customize and re-edit audio with powerful audio and video editor![Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/) [Change Voice for Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Learn More >>](https://tools.techidaily.com/wondershare/filmora/download/)
 

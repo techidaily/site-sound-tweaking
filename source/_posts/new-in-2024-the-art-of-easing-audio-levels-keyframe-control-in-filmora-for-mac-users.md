@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Art of Easing Audio Levels Keyframe Control in Filmora for Mac Users
-date: 2024-05-05T10:14:25.900Z
-updated: 2024-05-06T10:14:25.900Z
+date: 2024-06-19T06:52:26.125Z
+updated: 2024-06-20T06:52:26.125Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, The Art of Easing Audio Levels Keyframe Control in Filmora for Mac Users
 excerpt: This Article Describes New In 2024, The Art of Easing Audio Levels Keyframe Control in Filmora for Mac Users
 keywords: the filmmakers toolkit for perfect timing and volume control mastery of audio ducking in filmora,the ultimate audio editing playbook mastering the use of keyframes for dynamic filmmaking in final cut pro x,the art of low pitched audio transforming your voice in filmora 2023,precision sound engineering harnessing the power of keyframes for audio fade insouts in filmora mac,the art of easing audio levels keyframe control in filmora for mac users,the premier selection of audio cutting software for windows and mac users in the year 2024,creating smooth volume curves using keyframes in filmora on macos
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## The Art of Easing Audio Levels: Keyframe Control in Filmora for Mac Users

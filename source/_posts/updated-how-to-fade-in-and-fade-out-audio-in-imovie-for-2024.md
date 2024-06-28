@@ -1,7 +1,7 @@
 ---
 title: Updated How to Fade in and Fade Out Audio in iMovie for 2024
-date: 2024-05-05T10:03:54.128Z
-updated: 2024-05-06T10:03:54.128Z
+date: 2024-06-26T21:57:44.170Z
+updated: 2024-06-27T21:57:44.170Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated How to Fade in and Fade Out Audio in iMovie for 2024
 excerpt: This Article Describes Updated How to Fade in and Fade Out Audio in iMovie for 2024
 keywords: imovie fade in fade out,how to add audio fade out effect,how to fade in out audio in adobe rush,the artisans approach to integrating fade out effects in audio design updated for today,how to fade in and fade out audio in adobe after effects,Do you know how to fade out audio and fade in audio in After Effects? In this article,how to fade music and audio in imovie on mac
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## How to Fade in and Fade Out Audio in iMovie?
@@ -97,9 +97,7 @@ If you do not choose "Manual", that means you'd like iMovie to automatically set
 
 If you manually adjust the effect, you can have a better effect.
 
-#### Step 3. Save the Audio Fade In and Out Effect
-
-![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
+#### Step 3. Save the Audio Fade In and Out Effect ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
@@ -218,9 +216,7 @@ If you do not choose "Manual", that means you'd like iMovie to automatically set
 
 If you manually adjust the effect, you can have a better effect.
 
-#### Step 3. Save the Audio Fade In and Out Effect
-
-![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
+#### Step 3. Save the Audio Fade In and Out Effect ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
@@ -339,9 +335,7 @@ If you do not choose "Manual", that means you'd like iMovie to automatically set
 
 If you manually adjust the effect, you can have a better effect.
 
-#### Step 3. Save the Audio Fade In and Out Effect
-
-![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
+#### Step 3. Save the Audio Fade In and Out Effect ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
@@ -460,9 +454,7 @@ If you do not choose "Manual", that means you'd like iMovie to automatically set
 
 If you manually adjust the effect, you can have a better effect.
 
-#### Step 3. Save the Audio Fade In and Out Effect
-
-![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
+#### Step 3. Save the Audio Fade In and Out Effect ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
@@ -540,7 +532,7 @@ Totally free and easy to use! With our simple interface, editing audio is very e
 
 ### Steps on Using AudioTrimmer
 
-1. Click and navigate to AudioTrimmer's [online audio removal tool](https://audiotrimmer.com/)to get started.
+1. Click and navigate to AudioTrimmer's [online audio removal tool](https://audiotrimmer.com/) to get started.
 2. Choose an audio file from your device.
 3. On the next screen, click the ****Mode**button and put the tool into "Remove" mode.
 4. Click and drag the slider handles to select the unwanted part of the audio that you want to delete.
@@ -617,7 +609,7 @@ Totally free and easy to use! With our simple interface, editing audio is very e
 
 ### Steps on Using AudioTrimmer
 
-1. Click and navigate to AudioTrimmer's [online audio removal tool](https://audiotrimmer.com/)to get started.
+1. Click and navigate to AudioTrimmer's [online audio removal tool](https://audiotrimmer.com/) to get started.
 2. Choose an audio file from your device.
 3. On the next screen, click the ****Mode**button and put the tool into "Remove" mode.
 4. Click and drag the slider handles to select the unwanted part of the audio that you want to delete.
@@ -694,7 +686,7 @@ Totally free and easy to use! With our simple interface, editing audio is very e
 
 ### Steps on Using AudioTrimmer
 
-1. Click and navigate to AudioTrimmer's [online audio removal tool](https://audiotrimmer.com/)to get started.
+1. Click and navigate to AudioTrimmer's [online audio removal tool](https://audiotrimmer.com/) to get started.
 2. Choose an audio file from your device.
 3. On the next screen, click the ****Mode**button and put the tool into "Remove" mode.
 4. Click and drag the slider handles to select the unwanted part of the audio that you want to delete.
@@ -771,7 +763,7 @@ Totally free and easy to use! With our simple interface, editing audio is very e
 
 ### Steps on Using AudioTrimmer
 
-1. Click and navigate to AudioTrimmer's [online audio removal tool](https://audiotrimmer.com/)to get started.
+1. Click and navigate to AudioTrimmer's [online audio removal tool](https://audiotrimmer.com/) to get started.
 2. Choose an audio file from your device.
 3. On the next screen, click the ****Mode**button and put the tool into "Remove" mode.
 4. Click and drag the slider handles to select the unwanted part of the audio that you want to delete.
@@ -952,19 +944,17 @@ Some audio files have several sound effects or audio files. Here, it is importan
 
 After all these things, now your video is ready for feature audio files. Here, you can proceed by choosing the Sound Effect option in the Audio tab. It will showcase a complete list of sound effects and audio files from the built-in library of Filmora. If you like effects from the library, you don’t need to whistle song download. All you have to do is drag sound effects from the library and set it up as per the video transitions.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 ##### Step 5 Export
 
 When you are done with all the editing and changes, you can click the “EXPORT” button. It will allow you to download the video file in your desired format, such as – mp4\. In case you want to share files directly to Vimeo or YouTube, it is possible as well.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -1066,19 +1056,17 @@ Some audio files have several sound effects or audio files. Here, it is importan
 
 After all these things, now your video is ready for feature audio files. Here, you can proceed by choosing the Sound Effect option in the Audio tab. It will showcase a complete list of sound effects and audio files from the built-in library of Filmora. If you like effects from the library, you don’t need to whistle song download. All you have to do is drag sound effects from the library and set it up as per the video transitions.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 ##### Step 5 Export
 
 When you are done with all the editing and changes, you can click the “EXPORT” button. It will allow you to download the video file in your desired format, such as – mp4\. In case you want to share files directly to Vimeo or YouTube, it is possible as well.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -1180,19 +1168,17 @@ Some audio files have several sound effects or audio files. Here, it is importan
 
 After all these things, now your video is ready for feature audio files. Here, you can proceed by choosing the Sound Effect option in the Audio tab. It will showcase a complete list of sound effects and audio files from the built-in library of Filmora. If you like effects from the library, you don’t need to whistle song download. All you have to do is drag sound effects from the library and set it up as per the video transitions.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 ##### Step 5 Export
 
 When you are done with all the editing and changes, you can click the “EXPORT” button. It will allow you to download the video file in your desired format, such as – mp4\. In case you want to share files directly to Vimeo or YouTube, it is possible as well.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
@@ -1294,19 +1280,17 @@ Some audio files have several sound effects or audio files. Here, it is importan
 
 After all these things, now your video is ready for feature audio files. Here, you can proceed by choosing the Sound Effect option in the Audio tab. It will showcase a complete list of sound effects and audio files from the built-in library of Filmora. If you like effects from the library, you don’t need to whistle song download. All you have to do is drag sound effects from the library and set it up as per the video transitions.
 
-![Add-sound-effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![Add-sound-effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 ##### Step 5 Export
 
 When you are done with all the editing and changes, you can click the “EXPORT” button. It will allow you to download the video file in your desired format, such as – mp4\. In case you want to share files directly to Vimeo or YouTube, it is possible as well.
 
-![Export-edited-video ](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
+![Export-edited-video](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 

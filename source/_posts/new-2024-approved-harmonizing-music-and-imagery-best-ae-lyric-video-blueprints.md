@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Harmonizing Music and Imagery Best AE Lyric Video Blueprints
-date: 2024-06-26T21:58:19.752Z
-updated: 2024-06-27T21:58:19.752Z
+date: 2024-07-06T16:38:22.793Z
+updated: 2024-07-07T16:38:22.793Z
 tags: 
   - audio editing software
   - audio editing
@@ -16,7 +16,8 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 
 ## Harmonizing Music and Imagery: Best AE Lyric Video Blueprints
 
-# 8 Best Lyric Video Templates for After Effects ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+# 8 Best Lyric Video Templates for After Effects
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 

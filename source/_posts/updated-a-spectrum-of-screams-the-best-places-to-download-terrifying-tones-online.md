@@ -1,7 +1,7 @@
 ---
 title: Updated A Spectrum of Screams The Best Places to Download Terrifying Tones Online
-date: 2024-05-20T05:45:19.401Z
-updated: 2024-05-21T05:45:19.401Z
+date: 2024-07-06T16:38:16.455Z
+updated: 2024-07-07T16:38:16.455Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated A Spectrum of Screams The Best Places to Download Terrifying Tones Online
 excerpt: This Article Describes Updated A Spectrum of Screams The Best Places to Download Terrifying Tones Online
 keywords: best places to download and listen to bird songs in mp3 format,Find out some of the interesting ways to download and create funny sound effects in this article.,a spectrum of screams the best places to download terrifying tones online,digital sound effects on demand a compilation of the best websites to download ding noises 2023 edition,a curated compilation of the best windows applications for transcribing audio to text,streamlining access the best approaches for downloading spotify music content,melody mavens exploring the best tunes an online up to date song identifier
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## A Spectrum of Screams: The Best Places to Download Terrifying Tones Online
@@ -30,7 +30,7 @@ How do you find horror sound effects that meet your needs? Can you find high-qua
 
 ## Top 6 Websites To Download Horror Sound Effects
 
-### 1. [Epidemic Sound](https://www.epidemicsound.com/sfx/Horror/)
+### 1. Epidemic Sound
 
 With dozens of options alphabetically sorted, you Epidemic Sound makes it easy to find exactly what you’re looking for. They’ve also built a library that contains multiple options in regards to specific sounds – for example, they have three different “Abandoned Building” sounds – so that you can find the one(s) that fit your scene best.
 
@@ -38,7 +38,7 @@ Epidemic Sound prides themselves in having one of the most extensive sound FX li
 
 ![Epidemic scary Sound](https://images.wondershare.com/filmora/filmorapro/epidemic-scary-sound.jpg)
 
-### 2. [Bluezone-Corporation](https://www.bluezone-corporation.com/types/scary-sound-effects-download)
+### 2. Bluezone-Corporation
 
 Bluezone Corporation specializes in bundles of sounds – there are typically several dozen sound effects in every single option that they have available on their website. Their sample sounds are all royalty-free, so you never have to worry about dealing with a copyright issue on anything that you make.
 
@@ -46,13 +46,13 @@ Every one of their horror sound effects on their site is recorded in 24 bit / 96
 
 ![Bluezone Corporation](https://images.wondershare.com/filmora/filmorapro/bluezone-corporation-scary-sound.jpg)
 
-### 3. [Free Sound Effects](https://www.freesoundeffects.com/free-sounds/scary-and-horror-10085/)
+### 3. Free Sound Effects
 
 Free Sound Effects boasts that they have the “best sound effects on the web,” and all of them are free, as their name suggests. Their horror collection consists of around 100 different sounds, and they are adding more to their collection regularly. Browse their selection of MP4 and WAV files and see if they have the sounds that are right for your production.
 
 ![Free Sound Effects](https://images.wondershare.com/filmora/filmorapro/free-scary-sound-effects.jpg)
 
-### 4. [Audio Blocks](https://www.audioblocks.com/collections/halloween-music-sounds)
+### 4. Audio Blocks
 
 Audio Blocks (a part of Storyblocks Audio) doesn’t only offer scary sounds that you can utilize in your video productions for free, but they also have several songs that you can use in the background of your production as well.
 
@@ -60,13 +60,13 @@ These spooky soundtracks are royalty-free, so if you’ve been looking for the b
 
 ![Audio Blocks scary sound](https://images.wondershare.com/filmora/filmorapro/audioblocks-scary-sound.jpg)
 
-### 5. [Tidal](https://listen.tidal.com/artist/3935050)
+### 5. Tidal
 
 Tidal is a website that allows people and artists to download music and sound effects so that the public can download and use them for whatever purposes that they may have. Their Halloween Sound Effect options are some of the best on the web, allowing individuals to download everything easily and making it simple to find exactly what you need to stay ahead of your SFX needs. Tidal is always getting new sounds from their large audience, so you will be more likely to find what it is that you want or need as time goes on.
 
 ![Tidal scary sound](https://images.wondershare.com/filmora/filmorapro/tidal-scary-sound.jpg)
 
-### 6. Microsoft - [Scary Sounds Effects](https://www.microsoft.com/en-us/p/scary-sounds-effects/9wzdncrdnzpf?activetab=pivot:overviewtab)
+### 6. Microsoft - Scary Sounds Effects
 
 This Microsoft app provides video makers with a variety of different options that work well for anyone who may be looking for scary sound effects. Even if you are only looking to insert one or two options into your next production, you can find a wide variety of options here and know that they are going to be clear and sound amazing. The Scary Sounds Effects is always expanding, as well, so check back and see what’s new and exciting.
 
@@ -96,7 +96,7 @@ How do you find horror sound effects that meet your needs? Can you find high-qua
 
 ## Top 6 Websites To Download Horror Sound Effects
 
-### 1. [Epidemic Sound](https://www.epidemicsound.com/sfx/Horror/)
+### 1. Epidemic Sound
 
 With dozens of options alphabetically sorted, you Epidemic Sound makes it easy to find exactly what you’re looking for. They’ve also built a library that contains multiple options in regards to specific sounds – for example, they have three different “Abandoned Building” sounds – so that you can find the one(s) that fit your scene best.
 
@@ -104,7 +104,7 @@ Epidemic Sound prides themselves in having one of the most extensive sound FX li
 
 ![Epidemic scary Sound](https://images.wondershare.com/filmora/filmorapro/epidemic-scary-sound.jpg)
 
-### 2. [Bluezone-Corporation](https://www.bluezone-corporation.com/types/scary-sound-effects-download)
+### 2. Bluezone-Corporation
 
 Bluezone Corporation specializes in bundles of sounds – there are typically several dozen sound effects in every single option that they have available on their website. Their sample sounds are all royalty-free, so you never have to worry about dealing with a copyright issue on anything that you make.
 
@@ -112,13 +112,13 @@ Every one of their horror sound effects on their site is recorded in 24 bit / 96
 
 ![Bluezone Corporation](https://images.wondershare.com/filmora/filmorapro/bluezone-corporation-scary-sound.jpg)
 
-### 3. [Free Sound Effects](https://www.freesoundeffects.com/free-sounds/scary-and-horror-10085/)
+### 3. Free Sound Effects
 
 Free Sound Effects boasts that they have the “best sound effects on the web,” and all of them are free, as their name suggests. Their horror collection consists of around 100 different sounds, and they are adding more to their collection regularly. Browse their selection of MP4 and WAV files and see if they have the sounds that are right for your production.
 
 ![Free Sound Effects](https://images.wondershare.com/filmora/filmorapro/free-scary-sound-effects.jpg)
 
-### 4. [Audio Blocks](https://www.audioblocks.com/collections/halloween-music-sounds)
+### 4. Audio Blocks
 
 Audio Blocks (a part of Storyblocks Audio) doesn’t only offer scary sounds that you can utilize in your video productions for free, but they also have several songs that you can use in the background of your production as well.
 
@@ -126,13 +126,13 @@ These spooky soundtracks are royalty-free, so if you’ve been looking for the b
 
 ![Audio Blocks scary sound](https://images.wondershare.com/filmora/filmorapro/audioblocks-scary-sound.jpg)
 
-### 5. [Tidal](https://listen.tidal.com/artist/3935050)
+### 5. Tidal
 
 Tidal is a website that allows people and artists to download music and sound effects so that the public can download and use them for whatever purposes that they may have. Their Halloween Sound Effect options are some of the best on the web, allowing individuals to download everything easily and making it simple to find exactly what you need to stay ahead of your SFX needs. Tidal is always getting new sounds from their large audience, so you will be more likely to find what it is that you want or need as time goes on.
 
 ![Tidal scary sound](https://images.wondershare.com/filmora/filmorapro/tidal-scary-sound.jpg)
 
-### 6. Microsoft - [Scary Sounds Effects](https://www.microsoft.com/en-us/p/scary-sounds-effects/9wzdncrdnzpf?activetab=pivot:overviewtab)
+### 6. Microsoft - Scary Sounds Effects
 
 This Microsoft app provides video makers with a variety of different options that work well for anyone who may be looking for scary sound effects. Even if you are only looking to insert one or two options into your next production, you can find a wide variety of options here and know that they are going to be clear and sound amazing. The Scary Sounds Effects is always expanding, as well, so check back and see what’s new and exciting.
 
@@ -162,7 +162,7 @@ How do you find horror sound effects that meet your needs? Can you find high-qua
 
 ## Top 6 Websites To Download Horror Sound Effects
 
-### 1. [Epidemic Sound](https://www.epidemicsound.com/sfx/Horror/)
+### 1. Epidemic Sound
 
 With dozens of options alphabetically sorted, you Epidemic Sound makes it easy to find exactly what you’re looking for. They’ve also built a library that contains multiple options in regards to specific sounds – for example, they have three different “Abandoned Building” sounds – so that you can find the one(s) that fit your scene best.
 
@@ -170,7 +170,7 @@ Epidemic Sound prides themselves in having one of the most extensive sound FX li
 
 ![Epidemic scary Sound](https://images.wondershare.com/filmora/filmorapro/epidemic-scary-sound.jpg)
 
-### 2. [Bluezone-Corporation](https://www.bluezone-corporation.com/types/scary-sound-effects-download)
+### 2. Bluezone-Corporation
 
 Bluezone Corporation specializes in bundles of sounds – there are typically several dozen sound effects in every single option that they have available on their website. Their sample sounds are all royalty-free, so you never have to worry about dealing with a copyright issue on anything that you make.
 
@@ -178,13 +178,13 @@ Every one of their horror sound effects on their site is recorded in 24 bit / 96
 
 ![Bluezone Corporation](https://images.wondershare.com/filmora/filmorapro/bluezone-corporation-scary-sound.jpg)
 
-### 3. [Free Sound Effects](https://www.freesoundeffects.com/free-sounds/scary-and-horror-10085/)
+### 3. Free Sound Effects
 
 Free Sound Effects boasts that they have the “best sound effects on the web,” and all of them are free, as their name suggests. Their horror collection consists of around 100 different sounds, and they are adding more to their collection regularly. Browse their selection of MP4 and WAV files and see if they have the sounds that are right for your production.
 
 ![Free Sound Effects](https://images.wondershare.com/filmora/filmorapro/free-scary-sound-effects.jpg)
 
-### 4. [Audio Blocks](https://www.audioblocks.com/collections/halloween-music-sounds)
+### 4. Audio Blocks
 
 Audio Blocks (a part of Storyblocks Audio) doesn’t only offer scary sounds that you can utilize in your video productions for free, but they also have several songs that you can use in the background of your production as well.
 
@@ -192,13 +192,13 @@ These spooky soundtracks are royalty-free, so if you’ve been looking for the b
 
 ![Audio Blocks scary sound](https://images.wondershare.com/filmora/filmorapro/audioblocks-scary-sound.jpg)
 
-### 5. [Tidal](https://listen.tidal.com/artist/3935050)
+### 5. Tidal
 
 Tidal is a website that allows people and artists to download music and sound effects so that the public can download and use them for whatever purposes that they may have. Their Halloween Sound Effect options are some of the best on the web, allowing individuals to download everything easily and making it simple to find exactly what you need to stay ahead of your SFX needs. Tidal is always getting new sounds from their large audience, so you will be more likely to find what it is that you want or need as time goes on.
 
 ![Tidal scary sound](https://images.wondershare.com/filmora/filmorapro/tidal-scary-sound.jpg)
 
-### 6. Microsoft - [Scary Sounds Effects](https://www.microsoft.com/en-us/p/scary-sounds-effects/9wzdncrdnzpf?activetab=pivot:overviewtab)
+### 6. Microsoft - Scary Sounds Effects
 
 This Microsoft app provides video makers with a variety of different options that work well for anyone who may be looking for scary sound effects. Even if you are only looking to insert one or two options into your next production, you can find a wide variety of options here and know that they are going to be clear and sound amazing. The Scary Sounds Effects is always expanding, as well, so check back and see what’s new and exciting.
 
@@ -228,7 +228,7 @@ How do you find horror sound effects that meet your needs? Can you find high-qua
 
 ## Top 6 Websites To Download Horror Sound Effects
 
-### 1. [Epidemic Sound](https://www.epidemicsound.com/sfx/Horror/)
+### 1. Epidemic Sound
 
 With dozens of options alphabetically sorted, you Epidemic Sound makes it easy to find exactly what you’re looking for. They’ve also built a library that contains multiple options in regards to specific sounds – for example, they have three different “Abandoned Building” sounds – so that you can find the one(s) that fit your scene best.
 
@@ -236,7 +236,7 @@ Epidemic Sound prides themselves in having one of the most extensive sound FX li
 
 ![Epidemic scary Sound](https://images.wondershare.com/filmora/filmorapro/epidemic-scary-sound.jpg)
 
-### 2. [Bluezone-Corporation](https://www.bluezone-corporation.com/types/scary-sound-effects-download)
+### 2. Bluezone-Corporation
 
 Bluezone Corporation specializes in bundles of sounds – there are typically several dozen sound effects in every single option that they have available on their website. Their sample sounds are all royalty-free, so you never have to worry about dealing with a copyright issue on anything that you make.
 
@@ -244,13 +244,13 @@ Every one of their horror sound effects on their site is recorded in 24 bit / 96
 
 ![Bluezone Corporation](https://images.wondershare.com/filmora/filmorapro/bluezone-corporation-scary-sound.jpg)
 
-### 3. [Free Sound Effects](https://www.freesoundeffects.com/free-sounds/scary-and-horror-10085/)
+### 3. Free Sound Effects
 
 Free Sound Effects boasts that they have the “best sound effects on the web,” and all of them are free, as their name suggests. Their horror collection consists of around 100 different sounds, and they are adding more to their collection regularly. Browse their selection of MP4 and WAV files and see if they have the sounds that are right for your production.
 
 ![Free Sound Effects](https://images.wondershare.com/filmora/filmorapro/free-scary-sound-effects.jpg)
 
-### 4. [Audio Blocks](https://www.audioblocks.com/collections/halloween-music-sounds)
+### 4. Audio Blocks
 
 Audio Blocks (a part of Storyblocks Audio) doesn’t only offer scary sounds that you can utilize in your video productions for free, but they also have several songs that you can use in the background of your production as well.
 
@@ -258,13 +258,13 @@ These spooky soundtracks are royalty-free, so if you’ve been looking for the b
 
 ![Audio Blocks scary sound](https://images.wondershare.com/filmora/filmorapro/audioblocks-scary-sound.jpg)
 
-### 5. [Tidal](https://listen.tidal.com/artist/3935050)
+### 5. Tidal
 
 Tidal is a website that allows people and artists to download music and sound effects so that the public can download and use them for whatever purposes that they may have. Their Halloween Sound Effect options are some of the best on the web, allowing individuals to download everything easily and making it simple to find exactly what you need to stay ahead of your SFX needs. Tidal is always getting new sounds from their large audience, so you will be more likely to find what it is that you want or need as time goes on.
 
 ![Tidal scary sound](https://images.wondershare.com/filmora/filmorapro/tidal-scary-sound.jpg)
 
-### 6. Microsoft - [Scary Sounds Effects](https://www.microsoft.com/en-us/p/scary-sounds-effects/9wzdncrdnzpf?activetab=pivot:overviewtab)
+### 6. Microsoft - Scary Sounds Effects
 
 This Microsoft app provides video makers with a variety of different options that work well for anyone who may be looking for scary sound effects. Even if you are only looking to insert one or two options into your next production, you can find a wide variety of options here and know that they are going to be clear and sound amazing. The Scary Sounds Effects is always expanding, as well, so check back and see what’s new and exciting.
 
@@ -798,7 +798,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -872,7 +872,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -946,7 +946,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
@@ -1020,7 +1020,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
+## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 

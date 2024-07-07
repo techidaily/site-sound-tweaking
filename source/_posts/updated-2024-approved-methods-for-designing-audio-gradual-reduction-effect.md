@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Methods for Designing Audio Gradual Reduction Effect
-date: 2024-06-26T21:57:42.185Z
-updated: 2024-06-27T21:57:42.185Z
+date: 2024-07-06T16:38:25.250Z
+updated: 2024-07-07T16:38:25.250Z
 tags: 
   - audio editing software
   - audio editing
@@ -578,7 +578,8 @@ If you remain engaged with your Game or Video Creation and want to explore more 
 
 ## "AMR Audio Transformation: A Step-by-Step Manual for Complete AMR Files Conversion [2023 Update]"
 
-# AMR Audio Converter: Convert AMR Files Easily ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+# AMR Audio Converter: Convert AMR Files Easily
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 

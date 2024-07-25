@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Advanced Audio Editing How to Achieve Seamless Volume Automation Using Final Cut Pro X Ducking Tools
-date: 2024-06-19T06:52:54.809Z
-updated: 2024-06-20T06:52:54.809Z
+date: 2024-07-24T02:08:40.173Z
+updated: 2024-07-25T02:08:40.173Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,6 +30,10 @@ Lately, a lot of people have asked us about the process to do automatic audio du
 
 If you don't want to use any plugins, see this article: [How to sync in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 1: How to Perform Audio Ducking in Final Cut Pro X?
 
 If you have a video in which you have background music and a voiceover, then you can perform sound ducking in it. This will automatically enhance the quality of the voiceover and would mellow down the background music selectively. Sadly, the feature of audio ducking in Final Cut Pro has to be done manually as there are no instant automatic options in the tool presently.
@@ -56,10 +60,16 @@ You can now select the files of your choice and click on the “Next” button t
 
 Great! Now, you can just open the FCPX AutoDuck application on your Mac via its Application or Spotlight. You can just give it a project name and drag-and-drop the speaker (voiceover) and the music files here. If you want, you can also import a filler file of your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![FCPX AutoDuck Process](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-4.jpg)
 
 FCPX will also let you select the level of music ducking from its dedication option. There are also different options to set up things like setting up the window or pre-roll for the audio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![FCPS AutoDuck Options](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-5.jpg)
 
 In the end, you can click on the “Duck” button and let FCPX AutoDuck perform automatic audio ducking on the files.
@@ -68,12 +78,21 @@ In the end, you can click on the “Duck” button and let FCPX AutoDuck perform
 
 Once the FCPX audio ducking process is completed, it will generate an XML file. You can now just drag the XML file and drop it to your project in Final Cut Pro. Here, you can choose to select the XML file in the same project.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Import XML in Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-6.jpg)
 
 You can now copy the modified music clip, go to the timeline, and paste it at the starting of the video. Here, you can just mute the previous music clip and let the auto-duck audio play instead.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Audio Ducking Media Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Part 2: The Best FCPX Alternative for Mac to Perform Automatic Audio Ducking
 
 As you can see, it is pretty tough to do audio ducking in Final Cut Pro as there is no automatic feature in the tool. Therefore, you can consider using [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) to perform automatic sound ducking and save your time. It is an inbuilt feature in Filmora that would perform auto-ducking instantly, and you can also mark the level of ducking in the video.
@@ -86,6 +105,9 @@ Ideally, you can perform audio ducking on voiceover or another soundtrack in Won
 
 To begin with, just launch Wondershare Filmora on your Mac and just drag-and-drop your media files to the application. You can also go to its menu and choose to import media files.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora Import Media File](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
@@ -94,6 +116,10 @@ Once your video is imported, you can drag it to the timeline at the bottom to wo
 
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Royalty Free Audio Files](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
 
 #### Step 2: Perform Automatic Audio Ducking
@@ -108,6 +134,9 @@ Afterward, right-click the audio track and select the “Adjust Audio” option 
 
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
 
 #### Step 3: Export the Edited Video
@@ -134,3 +163,42 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-dissecting-video-self-presentation-uncovering-truthfulness-needs-for-2024/"><u>[New] Dissecting Video Self-Presentation  Uncovering Truthfulness Needs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-guide-to-youtube-fame-with-spectacular-music-videos/"><u>[New] In 2024, The Ultimate Guide to YouTube Fame with Spectacular Music Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-syncsound-pro-downloads-and-analysis/"><u>[New] SyncSound Pro Downloads & Analysis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-top-40-twitter-visuals-the-essential-gif-hoarders-toolkit-for-2024/"><u>[Updated] Top 40 Twitter Visuals  The Essential GIF Hoarder's Toolkit for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unlock-efficiency-screen-recording-on-mac-via-keyboard-shortcuts/"><u>2024 Approved  Unlock Efficiency  Screen Recording on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-10-social-media-podcasts-to-help-you-make-marketing-strategy/"><u>2024 Approved 10 Social Media Podcasts to Help You Make Marketing Strategy</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-smart-approaches-boosting-communication-on-discord-through-the-use-of-voxels-audio-transformation-feature/"><u>2024 Approved Smart Approaches Boosting Communication on Discord Through the Use of Voxels Audio Transformation Feature</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-smart-choices-curating-the-best-11-fee-exempt-sound-modification-applications-on-ios-and-android/"><u>2024 Approved Smart Choices Curating the Best 11 Fee-Exempt Sound Modification Applications on iOS and Android</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-snapshot-of-sound-forge-a-thorough-look-at-its-audio-production-capabilities/"><u>2024 Approved Snapshot of Sound Forge A Thorough Look at Its Audio Production Capabilities</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-solemn-sonatas-classic-music-selections-to-enhance-wedding-cinematography/"><u>2024 Approved Solemn Sonatas Classic Music Selections to Enhance Wedding Cinematography</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-soloing-videos-discarding-unwanted-audio-in-mp4-formats/"><u>2024 Approved Soloing Videos Discarding Unwanted Audio in MP4 Formats</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-song-inverted-the-finest-backwards-music-videos-crafted/"><u>2024 Approved Song Inverted The Finest Backwards Music Videos Crafted</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-song-selection-spectrum-discovering-the-perfect-soundtrack-for-every-montage-visionary-project/"><u>2024 Approved Song Selection Spectrum Discovering the Perfect Soundtrack for Every Montage Visionary Project</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-itel-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Itel</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-slowing-down-music-rhythmically-without-affecting-pitch-perception/"><u>In 2024, Slowing Down Music Rhythmically Without Affecting Pitch Perception</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-solved-how-to-download-podcasts-to-computers/"><u>In 2024, Solved! How To Download Podcasts to Computers?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-something-you-need-to-know-about-twistedwave-audio-editor/"><u>In 2024, Something You Need to Know About TwistedWave Audio Editor</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-something-you-need-to-know-about-youtube-sound-library/"><u>In 2024, Something You Need to Know About YouTube Sound Library</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-secrets-of-altering-voice-sounds-on-ps5ps4/"><u>In 2024, Unlock the Secrets of Altering Voice Sounds on PS5/PS4</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-10-social-media-podcasts-to-help-you-make-marketing-strategy/"><u>New 10 Social Media Podcasts to Help You Make Marketing Strategy</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-solo-silence-learning-to-delete-audible-elements-from-mov-footage-on-different-desktops/"><u>New Solo Silence Learning to Delete Audible Elements From MOV Footage on Different Desktops</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-solved-how-to-download-podcasts-to-computers/"><u>New Solved! How To Download Podcasts to Computers?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-sonic-alchemy-transforming-footage-through-piano-inspired-soundtracks/"><u>New Sonic Alchemy Transforming Footage Through Piano-Inspired Soundtracks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-s17t-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo S17t</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/smoother-soundscapes-advanced-techniques-for-noise-reduction-in-adobe-premiere-pro-videos-for-2024/"><u>Smoother Soundscapes Advanced Techniques for Noise Reduction in Adobe Premiere Pro Videos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/soloing-videos-discarding-unwanted-audio-in-mp4-formats-for-2024/"><u>Soloing Videos Discarding Unwanted Audio in MP4 Formats for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/song-inverted-the-finest-backwards-music-videos-crafted-for-2024/"><u>Song Inverted The Finest Backwards Music Videos Crafted for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/sonic-alchemy-transforming-footage-through-piano-inspired-soundtracks-for-2024/"><u>Sonic Alchemy Transforming Footage Through Piano-Inspired Soundtracks for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-simplest-way-to-understand-and-apply-discord-spoilers-for-2024/"><u>The Simplest Way to Understand and Apply Discord Spoilers for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-10-social-media-podcasts-to-help-you-make-marketing-strategy/"><u>Updated 10 Social Media Podcasts to Help You Make Marketing Strategy</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-sneak-peek-into-the-secret-of-silent-videos-in-windows-10-no-additional-software/"><u>Updated Sneak Peek Into the Secret of Silent Videos in Windows 10 (No Additional Software)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-snipping-the-best-moments-of-melodies-building-your-own-caller-id-tunes/"><u>Updated Snipping the Best Moments of Melodies Building Your Own Caller ID Tunes</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-song-selection-spectrum-discovering-the-perfect-soundtrack-for-every-montage-visionary-project/"><u>Updated Song Selection Spectrum Discovering the Perfect Soundtrack for Every Montage Visionary Project</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-sonic-ambiance-for-catching-up-on-the-latest-news/"><u>Updated Sonic Ambiance for Catching Up on the Latest News</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-10-song-recorder-to-capture-your-favorite-song-easily/"><u>Updated Top 10 Song Recorder to Capture Your Favorite Song Easily</u></a></li>
+</ul></div>

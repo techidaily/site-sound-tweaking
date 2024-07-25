@@ -1,7 +1,7 @@
 ---
 title: In 2024, Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro
-date: 2024-05-20T05:45:57.395Z
-updated: 2024-05-21T05:45:57.395Z
+date: 2024-07-24T01:57:46.539Z
+updated: 2024-07-25T01:57:46.539Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro
 excerpt: This Article Describes In 2024, Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro
 keywords: mastering sound a guide to advanced editing techniques with sony vegas 2023 edition,audiovisual excellence mastering the art of sound design in sony vegas pro 2023,ultimate singing sound enhancer with automatic pitch correction 2024 release,sonic storytelling weaving a tapestry of sound and imagery,realigning sonic clarity comprehensive strategies for eliminating skewed sound patterns,innovative editing in final cut pro combining clear waveform visuals with animated sound sequences,sonic storytelling showcasing sound waves engaging animated sequences with sony vegas pro
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## "Sonic Storytelling: Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro"
@@ -40,8 +40,14 @@ When the actual curve changes shape (for example, when it shrinks because the cl
 
 **Tips:** You can click the shortcut **“Control+Option+1”** to adjust the clip appearance setting to display clips on the timeline with large audio waveforms only.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Part 2\. How to add audio waveform animation in FCP? (2 ways)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Use Pixel Film Studios Audio Visualizer
 
 With [FCPX Audio Visualizer Volume 2](https://store.pixelfilmstudios.com/product/fcpx-audio-visualizer-volume-2/) from Pixel Film Studios, users now have the ability to see up to 48 audio frequencies with full control over their left and right audio output, all within Final Cut Pro. Users have full control over smoothness, base scale, radius, angular offset, camera position, and animation, all with a single click of the mouse, all in Final Cut Pro X.
@@ -54,8 +60,16 @@ With the FCPX Audio Visualizer Volume 2 preset pack, users have the ability to c
 
 It could be more convenient to select a few relevant templates directly than using other plugins. You get a full set of 21 templates, including titles, fonts, media streaming logos, sound effects, and colors, with this set of [Waveform Audio Visualization by Motion Array](https://motionarray.com/final-cut-pro-templates/waveform-audio-visualization-305379/) themes. You only need to pick the style you prefer, add your music, and post it with ease on your social media sites. This template is best suited for audiobooks, podcasts, and music videos. Of course, you must subscribe to the platform to download it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Part 3\. The best alternative to add audio waveform animation to video?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Create Audio WaveformVideo in [Filmora Audio Visualizer](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To add audio waveform animation to video, there is a wide variety of applications. However, Filmora video editor is one of the greatest programs we suggest because you can alter any sound effects on this platform with only one touch. With audio keyframing and an integrated equalization, Filmora can produce unusual sound effects that enhance the audio recording.
@@ -70,6 +84,9 @@ Click the Play button in the Preview window and when you feel good about the res
 
 ![play button](https://images.wondershare.com/filmora/article-images/2022/08/final-cut-pro-audio-waveform-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Social media content creators, musicians, and VJs can produce stunning videos with any of the music visualizers we've listed in this article. As a professional video editing software, although Final Cut Pro can provide powerful editing features, the operation is more cumbersome and not easy to get started. So, I will recommend using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for the best experience.
@@ -78,6 +95,9 @@ Social media content creators, musicians, and VJs can produce stunning videos wi
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Use audio waveform animation templates
 
 It could be more convenient to select a few relevant templates directly than using other plugins. You get a full set of 21 templates, including titles, fonts, media streaming logos, sound effects, and colors, with this set of [Waveform Audio Visualization by Motion Array](https://motionarray.com/final-cut-pro-templates/waveform-audio-visualization-305379/) themes. You only need to pick the style you prefer, add your music, and post it with ease on your social media sites. This template is best suited for audiobooks, podcasts, and music videos. Of course, you must subscribe to the platform to download it.
@@ -90,12 +110,18 @@ To add audio waveform animation to video, there is a wide variety of application
 
 Under “Effects” tab, you can find 25 types of audio animation in **Audio Visualizer**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![audio visualizer](https://images.wondershare.com/filmora/article-images/2022/08/final-cut-pro-audio-waveform-2.png)
 
 Or you can directly open **“Elements > Recommended”**, and type “audio visualizer” or “music pack” to choose preset waveform animation elements.
 
 Click the Play button in the Preview window and when you feel good about the results, click Export to download the video and your library and successfully share it on various social media platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![play button](https://images.wondershare.com/filmora/article-images/2022/08/final-cut-pro-audio-waveform-3.jpg)
 
 ## Conclusion
@@ -122,6 +148,9 @@ Social media content creators, musicians, and VJs can produce stunning videos wi
 
 ## Ensuring Consistent Acoustic Output: How to Calibrate Volumes in VLC Media Center
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Normalize Volume in VLC
 
 How to normalize volume, why should we do it, and what is it after all? – these are the questions when it comes to editing our audio files, as well as the video clips we tend to change the sound of. So, first of all, the volume normalization is pretty much explained as follows: The process when a constant amount of gain is applied to the audio recording, bringing the amplitude to a desirable level, which is “the norm” for the project. If it is a little bit difficult to understand, we have to highlight that when this tool is applied to our volume, the whole recording has the same amount of gain across it, every piece affected the same way. Accordingly, when we normalize volume, the relative dynamics are not changed.
@@ -162,6 +191,9 @@ Don’t underestimate Attack time and release time, either. They graduate the ch
 
 Therefore, you are now equipped with the most information you will need to normalize volume in VLC Player – so free to give it a go, play around with the different settings and carry out the best result imaginable for you!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## How to normalize audio in Wondershare Filmora?
 
 Now, even though we already know how to normalize audio in VLC in the simplest, as well as in the more advanced way, it might be even better if we know some more about normalizing audios in different programs. Something worth discussing is a software called [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which carries out the same task wonderfully. Although, unlike VLC Media Player, it is a real [video editor](https://tools.techidaily.com/wondershare/filmora/download/), but don’t panic if you have never laid your hand on editing – it is one of the easiest to use ini the word, operating also both on Mac and Windows, and its interface is utterly understandable for beginners right away. And, actually, it is a qhile that Wondershare Filmora X introduced the feature to normalize the audio for the first time. What to say more - you might want to stop now and download the latest version of Filmora because now we are about to learn how to normalize audio from the video there – so, tune in!
@@ -172,6 +204,9 @@ Now, even though we already know how to normalize audio in VLC in the simplest, 
 
 When it is done installing, open the software. Now, click and drag the video of which the audio you want to normalize. Now you can select the clip you have chosen – if there are multiple, select all of them, then right-click and choose Detach Audio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose detach audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-4.jpg)
 
 Now if you have this kind of graphic before your eyes, you can be pretty sure without even listening, that the noises are really, really different from each other, which highlights once again how useful audio normalization can be:
@@ -180,6 +215,9 @@ Now if you have this kind of graphic before your eyes, you can be pretty sure wi
 
 Select these files, right-click and choose Adjust Audio. New panel will be opened on left top and there, you will see Audio Normalization – check the box there.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-6.jpg)
 
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-7.jpg)
@@ -196,16 +234,25 @@ So, in this article, we learned a lot about normalizing volumes, why and how it 
 
 When it is done installing, open the software. Now, click and drag the video of which the audio you want to normalize. Now you can select the clip you have chosen – if there are multiple, select all of them, then right-click and choose Detach Audio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![choose detach audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-4.jpg)
 
 Now if you have this kind of graphic before your eyes, you can be pretty sure without even listening, that the noises are really, really different from each other, which highlights once again how useful audio normalization can be:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![noise are different from each other](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-5.jpg)
 
 Select these files, right-click and choose Adjust Audio. New panel will be opened on left top and there, you will see Audio Normalization – check the box there.
 
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-7.jpg)
 
 After you have clicked on it, wait until the normalization completes.
@@ -222,6 +269,9 @@ So, in this article, we learned a lot about normalizing volumes, why and how it 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Modern Techniques for Shrinking Digital File Dimensions
 
 # How to Lower Volume of the Media Files
@@ -252,8 +302,14 @@ So, in this article, we learned a lot about normalizing volumes, why and how it 
 
  Tip: There are more functions in this column, such as Fade in/fade out, fine tune the pitch, etc. If you want to add more effects, go to “Video” column to rotate, adjust contrast, saturation, brightness, nue and speed of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3 Save the files
 
  Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
@@ -284,10 +340,19 @@ Follow @Liza Brown
 
  Try this free software to lower the volume in the media files
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Lower Volume of the Media Files Step by Step Guide
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1 Add media files you want to lower volume
 
  After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
@@ -314,8 +379,14 @@ Follow @Liza Brown
 
  About Filmora video editor:
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -332,10 +403,19 @@ Follow @Liza Brown
 
  Try this free software to lower the volume in the media files
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Lower Volume of the Media Files Step by Step Guide
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1 Add media files you want to lower volume
 
  After downloading and running this program, click “Import” to begin importing the files. This process many take several seconds depending on the size of the media file. Then the file will appear in the “User’s Album” of program. Drag the imported file to the Timeline.
@@ -354,6 +434,9 @@ Follow @Liza Brown
 
  Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
@@ -362,8 +445,15 @@ Follow @Liza Brown
 
  About Filmora video editor:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -380,6 +470,9 @@ Follow @Liza Brown
 
  Try this free software to lower the volume in the media files
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Lower Volume of the Media Files Step by Step Guide
@@ -390,14 +483,23 @@ Follow @Liza Brown
 
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2 Lower volume of the media files
 
  Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
 
  Tip: There are more functions in this column, such as Fade in/fade out, fine tune the pitch, etc. If you want to add more effects, go to “Video” column to rotate, adjust contrast, saturation, brightness, nue and speed of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3 Save the files
 
  Then hit the “Create” icon to save the edited files. You can save your files to different formats such as WMV, MOV, AVI, MKV, MP4 or save to play on different devices such as iPhone, iPad, PSP and Zune. To do this, switch to the related tab, enter the preset settings and press "Create" to begin the export. The exported file should have the same video, but with louder audio. You can also burn the files to DVD or directly upload to YouTube if you choose.
@@ -410,6 +512,9 @@ Follow @Liza Brown
 
  About Filmora video editor:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -437,3 +542,42 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-recover-elusive-facebook-watch-video-icon/"><u>[New] 2024 Approved  Recover Elusive Facebook Watch Video Icon</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-exclusive-guide-save-high-res-fb-video-for-2024/"><u>[New] Exclusive Guide  Save High-Res FB Video for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-youtube-shorts-all-you-need-to-understand-for-2024/"><u>[Updated] Decoding YouTube Shorts  All You Need to Understand for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/gopro-editing-software-best-15-action-cam-video-editors-for-2024/"><u>GoPro Editing Software  Best 15 Action Cam Video Editors for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-google-pixel-8-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Google Pixel 8 to PC? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-securesave-specialists-judgment/"><u>In 2024, SecureSave Specialists Judgment</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-a-step-by-step-exploration-of-jazz-basics/"><u>New 2024 Approved A Step-by-Step Exploration of Jazz Basics</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-a-step-by-step-guide-to-using-googles-audio-streaming-platform-for-podcasts/"><u>New 2024 Approved A Step-by-Step Guide to Using Googles Audio Streaming Platform for Podcasts</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-a-symphony-for-the-ears-ranking-the-top-8-filmmaking-sonic-experiences/"><u>New 2024 Approved A Symphony for the Ears Ranking the Top 8 Filmmaking Sonic Experiences</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-a-soundtrack-journey-unveiling-10-key-spots-to-get-your-digital-music-for-2024/"><u>New A Soundtrack Journey Unveiling 10 Key Spots to Get Your Digital Music for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-a-step-by-step-directory-of-top-15-platforms-to-amplify-your-videos-with-music-detailing-their-strengths-and-weaknesses-for-2024/"><u>New A Step-by-Step Directory of Top 15 Platforms to Amplify Your Videos With Music, Detailing Their Strengths & Weaknesses for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-a-step-by-step-process-to-remove-audio-in-mp4-videos-for-2024/"><u>New A Step-by-Step Process to Remove Audio in MP4 Videos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-a-spectrum-of-screams-the-best-places-to-download-terrifying-tones-online/"><u>New In 2024, A Spectrum of Screams The Best Places to Download Terrifying Tones Online</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-a-step-by-step-blueprint-to-enhance-videos-by-merging-soundtracks-without-incurring-fees/"><u>New In 2024, A Step-by-Step Blueprint to Enhance Videos by Merging Soundtracks Without Incurring Fees</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-a-strategic-approach-to-enhancing-your-in-game-vocal-identity/"><u>New In 2024, A Strategic Approach to Enhancing Your In-Game Vocal Identity</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-a-symphony-for-the-ears-ranking-the-top-8-filmmaking-sonic-experiences/"><u>New In 2024, A Symphony for the Ears Ranking the Top 8 Filmmaking Sonic Experiences</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-a-list-singers-exploring-innovative-vocal-modification-tools-and-resources/"><u>New In 2024, A-List Singers Exploring Innovative Vocal Modification Tools and Resources</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/skyward-elite-unified-ultra-hd-multi-touch-panels/"><u>Skyward Elite  Unified, Ultra HD Multi-Touch Panels</u></a></li>
+<li><a href="https://win11.techidaily.com/steam-and-internet-connectivity-woes-on-pc-heres-a-fix/"><u>Steam & Internet Connectivity Woes on PC? Here's a Fix</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-utilization-of-polarr-for-professional-results/"><u>Step-By-Step Utilization of Polarr for Professional Results</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173588793-switch-online-troubles-lets-fix-it/"><u>Switch Online Troubles? Let's Fix It</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-a-players-guide-to-discovering-premium-game-voice-modification-tools/"><u>Updated 2024 Approved A Players Guide to Discovering Premium Game Voice Modification Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-a-review-of-top-5-audio-mixers-that-work-flawlessly-with-macos/"><u>Updated 2024 Approved A Review of Top 5 Audio Mixers that Work Flawlessly with MacOS</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-a-listers-voice-alteration-essentials-comprehensive-guides-to-transforming-your-singing-style/"><u>Updated 2024 Approved A-Listers Voice Alteration Essentials Comprehensive Guides to Transforming Your Singing Style</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-a-review-of-top-5-audio-mixers-that-work-flawlessly-with-macos-for-2024/"><u>Updated A Review of Top 5 Audio Mixers that Work Flawlessly with MacOS for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-a-spectrum-of-screams-the-best-places-to-download-terrifying-tones-online-for-2024/"><u>Updated A Spectrum of Screams The Best Places to Download Terrifying Tones Online for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-a-strategic-approach-to-enhancing-your-in-game-vocal-identity-for-2024/"><u>Updated A Strategic Approach to Enhancing Your In-Game Vocal Identity for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-a-symphony-for-the-ears-ranking-the-top-8-filmmaking-sonic-experiences-for-2024/"><u>Updated A Symphony for the Ears Ranking the Top 8 Filmmaking Sonic Experiences for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-a-new-dawn-for-music-creation-a-compilation-of-the-most-promising-ai-composers/"><u>Updated In 2024, A New Dawn for Music Creation A Compilation of the Most Promising AI Composers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-a-spectrum-of-screams-the-best-places-to-download-terrifying-tones-online/"><u>Updated In 2024, A Spectrum of Screams The Best Places to Download Terrifying Tones Online</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-a-step-by-step-blueprint-to-enhance-videos-by-merging-soundtracks-without-incurring-fees/"><u>Updated In 2024, A Step-by-Step Blueprint to Enhance Videos by Merging Soundtracks Without Incurring Fees</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-a-step-by-step-exploration-of-jazz-basics/"><u>Updated In 2024, A Step-by-Step Exploration of Jazz Basics</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-a-step-by-step-process-to-remove-audio-in-mp4-videos/"><u>Updated In 2024, A Step-by-Step Process to Remove Audio in MP4 Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-a-symphony-of-effects-discovering-vendors-for-premium-podcast-audio/"><u>Updated In 2024, A Symphony of Effects Discovering Vendors for Premium Podcast Audio</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-a-symphony-of-signals-top-5-groundbreaking-audiovideo-mixing-devices-set/"><u>Updated In 2024, A Symphony of Signals Top 5 Groundbreaking Audio/Video Mixing Devices Set</u></a></li>
+</ul></div>

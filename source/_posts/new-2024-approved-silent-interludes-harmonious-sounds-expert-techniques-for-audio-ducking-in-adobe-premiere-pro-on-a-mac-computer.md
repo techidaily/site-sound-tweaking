@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer
-date: 2024-07-06T16:38:41.903Z
-updated: 2024-07-07T16:38:41.903Z
+date: 2024-07-24T02:09:41.752Z
+updated: 2024-07-25T02:09:41.752Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
 # Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -28,6 +31,9 @@ Too many times, while mixing voiceover with the background music in a video, the
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
 If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
@@ -56,10 +62,17 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -86,6 +99,9 @@ That’s it! After making the changes, just click on the “OK” button and Fil
 
 Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -102,3 +118,45 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-collaborative-branding-strategies-in-digital-media/"><u>[New] Collaborative Branding Strategies in Digital Media</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-guide-to-successfully-saving-your-iptv-streams/"><u>[New] In 2024, Guide to Successfully Saving Your IPTV Streams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-snapdivide-assessment-for-2024/"><u>[New] SnapDivide Assessment for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-strategic-planning-of-podcast-drop-times/"><u>[New] Strategic Planning of Podcast Drop Times</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-fullscreen-partnership-how-to-choose-an-mcn/"><u>[Updated] Fullscreen Partnership  How to Choose An MCN</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-top-15-digital-platforms-for-integrating-soundtracks-into-videos-a-comprehensive-review-and-assessment/"><u>2024 Approved Top 15 Digital Platforms for Integrating Soundtracks Into Videos A Comprehensive Review and Assessment</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-top-200-free-video-soundtrack-collections/"><u>2024 Approved Top 200 Free Video Soundtrack Collections</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-top-4-video-amplifier-web-apps-elevate-your-audio-experience/"><u>2024 Approved Top 4 Video Amplifier Web Apps Elevate Your Audio Experience</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-top-5-audio-mixers-compatible-with-mac-computers/"><u>2024 Approved Top 5 Audio Mixers Compatible with Mac Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-compelling-videos-the-instagram-editors-playbook/"><u>In 2024, Crafting Compelling Videos  The Instagram Editor's Playbook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facestream-recorder-pro-messenger/"><u>In 2024, FaceStream Recorder Pro-Messenger</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 14 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-lava-blaze-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Lava Blaze Pro 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>In 2024, Leading Android & iOS Timer Tools Reviewed  Your Big Day Planner's Must-Haves</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-top-15-innovative-solutions-for-synching-audios-to-videos-a-comprehensive-list/"><u>In 2024, Top 15 Innovative Solutions for Synching Audios to Videos – A Comprehensive List</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-top-200-free-video-soundtrack-collections/"><u>In 2024, Top 200 Free Video Soundtrack Collections</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-top-3-premier-audio-amplification-websites-for-mp3s/"><u>In 2024, Top 3 Premier Audio Amplification Websites for MP3s</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-top-5-audio-manipulation-apps-perfecting-your-sound-waves/"><u>In 2024, Top 5 Audio Manipulation Apps Perfecting Your Sound Waves</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-outlook-on-vr-good-and-bad-aspects/"><u>Inside Outlook on VR  Good & Bad Aspects</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-10-free-online-subtitle-converters-for-video-accessibility/"><u>New In 2024, 10 Free Online Subtitle Converters for Video Accessibility</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-foremost-selection-of-9-breakthrough-ai-voices-shaping-the-future-for-2024/"><u>New The Foremost Selection of 9 Breakthrough AI Voices Shaping the Future for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-15-innovative-solutions-for-synching-audios-to-videos-a-comprehensive-list/"><u>New Top 15 Innovative Solutions for Synching Audios to Videos – A Comprehensive List</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-11-voice-modification-gadgets-your-comprehensive-guide-for-2024/"><u>Top 11 Voice Modification Gadgets Your Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-13-gratis-audio-creation-tools-for-pc-and-mac-updated-list-for-2024/"><u>Top 13 Gratis Audio Creation Tools for PC and Mac, Updated List for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-15-audio-collections-matching-melodies-with-every-type-of-visual-narrative-for-2024/"><u>Top 15 Audio Collections Matching Melodies with Every Type of Visual Narrative for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-15-non-copyrighted-music-for-montages-for-2024/"><u>Top 15 Non Copyrighted Music for Montages for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-15-scores-melodies-and-harmonies-catering-to-various-video-genres-for-2024/"><u>Top 15 Scores Melodies & Harmonies Catering to Various Video Genres for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-3-best-mp3-volume-booster-online-for-2024/"><u>Top 3 Best MP3 Volume Booster Online for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-3-premier-audio-amplification-websites-for-mp3s-for-2024/"><u>Top 3 Premier Audio Amplification Websites for MP3s for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-4-best-music-editor-applications-for-mac-for-2024/"><u>Top 4 Best Music Editor Applications for Mac for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-5-audio-manipulation-apps-perfecting-your-sound-waves-for-2024/"><u>Top 5 Audio Manipulation Apps Perfecting Your Sound Waves for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-5-audio-mixers-compatible-with-mac-computers-for-2024/"><u>Top 5 Audio Mixers Compatible with Mac Computers for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-5-digital-audio-editors-for-optimal-sound-quality-for-2024/"><u>Top 5 Digital Audio Editors for Optimal Sound Quality for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-15-non-copyrighted-music-for-montages/"><u>Updated Top 15 Non Copyrighted Music for Montages</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-15-soundtracks-without-copyrights-for-montage-projects/"><u>Updated Top 15 Soundtracks Without Copyrights for Montage Projects</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-4-best-music-editor-applications-for-mac/"><u>Updated Top 4 Best Music Editor Applications for Mac</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-5-audio-mixers-compatible-with-mac-computers/"><u>Updated Top 5 Audio Mixers Compatible with Mac Computers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme GT 5 Pro? | Dr.fone</u></a></li>
+</ul></div>

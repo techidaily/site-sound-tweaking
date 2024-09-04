@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Handbook to Adding Auditory Elements to AE Projects, Revised for 2024
-date: 2024-08-10T18:03:40.940Z
-updated: 2024-08-11T18:03:40.940Z
+date: 2024-09-03T23:53:22.887Z
+updated: 2024-09-04T23:53:22.887Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,19 +28,12 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Audio in After Effects
 
 1\. Start the program and open a new project.
 
 2\. Import the files in the project panel. Mute the video sound if neccesary
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
 3\. Import the audio file to the project file as well (that is required to be added).
@@ -57,9 +50,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5 Best Audio Editing Software to Add Audio to Video
 
 #### 1\. [WavePad from NCH Software](https://www.nch.com.au/wavepad/index.html)
@@ -84,9 +74,6 @@ To add audio in Wondershare Filmora, you need to follow the steps as explained b
 
 Download and install the official software of Wondershare Filmora on your device. Once installed, you need to launch it and tap on “New Project” to start working on Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
 
 **Step 2: Import Audio File**
@@ -99,9 +86,6 @@ Once a new project starts, tap on 'File' followed by "Import Media." Select the 
 
 To perform different edits across the audio, the user needs to drag the audio on the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
 
 **Step 4: Export Audio File**
@@ -122,9 +106,6 @@ Here you will get a mix of simplicity and professionalism. It is easy to get use
 
 Wavosaur is an old tool that doesn’t run on most modern computers and laptops. But it does offer many features and methods of processing for audio clips.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -178,3 +159,9 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

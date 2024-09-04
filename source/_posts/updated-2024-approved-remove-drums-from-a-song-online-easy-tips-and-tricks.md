@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Remove Drums From a Song Online Easy Tips and Tricks
-date: 2024-08-03T15:36:32.124Z
-updated: 2024-08-04T15:36:32.124Z
+date: 2024-09-03T23:53:27.461Z
+updated: 2024-09-04T23:53:27.461Z
 tags: 
   - audio editing software
   - audio editing
@@ -22,10 +22,6 @@ Many drummers are interested in getting the best out of audio tracks. With **dru
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## **Part 1\. How to Remove Drums From Any Song: 2 Easy Methods**
@@ -44,9 +40,6 @@ Using an online web app is one of the easiest ways to extract drums from your so
 
 After bringing the files to the DAW, you still have to remove drums manually for the song. The process will have a lot of clicking and file management that will take time and extra effort. With a web app drum extractor, the process is super easy. Take [Moises.ai](https://moises.ai/), for instance, users extract drums from any public media URL in minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![moises.ai](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-1.JPG)
 
 This makes it a great choice when removing drums from music on SoundCloud or the latest video of YouTube. Why would you try Moises.ai?
@@ -59,12 +52,24 @@ This makes it a great choice when removing drums from music on SoundCloud or the
 
 Although some tracks will not isolate the best with this web app, it gets the work done. Once you download the files, it is easy to bring the songs into DAW to play along. The process makes it simple to create drum covers fast that you can play along with other web mixers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **2\. Extract Drums from a Song Online with VST Plugins**
 
 For those who want to do more of the work, VST plugins for removing drums from music are a great option. These are software modules that take the form of real-time effects or instruments. They may also have MIDI effects, giving more freedom with audio editing, The inability to adjust or customize settings when extracting drums from a soundtrack is one of the major downfalls of a web-based application. With VST plugins, this issue is no longer a concern.
 
 ![vst plugins](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 With VSTs, you are more flexible and able to deliver better results. They are often used in applications that support VST technology, including Cakewalk Sonar, Steinberg Cubase, Sound Forge Pro, Ableton Live, and many others. Some of the most common ones include:
 
 * AudioSourceRe
@@ -80,9 +85,6 @@ VST plugins are great for customizing your audio results. You have two ways to r
 
 Just play around with the EQ, mixing your drum tracks above the recordings. The end will be your kit’s flaming against the original recording for perfect results.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## **Part 2\.** [**Remove and Edit Drums in Audio with Filmora**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Removing drums from a song becomes easier with the right tools. In most cases, you will want to remove the drums and process your audio file further. Probably use the file to prepare for karaoke or editing videos on YouTube or TikTok. With Wondershare Filmora, you get to do all this and more. The most recent Filmora Version 13 is an excellent choice for editing audio files on the go. It comes with some amazing AI features that make it super simple to separate vocals, beats, drums, piano, and more in audio tracks.
@@ -92,8 +94,10 @@ Removing drums from a song becomes easier with the right tools. In most cases, y
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [**AI Vocal Remover**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -121,31 +125,40 @@ To start using the AI Vocal Remover feature, launch Filmora on your desktop. The
 
 On the customer toolbar, select “Media” and then click on the “Files” icon. This will allow you to import the files you want to edit with Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![import song or soundtrack](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-5.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step 3Start the AI Vocal Remover Feature
 
 Drag and drop the files you have imported to Filmora to the timeline so you can start the editing process. Select the song you want to edit in the timeline and select “Audio” option. Then click AI Vocal Remover from the options available. Navigate the AI Vocal Remover to edit the audio as desired.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-6.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Conclusion**
 
 You may want to extract drums from your favorite songs for various reasons. Maybe you want to create a drum cover video on the latest song or have a drumless version of a certain soundtrack. There are several ways to isolate and remove drums from tracks with ease. Using a web-based drum remover tool or VST plugins is the most common option. However, Wondershare Filmora offers some amazing features that allow you to extract drums from your songs and do more. You get to edit your files further and achieve greater quality.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
 <li><a href="https://screen-capture.techidaily.com/new-audio-enthusiasts-guide-to-the-best-10-spotify-recorders/"><u>[New] Audio Enthusiast's Guide to the Best 10 Spotify Recorders</u></a></li>

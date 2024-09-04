@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Mastering Sound Integration Adding Audio to Your AE Projects
-date: 2024-08-03T15:37:12.447Z
-updated: 2024-08-04T15:37:12.447Z
+date: 2024-09-03T23:53:26.176Z
+updated: 2024-09-04T23:53:26.176Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 # How to Add Audio in After Effects
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -49,25 +46,10 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 6\. Adjust the audio settings. Double click "L" on you keyboard to show the audio waveform.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Best Audio Editing Software to Add Audio to Video
 
 #### 1\. [WavePad from NCH Software](https://www.nch.com.au/wavepad/index.html)
@@ -84,9 +66,6 @@ Users are not restricted to working across After Effects to manage their audios.
 
 Multiple audio adjustment options are available across Wondershare Filmora. While fading the audio and managing its pitch, users can utilize denoising and ducking tools to make different edits across the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To add audio in Wondershare Filmora, you need to follow the steps as explained below.
@@ -101,18 +80,12 @@ Download and install the official software of Wondershare Filmora on your device
 
 Once a new project starts, tap on 'File' followed by "Import Media." Select the option of "Import Media Files" to proceed to the next screen. Add in the required audio successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
 **Step 3: Drag Audio to Timeline**
 
 To perform different edits across the audio, the user needs to drag the audio on the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
 
 **Step 4: Export Audio File**
@@ -197,3 +170,9 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Updated Perfecting Your Soundtrack Techniques for Implementing Automatic Audio Suppression in Final Cut Pro X for 2024
-date: 2024-08-03T15:36:17.710Z
-updated: 2024-08-04T15:36:17.710Z
+date: 2024-09-03T23:53:27.906Z
+updated: 2024-09-04T23:53:27.906Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 
 # How to Do Automatic Audio Ducking in Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,16 +30,10 @@ Lately, a lot of people have asked us about the process to do automatic audio du
 
 If you don't want to use any plugins, see this article: [How to sync in FCPX.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Perform Audio Ducking in Final Cut Pro X?
 
 If you have a video in which you have background music and a voiceover, then you can perform sound ducking in it. This will automatically enhance the quality of the voiceover and would mellow down the background music selectively. Sadly, the feature of audio ducking in Final Cut Pro has to be done manually as there are no instant automatic options in the tool presently.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Audio Ducking Process](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-1.jpg)
 
 Therefore, you can use any reliable third-party FCPX tool like Audified or AutoDuck to meet your requirements. For instance, let’s consider the example of FCPX AutoDuck, which is a paid macOS application. To perform FCPX audio ducking, you first have to export the music and voiceover as two dedicated files. Later, you can import them to FCPX AutoDuck to perform auto-ducking of the music.
@@ -53,16 +44,10 @@ To perform audio ducking in Final Cut Pro, you can first launch the application 
 
 For this, you can just go to the main menu on Final Cut Pro and select **File** \> **Share** \> **Master File**. This will help you explore and save all the media files from Final Cut Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Final Cut Pro Master Files](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-2.jpg)
 
 Now, once the Master File window would be opened, you can go to the “Role” tab and select “Audio Only” as the output role. This will display a list of the background music and the voiceover file.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Export Audio Tracks](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-3.jpg)
 
 You can now select the files of your choice and click on the “Next” button to save them to any desired location on your Mac.
@@ -71,9 +56,6 @@ You can now select the files of your choice and click on the “Next” button t
 
 Great! Now, you can just open the FCPX AutoDuck application on your Mac via its Application or Spotlight. You can just give it a project name and drag-and-drop the speaker (voiceover) and the music files here. If you want, you can also import a filler file of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![FCPX AutoDuck Process](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-4.jpg)
 
 FCPX will also let you select the level of music ducking from its dedication option. There are also different options to set up things like setting up the window or pre-roll for the audio.
@@ -104,16 +86,10 @@ Ideally, you can perform audio ducking on voiceover or another soundtrack in Won
 
 To begin with, just launch Wondershare Filmora on your Mac and just drag-and-drop your media files to the application. You can also go to its menu and choose to import media files.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Import Media File](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
@@ -124,9 +100,6 @@ Apart from that, you can also import music files to your video or use the extens
 
 Great! Now, on the timeline of Filmora, you can see your video and the music track. From here, you need to select the track that you want to amplify (like the voiceover).
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
@@ -212,3 +185,9 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

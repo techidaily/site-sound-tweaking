@@ -1,7 +1,7 @@
 ---
 title: Updated The Audio Engineers Guide to Live Sound Management with OBS Maximizing Your Broadcast Quality for 2024
-date: 2024-08-10T18:02:16.556Z
-updated: 2024-08-11T18:02:16.556Z
+date: 2024-09-03T23:53:24.981Z
+updated: 2024-09-04T23:53:24.981Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
 # How to Balance Your Stream Sound with OBS Audio Ducking?
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ Video making or filmmaking has now come to the level where the history of imperf
 
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
 
 **OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
@@ -72,15 +66,21 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 * Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to use the audio ducking feature in Wondershare Filmora?
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
 
 **Step 1: Launch the application**
@@ -100,17 +100,29 @@ Select the clips with dialogue, whereby right-clicking or double-clicking on the
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
 I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="960" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.

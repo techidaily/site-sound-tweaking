@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering OBS Audio Levels Techniques for Dynamic Ducking and Lifting for 2024
-date: 2024-08-03T15:37:45.411Z
-updated: 2024-08-04T15:37:45.411Z
+date: 2024-09-03T23:53:25.215Z
+updated: 2024-09-04T23:53:25.215Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 
 # How to Balance Your Stream Sound with OBS Audio Ducking?
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ Video making or filmmaking has now come to the level where the history of imperf
 
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
 
 **OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
@@ -60,9 +54,6 @@ You can now specify the values of the ratio, threshold, attack, release, output 
 
 It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Part 2: The Best Audio Ducking Alternative to OBS
 
 Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
@@ -75,15 +66,21 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 * Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to use the audio ducking feature in Wondershare Filmora?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
 
 **Step 1: Launch the application**
@@ -102,15 +99,30 @@ Select the clips with dialogue, whereby right-clicking or double-clicking on the
 
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.

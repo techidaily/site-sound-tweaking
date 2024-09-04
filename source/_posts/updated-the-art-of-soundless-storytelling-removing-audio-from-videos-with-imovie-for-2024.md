@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Soundless Storytelling Removing Audio From Videos with iMovie for 2024
-date: 2024-08-10T18:02:25.771Z
-updated: 2024-08-11T18:02:25.771Z
+date: 2024-09-03T23:53:24.760Z
+updated: 2024-09-04T23:53:24.760Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 # How to Remove Audio from a Video in iMovie?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -31,10 +28,6 @@ _“How do you remove audio from a video in Movie on an iPhone or Mac? I have a 
 
 As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
 
 If you own an iPhone or an iPad, then you might be familiar with iMovie, which is an inbuilt video editor app, developed by Apple. If the app is not installed on your iOS device, then you can get it for free from the App Store. While there are several editing features in iMovie, it offers a dedicated option to control the audio level or remove it entirely from the video.
@@ -57,15 +50,15 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pro Tip: How to Mute Background Noise in iMovie
 
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
 
@@ -89,11 +82,20 @@ That’s it! After making all the desired changes, you can go to the iMovie Menu
 
 I’m sure that after reading this post, you would be able to remove audio from a video in iMovie on iPhone, iPad, or Mac. As you can see, both the Mac and iOS iMovie app lets us mute audio on any video. Though, if you are looking for more features and want to edit the sound in your videos, then you can give Wondershare Filmora a try. The application has a dedicated audio mixer and even lets us add voiceovers to videos. There are several other audio and video editing features in Wondershare Filmora that you would love to explore!
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.

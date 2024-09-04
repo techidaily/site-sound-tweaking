@@ -1,7 +1,7 @@
 ---
 title: Updated Transforming Video Into Melody Cutting-Edge Audio Retrieval in Multimedia for 2024
-date: 2024-08-10T18:03:37.920Z
-updated: 2024-08-11T18:03:37.920Z
+date: 2024-09-03T23:53:22.938Z
+updated: 2024-09-04T23:53:22.938Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff4
 
 # Audio Extractor: How to Extract Audio from Video
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -37,16 +34,10 @@ You have a video that includes a great soundtrack that you'd like to **extract**
 
 Install and run this Wondershare Filmora. Then click the “Import” button to locate and add your target video. You can also directly drag and drop the video to the program. The loaded video will be listed in the media library as the following picture shows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![extract audio from video - import media](https://images.wondershare.com/filmora/article-images/extract-audio-from-video-filmora9-media-library.jpg)
 
 #### 2. Start extracting audio from video
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![extract audio from video ](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
 
 After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
@@ -57,16 +48,10 @@ Double click the extracted file in the audio track and then you will see the aud
 
 You can add fade-in and fade-out effects, [change the sound volume](https://tools.techidaily.com/wondershare/filmora/download/), adjust the pitch to [change the voice](https://tools.techidaily.com/wondershare/filmora/download/), etc. as you like.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit extracted audio from video in Filmora9](https://images.wondershare.com/filmora/article-images/audio-editing-panel.jpg)
 
 If you find some unnecessary sounds in the extracted audio file, and you want to delete them, just put the cursor to the place where you would like the deletion to start and press the “Split” button to split. The end of the deletion area can be marked similarly – play the audio and select the final point of the area to be excluded from the output audio, and then press the “Split” button again.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![split and delete unwanted part from extracted audio ](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
 
 Click the split part in the audio track, press the Delete button on the keyboard, or click the Delete icon on the toolbar to remove the unwanted audio clip.
@@ -85,9 +70,6 @@ Select a desirable output method and then click the “Export” button to save 
 
 Tips: Filmora supports a wide range of audio and video formats. You can easily extract mp3 from mp4 video, or extract the audio from video and then save it in .wav format.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -147,3 +129,9 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

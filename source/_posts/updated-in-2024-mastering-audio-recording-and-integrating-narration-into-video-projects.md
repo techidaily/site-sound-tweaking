@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering Audio Recording and Integrating Narration Into Video Projects
-date: 2024-08-03T15:35:39.918Z
-updated: 2024-08-04T15:35:39.918Z
+date: 2024-09-03T23:53:29.115Z
+updated: 2024-09-04T23:53:29.115Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,9 +28,6 @@ Have you ever wanna   **add your own voice to video**  , make a voice over demo 
 
 The voiceover function in Filmora video editing software allows you to record your own voice or add voice over file to video easily. You can custom the pitch, speed, and volume of the recorded voiceover, apply fade in and fade out effects as well. In this post, I’ll share how to record and add voiceover to a video with Filmora on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 In Filmora, you can edit your video first and then record the voiceover after. Or, you can record the voiceover first and then edit the video around. In either way, you may need to prepare the script or an outline for smother recording.
@@ -51,9 +48,6 @@ Installing Filmora on your computer, click the Wondershare Filmora icon to launc
 
 Installing Filmora on your computer, click the Wondershare Filmora icon to launch it. In the starting interface, click New Project to create a new one. Go to the Record tab, and then click “Record a Voiceover ” option to arouse the Record Audio windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add voiceover to video](https://images.wondershare.com/filmora/article-images/record-voiceover-before-video-editing.jpg)
 
 Or simply click the microphone icon and you will have 3 seconds of countdown to start speaking. When finished, click the microphone icon again. Then you will see a new Record file appearing on the audio track automatically.
@@ -80,10 +74,6 @@ Note: If you’ve recorded the voiceover on your iPhone or other device already,
 
 To attract viewer’s attention, sometimes, you may need to add some titles or subtitles to emphasis the key points. Here is the detailed steps about how to add titles to video.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![Sync Recorded Voiceover to Video](https://images.wondershare.com/filmora/article-images/add-titles-text.jpg)
 
 #### 5\. Export and save the new file
@@ -94,9 +84,6 @@ Check your video in the right previewing window. If you're satisfied, click "Exp
 
 You see, with Wondershare Filmora video editor, it’s that easy to add a custom voiceover to video. Now master this feature and open a world of new possibilities for your video making!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Record and Add Voiceover File during Video editing in Filmora
 
 If you’ve recorded the voiceover on your iPhone or other device already, and want to add it to the video, you can follow the steps below:
@@ -105,18 +92,6 @@ If you’ve recorded the voiceover on your iPhone or other device already, and w
 
 After entering the Filmora main editing interface, click "Import" or drag and drop your video and voiceover file to the project library.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import video footage to Filmora9](https://images.wondershare.com/filmora/article-images/filmora-import-media-interface.jpg)
 
 Filmora video editing software supports a vast range of formats, so you do not have to convert the files before importing. When all the files are imported, drag and drop them to the Video Timeline.
@@ -137,9 +112,6 @@ Just like what we said before, you can then edit the recorded voiceover to fit t
 
 Filmora features more audio editing tools for improving the sound. Below is a video tutorial for applying fade in and out transition in Filmora. Download the trial version to test yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
@@ -228,3 +200,15 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

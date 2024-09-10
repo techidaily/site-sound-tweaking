@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Modifying Sound Intensity in Video and Music Files
-date: 2024-08-03T15:34:35.266Z
-updated: 2024-08-04T15:34:35.266Z
+date: 2024-09-09T00:44:31.415Z
+updated: 2024-09-10T00:44:31.415Z
 tags: 
   - audio editing software
   - audio editing
@@ -14,6 +14,12 @@ keywords: the ultimate guide to modifying sound intensity in audacity,dynamic so
 thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Modifying Sound Intensity in Video and Music Files
 
 # How to Change Volume in Media Files with Filmora
@@ -26,16 +32,22 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 
 Want a program that can change audio volume so that it won’t be too loud or too quiet? Though many media players or speakers have volume control during playback, it still can be an annoying problem and it takes time to set it. And some downloaded files are rather low to listen to even you raise the volume to the maximum level on the computer. So it's advisable to **normalize the volume** permanently.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Change Volume](https://images.wondershare.com/filmora/article-images/change-volume.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Thanks to [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), a professional video editing tool that makes it remarkably easy to increase/decrease the audio level to a professional sound. Below I’ll describe how to do this in a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Note**: This program is available on both Windows and Mac platforms. Below guide, I’ll take the Windows screenshots. For users who want to adjust the audio volume on Mac, just follow the same steps using [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -48,6 +60,12 @@ Note that almost all video & audio formats supported, including WMV, MOV, AVI, M
 
 ![increase volume software](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 2\. Change audio volume with ease
 
 When the video file is in place, double click it to reveal the editing panel. This panel contains both video and audio editing. To edit the audio file only, just click the Audio column at the bottom to access the audio editing window. In the voice volume control submenu, move the Volume slidebar left or right to increase or lower down the volume. When you adjust it, you can listen to the real-time audio effect by clicking the play icon.
@@ -56,19 +74,25 @@ Just as shown in the image window, you can also set Fade in/fade out, fine-tune 
 
 ![how to change volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 3\. Save the changed audio(video) file
 
 When you're satisfied with the result, simply hit "Create" to save your changed audio(video) file. In the output format window that shows, choose your wanted format to save it on the specified folder on your computer.
 
 Besides export video to your computer, you can export to presets for your device like the iPhone 5, iPad mini, iPod Touch, Xbox 360, PS3, directly upload a video to YouTube, or burn to DVD.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change volume software](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Bonus Tips: How to Use Audio Ducking in Filmora?
 
@@ -76,9 +100,6 @@ Besides adjusting the audio volume, you can do more with this versatile video ed
 
 Did you heard of audio ducking and have any idea about it? As a matter of fact, audio ducking means turning down the volume of background music to make your vocal to be heard more clearly. Here is the [ultimate guide of audio ducking in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Learn More about Video Editing
 
 * [Picture-in-picture](https://tools.techidaily.com/wondershare/filmora/download/): Put multiple videos in the same frame to tell several threads of one story.
@@ -86,11 +107,14 @@ Did you heard of audio ducking and have any idea about it? As a matter of fact, 
 * [Auto scene detection](https://tools.techidaily.com/wondershare/filmora/download/): Seek and split the scene changes to easily find the right shots.
 * And more...
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown

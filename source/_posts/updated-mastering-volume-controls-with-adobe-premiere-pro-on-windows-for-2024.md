@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Volume Controls with Adobe Premiere Pro on Windows for 2024
-date: 2024-08-03T15:34:46.035Z
-updated: 2024-08-04T15:34:46.035Z
+date: 2024-09-09T00:44:31.124Z
+updated: 2024-09-10T00:44:31.124Z
 tags: 
   - audio editing software
   - audio editing
@@ -20,6 +20,12 @@ The audio ducking technology aids the editors in creating a precise video as per
 
 ![Audio-file](https://images.wondershare.com/filmora/article-images/2021/audio-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Here, you will be using Adobe Premiere Pro to establish this audio ducking feature precisely. This functionality is applicable on the Windows platform. To try on the Mac system, you can use the Filmora application to acquire precise results. In this article, you will learn how to use audio ducking concepts on Windows and Mac systems with the help of incredible tools in the digital space.
 
 #### In this article
@@ -30,358 +36,50 @@ Here, you will be using Adobe Premiere Pro to establish this audio ducking featu
 
 03 [Alternative ways to use Audio Ducking with Filmora](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: What is audio ducking?
 
 The concept of audio ducking is simple. In a soundtrack, you can find a wide range of music playing in the background. Audio ducking is the process of suppressing one type of audio signal and increasing the other movement simultaneously without causing any issues. Mostly audio ducking is processed for movies or any live sessions that reduce the background music when the characters or person speaks on the screen and increases the speaker's volume. The scenario happens vice versa when the speaker completes its conversation. Here, the background music increases, and the speaker's audio is reduced drastically. This type of audio ducking occurs to enhance the audio quality and reach the target audience without any issues.
 
 ![Audio-ducking](https://images.wondershare.com/filmora/article-images/2021/audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The automatic changes with the audio volume are triggered by a common control using the audio ducking settings. When you enable this option in your device, this module is programmed to balance the volume settings as per the requirements. The audio ducking process allows the audio files to sound better by improving the quality of the audio signals. The audio parameters are adjusted at the specific track in the audio clippings to enhance the overall quality of the audio file.
 
 You will be able to feel the difference when the audio tracks are played. Use the audio ducking feature optimally to strengthen the crucial audio signals when required. Identify the perfect sound spots at the audio file that requires this ducking feature. Implement this feature at particular spots to enjoy the benefits of this audio ducking functionality. It serves as a boon for sound editors and creates a positive impact on the audio files.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
-## Part 2: Use Audio Ducking in Adobe Premiere Pro on Win
-
-The Adobe Premiere Pro app helps to edit your media files professionally, and you can explore a wide range of settings to enhance the overall performance of the files. In the following content, you will study how to perform audio ducking in Adobe Premiere Pro at Windows space.
-
-**Step 1:** Import the audio file and assign the audio type to the Essential Sound Panel. Next, auto-match the loudness level at the Essential Sound panel section.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![Essential-sound-panel](https://images.wondershare.com/filmora/article-images/2021/essential-sound-panel.jpg)
-
-**Step 2:** Choose the audio clip that requires audio ducking settings and adjusts values for sensitivity, amount of volume reduction, and the duration of fades along with the audio levels. These parameters determine the quality of audio ducking on the selected audio clips. Assign the perfect values as per your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Ducking-settings](https://images.wondershare.com/filmora/article-images/2021/ducking-settings.jpg)
-
-****Step 3:** Finally, click Generate Keyframes to save the audio ducking settings on the chosen audio clips.
-
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
-![Generate-keyframes](https://images.wondershare.com/filmora/article-images/2021/generate-keyframes.jpg)
-
-To modify the audio ducking settings, it is enough if you tap the Generate Keyframes option to create new audio ducking attributes. When you click Generate Keyframe, the older settings are erased and prompt for the new settings to be assigned for the audio ducking feature.
-
-You can use the above instructions to perform the desired audio ducking feature at the selected audio clips.
-
-## Part 3: Alternative ways to use Audio Ducking with Filmora
-
-If you are working with the Mac systems, worry not here is an incredible application that assists in performing the audio ducking at audio files in the Mac platform. The Filmora app from Wondershare is a sophisticated tool that carries out professional edits on media files based on your needs. The quality factors of the audio and video signals are retained, and the desired changes are implemented on the files precisely.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-The Filmora application offers powerful features while editing audio files. You can apply audio ducking to enhance the vocals and use 100 audio effects to add flavors to the existing audio files. This app allows you to make any constructive changes to the file without disturbing the original elements set at the time of recording.
-
-**The remarkable features of the Filmora**
-
-* An exclusive audio file editor and improves the vocals using Audio Ducking strategy
-* You can access the 100 audio effects built-in at its working ambiance to enhance your imported media files.
-* The simple user interface helps you to discover awesome editing features effortlessly.
-* All the changes in the audio signals are embedded without affecting the quality factors.
-* The easy export option helps you to move the edited audio files to any storage space flawlessly.
-
-These are the stunning functionalities of the Filmora app concerning audio files. You can perform a wide range of miraculous edits on the media tracks precisely in a professional way.
-
-Here, you will be surfing the discussion about the effective usage of Filmora in implementing audio ducking functionality on the audio files. The Filmora offers an Audio Adjust module to perform the ducking operation efficiently without affecting the audio quality. It helps the audio to sound better and improves the clarity of vocals. The auto-adjust function modifies the volume of the audio files precisely as per the programmed algorithm. You do not have to write any code or perform manual adjustments in embedding this setting to your audio file. Few clicks are enough to enable the ducking functionality at the audio files.
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
-![Audio-ducking-in-Filmora](https://images.wondershare.com/filmora/article-images/2021/audio-ducking-in-filmora.jpg)
-
-The stepwise procedure to enable the audio ducking feature at Filmora application.
-
-**Step 1: Install the app and import the file.**
-
-First, download the application from its official webpage based on your system OS. Then, install the app and import the audio files into the working space of Filmora.
-
-![Import-media](https://images.wondershare.com/filmora/article-images/2021/import-media.jpg)
-
-**Step 2: Set Ducking parameters**
-
-Drag it to the timeline and choose the audio track that requires the audio ducking feature. After selecting the audio clip, right-click on it and choose ‘Adjust Audio' from the pop-up message. The Audio Editor window appears, go to the Ducking menu and turn on ‘Lower the Volume of other clips. You can repeat this step to other audio clippings effortlessly.
-
-![Adjust-audio](https://images.wondershare.com/filmora/article-images/2021/adjust-audio.jpg)
-
-**Step 3: Save and Export**
-
-Next, save the changes by tapping the ‘OK' button and clicking the Export button to store the edited audio files at any storage space. Filmora will adjust the volume on other audio clips as per the settings and export the file precisely.
-
-![Export-file](https://images.wondershare.com/filmora/article-images/2021/export-file.jpg)
-
-The above guidelines help you to establish the audio ducking feature on your audio clips using the Filmora. Perform the appropriate clicks and set the attributes according to your needs to refine the audio ducking feature.
-
-### Conclusion
-
-Thus, this article had given valuable insights on ****audio ducking Premiere Pro** of Adobe. Use Adobe Premiere Pro to perform the desired audio adjustments to enhance the vocal signal on your Windows system. The Filmora application assists in editing the audio clips at the Mac system effortlessly. The above instructions aid you in performing the audio ducking feature successfully. Connect with this article to discover unique editing options on media files to enhance their overall performance. Stay tuned to explore the features of the Filmora application in detail.
-
-02 [Use Audio Ducking in Adobe Premiere Pro on Win](#part2)
-
-03 [Alternative ways to use Audio Ducking with Filmora](#part3)
-
-## Part 1: What is audio ducking?
-
-The concept of audio ducking is simple. In a soundtrack, you can find a wide range of music playing in the background. Audio ducking is the process of suppressing one type of audio signal and increasing the other movement simultaneously without causing any issues. Mostly audio ducking is processed for movies or any live sessions that reduce the background music when the characters or person speaks on the screen and increases the speaker's volume. The scenario happens vice versa when the speaker completes its conversation. Here, the background music increases, and the speaker's audio is reduced drastically. This type of audio ducking occurs to enhance the audio quality and reach the target audience without any issues.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
-![Audio-ducking](https://images.wondershare.com/filmora/article-images/2021/audio-ducking.jpg)
-
-The automatic changes with the audio volume are triggered by a common control using the audio ducking settings. When you enable this option in your device, this module is programmed to balance the volume settings as per the requirements. The audio ducking process allows the audio files to sound better by improving the quality of the audio signals. The audio parameters are adjusted at the specific track in the audio clippings to enhance the overall quality of the audio file.
-
-You will be able to feel the difference when the audio tracks are played. Use the audio ducking feature optimally to strengthen the crucial audio signals when required. Identify the perfect sound spots at the audio file that requires this ducking feature. Implement this feature at particular spots to enjoy the benefits of this audio ducking functionality. It serves as a boon for sound editors and creates a positive impact on the audio files.
-
-## Part 2: Use Audio Ducking in Adobe Premiere Pro on Win
-
-The Adobe Premiere Pro app helps to edit your media files professionally, and you can explore a wide range of settings to enhance the overall performance of the files. In the following content, you will study how to perform audio ducking in Adobe Premiere Pro at Windows space.
-
-**Step 1:** Import the audio file and assign the audio type to the Essential Sound Panel. Next, auto-match the loudness level at the Essential Sound panel section.
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
-![Essential-sound-panel](https://images.wondershare.com/filmora/article-images/2021/essential-sound-panel.jpg)
-
-**Step 2:** Choose the audio clip that requires audio ducking settings and adjusts values for sensitivity, amount of volume reduction, and the duration of fades along with the audio levels. These parameters determine the quality of audio ducking on the selected audio clips. Assign the perfect values as per your needs.
-
-![Ducking-settings](https://images.wondershare.com/filmora/article-images/2021/ducking-settings.jpg)
-
-****Step 3:** Finally, click Generate Keyframes to save the audio ducking settings on the chosen audio clips.
-
-![Generate-keyframes](https://images.wondershare.com/filmora/article-images/2021/generate-keyframes.jpg)
-
-To modify the audio ducking settings, it is enough if you tap the Generate Keyframes option to create new audio ducking attributes. When you click Generate Keyframe, the older settings are erased and prompt for the new settings to be assigned for the audio ducking feature.
-
-You can use the above instructions to perform the desired audio ducking feature at the selected audio clips.
-
-## Part 3: Alternative ways to use Audio Ducking with Filmora
-
-If you are working with the Mac systems, worry not here is an incredible application that assists in performing the audio ducking at audio files in the Mac platform. The Filmora app from Wondershare is a sophisticated tool that carries out professional edits on media files based on your needs. The quality factors of the audio and video signals are retained, and the desired changes are implemented on the files precisely.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-The Filmora application offers powerful features while editing audio files. You can apply audio ducking to enhance the vocals and use 100 audio effects to add flavors to the existing audio files. This app allows you to make any constructive changes to the file without disturbing the original elements set at the time of recording.
-
-**The remarkable features of the Filmora**
-
-* An exclusive audio file editor and improves the vocals using Audio Ducking strategy
-* You can access the 100 audio effects built-in at its working ambiance to enhance your imported media files.
-* The simple user interface helps you to discover awesome editing features effortlessly.
-* All the changes in the audio signals are embedded without affecting the quality factors.
-* The easy export option helps you to move the edited audio files to any storage space flawlessly.
-
-These are the stunning functionalities of the Filmora app concerning audio files. You can perform a wide range of miraculous edits on the media tracks precisely in a professional way.
-
-Here, you will be surfing the discussion about the effective usage of Filmora in implementing audio ducking functionality on the audio files. The Filmora offers an Audio Adjust module to perform the ducking operation efficiently without affecting the audio quality. It helps the audio to sound better and improves the clarity of vocals. The auto-adjust function modifies the volume of the audio files precisely as per the programmed algorithm. You do not have to write any code or perform manual adjustments in embedding this setting to your audio file. Few clicks are enough to enable the ducking functionality at the audio files.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
-![Audio-ducking-in-Filmora](https://images.wondershare.com/filmora/article-images/2021/audio-ducking-in-filmora.jpg)
-
-The stepwise procedure to enable the audio ducking feature at Filmora application.
-
-**Step 1: Install the app and import the file.**
-
-First, download the application from its official webpage based on your system OS. Then, install the app and import the audio files into the working space of Filmora.
-
-![Import-media](https://images.wondershare.com/filmora/article-images/2021/import-media.jpg)
-
-**Step 2: Set Ducking parameters**
-
-Drag it to the timeline and choose the audio track that requires the audio ducking feature. After selecting the audio clip, right-click on it and choose ‘Adjust Audio' from the pop-up message. The Audio Editor window appears, go to the Ducking menu and turn on ‘Lower the Volume of other clips. You can repeat this step to other audio clippings effortlessly.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
-![Adjust-audio](https://images.wondershare.com/filmora/article-images/2021/adjust-audio.jpg)
-
-**Step 3: Save and Export**
-
-Next, save the changes by tapping the ‘OK' button and clicking the Export button to store the edited audio files at any storage space. Filmora will adjust the volume on other audio clips as per the settings and export the file precisely.
-
-![Export-file](https://images.wondershare.com/filmora/article-images/2021/export-file.jpg)
-
-The above guidelines help you to establish the audio ducking feature on your audio clips using the Filmora. Perform the appropriate clicks and set the attributes according to your needs to refine the audio ducking feature.
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Conclusion
-
-Thus, this article had given valuable insights on ****audio ducking Premiere Pro** of Adobe. Use Adobe Premiere Pro to perform the desired audio adjustments to enhance the vocal signal on your Windows system. The Filmora application assists in editing the audio clips at the Mac system effortlessly. The above instructions aid you in performing the audio ducking feature successfully. Connect with this article to discover unique editing options on media files to enhance their overall performance. Stay tuned to explore the features of the Filmora application in detail.
-
-02 [Use Audio Ducking in Adobe Premiere Pro on Win](#part2)
-
-03 [Alternative ways to use Audio Ducking with Filmora](#part3)
-
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Part 1: What is audio ducking?
-
-The concept of audio ducking is simple. In a soundtrack, you can find a wide range of music playing in the background. Audio ducking is the process of suppressing one type of audio signal and increasing the other movement simultaneously without causing any issues. Mostly audio ducking is processed for movies or any live sessions that reduce the background music when the characters or person speaks on the screen and increases the speaker's volume. The scenario happens vice versa when the speaker completes its conversation. Here, the background music increases, and the speaker's audio is reduced drastically. This type of audio ducking occurs to enhance the audio quality and reach the target audience without any issues.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
-![Audio-ducking](https://images.wondershare.com/filmora/article-images/2021/audio-ducking.jpg)
-
-The automatic changes with the audio volume are triggered by a common control using the audio ducking settings. When you enable this option in your device, this module is programmed to balance the volume settings as per the requirements. The audio ducking process allows the audio files to sound better by improving the quality of the audio signals. The audio parameters are adjusted at the specific track in the audio clippings to enhance the overall quality of the audio file.
-
-You will be able to feel the difference when the audio tracks are played. Use the audio ducking feature optimally to strengthen the crucial audio signals when required. Identify the perfect sound spots at the audio file that requires this ducking feature. Implement this feature at particular spots to enjoy the benefits of this audio ducking functionality. It serves as a boon for sound editors and creates a positive impact on the audio files.
-
-## Part 2: Use Audio Ducking in Adobe Premiere Pro on Win
-
-The Adobe Premiere Pro app helps to edit your media files professionally, and you can explore a wide range of settings to enhance the overall performance of the files. In the following content, you will study how to perform audio ducking in Adobe Premiere Pro at Windows space.
-
-**Step 1:** Import the audio file and assign the audio type to the Essential Sound Panel. Next, auto-match the loudness level at the Essential Sound panel section.
-
-![Essential-sound-panel](https://images.wondershare.com/filmora/article-images/2021/essential-sound-panel.jpg)
-
-**Step 2:** Choose the audio clip that requires audio ducking settings and adjusts values for sensitivity, amount of volume reduction, and the duration of fades along with the audio levels. These parameters determine the quality of audio ducking on the selected audio clips. Assign the perfect values as per your needs.
-
-![Ducking-settings](https://images.wondershare.com/filmora/article-images/2021/ducking-settings.jpg)
-
-****Step 3:** Finally, click Generate Keyframes to save the audio ducking settings on the chosen audio clips.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
-![Generate-keyframes](https://images.wondershare.com/filmora/article-images/2021/generate-keyframes.jpg)
-
-To modify the audio ducking settings, it is enough if you tap the Generate Keyframes option to create new audio ducking attributes. When you click Generate Keyframe, the older settings are erased and prompt for the new settings to be assigned for the audio ducking feature.
-
-You can use the above instructions to perform the desired audio ducking feature at the selected audio clips.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-## Part 3: Alternative ways to use Audio Ducking with Filmora
-
-If you are working with the Mac systems, worry not here is an incredible application that assists in performing the audio ducking at audio files in the Mac platform. The Filmora app from Wondershare is a sophisticated tool that carries out professional edits on media files based on your needs. The quality factors of the audio and video signals are retained, and the desired changes are implemented on the files precisely.
-
-##### Versatile Video Editor - Wondershare Filmora
-
-An easy yet powerful editor
-
-Numerous effects to choose from
-
-Detailed tutorials provided by the official channel
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-The Filmora application offers powerful features while editing audio files. You can apply audio ducking to enhance the vocals and use 100 audio effects to add flavors to the existing audio files. This app allows you to make any constructive changes to the file without disturbing the original elements set at the time of recording.
-
-**The remarkable features of the Filmora**
-
-* An exclusive audio file editor and improves the vocals using Audio Ducking strategy
-* You can access the 100 audio effects built-in at its working ambiance to enhance your imported media files.
-* The simple user interface helps you to discover awesome editing features effortlessly.
-* All the changes in the audio signals are embedded without affecting the quality factors.
-* The easy export option helps you to move the edited audio files to any storage space flawlessly.
-
-These are the stunning functionalities of the Filmora app concerning audio files. You can perform a wide range of miraculous edits on the media tracks precisely in a professional way.
-
-Here, you will be surfing the discussion about the effective usage of Filmora in implementing audio ducking functionality on the audio files. The Filmora offers an Audio Adjust module to perform the ducking operation efficiently without affecting the audio quality. It helps the audio to sound better and improves the clarity of vocals. The auto-adjust function modifies the volume of the audio files precisely as per the programmed algorithm. You do not have to write any code or perform manual adjustments in embedding this setting to your audio file. Few clicks are enough to enable the ducking functionality at the audio files.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
-![Audio-ducking-in-Filmora](https://images.wondershare.com/filmora/article-images/2021/audio-ducking-in-filmora.jpg)
-
-The stepwise procedure to enable the audio ducking feature at Filmora application.
-
-**Step 1: Install the app and import the file.**
-
-First, download the application from its official webpage based on your system OS. Then, install the app and import the audio files into the working space of Filmora.
-
-![Import-media](https://images.wondershare.com/filmora/article-images/2021/import-media.jpg)
-
-**Step 2: Set Ducking parameters**
-
-Drag it to the timeline and choose the audio track that requires the audio ducking feature. After selecting the audio clip, right-click on it and choose ‘Adjust Audio' from the pop-up message. The Audio Editor window appears, go to the Ducking menu and turn on ‘Lower the Volume of other clips. You can repeat this step to other audio clippings effortlessly.
-
-![Adjust-audio](https://images.wondershare.com/filmora/article-images/2021/adjust-audio.jpg)
-
-**Step 3: Save and Export**
-
-Next, save the changes by tapping the ‘OK' button and clicking the Export button to store the edited audio files at any storage space. Filmora will adjust the volume on other audio clips as per the settings and export the file precisely.
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Export-file](https://images.wondershare.com/filmora/article-images/2021/export-file.jpg)
-
-The above guidelines help you to establish the audio ducking feature on your audio clips using the Filmora. Perform the appropriate clicks and set the attributes according to your needs to refine the audio ducking feature.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-### Conclusion
-
-Thus, this article had given valuable insights on ****audio ducking Premiere Pro** of Adobe. Use Adobe Premiere Pro to perform the desired audio adjustments to enhance the vocal signal on your Windows system. The Filmora application assists in editing the audio clips at the Mac system effortlessly. The above instructions aid you in performing the audio ducking feature successfully. Connect with this article to discover unique editing options on media files to enhance their overall performance. Stay tuned to explore the features of the Filmora application in detail.
-
-02 [Use Audio Ducking in Adobe Premiere Pro on Win](#part2)
-
-03 [Alternative ways to use Audio Ducking with Filmora](#part3)
-
-## Part 1: What is audio ducking?
-
-The concept of audio ducking is simple. In a soundtrack, you can find a wide range of music playing in the background. Audio ducking is the process of suppressing one type of audio signal and increasing the other movement simultaneously without causing any issues. Mostly audio ducking is processed for movies or any live sessions that reduce the background music when the characters or person speaks on the screen and increases the speaker's volume. The scenario happens vice versa when the speaker completes its conversation. Here, the background music increases, and the speaker's audio is reduced drastically. This type of audio ducking occurs to enhance the audio quality and reach the target audience without any issues.
-
-![Audio-ducking](https://images.wondershare.com/filmora/article-images/2021/audio-ducking.jpg)
-
-The automatic changes with the audio volume are triggered by a common control using the audio ducking settings. When you enable this option in your device, this module is programmed to balance the volume settings as per the requirements. The audio ducking process allows the audio files to sound better by improving the quality of the audio signals. The audio parameters are adjusted at the specific track in the audio clippings to enhance the overall quality of the audio file.
-
-You will be able to feel the difference when the audio tracks are played. Use the audio ducking feature optimally to strengthen the crucial audio signals when required. Identify the perfect sound spots at the audio file that requires this ducking feature. Implement this feature at particular spots to enjoy the benefits of this audio ducking functionality. It serves as a boon for sound editors and creates a positive impact on the audio files.
-
-## Part 2: Use Audio Ducking in Adobe Premiere Pro on Win
-
-The Adobe Premiere Pro app helps to edit your media files professionally, and you can explore a wide range of settings to enhance the overall performance of the files. In the following content, you will study how to perform audio ducking in Adobe Premiere Pro at Windows space.
-
-**Step 1:** Import the audio file and assign the audio type to the Essential Sound Panel. Next, auto-match the loudness level at the Essential Sound panel section.
-
-![Essential-sound-panel](https://images.wondershare.com/filmora/article-images/2021/essential-sound-panel.jpg)
-
-**Step 2:** Choose the audio clip that requires audio ducking settings and adjusts values for sensitivity, amount of volume reduction, and the duration of fades along with the audio levels. These parameters determine the quality of audio ducking on the selected audio clips. Assign the perfect values as per your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+## Part 2: Use Audio Ducking in Adobe Premiere Pro on Win
+
+The Adobe Premiere Pro app helps to edit your media files professionally, and you can explore a wide range of settings to enhance the overall performance of the files. In the following content, you will study how to perform audio ducking in Adobe Premiere Pro at Windows space.
+
+**Step 1:** Import the audio file and assign the audio type to the Essential Sound Panel. Next, auto-match the loudness level at the Essential Sound panel section.
+
+![Essential-sound-panel](https://images.wondershare.com/filmora/article-images/2021/essential-sound-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 2:** Choose the audio clip that requires audio ducking settings and adjusts values for sensitivity, amount of volume reduction, and the duration of fades along with the audio levels. These parameters determine the quality of audio ducking on the selected audio clips. Assign the perfect values as per your needs.
+
 ![Ducking-settings](https://images.wondershare.com/filmora/article-images/2021/ducking-settings.jpg)
 
 ****Step 3:** Finally, click Generate Keyframes to save the audio ducking settings on the chosen audio clips.
@@ -393,7 +91,10 @@ To modify the audio ducking settings, it is enough if you tap the Generate Keyfr
 You can use the above instructions to perform the desired audio ducking feature at the selected audio clips.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: Alternative ways to use Audio Ducking with Filmora
 
@@ -423,9 +124,6 @@ These are the stunning functionalities of the Filmora app concerning audio files
 
 Here, you will be surfing the discussion about the effective usage of Filmora in implementing audio ducking functionality on the audio files. The Filmora offers an Audio Adjust module to perform the ducking operation efficiently without affecting the audio quality. It helps the audio to sound better and improves the clarity of vocals. The auto-adjust function modifies the volume of the audio files precisely as per the programmed algorithm. You do not have to write any code or perform manual adjustments in embedding this setting to your audio file. Few clicks are enough to enable the ducking functionality at the audio files.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Audio-ducking-in-Filmora](https://images.wondershare.com/filmora/article-images/2021/audio-ducking-in-filmora.jpg)
 
 The stepwise procedure to enable the audio ducking feature at Filmora application.
@@ -440,9 +138,276 @@ First, download the application from its official webpage based on your system O
 
 Drag it to the timeline and choose the audio track that requires the audio ducking feature. After selecting the audio clip, right-click on it and choose ‘Adjust Audio' from the pop-up message. The Audio Editor window appears, go to the Ducking menu and turn on ‘Lower the Volume of other clips. You can repeat this step to other audio clippings effortlessly.
 
+![Adjust-audio](https://images.wondershare.com/filmora/article-images/2021/adjust-audio.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+**Step 3: Save and Export**
+
+Next, save the changes by tapping the ‘OK' button and clicking the Export button to store the edited audio files at any storage space. Filmora will adjust the volume on other audio clips as per the settings and export the file precisely.
+
+![Export-file](https://images.wondershare.com/filmora/article-images/2021/export-file.jpg)
+
+The above guidelines help you to establish the audio ducking feature on your audio clips using the Filmora. Perform the appropriate clicks and set the attributes according to your needs to refine the audio ducking feature.
+
+### Conclusion
+
+Thus, this article had given valuable insights on ****audio ducking Premiere Pro** of Adobe. Use Adobe Premiere Pro to perform the desired audio adjustments to enhance the vocal signal on your Windows system. The Filmora application assists in editing the audio clips at the Mac system effortlessly. The above instructions aid you in performing the audio ducking feature successfully. Connect with this article to discover unique editing options on media files to enhance their overall performance. Stay tuned to explore the features of the Filmora application in detail.
+
+02 [Use Audio Ducking in Adobe Premiere Pro on Win](#part2)
+
+03 [Alternative ways to use Audio Ducking with Filmora](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: What is audio ducking?
+
+The concept of audio ducking is simple. In a soundtrack, you can find a wide range of music playing in the background. Audio ducking is the process of suppressing one type of audio signal and increasing the other movement simultaneously without causing any issues. Mostly audio ducking is processed for movies or any live sessions that reduce the background music when the characters or person speaks on the screen and increases the speaker's volume. The scenario happens vice versa when the speaker completes its conversation. Here, the background music increases, and the speaker's audio is reduced drastically. This type of audio ducking occurs to enhance the audio quality and reach the target audience without any issues.
+
+![Audio-ducking](https://images.wondershare.com/filmora/article-images/2021/audio-ducking.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+The automatic changes with the audio volume are triggered by a common control using the audio ducking settings. When you enable this option in your device, this module is programmed to balance the volume settings as per the requirements. The audio ducking process allows the audio files to sound better by improving the quality of the audio signals. The audio parameters are adjusted at the specific track in the audio clippings to enhance the overall quality of the audio file.
+
+You will be able to feel the difference when the audio tracks are played. Use the audio ducking feature optimally to strengthen the crucial audio signals when required. Identify the perfect sound spots at the audio file that requires this ducking feature. Implement this feature at particular spots to enjoy the benefits of this audio ducking functionality. It serves as a boon for sound editors and creates a positive impact on the audio files.
+
+## Part 2: Use Audio Ducking in Adobe Premiere Pro on Win
+
+The Adobe Premiere Pro app helps to edit your media files professionally, and you can explore a wide range of settings to enhance the overall performance of the files. In the following content, you will study how to perform audio ducking in Adobe Premiere Pro at Windows space.
+
+**Step 1:** Import the audio file and assign the audio type to the Essential Sound Panel. Next, auto-match the loudness level at the Essential Sound panel section.
+
+![Essential-sound-panel](https://images.wondershare.com/filmora/article-images/2021/essential-sound-panel.jpg)
+
+**Step 2:** Choose the audio clip that requires audio ducking settings and adjusts values for sensitivity, amount of volume reduction, and the duration of fades along with the audio levels. These parameters determine the quality of audio ducking on the selected audio clips. Assign the perfect values as per your needs.
+
+![Ducking-settings](https://images.wondershare.com/filmora/article-images/2021/ducking-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+****Step 3:** Finally, click Generate Keyframes to save the audio ducking settings on the chosen audio clips.
+
+![Generate-keyframes](https://images.wondershare.com/filmora/article-images/2021/generate-keyframes.jpg)
+
+To modify the audio ducking settings, it is enough if you tap the Generate Keyframes option to create new audio ducking attributes. When you click Generate Keyframe, the older settings are erased and prompt for the new settings to be assigned for the audio ducking feature.
+
+You can use the above instructions to perform the desired audio ducking feature at the selected audio clips.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: Alternative ways to use Audio Ducking with Filmora
+
+If you are working with the Mac systems, worry not here is an incredible application that assists in performing the audio ducking at audio files in the Mac platform. The Filmora app from Wondershare is a sophisticated tool that carries out professional edits on media files based on your needs. The quality factors of the audio and video signals are retained, and the desired changes are implemented on the files precisely.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+The Filmora application offers powerful features while editing audio files. You can apply audio ducking to enhance the vocals and use 100 audio effects to add flavors to the existing audio files. This app allows you to make any constructive changes to the file without disturbing the original elements set at the time of recording.
+
+**The remarkable features of the Filmora**
+
+* An exclusive audio file editor and improves the vocals using Audio Ducking strategy
+* You can access the 100 audio effects built-in at its working ambiance to enhance your imported media files.
+* The simple user interface helps you to discover awesome editing features effortlessly.
+* All the changes in the audio signals are embedded without affecting the quality factors.
+* The easy export option helps you to move the edited audio files to any storage space flawlessly.
+
+These are the stunning functionalities of the Filmora app concerning audio files. You can perform a wide range of miraculous edits on the media tracks precisely in a professional way.
+
+Here, you will be surfing the discussion about the effective usage of Filmora in implementing audio ducking functionality on the audio files. The Filmora offers an Audio Adjust module to perform the ducking operation efficiently without affecting the audio quality. It helps the audio to sound better and improves the clarity of vocals. The auto-adjust function modifies the volume of the audio files precisely as per the programmed algorithm. You do not have to write any code or perform manual adjustments in embedding this setting to your audio file. Few clicks are enough to enable the ducking functionality at the audio files.
+
+![Audio-ducking-in-Filmora](https://images.wondershare.com/filmora/article-images/2021/audio-ducking-in-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+The stepwise procedure to enable the audio ducking feature at Filmora application.
+
+**Step 1: Install the app and import the file.**
+
+First, download the application from its official webpage based on your system OS. Then, install the app and import the audio files into the working space of Filmora.
+
+![Import-media](https://images.wondershare.com/filmora/article-images/2021/import-media.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 2: Set Ducking parameters**
+
+Drag it to the timeline and choose the audio track that requires the audio ducking feature. After selecting the audio clip, right-click on it and choose ‘Adjust Audio' from the pop-up message. The Audio Editor window appears, go to the Ducking menu and turn on ‘Lower the Volume of other clips. You can repeat this step to other audio clippings effortlessly.
+
+![Adjust-audio](https://images.wondershare.com/filmora/article-images/2021/adjust-audio.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 3: Save and Export**
+
+Next, save the changes by tapping the ‘OK' button and clicking the Export button to store the edited audio files at any storage space. Filmora will adjust the volume on other audio clips as per the settings and export the file precisely.
+
+![Export-file](https://images.wondershare.com/filmora/article-images/2021/export-file.jpg)
+
+The above guidelines help you to establish the audio ducking feature on your audio clips using the Filmora. Perform the appropriate clicks and set the attributes according to your needs to refine the audio ducking feature.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Conclusion
+
+Thus, this article had given valuable insights on ****audio ducking Premiere Pro** of Adobe. Use Adobe Premiere Pro to perform the desired audio adjustments to enhance the vocal signal on your Windows system. The Filmora application assists in editing the audio clips at the Mac system effortlessly. The above instructions aid you in performing the audio ducking feature successfully. Connect with this article to discover unique editing options on media files to enhance their overall performance. Stay tuned to explore the features of the Filmora application in detail.
+
+02 [Use Audio Ducking in Adobe Premiere Pro on Win](#part2)
+
+03 [Alternative ways to use Audio Ducking with Filmora](#part3)
+
+## Part 1: What is audio ducking?
+
+The concept of audio ducking is simple. In a soundtrack, you can find a wide range of music playing in the background. Audio ducking is the process of suppressing one type of audio signal and increasing the other movement simultaneously without causing any issues. Mostly audio ducking is processed for movies or any live sessions that reduce the background music when the characters or person speaks on the screen and increases the speaker's volume. The scenario happens vice versa when the speaker completes its conversation. Here, the background music increases, and the speaker's audio is reduced drastically. This type of audio ducking occurs to enhance the audio quality and reach the target audience without any issues.
+
+![Audio-ducking](https://images.wondershare.com/filmora/article-images/2021/audio-ducking.jpg)
+
+The automatic changes with the audio volume are triggered by a common control using the audio ducking settings. When you enable this option in your device, this module is programmed to balance the volume settings as per the requirements. The audio ducking process allows the audio files to sound better by improving the quality of the audio signals. The audio parameters are adjusted at the specific track in the audio clippings to enhance the overall quality of the audio file.
+
+You will be able to feel the difference when the audio tracks are played. Use the audio ducking feature optimally to strengthen the crucial audio signals when required. Identify the perfect sound spots at the audio file that requires this ducking feature. Implement this feature at particular spots to enjoy the benefits of this audio ducking functionality. It serves as a boon for sound editors and creates a positive impact on the audio files.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: Use Audio Ducking in Adobe Premiere Pro on Win
+
+The Adobe Premiere Pro app helps to edit your media files professionally, and you can explore a wide range of settings to enhance the overall performance of the files. In the following content, you will study how to perform audio ducking in Adobe Premiere Pro at Windows space.
+
+**Step 1:** Import the audio file and assign the audio type to the Essential Sound Panel. Next, auto-match the loudness level at the Essential Sound panel section.
+
+![Essential-sound-panel](https://images.wondershare.com/filmora/article-images/2021/essential-sound-panel.jpg)
+
+**Step 2:** Choose the audio clip that requires audio ducking settings and adjusts values for sensitivity, amount of volume reduction, and the duration of fades along with the audio levels. These parameters determine the quality of audio ducking on the selected audio clips. Assign the perfect values as per your needs.
+
+![Ducking-settings](https://images.wondershare.com/filmora/article-images/2021/ducking-settings.jpg)
+
+****Step 3:** Finally, click Generate Keyframes to save the audio ducking settings on the chosen audio clips.
+
+![Generate-keyframes](https://images.wondershare.com/filmora/article-images/2021/generate-keyframes.jpg)
+
+To modify the audio ducking settings, it is enough if you tap the Generate Keyframes option to create new audio ducking attributes. When you click Generate Keyframe, the older settings are erased and prompt for the new settings to be assigned for the audio ducking feature.
+
+You can use the above instructions to perform the desired audio ducking feature at the selected audio clips.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: Alternative ways to use Audio Ducking with Filmora
+
+If you are working with the Mac systems, worry not here is an incredible application that assists in performing the audio ducking at audio files in the Mac platform. The Filmora app from Wondershare is a sophisticated tool that carries out professional edits on media files based on your needs. The quality factors of the audio and video signals are retained, and the desired changes are implemented on the files precisely.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+The Filmora application offers powerful features while editing audio files. You can apply audio ducking to enhance the vocals and use 100 audio effects to add flavors to the existing audio files. This app allows you to make any constructive changes to the file without disturbing the original elements set at the time of recording.
+
+**The remarkable features of the Filmora**
+
+* An exclusive audio file editor and improves the vocals using Audio Ducking strategy
+* You can access the 100 audio effects built-in at its working ambiance to enhance your imported media files.
+* The simple user interface helps you to discover awesome editing features effortlessly.
+* All the changes in the audio signals are embedded without affecting the quality factors.
+* The easy export option helps you to move the edited audio files to any storage space flawlessly.
+
+These are the stunning functionalities of the Filmora app concerning audio files. You can perform a wide range of miraculous edits on the media tracks precisely in a professional way.
+
+Here, you will be surfing the discussion about the effective usage of Filmora in implementing audio ducking functionality on the audio files. The Filmora offers an Audio Adjust module to perform the ducking operation efficiently without affecting the audio quality. It helps the audio to sound better and improves the clarity of vocals. The auto-adjust function modifies the volume of the audio files precisely as per the programmed algorithm. You do not have to write any code or perform manual adjustments in embedding this setting to your audio file. Few clicks are enough to enable the ducking functionality at the audio files.
+
+![Audio-ducking-in-Filmora](https://images.wondershare.com/filmora/article-images/2021/audio-ducking-in-filmora.jpg)
+
+The stepwise procedure to enable the audio ducking feature at Filmora application.
+
+**Step 1: Install the app and import the file.**
+
+First, download the application from its official webpage based on your system OS. Then, install the app and import the audio files into the working space of Filmora.
+
+![Import-media](https://images.wondershare.com/filmora/article-images/2021/import-media.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 2: Set Ducking parameters**
+
+Drag it to the timeline and choose the audio track that requires the audio ducking feature. After selecting the audio clip, right-click on it and choose ‘Adjust Audio' from the pop-up message. The Audio Editor window appears, go to the Ducking menu and turn on ‘Lower the Volume of other clips. You can repeat this step to other audio clippings effortlessly.
+
 ![Adjust-audio](https://images.wondershare.com/filmora/article-images/2021/adjust-audio.jpg)
 
 **Step 3: Save and Export**
@@ -453,9 +418,132 @@ Next, save the changes by tapping the ‘OK' button and clicking the Export butt
 
 The above guidelines help you to establish the audio ducking feature on your audio clips using the Filmora. Perform the appropriate clicks and set the attributes according to your needs to refine the audio ducking feature.
 
+### Conclusion
+
+Thus, this article had given valuable insights on ****audio ducking Premiere Pro** of Adobe. Use Adobe Premiere Pro to perform the desired audio adjustments to enhance the vocal signal on your Windows system. The Filmora application assists in editing the audio clips at the Mac system effortlessly. The above instructions aid you in performing the audio ducking feature successfully. Connect with this article to discover unique editing options on media files to enhance their overall performance. Stay tuned to explore the features of the Filmora application in detail.
+
+02 [Use Audio Ducking in Adobe Premiere Pro on Win](#part2)
+
+03 [Alternative ways to use Audio Ducking with Filmora](#part3)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+## Part 1: What is audio ducking?
+
+The concept of audio ducking is simple. In a soundtrack, you can find a wide range of music playing in the background. Audio ducking is the process of suppressing one type of audio signal and increasing the other movement simultaneously without causing any issues. Mostly audio ducking is processed for movies or any live sessions that reduce the background music when the characters or person speaks on the screen and increases the speaker's volume. The scenario happens vice versa when the speaker completes its conversation. Here, the background music increases, and the speaker's audio is reduced drastically. This type of audio ducking occurs to enhance the audio quality and reach the target audience without any issues.
+
+![Audio-ducking](https://images.wondershare.com/filmora/article-images/2021/audio-ducking.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+The automatic changes with the audio volume are triggered by a common control using the audio ducking settings. When you enable this option in your device, this module is programmed to balance the volume settings as per the requirements. The audio ducking process allows the audio files to sound better by improving the quality of the audio signals. The audio parameters are adjusted at the specific track in the audio clippings to enhance the overall quality of the audio file.
+
+You will be able to feel the difference when the audio tracks are played. Use the audio ducking feature optimally to strengthen the crucial audio signals when required. Identify the perfect sound spots at the audio file that requires this ducking feature. Implement this feature at particular spots to enjoy the benefits of this audio ducking functionality. It serves as a boon for sound editors and creates a positive impact on the audio files.
+
+## Part 2: Use Audio Ducking in Adobe Premiere Pro on Win
+
+The Adobe Premiere Pro app helps to edit your media files professionally, and you can explore a wide range of settings to enhance the overall performance of the files. In the following content, you will study how to perform audio ducking in Adobe Premiere Pro at Windows space.
+
+**Step 1:** Import the audio file and assign the audio type to the Essential Sound Panel. Next, auto-match the loudness level at the Essential Sound panel section.
+
+![Essential-sound-panel](https://images.wondershare.com/filmora/article-images/2021/essential-sound-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 2:** Choose the audio clip that requires audio ducking settings and adjusts values for sensitivity, amount of volume reduction, and the duration of fades along with the audio levels. These parameters determine the quality of audio ducking on the selected audio clips. Assign the perfect values as per your needs.
+
+![Ducking-settings](https://images.wondershare.com/filmora/article-images/2021/ducking-settings.jpg)
+
+****Step 3:** Finally, click Generate Keyframes to save the audio ducking settings on the chosen audio clips.
+
+![Generate-keyframes](https://images.wondershare.com/filmora/article-images/2021/generate-keyframes.jpg)
+
+To modify the audio ducking settings, it is enough if you tap the Generate Keyframes option to create new audio ducking attributes. When you click Generate Keyframe, the older settings are erased and prompt for the new settings to be assigned for the audio ducking feature.
+
+You can use the above instructions to perform the desired audio ducking feature at the selected audio clips.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: Alternative ways to use Audio Ducking with Filmora
+
+If you are working with the Mac systems, worry not here is an incredible application that assists in performing the audio ducking at audio files in the Mac platform. The Filmora app from Wondershare is a sophisticated tool that carries out professional edits on media files based on your needs. The quality factors of the audio and video signals are retained, and the desired changes are implemented on the files precisely.
+
+##### Versatile Video Editor - Wondershare Filmora
+
+An easy yet powerful editor
+
+Numerous effects to choose from
+
+Detailed tutorials provided by the official channel
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+The Filmora application offers powerful features while editing audio files. You can apply audio ducking to enhance the vocals and use 100 audio effects to add flavors to the existing audio files. This app allows you to make any constructive changes to the file without disturbing the original elements set at the time of recording.
+
+**The remarkable features of the Filmora**
+
+* An exclusive audio file editor and improves the vocals using Audio Ducking strategy
+* You can access the 100 audio effects built-in at its working ambiance to enhance your imported media files.
+* The simple user interface helps you to discover awesome editing features effortlessly.
+* All the changes in the audio signals are embedded without affecting the quality factors.
+* The easy export option helps you to move the edited audio files to any storage space flawlessly.
+
+These are the stunning functionalities of the Filmora app concerning audio files. You can perform a wide range of miraculous edits on the media tracks precisely in a professional way.
+
+Here, you will be surfing the discussion about the effective usage of Filmora in implementing audio ducking functionality on the audio files. The Filmora offers an Audio Adjust module to perform the ducking operation efficiently without affecting the audio quality. It helps the audio to sound better and improves the clarity of vocals. The auto-adjust function modifies the volume of the audio files precisely as per the programmed algorithm. You do not have to write any code or perform manual adjustments in embedding this setting to your audio file. Few clicks are enough to enable the ducking functionality at the audio files.
+
+![Audio-ducking-in-Filmora](https://images.wondershare.com/filmora/article-images/2021/audio-ducking-in-filmora.jpg)
+
+The stepwise procedure to enable the audio ducking feature at Filmora application.
+
+**Step 1: Install the app and import the file.**
+
+First, download the application from its official webpage based on your system OS. Then, install the app and import the audio files into the working space of Filmora.
+
+![Import-media](https://images.wondershare.com/filmora/article-images/2021/import-media.jpg)
+
+**Step 2: Set Ducking parameters**
+
+Drag it to the timeline and choose the audio track that requires the audio ducking feature. After selecting the audio clip, right-click on it and choose ‘Adjust Audio' from the pop-up message. The Audio Editor window appears, go to the Ducking menu and turn on ‘Lower the Volume of other clips. You can repeat this step to other audio clippings effortlessly.
+
+![Adjust-audio](https://images.wondershare.com/filmora/article-images/2021/adjust-audio.jpg)
+
+**Step 3: Save and Export**
+
+Next, save the changes by tapping the ‘OK' button and clicking the Export button to store the edited audio files at any storage space. Filmora will adjust the volume on other audio clips as per the settings and export the file precisely.
+
+![Export-file](https://images.wondershare.com/filmora/article-images/2021/export-file.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+The above guidelines help you to establish the audio ducking feature on your audio clips using the Filmora. Perform the appropriate clicks and set the attributes according to your needs to refine the audio ducking feature.
+
 ### Conclusion
 
 Thus, this article had given valuable insights on ****audio ducking Premiere Pro** of Adobe. Use Adobe Premiere Pro to perform the desired audio adjustments to enhance the vocal signal on your Windows system. The Filmora application assists in editing the audio clips at the Mac system effortlessly. The above instructions aid you in performing the audio ducking feature successfully. Connect with this article to discover unique editing options on media files to enhance their overall performance. Stay tuned to explore the features of the Filmora application in detail.
@@ -472,6 +560,12 @@ Thus, this article had given valuable insights on ****audio ducking Premiere Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comprehensive Manual for Capturing Sound with Your iPhone
 
 We use audio recording at all most every stage of life. Sometimes we are in class, and we record any lecture. Sometimes, something is explained in detail to you. Now are days, people share audio recordings even in an office and professional environment.

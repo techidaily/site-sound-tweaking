@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Beginner-Friendly Choir Separation Technology for Professional Use
-date: 2024-09-03T23:53:28.264Z
-updated: 2024-09-04T23:53:28.264Z
+date: 2024-09-09T00:44:28.606Z
+updated: 2024-09-10T00:44:28.606Z
 tags: 
   - audio editing software
   - audio editing
@@ -14,6 +14,12 @@ keywords: premier selection of romantic chamber pieces for nuptial cinematograph
 thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b903378f876b3f4cc7ee4fa520.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Beginner-Friendly Choir Separation Technology for Professional Use
 
 **Acapella extraction** has grown in popularity and become a sought-after art online. Those interested in music production or people who just enjoy listening to vocals alone can extract acapella from their favorite music with ease. The best acapella extractors help to separate vocals from background music so you can enjoy each individually. This article briefly reviews acapella separator options that you may use for various purposes.
@@ -24,6 +30,12 @@ thumbnail: https://thmb.techidaily.com/3c1c5ccae26de82b5c27b74337e4224665d5a7b90
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Part 1\. Online Acapella Extractors: Top 5 Options**
 
 The choice of an acapella extractor will mainly depend on what you want to achieve. For quick and small projects, online acapella extractors often work the best. Here is a list of the top tools that you may consider:
@@ -55,10 +67,10 @@ Lalal.ai is a powerful online acapella extractor. The AI-powered website allows 
 ![lalal.ai](https://images.wondershare.com/filmora/article-images/2023/easy-to-use-acapella-extractors-for-beginners-and-pros-2.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Key Features**
 
@@ -86,6 +98,12 @@ When looking for a simple acapella online extractor, Vocali.se is a great choice
 
 ![vocali.se](https://images.wondershare.com/filmora/article-images/2023/easy-to-use-acapella-extractors-for-beginners-and-pros-4.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Key Features**
 
 * An easy-to-use and highly efficient service
@@ -93,6 +111,12 @@ When looking for a simple acapella online extractor, Vocali.se is a great choice
 * Offers an acapella maker tool
 * Audio Formats: MP3, M4A, WAV, FLAC, OGG
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **5\.** [**Voice Separator**](https://www.conversion-tool.com/voiceseparator/)
 
 Voice Separator is a free acapella extractor website. It offers tools for extracting voice and instruments from music in a matter of minutes. The AI-powered tool uses machine learning to extract vocals, pianos, drums, bass, and other instruments from music into individual audio tracks.
@@ -106,10 +130,10 @@ Voice Separator is a free acapella extractor website. It offers tools for extrac
 * 3 available processing methods
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Part 2\. Acapella Extractor Apps: On-the-Go Solutions**
 
@@ -127,6 +151,12 @@ This acapella extractor app uses AI algorithms to separate the vocals and instru
 
 ![vocal remover and isolation](https://images.wondershare.com/filmora/article-images/2023/easy-to-use-acapella-extractors-for-beginners-and-pros-6.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Key Features**
 
 * Quickly separates voice from music
@@ -134,18 +164,24 @@ This acapella extractor app uses AI algorithms to separate the vocals and instru
 * Creates an acapella from a sing in only 10 seconds
 * Audio formats: MP3, WAV, FLAV
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **2\.** [**Moises App**](https://moises.ai/features/vocal-remover/)
 
 This AI acapella extractor removes and separates vocals and instruments with only one click. The audio separation feature will take your musical training to the next level.
 
 ![moises app](https://images.wondershare.com/filmora/article-images/2023/easy-to-use-acapella-extractors-for-beginners-and-pros-7.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Key Features**
 
 * Easy and quick acapella extraction in one click
@@ -154,10 +190,10 @@ This AI acapella extractor removes and separates vocals and instruments with onl
 * The vocal remover feature allows users to play and sing along to their favorite songs
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **3\.** [**Splitter.ai - AI Audio Processing**](https://splitter.ai/)
 
@@ -165,30 +201,24 @@ This is a great choice of tool for acapella extractor YouTube purposes. With mil
 
 ![splitter.ai](https://images.wondershare.com/filmora/article-images/2023/easy-to-use-acapella-extractors-for-beginners-and-pros-8.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Key Features**
 
 * Easy way to separate your soundtracks
 * Audio formats: WAV, FLAC, OGG, MP3
 * Access to an online instrumental maker
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **4\.** [**iZotope RX**](https://www.izotope.com/en/products/rx.html)
 
 This is an advanced audio editing software that works perfectly with acapella removal. The MP3 voice remover is a popular app among professionals in the audio industry. It is also used for noise reduction, audio cleaning, audio repair, and creative sound design.
 
 ![izotope rx](https://images.wondershare.com/filmora/article-images/2023/easy-to-use-acapella-extractors-for-beginners-and-pros-9.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Key Features**
 
 * A range of powerful algorithms and tools to address audio issues
@@ -197,16 +227,10 @@ This is an advanced audio editing software that works perfectly with acapella re
 * Powerful spectral editing tools that give precise adjustments
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **5\.** [**Melody.ml**](https://melody.ml/)
 
@@ -214,18 +238,6 @@ This is another effective acapella extractor app that allows users to separate m
 
 ![izotope rx](https://images.wondershare.com/filmora/article-images/2023/easy-to-use-acapella-extractors-for-beginners-and-pros-10.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Key Features**
 
 * Easy way to separate your favorite songs
@@ -233,12 +245,6 @@ This is another effective acapella extractor app that allows users to separate m
 * Access to an online instrumental maker
 * Audio formats: WAV, FLAC, OGG, MP3
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 3\.** [**Efficiently Extract Acapella from Audio with Filmora 13**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 When extracting acapella from your favorite music, you want the best outcomes. Wondershare Filmora is a popular video editing software with advanced audio editing capabilities. With a host of several AI features, the software produces quality and accurate results in every project.
@@ -249,18 +255,24 @@ When extracting acapella from your favorite music, you want the best outcomes. W
 
 The audio editing features on Filmora allow you to extract acapella and do a lot more with your clips. Let’s explore this feature in more detail:
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [**AI Vocal Remover**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 The AI Vocal Remover on Filmora allows you to separate vocals and music from any song. You can also extra acapella from music tracks and audio files while keeping high-quality audio. The feature also allows you to dub videos freely by simply removing all the vocals. The feature offers several benefits when editing:
 
 ![ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/easy-to-use-acapella-extractors-for-beginners-and-pros-11.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * **Removes Vocals from Audio in One Click** – Easily dub any video without covering the current vocals, which allows you to keep great soundtracks after removing the vocals.
 * **Effective Vocal Separation** – With the use of advanced AI algorithms, the AI Vocal Remover isolates vocals with exceptional quality to ensure that the vocals are effectively separated from background music. It does all this without losing audio fidelity.
 * **Instant Listening of Results** – You won’t have to export or download the entire video or audio to listen to the results. Filmora allows you to view and listen to the results in the editor on the go.
@@ -268,10 +280,10 @@ The AI Vocal Remover on Filmora allows you to separate vocals and music from any
 * **Dub Exceptional Videos** – No need to record vocals in different languages and stick them over the original ones. The AI Vocal Remover feature allows you to completely remove the originals so you can import new and fresh ones. This will give you highly professional and clear dubbed videos in a matter of clicks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [**How To Use AI Vocal Remover?**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -296,16 +308,22 @@ Choose the clips you want to extract acapella from in the timeline. Then click o
 ![start ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/easy-to-use-acapella-extractors-for-beginners-and-pros-14.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Conclusion**
 
@@ -315,12 +333,6 @@ To wrap up, there is a wide choice of acapella extractors depending on what you 
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
 <li><a href="https://youtube-clips.techidaily.com/new-elevate-engagement-crafting-effective-youtube-backlinks/"><u>[New] Elevate Engagement  Crafting Effective YouTube Backlinks</u></a></li>

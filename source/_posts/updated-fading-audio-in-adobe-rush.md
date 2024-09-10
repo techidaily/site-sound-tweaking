@@ -1,7 +1,7 @@
 ---
 title: Updated Fading Audio in Adobe Rush
-date: 2024-09-03T23:53:25.394Z
-updated: 2024-09-04T23:53:25.394Z
+date: 2024-09-09T00:44:26.004Z
+updated: 2024-09-10T00:44:26.004Z
 tags: 
   - audio editing software
   - audio editing
@@ -14,6 +14,12 @@ keywords: how to fade in out audio in adobe rush,the gradual diminishment of aud
 thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Gradual Diminishment of Audio Fidelity in Adobe Rush
 
 # Fading Audio in Adobe Rush
@@ -26,6 +32,12 @@ thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59
 
 The importance of music and atmospheric sounds is often underrated in social media videos. A good soundtrack can drastically increase the overall quality of a video since barely audible dialogues or background noises distract a viewer. Even adding simple effects like fade in or fade out can make a huge difference in how well a video is accepted by your friends on social media. If you would like to learn how to fade audio in your videos, you're at the right place, because in this article we are going to show you how to fade in or fade out an audio clip.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fading Audio in Adobe Rush
 
 [Adobe Rush](https://www.adobe.com/products/premiere-rush.html) app that was released a short while ago doesn't seem to be living up to the high standard we can commonly expect from Adobe's products. The app doesn't feature fade in/out options and its audio editing capabilities are limited. The only way you can fade audio with Adobe Rush is to open the project in Adobe Premiere Pro CC, but in order to be able to do so, you have to be subscribed to the Adobe's Creative Cloud.
@@ -36,6 +48,12 @@ Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fading Audio in Wondershare Filmora
 
 #### 1\. Import video and audio files into Filmora
@@ -44,6 +62,12 @@ Most video clips contain an audio track, but in some cases, you might want to re
 
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-media-panel.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Alternatively, you can just drag and drop an audio file from the folder to the Media Panel. Filmora also features a rich library of royalty-free music you can use to select a soundtrack for your video. Drag and drop the video or audio file into the timeline from the Media Panel.
 
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-track.JPG)
@@ -56,6 +80,12 @@ Clicking on the Edit button, located at the end of the software's toolbar will g
 
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-panel.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Fade in and Fade out sliders are located at the top of the Audio panel and you can drag the handle on the slider or you can insert new Fade in or Fade out values manually in the boxes next to the sliders. You can click play and decide if you like the effect you created before you click OK to confirm the changes.
 
 **Method 2: Directly from Timeline**
@@ -72,6 +102,12 @@ Even though Adobe Rush is an app aimed at YouTubers and social media video creat
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -135,9 +171,3 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

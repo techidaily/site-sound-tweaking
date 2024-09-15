@@ -1,7 +1,7 @@
 ---
 title: Updated Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects for 2024
-date: 2024-09-09T00:44:27.918Z
-updated: 2024-09-10T00:44:27.918Z
+date: 2024-09-11T21:36:20.857Z
+updated: 2024-09-15T01:37:33.177Z
 tags: 
   - audio editing software
   - audio editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -34,12 +28,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Audio in After Effects
 
 1\. Start the program and open a new project.
@@ -60,20 +48,8 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Best Audio Editing Software to Add Audio to Video
 
 #### 1\. [WavePad from NCH Software](https://www.nch.com.au/wavepad/index.html)
@@ -106,12 +82,6 @@ Once a new project starts, tap on 'File' followed by "Import Media." Select the 
 
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3: Drag Audio to Timeline**
 
 To perform different edits across the audio, the user needs to drag the audio on the timeline.
@@ -138,68 +108,11 @@ Wavosaur is an old tool that doesn’t run on most modern computers and laptops.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-chromatic-mastery-bridging-theory-and-art/"><u>[New] 2024 Approved  Chromatic Mastery  Bridging Theory and Art</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cropping-photos-why-does-imovie-adjust-video-sizes/"><u>[New] 2024 Approved  Cropping Photos  Why Does iMovie Adjust Video Sizes?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfecting-the-art-of-quiet-videography/"><u>[New] 2024 Approved  Perfecting the Art of Quiet Videography</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevating-your-yt-content-with-the-top-thumbnail-hacks-for-2024/"><u>[New] Elevating Your YT Content with the Top Thumbnail Hacks for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-effortless-visual-transitions-using-instagram-chroma-keying/"><u>[New] In 2024, Effortless Visual Transitions Using Instagram Chroma Keying</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fast-flicker-fun-prime-speedy-software-for-systems/"><u>2024 Approved  Fast Flicker Fun  Prime Speedy Software for Systems</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/break-into-the-heart-of-a-tiktok-live-session-for-2024/"><u>Break Into the Heart of a TikTok Live Session for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-xs-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone XS Max</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-voice-alteration-devices-explained-features-insights-and-alternatives/"><u>In 2024, Voice Alteration Devices Explained Features, Insights, and Alternatives</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-8-best-intro-sound-effects-for-youtubers/"><u>New 2024 Approved 8 Best Intro Sound Effects for Youtubers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-best-6-web-based-music-segmentation-tools/"><u>New 2024 Approved Best 6 Web-Based Music Segmentation Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-imovies-acoustic-arena-insider-tips-to-achieve-flawless-audio-mixes/"><u>New 2024 Approved IMovies Acoustic Arena Insider Tips to Achieve Flawless Audio Mixes</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-reverse-rhythms-2023s-most-memorable-inverted-melodies/"><u>New 2024 Approved Reverse Rhythms 2023S Most Memorable Inverted Melodies</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-silencing-soundscape-guiding-you-to-audio-deletion-in-mov-files-for-both-operating-systems/"><u>New 2024 Approved Silencing Soundscape Guiding You to Audio Deletion in MOV Files for Both Operating Systems</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-advanced-audio-synchronization-a-step-by-step-guide-to-keyframe-adjustments-in-final-cut-pro-x/"><u>New Advanced Audio Synchronization A Step-by-Step Guide to Keyframe Adjustments in Final Cut Pro X</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-audio-extraction-guide-for-updated-mkv-files-mkv-2023-edition-for-2024/"><u>New Audio Extraction Guide for Updated MKV Files (MKV-2023 Edition) for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-best-voice-changer-apps-for-iphone-and-android-for-2024/"><u>New Best Voice Changer Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-dynamic-duets-of-sound-and-sight-afx-lyric-templates-for-2024/"><u>New Dynamic Duets of Sound and Sight - AFX Lyric Templates for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-how-to-add-audio-to-mp4-mpeg-mpg-video/"><u>New How to Add Audio to MP4 (MPEG, MPG) Video</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-2023s-ultimate-selection-of-complimentary-video-soundtracks/"><u>New In 2024, 2023S Ultimate Selection of Complimentary Video Soundtracks</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-8-best-daw-for-recording-mixing-and-mastering/"><u>New In 2024, 8 Best DAW For Recording, Mixing and Mastering</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-cutting-the-chatter-a-guide-to-isolating-and-removing-vocals-in-music-productions-using-audacity/"><u>New In 2024, Cutting the Chatter A Guide to Isolating and Removing Vocals in Music Productions Using Audacity</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-decoding-soundscapes-discovering-the-top-7-audio-alterations-for-todays-producers/"><u>New In 2024, Decoding Soundscapes Discovering the Top 7 Audio Alterations for Todays Producers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-make-your-voice-higher-with-filmora/"><u>New In 2024, How to Make Your Voice Higher With Filmora</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-best-song-finder-apps-to-recognize-music-on-android/"><u>New In 2024, The Best Song Finder Apps to Recognize Music on Android</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-unveiling-the-top-8-sonic-signatures-for-youtube-creators-opening-moments/"><u>New In 2024, Unveiling the Top 8 Sonic Signatures for YouTube Creators Opening Moments</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-real-time-audio-recording-in-the-digital-age-for-2024/"><u>New The Ultimate Guide to Real-Time Audio Recording in the Digital Age for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-recording-sounds-in-powerpoint-operating-windows-and-macos-systems-for-2024/"><u>New The Ultimate Guide to Recording Sounds in PowerPoint Operating Windows and macOS Systems for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-ultimate-guide-to-the-best-7-effortless-vocal-eradicator-software/"><u>New Ultimate Guide to the Best 7 Effortless Vocal Eradicator Software</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-visualizing-the-vibes-the-creme-de-la-creme-of-music-animation-experiences-for-2024/"><u>New Visualizing the Vibes The Crème De La Crème of Music Animation Experiences for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/premium-selection-the-most-exceptional-11-voice-alteration-apps-available-at-no-charge-for-mobile-devices/"><u>Premium Selection The Most Exceptional 11 Voice Alteration Apps Available at No Charge for Mobile Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/streamline-your-snapchat-chat-and-calls-with-3-key-steps-for-2024/"><u>Streamline Your Snapchat Chat and Calls with 3 Key Steps for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/streamline-your-video-production-ipad-time-lapse/"><u>Streamline Your Video Production  IPad Time-Lapse</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-best-in-show-a-comprehensive-review-of-the-10-most-effective-podcast-to-text-apps/"><u>The Best in Show A Comprehensive Review of the 10 Most Effective Podcast to Text Apps</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-premier-virtual-communities-where-strangers-become-friends-for-2024/"><u>The Premier Virtual Communities Where Strangers Become Friends for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-audio-length-reduction-in-apples-imovie-app/"><u>The Ultimate Guide to Audio Length Reduction in Apples iMovie App</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/time-saving-approaches-to-turn-whatsapp-audios-into-mp3-format-for-2024/"><u>Time-Saving Approaches to Turn WhatsApp Audios Into MP3 Format for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/top-13-gratis-audio-creation-tools-for-pc-and-mac-updated-list/"><u>Top 13 Gratis Audio Creation Tools for PC and Mac, Updated List</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/unlocking-free-speech-transcription-a-triad-of-simple-approaches/"><u>Unlocking Free Speech Transcription - A Triad of Simple Approaches</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -207,3 +120,31 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-amplify-your-iphone-films-with-free-audio-additions-discover-three-ways-for-2024/"><u>[New] Amplify Your iPhone Films with Free Audio Additions – Discover Three Ways for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ee-youtube-video-rippers-to-download-youtube-videos/"><u>11 FREE YouTube Video Rippers to Download YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-skys-playground-discovering-the-husqvarna-x4-fpv/"><u>2024 Approved The Sky's Playground Discovering the Husqvarna X4 FPV</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-zte-nubia-flip-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your ZTE Nubia Flip 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/discover-the-peak-sound-perfection-recommended-equalizer-settings/"><u>Discover the Peak Sound Perfection Recommended Equalizer Settings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hit-the-mark-video-that-skyrockets-in-popularity/"><u>Hit the Mark Video that Skyrockets in Popularity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snowy-scores-winter-2022-wonders-unveiled/"><u>In 2024, Snowy Scores Winter 2022 Wonders Unveiled</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-mastering-ai-powered-vocal-replication-two-techniques-for-authenticity/"><u>New 2024 Approved Mastering AI-Powered Vocal Replication Two Techniques for Authenticity</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-time-sync-techniques-in-video-editing-creating-beats-aligned-cuts-with-premiere-pro-for-modern-filmmakers/"><u>New 2024 Approved Time-Sync Techniques in Video Editing Creating Beats-Aligned Cuts with Premiere Pro for Modern Filmmakers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-capturing-clarity-an-intuitive-roadmap-for-convenient-and-high-quality-podcast-recordings-for-2024/"><u>New Capturing Clarity An Intuitive Roadmap for Convenient and High-Quality Podcast Recordings for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-how-to-cut-audio-from-video-on-iphonemac/"><u>New How to Cut Audio From Video on iPhone/Mac</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-anime-localization-breakdown-process-case-studies-and-strategies-for-perfecting-the-final-product/"><u>New In 2024, Anime Localization Breakdown Process, Case Studies & Strategies for Perfecting the Final Product</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-safe-speakers-guide-to-video-conferencing-top-tips-and-trusted-platforms/"><u>New The Safe Speakers Guide to Video Conferencing Top Tips and Trusted Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/select-15-professional-luts-to-boost-gopro-cinematography/"><u>Select 15 Professional LUTs to Boost GoPro Cinematography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/syncing-your-pre-recording-with-real-time-facebook-broadcasts/"><u>Syncing Your Pre-Recording with Real-Time Facebook Broadcasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

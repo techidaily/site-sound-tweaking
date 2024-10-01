@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Perfecting Your Soundtrack Techniques for Implementing Automatic Audio Suppression in Final Cut Pro X
-date: 2024-09-16T19:14:28.287Z
-updated: 2024-09-20T03:44:11.300Z
+date: 2024-09-25T16:09:13.136Z
+updated: 2024-09-30T22:27:30.821Z
 tags: 
   - audio editing software
   - audio editing
@@ -88,9 +88,23 @@ To begin with, just launch Wondershare Filmora on your Mac and just drag-and-dro
 
 ![Filmora Import Media File](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
 
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
@@ -102,6 +116,13 @@ Great! Now, on the timeline of Filmora, you can see your video and the music tra
 
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
 
 ![Filmora Adjust Audio](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
@@ -109,6 +130,13 @@ Afterward, right-click the audio track and select the “Adjust Audio” option 
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
 
 ![Filmora Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3: Export the Edited Video
 
@@ -133,18 +161,26 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-android-moba-gems-discovering-the-classics-for-2024/"><u>[New] Android MOBA Gems Discovering the Classics for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-peer-into-the-future-with-apeaksofts-screen-capture-trends-2023-for-2024/"><u>[New] Peer Into the Future with Apeaksoft’s Screen Capture Trends 2023 for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-the-art-of-iphoneipad-video-logging/"><u>[Updated] Mastering the Art of iPhone/iPad Video Logging</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-hidden-shared-memories-in-messenger/"><u>[Updated] Unveiling Hidden Shared Memories in Messenger</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-does-fbcta-affect-your-social-media-feed/"><u>How Does FBCTA Affect Your Social Media Feed?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/identifying-ideal-release-moments-for-podcasts-for-2024/"><u>Identifying Ideal Release Moments for Podcasts for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/innovative-approaches-for-rising-through-the-rankings/"><u>Innovative Approaches for Rising Through the Rankings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-mobile-banking-experience-with-abbys-advanced-ocr-for-instantaneous-loan-decisions/"><u>Transform Your Mobile Banking Experience with Abby's Advanced OCR for Instantaneous Loan Decisions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-10-budget-friendly-options-premium-free-podcast-players-for-modern-smartphones/"><u>Updated 2024 Approved Top 10 Budget-Friendly Options Premium-Free Podcast Players for Modern Smartphones</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-8-best-cinematic-sound-effects-pack-included-for-2024/"><u>Updated 8 Best Cinematic Sound Effects Pack Included for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-beginner-friendly-choir-separation-technology-for-professional-use/"><u>Updated Beginner-Friendly Choir Separation Technology for Professional Use</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-how-can-you-choose-the-best-sound-editor-in-2024/"><u>Updated How Can You Choose the Best Sound Editor, In 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-demystifying-clubhouse-understanding-the-social-networks-foundation-purpose-and-potential-impact/"><u>Updated In 2024, Demystifying Clubhouse Understanding the Social Networks Foundation, Purpose, and Potential Impact</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-echo-the-quietude-expert-guide-to-muting-audio-in-iphone-videos/"><u>Updated In 2024, Echo the Quietude Expert Guide to Muting Audio in iPhone Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-navigating-through-the-best-8-voice-interpretation-programs-across-different-os-platforms/"><u>Updated In 2024, Navigating Through the Best 8 Voice Interpretation Programs Across Different OS Platforms</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-silentizer-xtreme-revolutionize-how-you-listen-and-edit-media/"><u>Updated In 2024, Silentizer Xtreme Revolutionize How You Listen and Edit Media</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-top-8-auditory-frequency-patterns-for-media-crafting/"><u>Updated In 2024, Top 8 Auditory Frequency Patterns for Media Crafting</u></a></li>
+</ul></div>
 

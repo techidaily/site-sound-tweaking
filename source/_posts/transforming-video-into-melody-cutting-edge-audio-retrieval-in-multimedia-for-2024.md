@@ -1,7 +1,7 @@
 ---
 title: Transforming Video Into Melody Cutting-Edge Audio Retrieval in Multimedia for 2024
-date: 2024-08-15T02:03:02.564Z
-updated: 2024-08-16T02:03:02.564Z
+date: 2024-09-25T20:28:16.493Z
+updated: 2024-10-01T00:21:41.227Z
 tags: 
   - audio editing software
   - audio editing
@@ -38,9 +38,6 @@ Install and run this Wondershare Filmora. Then click the “Import” button to 
 
 #### 2. Start extracting audio from video
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![extract audio from video ](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
 
 After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
@@ -51,16 +48,10 @@ Double click the extracted file in the audio track and then you will see the aud
 
 You can add fade-in and fade-out effects, [change the sound volume](https://tools.techidaily.com/wondershare/filmora/download/), adjust the pitch to [change the voice](https://tools.techidaily.com/wondershare/filmora/download/), etc. as you like.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![edit extracted audio from video in Filmora9](https://images.wondershare.com/filmora/article-images/audio-editing-panel.jpg)
 
 If you find some unnecessary sounds in the extracted audio file, and you want to delete them, just put the cursor to the place where you would like the deletion to start and press the “Split” button to split. The end of the deletion area can be marked similarly – play the audio and select the final point of the area to be excluded from the output audio, and then press the “Split” button again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![split and delete unwanted part from extracted audio ](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
 
 Click the split part in the audio track, press the Delete button on the keyboard, or click the Delete icon on the toolbar to remove the unwanted audio clip.
@@ -69,9 +60,6 @@ Click the split part in the audio track, press the Delete button on the keyboard
 
 After that, click the “Export” button to export the extracted audio track. Here different options are provided. For example, you can save the audio in regular formats such as MP3, MP4, WMV, AVI, and so on in the “Device” tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![save extracted audio in MP3](https://images.wondershare.com/filmora/article-images/mp3-export.jpg)
 
 To customize the audio Encoder, Sample Rate, Bit Rate or Channel settings, click the SETTINGS button to start.
@@ -82,14 +70,8 @@ Select a desirable output method and then click the “Export” button to save 
 
 Tips: Filmora supports a wide range of audio and video formats. You can easily extract mp3 from mp4 video, or extract the audio from video and then save it in .wav format.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -98,12 +80,44 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-secure-video-communication-made-simple-with-top-10-safe-apps-on-mobile-devices/"><u>[New] 2024 Approved Secure Video Communication Made Simple with Top 10 Safe Apps on Mobile Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-small-business-video-markets-for-2024/"><u>[Updated] Navigating Small Business Video Markets for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725289541025-2022-dvd-3/"><u>2022 DVD 到电脑保存策略：理解最适合的3种方法</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-canon-mx870-in-win-765-systems/"><u>Enable Canon MX870 in WIN 7/6/5 Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-archive-snaps-on-iphoneandroid-from-snapchat/"><u>In 2024, How To Archive Snaps on iPhone/Android From Snapchat</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-here-are-the-ten-best-stop-motion-apps-for-ios-and-android-devices-that-enable-you-to-create-awesome-stop-motion-animations/"><u>New In 2024, Here Are the Ten Best Stop Motion Apps for iOS and Android Devices that Enable You to Create Awesome Stop Motion Animations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-x9a-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor X9a and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975511338-step-by-step-guide-to-obtain-and-update-hp-deskjet-3700-printer-drivers-get-started-today/"><u>Step-by-Step Guide to Obtain and Update HP DeskJet 3700 Printer Drivers - Get Started Today</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-10-best-free-daw-online-browser-based-for-2024/"><u>Updated 10 Best Free DAW Online Browser-Based for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-best-audio-editors-to-remove-background-noise-from-audio-windows/"><u>Updated 2024 Approved Best Audio Editors to Remove Background Noise From Audio Windows</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-best-beat-sync-video-editing-apps/"><u>Updated 2024 Approved Best Beat Sync Video Editing Apps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-ultimate-compilation-of-costless-peak-quality-audio-apps-for-ios-and-android/"><u>Updated 2024 Approved The Ultimate Compilation of Costless, Peak-Quality Audio Apps for iOS and Android</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-10-windows-and-macos-compatible-daws-the-ultimate-selection/"><u>Updated 2024 Approved Top 10 Windows & macOS Compatible DAWs The Ultimate Selection</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-achieving-optimal-sound-levels-with-audacitys-volume-slider-for-2024/"><u>Updated Achieving Optimal Sound Levels with Audacitys Volume Slider for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-navigating-the-nuances-of-silence-introduction-and-conclusion-in-imovie-videos/"><u>Updated In 2024, Navigating the Nuances of Silence Introduction and Conclusion in iMovie Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-rise-above-the-rest-enhancing-speech-clarity-and-volume-with-filmora/"><u>Updated Rise Above the Rest Enhancing Speech Clarity and Volume with Filmora</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

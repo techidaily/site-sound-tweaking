@@ -1,7 +1,7 @@
 ---
 title: New Dynamic Duets of Sound and Sight - AFX Lyric Templates for 2024
-date: 2024-08-15T02:03:01.597Z
-updated: 2024-08-16T02:03:01.597Z
+date: 2024-09-29T21:39:16.881Z
+updated: 2024-09-30T22:46:05.541Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 
 # 8 Best Lyric Video Templates for After Effects
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -50,9 +47,6 @@ Add background animation, and you may also play with the composition. Then, drag
 
 Finally, render and publish your lyric videos on social platforms like YouTube, Vimeo, and Facebook, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Lyric Video Maker Template](https://images.wondershare.com/filmora/filmorapro/lyric-video-maker-template.jpg)
 
 ### 2. [Hipster Labels](https://elements.envato.com/hipster-labels-VTG4YDQ)
@@ -68,8 +62,12 @@ You may search from various categories and applications to select the right afte
 ![Hipster Labels](https://images.wondershare.com/filmora/filmorapro/hipster-labels.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3. [Neon Lyrics Template](https://videohive.net/item/neon-lyrics-template/23555778)
 
 For creating a mesmerizing lyrical video, choose the Neon Lyric Template. With the Built-in Color & FX Controls and Modular Structure, you can easily edit your project with zero hassles.
@@ -80,6 +78,20 @@ There are around 30 unique slides in HD resolution to fit in your favorite song.
 
 ![Neon Lyrics Template](https://images.wondershare.com/filmora/filmorapro/neon-lyrics-template.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4. [Flooded Painting Pro](https://www.lyriccatalyst.com/floodedpaintingpro)
 
 Flooded Painting Pro lyric video template is a dynamic and modern after effect lyric video template.
@@ -88,14 +100,15 @@ You get animated tiles, customizable background, editable texts, place holder ly
 
 You need to buy the Flooded Painting Pro template at 49,00$.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Flooded Painting Pro](https://images.wondershare.com/filmora/filmorapro/flooded-painting-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5. [Lyric Slideshow](https://www.pond5.com/after-effect/119661454/lyric-slideshow.html)
 
 The Lyric Slideshow video template is one of the best when you think of creating a story with music. You can download previews without even logging into the site.
@@ -111,8 +124,12 @@ Note one thing that the image and music used while you check the preview is not 
 ![Lyric Slideshow](https://images.wondershare.com/filmora/filmorapro/lyric-slideshow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 6. [Lyrics Template Hand Drawn Style](https://www.shchelokov.com/lyricstemplate)
 
 Are you looking to add some personalized touch to your video? Hand-drawn style Lyrics template is the one you are looking for.
@@ -127,9 +144,6 @@ Adding additional effects or removing the ones present is also allowed when you 
 
 ![Lyrics Template Hand Drawn Style](https://images.wondershare.com/filmora/filmorapro/lyrics-template-hand-drawn-style.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### 7. [3D Lyrics](https://elements.envato.com/kinetic-typography-3d-lyrics-two-ae-projects-VDPC5G6)
 
 The 3D lyrics video template is one of its kind as it contains two projects under one model.
@@ -151,9 +165,6 @@ You need to arrange the scenes you wish to use in final composition, import the 
 
 It allows you to change the background color, adjust controls like extrusion quality, etc. and ten other adjustment layers. Finally, render the video at a particular frame rate and resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![3D Lyrics](https://images.wondershare.com/filmora/filmorapro/3d-lyrics.jpg)
 
 ### 8. [GTFO Lyric Video](https://www.lyriccatalyst.com/gtfo)
@@ -164,9 +175,6 @@ This After Effects lyric video template is priced at $49.
 
 It is a lyric catalyst that also offers in-depth video tutorials to help you create professionally challenging and unforgettable lyric videos.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![GTFO Lyric Video](https://images.wondershare.com/filmora/filmorapro/gtfo.jpg)
 
 ## Part 2: Create Lyric Video in Filmora Video Editor without Download Templates
@@ -183,9 +191,6 @@ Open Filmora video editor on your Windows or Mac computer, and import your audio
 
 **Step 2: Type text to build the Lyrics you want**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![customize lyric texts](https://images.wondershare.com/filmora/article-images/customize-lyric-titles-filmora.jpg)
 
  Double click the title in the timeline and then click the **Advanced** button to go to the Advanced Text Edit window. From there, you can write your lyrics, add a text box, change colors and font, and add animations to the lyrics.
@@ -193,6 +198,13 @@ Open Filmora video editor on your Windows or Mac computer, and import your audio
 **Step 3: Add Transitions to Lyric Text**
 
 ![add transitions to lyric texts](https://images.wondershare.com/filmora/article-images/add-transitions-to-lyric-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Go to the **Transitions** tab and select the desired transition. For example, you can search warp on the search bar, and it will list many wrap effects. You can choose one wrap transition effect first and then double click the transition to set its duration and position.
 
@@ -204,19 +216,20 @@ To make the lyric video more vivid, we can add some special effects to the lyric
 
 For Win 7 or later (64-bit)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -226,13 +239,18 @@ Add animations, music, and other attractive effects to the lyrics of your song a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -240,4 +258,22 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-live-streaming-made-easy-expert-reviews-of-top-obs-tools/"><u>[New] 2024 Approved Live Streaming Made Easy Expert Reviews of Top OBS Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-seamless-teaching-online-screen-sharing-on-skype-explained-for-2024/"><u>[Updated] Seamless Teaching Online Screen Sharing on Skype Explained for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sprint-through-slow-androids-premier-video-fixes/"><u>[Updated] Sprint Through Slow Android's Premier Video Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-detailed-official-specifications-winxvideo-ai-comprehensive-guide/"><u>1. Detailed Official Specifications: WinXVideo AI - Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-m1s-impact-on-video-editing-software-performance/"><u>2024 Approved M1's Impact on Video Editing Software Performance</u></a></li>
+<li><a href="https://facebook.techidaily.com/fact-or-hype-rethinking-our-perceptions-about-facebook-documents/"><u>Fact or Hype? Rethinking Our Perceptions About Facebook Documents</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-broadcast-your-online-meeting-via-youtube-google-meet-steps-for-2024/"><u>How To Broadcast Your Online Meeting via YouTube - Google Meet Steps for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-seamless-video-playback-a-facebook-feature-explanation/"><u>In 2024, Seamless Video Playback A Facebook Feature Explanation</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-the-crashed-and-restored-error-on-amd-wattman-settings/"><u>Troubleshooting and Fixing the 'Crashed and Restored' Error on AMD Wattman Settings</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-cutting-edge-cost-free-daw-software-options-revealed-a-beginners-guide-to-2023/"><u>Updated 2024 Approved Cutting-Edge, Cost-Free DAW Software Options Revealed A Beginners Guide to 2023</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-essential-techniques-for-adding-voice-to-microsoft-powerpoint-projects-windows-and-macos/"><u>Updated In 2024, Essential Techniques for Adding Voice to Microsoft PowerPoint Projects (Windows & macOS)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-unleashing-your-creative-potential-the-comprehensive-guide-to-volume-automation-and-ducking-with-adobe-premiere-pro-mac-edition/"><u>Updated In 2024, Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-intensify-visual-soundscapes-for-optimal-engagement/"><u>Updated Intensify Visual Soundscapes for Optimal Engagement</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-recording-and-incorporating-narration-a-step-by-step-approach-for-todays-videos-for-2024/"><u>Updated Recording & Incorporating Narration A Step-by-Step Approach for Todays Videos for 2024</u></a></li>
+</ul></div>
 

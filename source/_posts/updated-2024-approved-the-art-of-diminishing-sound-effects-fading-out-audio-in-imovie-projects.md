@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects
-date: 2024-09-14T00:05:51.641Z
-updated: 2024-09-20T01:12:52.846Z
+date: 2024-09-25T21:52:43.723Z
+updated: 2024-09-30T21:03:40.322Z
 tags: 
   - audio editing software
   - audio editing
@@ -51,6 +51,13 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
 Firstly, let's take a look at the video below to check how to fade audio in/out the audio in iMovie with fade handles.
@@ -68,6 +75,13 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 Move the pointer over a waveform, and drag the small gray fade handle at the left of the clip to adjust the fade audio in effect. Then drag the small fade handle at the right of the clip to adjust the fade-out effect.
 
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3. Playback to Check
 
@@ -125,13 +139,6 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3. Save Your Video
 
 Click the "Export" button to select one of the export methods. You can choose your desired format or mobile devices, burn it to DVD and upload it to YouTube and Vimeo.
@@ -139,15 +146,22 @@ Click the "Export" button to select one of the export methods. You can choose yo
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -162,5 +176,24 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-user-experience-recovering-lost-youtubefb-videos-for-2024/"><u>[New] Enhancing User Experience Recovering Lost YouTube/FB Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-yield-strategies-for-successful-money-making-on-mobile-youtube/"><u>[New] In 2024, Boosting Yield Strategies for Successful Money-Making on Mobile YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-endorsements-premier-portals-for-procuring-snapalert-rhythms/"><u>[Updated] Exclusive Endorsements Premier Portals for Procuring SnapAlert Rhythms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-singing-alerts-crafting-and-configuring-customizable-sounds-and-ringtones-on-android/"><u>[Updated] In 2024, Singing Alerts Crafting and Configuring Customizable Sounds & Ringtones on Android</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-countdown-best-zombie-games-ranked-for-2024/"><u>[Updated] The Ultimate Countdown Best Zombie Games Ranked for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy S23 Ultra Phone?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-screen-snatchers-handbook-by-zd-software-experts/"><u>In 2024, The Ultimate Screen Snatcher’s Handbook by ZD Software Experts</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-elite-free-vst-plugin-catalogue-top-picks-and-downloading-platforms/"><u>New 2024 Approved The Elite Free VST Plugin Catalogue Top Picks and Downloading Platforms</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-cutting-edge-speech-recognition-apps-a-review-of-the-best-options-for-2024/"><u>New Cutting-Edge Speech Recognition Apps A Review of the Best Options for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-free-online-daw-options-ranking-the-most-convenient-and-cost-effective-tools/"><u>New Free Online DAW Options Ranking the Most Convenient and Cost-Effective Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-remove-audio-from-video-online/"><u>New In 2024, How to Remove Audio From Video Online?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-replace-the-audio-track-in-a-video-step-by-step/"><u>New In 2024, How To Replace the Audio Track in a Video Step by Step</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-easy-path-to-crafting-your-audio-book-a-detailed-tutorial/"><u>New In 2024, The Easy-Path to Crafting Your Audio Book A Detailed Tutorial</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-mobile-a-guide-to-free-audio-to-text-conversion-on-android-and-ios-for-2024/"><u>New Mastering Mobile A Guide to Free Audio-to-Text Conversion on Android & iOS for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-optimal-siri-acoustics-creator-for-windows-pcs-and-apple-computers-for-2024/"><u>New Optimal Siri Acoustics Creator for Windows PCs and Apple Computers for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-ru7300-55-4k-ultra-hd-smart-tv-comprehensive-assessment-is-it-justified-by-its-design/"><u>Samsung RU7300 55 4K Ultra HD Smart TV Comprehensive Assessment: Is It Justified by Its Design?</u></a></li>
+</ul></div>
 

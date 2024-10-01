@@ -1,7 +1,7 @@
 ---
 title: New How to Mute Audio in Windows Movie Maker?
-date: 2024-08-15T02:02:11.827Z
-updated: 2024-08-16T02:02:11.827Z
+date: 2024-09-26T21:45:08.374Z
+updated: 2024-09-30T16:10:59.557Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,18 +32,12 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 * [Part 2: Adding a New Audio Clip to a Video](#part2)
 * [Part 3: A Better Way to Replace Original Audio on Windows](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Mute Audio in Windows Movie Maker?
 
  Muting the audio in a video clip is simple, regardless of the video editing software you're using. Windows Movie Maker lets you mute audio in just a few steps, so let's see how you can mute videos with this video editor.
 
 **Step 1:** In order to start editing a video, you must first import it into Windows Movie Maker. Click on the **Add Videos and Photos** icon in the software's **Home tab** and proceed to select the clip you'd like to mute.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
@@ -54,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 **Step 3:** Make sure that the clip you want to mute is selected and click on the **Video Volume icon** on the left side of the Edit tab.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
@@ -69,16 +60,27 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 ![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
 
  In order to do this, you just have to position the playhead at the desired location and select the **Add music at the current point** option from the drop-down menu. You can change the position of the audio file by dragging it to a new location in the storyboard. Using MP3 or WMA audio file is recommended since other audio file formats may not be compatible with Windows Movie maker.
 
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -88,21 +90,29 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 **Step 2:** Drag and drop the video file to the timeline and then right-click on it. Select the **Audio Detach**  option from the context menu. The audio file will appear in the newly created audio track, and you can just click on the **Volume** icon located at the begging of the audio track to mute that audio track.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png )
 
  For more details, check our guide about [How to remove audio from video in Filmora on Windows.](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to add a new audio clip to your project and replace the old one, you should select the existing audio file and press the delete button on your keyboard. You can then drag and drop the new audio file to the timeline from the software's Media Bin, or the **Music tab**, in case you decide to use songs featured in Filmora's music library. You can cut, trim or adjust the start and end position of the audio file or use some of the audio effects the software offers. When done, click on the **Export** button and select the output format that is most suitable for the project you're working on.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -116,12 +126,31 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-fix-the-green-screen-on-youtube-on-mac/"><u>[New] How to Fix the Green Screen on YouTube on Mac?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-expanding-photography-quality/"><u>[New] In 2024, Expanding Photography Quality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ace-your-youtube-live-with-these-7-powerful-live-streaming-apps-iosandroid-os/"><u>[Updated] 2024 Approved Ace Your YouTube LIVE with These 7 Powerful Live Streaming Apps (iOS/Android OS)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-highest-quality-noiseless-text-converters/"><u>[Updated] 2024 Approved Highest Quality Noiseless Text Converters</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-to-soundtrack-the-complete-conversion-manual-for-2024/"><u>[Updated] Instagram to Soundtrack The Complete Conversion Manual for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725288608348-dvddvd/"><u>DVDへの変換手順：動画全てバッチでDVD化するコツ</u></a></li>
+<li><a href="https://discover-community.techidaily.com/hiearcool-multi-device-7-in-1-usb-c-adapter-analysis-a-daylong-convenience-at-your-fingertips/"><u>Hiearcool Multi-Device 7-in-1 USB-C Adapter Analysis: A Daylong Convenience at Your Fingertips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-inconspicuous-footprint-of-social-media-engagements/"><u>In 2024, The Inconspicuous Footprint of Social Media Engagements</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-a-curated-selection-of-websites-for-obtaining-quality-whoosh-sound-experience/"><u>New 2024 Approved A Curated Selection of Websites for Obtaining Quality Whoosh Sound Experience</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-harmonizing-music-and-imagery-best-ae-lyric-video-blueprints/"><u>New 2024 Approved Harmonizing Music and Imagery Best AE Lyric Video Blueprints</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-8-best-daw-for-recording-mixing-and-mastering-for-2024/"><u>New 8 Best DAW For Recording, Mixing and Mastering for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-converging-sound-and-vision-top-tier-tips-for-effortless-audio-video-alignment-automatically/"><u>New Converging Sound and Vision Top-Tier Tips for Effortless Audio-Video Alignment Automatically</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-foremost-selection-of-9-breakthrough-ai-voices-shaping-the-future/"><u>New In 2024, The Foremost Selection of 9 Breakthrough AI Voices Shaping the Future</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-unveiling-the-best-macdaw-software-of-the-year-detailed-reviews-and-comparisons/"><u>New In 2024, Unveiling the Best MacDAW Software of the Year Detailed Reviews and Comparisons</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-innovative-methods-to-sync-photos-and-audio-sound-design-tips-2023/"><u>New Innovative Methods to Sync Photos and Audio Sound Design Tips 2023</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-streamlining-audio-success-leading-podcast-hosting-options/"><u>New Streamlining Audio Success Leading Podcast Hosting Options</u></a></li>
+<li><a href="https://driver-error.techidaily.com/preventing-persistent-device-failures-dm/"><u>Preventing Persistent Device Failures (DM)</u></a></li>
+</ul></div>
 

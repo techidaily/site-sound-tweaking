@@ -1,7 +1,7 @@
 ---
 title: Updated Techniques for Audience-Friendly Audio Declines in iMovie Projects
-date: 2024-09-24T23:44:09.701Z
-updated: 2024-09-30T16:42:02.177Z
+date: 2024-10-04T03:10:12.607Z
+updated: 2024-10-05T19:52:59.370Z
 tags: 
   - audio editing software
   - audio editing
@@ -62,16 +62,10 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
@@ -88,13 +82,6 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
@@ -106,6 +93,13 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -122,10 +116,10 @@ If you manually adjust the effect, you can have a better effect.
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
@@ -152,6 +146,13 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3. Save Your Video
 
 Click the "Export" button to select one of the export methods. You can choose your desired format or mobile devices, burn it to DVD and upload it to YouTube and Vimeo.
@@ -161,13 +162,6 @@ Click the "Export" button to select one of the export methods. You can choose yo
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -184,15 +178,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-master-the-art-of-video-popularity-best-post-days/"><u>[Updated] 2024 Approved Master the Art of Video Popularity - Best Post Days</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-scrutinizing-splitcam-a-leader-in-video-tech/"><u>[Updated] 2024 Approved Scrutinizing SplitCam - A Leader in Video Tech?</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-enhancing-aural-experiences-implementing-progressive-volume-changes-today/"><u>2024 Approved Enhancing Aural Experiences Implementing Progressive Volume Changes Today</u></a></li>
-<li><a href="https://article-files.techidaily.com/achieving-perfect-picture-quality-on-zoom-for-2024/"><u>Achieving Perfect Picture Quality on Zoom for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/best-value-apeman-c450-dashcam-overview-ideal-for-savvy-shoppers/"><u>Best Value Apeman C450 Dashcam Overview – Ideal for Savvy Shoppers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/how-to-download-podcasts-to-computers-in-2024/"><u>How To Download Podcasts to Computers, In 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-phantom-v-fold-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Phantom V Fold Activity | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-y100i-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo Y100i to Mac? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-music-selection-guide-harmonizing-sounds-for-diverse-filmmaking-styles/"><u>New In 2024, The Ultimate Music Selection Guide Harmonizing Sounds for Diverse Filmmaking Styles</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-soundscaping-cinema-three-original-ways-to-augment-visual-storytelling-with-audio-for-2024/"><u>New Soundscaping Cinema Three Original Ways to Augment Visual Storytelling with Audio for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-emulate-history-essential-ps1-games-for-pc-lovers-for-2024/"><u>[New] Emulate History Essential PS1 Games for PC Lovers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-guide-incorporating-visual-annotations-in-edits/"><u>[Updated] Essential Guide Incorporating Visual Annotations in Edits</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-keywords-in-the-world-of-selling-monetized-youtube-channels-for-2024/"><u>[Updated] Keywords in the World of Selling Monetized Youtube Channels for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transcription-tech-zero-fee-for-the-user/"><u>[Updated] Transcription Tech, Zero Fee for the User</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/discover-superior-ai-search-technologies-for-efficient-web-exploration/"><u>Discover Superior AI Search Technologies for Efficient Web Exploration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-12-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 12 Pro Max | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-m34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy M34 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transition-your-tunes-transferring-collections-between-services/"><u>In 2024, Transition Your Tunes Transferring Collections Between Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tips-for-adding-personalized-audio-effects-to-windows-10-photos-for-2024/"><u>Tips for Adding Personalized Audio Effects to Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-harmonizing-with-your-hearing-leveraging-iphone-to-determine-musical-pieces/"><u>Updated 2024 Approved Harmonizing with Your Hearing Leveraging iPhone to Determine Musical Pieces</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-transformations-in-anime-how-localization-brings-characters-home/"><u>Updated 2024 Approved Transformations in Anime How Localization Brings Characters Home</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-expert-guide-to-volume-control-in-audiovideo-content-for-2024/"><u>Updated Expert Guide to Volume Control in Audio/Video Content for 2024</u></a></li>
 </ul></div>
 

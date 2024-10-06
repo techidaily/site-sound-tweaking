@@ -1,7 +1,7 @@
 ---
 title: Updated Navigating Spatial Audio Management A Guide to Efficient Ducking in Video Production
-date: 2024-09-26T20:04:55.715Z
-updated: 2024-10-01T01:11:49.000Z
+date: 2024-10-02T18:34:03.141Z
+updated: 2024-10-06T05:47:54.498Z
 tags: 
   - audio editing software
   - audio editing
@@ -56,13 +56,6 @@ While creating make-up video tutorials, most of us use a background track to kee
 
 Ideally, if you are creating any other tutorial video for your audience, then audio ducking can be useful. From making video game tutorials to coming up with video lectures on a crucial topic, the concept would come in handy time and time again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the Audio Ducking Feature in Filmora?
 
 To implement audio ducking in your videos, you can use a reliable editing tool like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is a user-friendly and powerful video editing application that lets you "duck" the background sound and easily amplify voiceovers.
@@ -83,21 +76,35 @@ To begin with, you have to install Wondershare Filmora on your computer and laun
 
 ![Import Files](https://images.wondershare.com/filmora/article-images/import-video-audio-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2\.  Import An Audio or Record Voiceovers
 
 Let's suppose that your video already has an audio track in the background, and now you wish to add another audio component. Most of the people would like to record their voices in the video. For this, you can click on the voiceover (mic) icon at the bottom of the preview panel. This will open a dedicated window so that you can start recording your voice for the video.
 
 ![Record Voiceover for Audio Ducking](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apart from that, you can also go to the "Import" feature to add any other audio component to the project. Besides that, Wondershare Filmora also has a wide range of royalty-free audio files that you can easily add to your projects.
 
 ![Royalty-free Audio files for Audio Ducking](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3\.  Apply Audio Ducking to Your Video
@@ -106,22 +113,16 @@ After adding the second audio component, you can view it under the video timelin
 
 ![Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once you have selected the audio you wish to amplify, right-click to get its context menu. Just select the “Adjust Audio” feature from all the available options.
 
 ![Adjust Audio Ducking](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This will launch a dedicated window on the screen with various audio options to apply. Go to the "Ducking" option here and enable the "Lower the volume of other clips" feature. You can also use a slider here to adjust how much you wish to lower the volume of other clips in the project.
 
@@ -130,13 +131,6 @@ This will launch a dedicated window on the screen with various audio options to 
 That’s it! Once you have selected the value, click on the "OK" button. You can now preview the results on Filmora and check that the volume of other audio components has been ducked. You can later go to the “Export” option and save the project in the format of your choice.
 
 ![Preview Audio Ducking](https://images.wondershare.com/filmora/article-images/preview-audio-ducking.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After reading this post, I'm sure that you will know more about audio ducking and how we can implement it. Since many content creators encounter issues while working on their videos, audio ducking would certainly be a helpful feature. With an application like Wondershare Filmora, you can easily implement audio ducking on multiple files and further edit your videos like a pro!
 
@@ -159,18 +153,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-blended-vocalists-one-platform-at-a-time/"><u>[New] In 2024, Blended Vocalists, One Platform at a Time</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-sharpening-vision-in-depth-hdr-techniques-in-photoshop/"><u>[New] Sharpening Vision In-Depth HDR Techniques in PhotoShop</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-fb-content-takedown-what-are-your-rights-and-recourse/"><u>2024 Approved FB Content Takedown What Are Your Rights and Recourse?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/avchdipad/"><u>AVCHDフォーマットでiPadに動画を取り込む - 完全互換方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-crafting-chatgpt-queries-a-guide-for-fitness-buffs/"><u>Effective Strategies for Crafting ChatGPT Queries: A Guide for Fitness Buffs</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-innovative-techniques-unlocking-your-steam-decks-potential/"><u>Exploring Innovative Techniques: Unlocking Your Steam Deck's Potential</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/mastering-silence-techniques-for-eliminating-sibilance-in-recordings-for-2024/"><u>Mastering Silence Techniques for Eliminating Sibilance in Recordings for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-reduced-clarity-of-audio-outputs-in-the-latest-adobe-rush-release/"><u>New 2024 Approved Reduced Clarity of Audio Outputs in the Latest Adobe Rush Release</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-ultimate-mp3-editors-manual-techniques-for-optimal-sound-quality/"><u>New 2024 Approved The Ultimate MP3 Editors Manual Techniques for Optimal Sound Quality</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-ban-free-omegle-tactics-to-restore-profile-access/"><u>New In 2024, Ban-Free Omegle Tactics to Restore Profile Access</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-xbox-audio-hurdles-with-windows-11-system-upgrades/"><u>Overcoming Xbox Audio Hurdles with Windows 11 System Upgrades</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-for-audio-editors-using-garageband-for-2024/"><u>The Ultimate Guide for Audio Editors Using GarageBand for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/wavitunes-mp3/"><u>WAVに直すiTunes MP3音楽ファイルの変換ガイド</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftsoundphone-apps-top-10-for-rapid-music/"><u>[Updated] SwiftSoundphone Apps Top 10 for Rapid Music</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed/"><u>2024 Approved Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/discover-the-most-reliable-and-easy-to-use-free-online-converters-from-avi-to-mp4-top-11-picks/"><u>Discover the Most Reliable and Easy-to-Use Free Online Converters From AVI to MP4 – Top 11 Picks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-11-and-10-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 11 & 10</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/inverted-soundscapes-the-premier-backwards-music-videos-for-2024/"><u>Inverted Soundscapes The Premier Backwards Music Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2n24-ultimate-netgear-default-password-directory-for-hassle-free-setup/"><u>July 2N24 - Ultimate NETGEAR Default Password Directory For Hassle-Free Setup</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-crafting-an-elegant-audio-dissolve-experience/"><u>New 2024 Approved Crafting an Elegant Audio Dissolve Experience</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-guide-to-discovering-mp3-files-with-kitty-calls-and-meows/"><u>New 2024 Approved Guide to Discovering MP3 Files with Kitty Calls and Meows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/synergy-with-silicon-6-traits-for-a-flourishing-future-workforce/"><u>Synergy with Silicon: 6 Traits for a Flourishing Future Workforce</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-insiders-guide-to-instagram-stories-magic/"><u>The Ultimate Insider's Guide to Instagram Stories Magic</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unleashing-the-best-mobile-moba-battles-for-2024/"><u>Unleashing the Best Mobile MOBA Battles for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/1714937848862-updated-in-2024-how-to-add-audio-fade-out-effect/"><u>Updated In 2024, How to Add Audio Fade Out Effect?</u></a></li>
 </ul></div>
 

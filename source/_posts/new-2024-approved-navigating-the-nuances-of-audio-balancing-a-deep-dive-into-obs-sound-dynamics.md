@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics
-date: 2024-08-15T02:06:35.131Z
-updated: 2024-08-16T02:06:35.131Z
+date: 2024-10-05T08:42:04.818Z
+updated: 2024-10-05T16:58:41.040Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 # How to Balance Your Stream Sound with OBS Audio Ducking?
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ Video making or filmmaking has now come to the level where the history of imperf
 
 If you are a content creator, maybe you will be familiar with coordinating the right audio with the video. If not, it isn't a problem anymore as I have included a detailed guide of implementing **audio ducking** in a step-wise way. With primary importance to the popular software **OBS** followed by a suitable alternative, let's begin our article!
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Balance Your Stream Sound with OBS Audio Ducking?
 
 **OBS** (Open Broadcaster Software) is free and open-source software reliable for Windows, Linux, and macOS 10.13+. With countless features like real video/audio capture, mixer, custom transitions, easy-to-use configurations, pre-source filters, VST plug-in support, noise suppression, and a lot more, you can accomplish audio ducking in OBS by adding a sidechain/ducking compression filter. Thus, perform OBS audio ducking in a clean manner by lowering the audio automatically once OBS detects audio on the other audio source.
@@ -60,9 +54,6 @@ You can now specify the values of the ratio, threshold, attack, release, output 
 
 It's complete. Yes, OBS audio ducking is over. Now you can check the video and alter the parameters if required after a preview.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: The Best Audio Ducking Alternative to OBS
 
 Although OBS is preferable for being an open-source and free option with comprehensive abilities in video recording and live streaming strategies, the OBS ducking interface might seem a little unfriendly, making it difficult for newbies. Hence, we have come up with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in this session as the best alternative to Streamlabs OBS audio ducking. With an intuitive easy-to-use interface, and attractive video/audio features, Filmora stands as the recommended choice for professionals and beginners!
@@ -75,12 +66,28 @@ Developed for the inspired, Filmora follows its unique way of ducking sound, eas
 * Add voiceover, sprinkle magic with filters, detect beat, and create markers easily with Wondershare Filmora.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to use the audio ducking feature in Wondershare Filmora?
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Download and install Wondershare Filmora by clicking on the **Try It Free** button above. Once installed, follow the steps below.
 
@@ -101,26 +108,30 @@ Select the clips with dialogue, whereby right-clicking or double-clicking on the
 On the following audio editing window, tick the "**Lower the volume of other clips**" option to reduce background music or any other media volume.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 I hope you have now come to know why **ducking sound** is a must and how well **Streamlabs OBS** and **Wondershare Filmora** carry out the job. Lastly, with the step-by-step guide to accomplish **audio ducking** with both the software, we can conclude that OBS performance is better, whereas Wondershare Filmora is the best choice in terms of interface and features!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -129,5 +140,21 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-quick-fix-for-turning-yt-lists-backwards/"><u>[Updated] The Quick Fix for Turning YT Lists Backwards</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-value-dome-cams-affordable-360-filmmaking-tools/"><u>[Updated] Top Value Dome Cams Affordable 360° Filmmaking Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-procuring-growls-and-whispers-audio-packages/"><u>2024 Approved Procuring Growls and Whispers Audio Packages</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-vidgrabmaster-mobilepc-app-downloads/"><u>2024 Approved VidGrabMaster Mobile/PC App Downloads</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-drones-specifically-designed-for-gopros/"><u>Cutting-Edge Drones Specifically Designed for GoPros</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977268796-easy-download-of-asus-z170-a-drivers-for-windows-1187-get-the-right-support-now/"><u>Easy Download of ASUS Z170-A Drivers for Windows 11/8/7 – Get the Right Support Now!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-a78-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo A78 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-note-50-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme Note 50 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-essential-guide-to-achieving-professional-level-audio-on-your-own-setup/"><u>New The Essential Guide to Achieving Professional-Level Audio on Your Own Setup</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-aesthetic-audio-enhancer-benefits-drawbacks-and-alternative-options/"><u>New The Ultimate Guide to Aesthetic Audio Enhancer Benefits, Drawbacks, and Alternative Options</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-10-free-browser-based-daws-for-creatives-for-2024/"><u>New Top 10 Free Browser-Based DAWs for Creatives for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-10-essential-harvesting-tools-for-video-editors/"><u>Top 10 Essential Harvesting Tools for Video Editors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-picks-samsungs-virtual-reality-adventures/"><u>Top Picks Samsung's Virtual Reality Adventures</u></a></li>
+</ul></div>
 

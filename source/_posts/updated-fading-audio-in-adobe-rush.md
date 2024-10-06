@@ -1,7 +1,7 @@
 ---
 title: Updated Fading Audio in Adobe Rush
-date: 2024-09-27T19:12:52.510Z
-updated: 2024-09-30T20:11:51.496Z
+date: 2024-10-02T17:02:24.038Z
+updated: 2024-10-06T07:31:19.431Z
 tags: 
   - audio editing software
   - audio editing
@@ -45,10 +45,16 @@ Most video clips contain an audio track, but in some cases, you might want to re
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-media-panel.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Alternatively, you can just drag and drop an audio file from the folder to the Media Panel. Filmora also features a rich library of royalty-free music you can use to select a soundtrack for your video. Drag and drop the video or audio file into the timeline from the Media Panel.
@@ -64,10 +70,16 @@ Clicking on the Edit button, located at the end of the software's toolbar will g
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-panel.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Fade in and Fade out sliders are located at the top of the Audio panel and you can drag the handle on the slider or you can insert new Fade in or Fade out values manually in the boxes next to the sliders. You can click play and decide if you like the effect you created before you click OK to confirm the changes.
@@ -79,10 +91,16 @@ In case you want to fade an audio quickly you can do so directly from the timeli
 ![](https://images.wondershare.com/filmora/article-images/fading-audio-in-filmora-9-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car Horn that can be combined with the Fade in or Fade out effect to create a better soundtrack for your video. When ready, click on the Export button and proceed to choose the video's resolution, file format or export destination. The software also lets you export MP3 files, which enables you to save all the changes you make while editing an audio file.
@@ -94,10 +112,10 @@ Even though Adobe Rush is an app aimed at YouTubers and social media video creat
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -115,19 +133,15 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-pinnacle-nintendo-switch-fighting-game-index-max-156/"><u>[New] 2024 Approved Pinnacle Nintendo Switch Fighting Game Index (Max 156)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-exploring-mozillas-split-screen-technique-in-firefox/"><u>[New] Exploring Mozilla's Split Screen Technique in Firefox</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-personalize-speakability-changing-your-tone-on-instagram-posts/"><u>[Updated] 2024 Approved Personalize Speakability Changing Your Tone on Instagram Posts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-comprehensible-guide-to-wincams-bests/"><u>[Updated] In 2024, The Comprehensible Guide to WinCams' Bests</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-vpx-film-record-thorough-examination-and-reviews/"><u>[Updated] VPX Film Record Thorough Examination & Reviews</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-lenovo-thinkphone-is-unlocked-by-drfone-android/"><u>How To Check if Your Lenovo ThinkPhone Is Unlocked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-x100-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo X100 and Browser | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-mastering-garageband-a-comprehensive-tutorial-for-recording-music-for-2024/"><u>New Mastering GarageBand A Comprehensive Tutorial for Recording Music for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-omegle-explained-navigating-free-chat-engagements-with-a-lens-on-security-concerns/"><u>New Omegle Explained Navigating Free Chat Engagements with a Lens on Security Concerns</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-moral-dilemrances-of-disapproving-platforms/"><u>The Moral Dilemrances of Disapproving Platforms</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-sound-design-excellence-applying-audio-ducking-methods-in-powerdirector-for-non-intrusive-volume-reduction-for-2024/"><u>Updated Sound Design Excellence Applying Audio Ducking Methods in PowerDirector for Non-Intrusive Volume Reduction for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-guide-to-premium-audio-editors-for-creative-distortion-for-2024/"><u>Updated The Ultimate Guide to Premium Audio Editors for Creative Distortion for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-youtube-sound-library/"><u>Updated YouTube Sound Library</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-companion-for-a-seamless-instagram-video-journey/"><u>[Updated] 2024 Approved The Ultimate Companion for a Seamless Instagram Video Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-create-awe-inspiring-gopro-time-lapse-cinematography/"><u>2024 Approved Create Awe-Inspiring GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-step-by-step-mastering-ppros-full-screen-preview/"><u>2024 Approved Step-by-Step Mastering PPro's Full Screen Preview</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-of-both-worlds-androids-8-most-popular-free-and-paid-videomosaic-apps-for-2024/"><u>Best of Both Worlds Android's 8 Most Popular Free & Paid Videomosaic Apps for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embrace-digital-serenity-unveiling-the-light-phone-3-the-pinnacle-of-minimalist-mobile-tech/"><u>Embrace Digital Serenity: Unveiling the Light Phone 3, the Pinnacle of Minimalist Mobile Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-msmpengexe-high-cpu-usage-on-your-windows-10-pc-complete-guide/"><u>Solving the MsMpEng.exe High CPU Usage on Your Windows 10 PC - Complete Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-syncing-soundtracks-with-visuals-for-2024/"><u>Updated Syncing Soundtracks with Visuals for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-essential-guide-to-achieving-professional-level-audio-on-your-own-setup/"><u>Updated The Essential Guide to Achieving Professional-Level Audio on Your Own Setup</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-mp3-to-mp4-conversion-workflow-a-comprehensive-2023-update-for-2024/"><u>Updated The MP3-to-MP4 Conversion Workflow A Comprehensive 2023 Update for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-guide-8-leading-music-creation-suites-for-mac-and-windows/"><u>Updated The Ultimate Guide 8 Leading Music Creation Suites for Mac & Windows</u></a></li>
 </ul></div>
 

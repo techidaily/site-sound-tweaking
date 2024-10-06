@@ -1,7 +1,7 @@
 ---
 title: Updated Perfecting Your Soundtrack Techniques for Implementing Automatic Audio Suppression in Final Cut Pro X for 2024
-date: 2024-09-24T22:52:25.279Z
-updated: 2024-09-30T20:32:56.973Z
+date: 2024-10-03T08:18:48.799Z
+updated: 2024-10-05T20:08:27.321Z
 tags: 
   - audio editing software
   - audio editing
@@ -74,18 +74,18 @@ You can now copy the modified music clip, go to the timeline, and paste it at th
 
 ![Audio Ducking Media Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: The Best FCPX Alternative for Mac to Perform Automatic Audio Ducking
 
 As you can see, it is pretty tough to do audio ducking in Final Cut Pro as there is no automatic feature in the tool. Therefore, you can consider using [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) to perform automatic sound ducking and save your time. It is an inbuilt feature in Filmora that would perform auto-ducking instantly, and you can also mark the level of ducking in the video.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ideally, you can perform audio ducking on voiceover or another soundtrack in Wondershare Filmora. To perform music ducking via Wondershare Filmora on Mac, you can follow these steps:
 
@@ -95,33 +95,26 @@ To begin with, just launch Wondershare Filmora on your Mac and just drag-and-dro
 
 ![Filmora Import Media File](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
 
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
 ![Filmora Royalty Free Audio Files](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Perform Automatic Audio Ducking
 
@@ -130,16 +123,10 @@ Great! Now, on the timeline of Filmora, you can see your video and the music tra
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
@@ -149,6 +136,13 @@ Afterward, right-click the audio track and select the “Adjust Audio” option 
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
 
 ![Filmora Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3: Export the Edited Video
 
@@ -175,19 +169,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-cultivate-a-thriving-igtv-community-5-key-increase-strategies/"><u>[Updated] In 2024, Cultivate a Thriving IGTV Community 5 Key Increase Strategies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-multiple-users-listen-to-the-same-song-on-spotify-at-once/"><u>Can Multiple Users Listen to the Same Song on Spotify at Once?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-animations-and-crafting-custom-visual-impact/"><u>In 2024, Mastering Animations & Crafting Custom Visual Impact</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-reimagining-your-images-effective-uses-of-the-background-eraser-in-adobe-photoshop/"><u>In 2024, Reimagining Your Images Effective Uses of the Background Eraser in Adobe Photoshop</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-harmony-of-the-wild-selecting-the-very-best-ios-and-android-nature-audio-apps/"><u>New 2024 Approved Harmony of the Wild Selecting the Very Best iOS & Android Nature Audio Apps</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-perfecting-your-macs-audio-capabilities-5-must-know-techniques-to-record-high-quality-sounds/"><u>New 2024 Approved Perfecting Your Macs Audio Capabilities 5 Must-Know Techniques to Record High-Quality Sounds</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-add-music-background-music-to-video-without-hassle/"><u>New In 2024, How to Add Music (Background Music) to Video without Hassle</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-the-top-8-acoustic-themes-for-professional-video-enhancement/"><u>New The Ultimate Guide to the Top 8 Acoustic Themes for Professional Video Enhancement</u></a></li>
-<li><a href="https://windows11.techidaily.com/power-through-print-settings-in-win11-quick-guide-max-48-chars/"><u>Power Through Print Settings in Win11 - Quick Guide (Max 48 Chars)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/text-to-audio-conversion-from-words-to-mp3-across-all-devices-for-2024/"><u>Text-to-Audio Conversion From Words to MP3 Across All Devices for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/unlock-the-full-potential-of-online-gaming-with-morphvox-a-players-ultimate-manual-to-mastering-changeable-voices-for-2024/"><u>Unlock the Full Potential of Online Gaming with Morphvox A Players Ultimate Manual to Mastering Changeable Voices for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/upgrade-needed-enhance-your-cpu-to-run-vanguard-successfully/"><u>Upgrade Needed: Enhance Your CPU to Run Vanguard Successfully</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-from-end-to-start-annoying-yourself-with-yt-playlist-upside-down/"><u>[New] 2024 Approved From End to Start Annoying Yourself with YT Playlist Upside-Down</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-quantitative-vs-qualitative-analysis-a-guide-for-professionals/"><u>[New] Mastering the Art of Quantitative vs Qualitative Analysis A Guide for Professionals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-visualstreamerw11-capture-and-record-your-desktop-for-2024/"><u>[New] VisualStreamerW11 Capture and Record Your Desktop for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-master-strategies-for-skyrocketing-youtube-follows/"><u>2024 Approved Master Strategies for Skyrocketing YouTube Follows</u></a></li>
+<li><a href="https://article-files.techidaily.com/audio-integration-into-visual-screens-via-apple-for-2024/"><u>Audio Integration Into Visual Screens via Apple for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-find-your-next-vector-the-best-10-pics-sites/"><u>In 2024, Find Your Next Vector The Best 10 Pics Sites</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-integrating-sound-into-visual-media-adobe-premiere-pro-guide/"><u>New 2024 Approved Integrating Sound Into Visual Media Adobe Premiere Pro Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-5-top-sites-to-download-royalty-free-comedy-background-music/"><u>New 5 Top Sites to Download Royalty Free Comedy Background Music</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-elite-ios-music-editing-tools-the-top-4-apps/"><u>New Elite iOS Music Editing Tools The Top 4 Apps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-art-of-auditory-transformation-replacing-audio-in-videos-step-by-step/"><u>New In 2024, The Art of Auditory Transformation Replacing Audio in Videos Step by Step</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-ancient-aria-top-tier-music-picks-for-wedding-video-production/"><u>Updated 2024 Approved Ancient Aria Top-Tier Music Picks for Wedding Video Production</u></a></li>
 </ul></div>
 

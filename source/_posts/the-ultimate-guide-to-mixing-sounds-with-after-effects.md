@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Mixing Sounds with After Effects
-date: 2024-08-15T02:04:43.324Z
-updated: 2024-08-16T02:04:43.324Z
+date: 2024-10-02T20:28:02.166Z
+updated: 2024-10-06T01:51:18.368Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
 # How to Add Audio in After Effects
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -49,9 +46,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 6\. Adjust the audio settings. Double click "L" on you keyboard to show the audio waveform.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
@@ -72,9 +66,6 @@ Users are not restricted to working across After Effects to manage their audios.
 
 Multiple audio adjustment options are available across Wondershare Filmora. While fading the audio and managing its pitch, users can utilize denoising and ducking tools to make different edits across the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To add audio in Wondershare Filmora, you need to follow the steps as explained below.
@@ -83,10 +74,14 @@ To add audio in Wondershare Filmora, you need to follow the steps as explained b
 
 Download and install the official software of Wondershare Filmora on your device. Once installed, you need to launch it and tap on “New Project” to start working on Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Import Audio File**
 
@@ -94,23 +89,31 @@ Once a new project starts, tap on 'File' followed by "Import Media." Select the 
 
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Drag Audio to Timeline**
 
 To perform different edits across the audio, the user needs to drag the audio on the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
 
 **Step 4: Export Audio File**
 
 Once you are done editing the audio, you can easily save it across your device. For that, tap on "Export" to open a new window. Across the "Local" section, select "MP3" from the list of formats and figuratively set all the other settings before tapping on "Export."
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 3\.  FL Studio 12.1.2
 
@@ -126,13 +129,18 @@ Wavosaur is an old tool that doesn’t run on most modern computers and laptops.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,4 +148,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ideal-choice-best-free-reliable-mac-screenshot-tools/"><u>[New] 2024 Approved Ideal Choice Best Free, Reliable Mac Screenshot Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-websites-your-gateway-to-youtube-branded-content-for-2024/"><u>[Updated] Discover Websites Your Gateway to YouTube Branded Content for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-top-10-audio-editing-apps-beyond-audacity/"><u>2024 Approved Top 10 Audio Editing Apps Beyond Audacity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-windows-11-gamers-script-to-save-playbacks/"><u>2024 Approved Windows 11 Gamers' Script to Save Playbacks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/8-best-online-free-voice-recorder-for-2024/"><u>8 Best Online Free Voice Recorder for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/commemorating-10-years-mondlybutton-innovation/"><u>Commemorating 10 Years: MondlyButton Innovation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-a2-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi A2 Pattern Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 6 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-itel-a60s-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Itel A60s</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/innovating-sound-design-the-impact-and-prowess-of-magix-samplitude-for-2024/"><u>Innovating Sound Design The Impact and Prowess of MAGIX Samplitude for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-audio-liberation-in-visual-media-innovative-approaches-to-extracting-sound-from-films-and-videos/"><u>New 2024 Approved Audio Liberation in Visual Media Innovative Approaches to Extracting Sound From Films and Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-auditory-technology-insight-understanding-sound-forge/"><u>New Auditory Technology Insight Understanding Sound Forge</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-beatbank-your-digital-library-of-dj-masterpieces-for-2024/"><u>New BeatBank Your Digital Library of DJ Masterpieces for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-10-tiktok-secrets-to-social-success/"><u>Top 10 TikTok Secrets to Social Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-armored-core-vi-wont-start/"><u>Troubleshooting Steps for When Armored Core VI Won't Start</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-vehicle-decrypting-pioneers-of-tomorrow/"><u>Ultimate Vehicle Decrypting Pioneers of Tomorrow</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-exploring-cricket-auditory-signatures/"><u>Updated 2024 Approved Exploring Cricket Auditory Signatures</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-how-to-remove-vocals-from-any-song-top-8-song-lyrics-removers/"><u>Updated 2024 Approved How to Remove Vocals From Any Song Top 8 Song Lyrics Removers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-identifying-repositories-of-flatulence-related-auditory-experiences-for-creative-use/"><u>Updated In 2024, Identifying Repositories of Flatulence-Related Auditory Experiences for Creative Use</u></a></li>
+</ul></div>
 

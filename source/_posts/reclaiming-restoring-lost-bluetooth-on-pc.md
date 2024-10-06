@@ -1,7 +1,7 @@
 ---
 title: "Reclaiming: Restoring Lost Bluetooth on PC"
-date: 2024-08-15T02:04:12.106Z
-updated: 2024-08-16T02:04:12.106Z
+date: 2024-10-03T06:14:38.084Z
+updated: 2024-10-05T19:30:21.583Z
 tags:
   - win11
   - win10
@@ -15,18 +15,10 @@ thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a4
 
 ## Reclaiming: Restoring Lost Bluetooth on PC
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/missing-driver.jpg)
 
  Many users are experiencing issues with their Bluetooth devices, and have trouble connecting Bluetooth headphones, keyboards, and mice, etc. What to do when the Bluetooth is missing from Device Manager?
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Make sure your Bluetooth is turned on](https://modlily.sjv.io/aw92wr)**
@@ -34,9 +26,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. **[Reinstall the Bluetooth driver manually](https://25home.pxf.io/vnbxnv)**
 4. **[Restart the Bluetooth service](https://bluetties.sjv.io/lxv4pm)**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Make sure your Bluetooth is turned on
 
  Before getting started, it’s recommended that you check your Bluetooth status to make sure it’s already on by going to the Action Center (in the lower-right corner of your desktop):
@@ -45,18 +34,19 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On your keyboard, press the**Windows** logo key +**R** key and enter**ms-settings:bluetooth** to open your Bluetooth settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-14.png)
 
  3) Add Bluetooth devices again. If your devices are listed here, you can remove them and add them back again. If your Bluetooth option is also missing from settings or grayed out, it means there’s some problem with your Bluetooth driver, and you should go to the next fix instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![bluetooth settings](https://images.drivereasy.com/wp-content/uploads/2021/11/image-15-1200x938.png)
 
  Restart your PC and check if this fixes your**Bluetooth missing from Device Manager** problem. If it doesn’t show in the Device Manager, you can try the next fix below.
@@ -71,16 +61,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  2) Click**Next** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-16.png)
 
  3) The Windows diagnostic tool will start detecting problems. Wait for the process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-18-1200x934.png)
 
  4) Click**Apply this fix** to install some missing drivers and updates that your system finds. Usually, this requires a restart. Make sure you have saved the opened files prior to that.
@@ -88,6 +72,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-19.png)
 
  But if there’s no problem detected, you can head on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Reinstall the Bluetooth driver manually
 
@@ -103,11 +94,25 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![update with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/11/image-20-1200x914.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) If you just want to update your Bluetooth driver for free, simply click the**_Update_** button next to it (it’s partly manual).
 
  Or click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-21-1200x914.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** You can uninstall a driver by clicking the down arrow key next to a device, and selecting**Uninstall driver** .
 
@@ -124,29 +129,33 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  1) On your keyboard, press the**Windows** key +**R** key at the same time, and enter**services.msc** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-22.png)
 
  2) Once the Services window opens, locate Restart Bluetooth Support Service. Right-click the**Bluetooth Support Service** and select**Restart** . If it’s not working, you can right-click it and select**Start** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-23-1200x856.png)
 
  3) After enabling this service or the restart, right-click on it again, and choose **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-24-1200x854.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Ensure **startup type** is**Automatic** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-25.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click**Apply** \>**OK** to save the changes.
 
@@ -163,8 +172,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,6 +179,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-simplify-your-remote-meetings-integrating-skype-and-zoom/"><u>[New] In 2024, Simplify Your Remote Meetings Integrating Skype and Zoom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-pantheon-of-praise-celebrating-ten-superstar-posts/"><u>[New] The Pantheon of Praise Celebrating Ten Superstar Posts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unseen-wealth-the-underground-auction-of-elusive-artifacts-2023-edition-for-2024/"><u>[New] Unseen Wealth The Underground Auction of Elusive Artifacts, 2023 Edition for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-sync-audio-to-powerpoint-presentations/"><u>[Updated] 2024 Approved Sync Audio to PowerPoint Presentations</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-culinary-callings-30-unique-show-title-suggestions/"><u>[Updated] Culinary Callings 30 Unique Show Title Suggestions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-photographic-fusion-at-full-speeds-google-collage-techniques-for-2024/"><u>[Updated] Photographic Fusion at Full Speeds Google Collage Techniques for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-digital-presence-using-cookiebot-software-features/"><u>Boost Digital Presence Using Cookiebot Software Features</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/comprehensive-playlists-of-relaxing-melodies-for-serene-atmospheres/"><u>Comprehensive Playlists of Relaxing Melodies for Serene Atmospheres</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/curated-list-of-top-10-song-tracks-for-enhancing-visual-narratives/"><u>Curated List of Top 10 Song Tracks for Enhancing Visual Narratives</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/expert-reviews-of-top-rated-internet-services-for-mp3-metadata-optimization/"><u>Expert Reviews of Top-Rated Internet Services for MP3 Metadata Optimization</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-cutting-edge-audio-solutions-top-online-sites-for-professional-grade-mp3-modification/"><u>New In 2024, Cutting Edge Audio Solutions Top Online Sites for Professional-Grade MP3 Modification</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-silence-meets-you-an-easy-step-by-step-approach-to-disabling-zoom-microphones/"><u>New In 2024, Silence Meets You An Easy, Step-by-Step Approach to Disabling Zoom Microphones</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mp3-conversion-made-simple-3-effective-techniques-for-podcast-files/"><u>New MP3 Conversion Made Simple 3 Effective Techniques for Podcast Files</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-v30-by-drfone-android/"><u>Three Ways to Sim Unlock Realme V30</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unraveling-vloggers-terrors-and-techniques-to-triumph-for-2024/"><u>Unraveling Vloggers' Terrors and Techniques to Triumph for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer
-date: 2024-08-15T02:05:57.174Z
-updated: 2024-08-16T02:05:57.174Z
+date: 2024-10-04T00:47:06.865Z
+updated: 2024-10-05T22:56:27.197Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
 # Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ Too many times, while mixing voiceover with the background music in a video, the
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
 If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
@@ -63,17 +57,24 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
 
@@ -99,18 +100,20 @@ That’s it! After making the changes, just click on the “OK” button and Fil
 
 Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,5 +122,19 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-change-name-in-google-meet/"><u>[Updated] How to Change Name in Google Meet?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-record-youtube-live-stream-on-any-device/"><u>2024 Approved How To Record YouTube Live Stream On Any Device?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-lg-bp350s-visual-clarity-and-color-range/"><u>2024 Approved In-Depth Analysis LG BP350's Visual Clarity and Color Range</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-color-changes-11-essential-tips/"><u>2024 Approved Mastering Color Changes 11 Essential Tips</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-civi-3-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Civi 3? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-vs-free-gpt-4-understanding-the-superior-value-proposition-with-six-key-insights/"><u>ChatGPT Plus Vs. Free GPT-4: Understanding the Superior Value Proposition with Six Key Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-essential-specifications-for-gaming-devices/"><u>Discovering Essential Specifications for Gaming Devices</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-enhance-your-communication-the-ultimate-guide-to-employing-voice-changer-plus-on-iphone/"><u>New 2024 Approved Enhance Your Communication The Ultimate Guide to Employing Voice Changer Plus on iPhone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-adjusting-sound-levels-in-audacity-raising-the-volume-up-lowering-it-down/"><u>New In 2024, Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-remove-audio-from-mkv-2023-update/"><u>New In 2024, How to Remove Audio From MKV-2023 Update</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-audio-find-and-test-your-best-free-online-editor-options-in-these-top-6-selections/"><u>New Mastering Audio Find and Test Your Best Free Online Editor Options in These Top 6 Selections</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tutorial-activate-gpts-beta-browser-and-plugin-functionality/"><u>Tutorial: Activate GPT's Beta Browser & Plugin Functionality</u></a></li>
+</ul></div>
 

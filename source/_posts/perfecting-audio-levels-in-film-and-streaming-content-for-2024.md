@@ -1,7 +1,7 @@
 ---
 title: Perfecting Audio Levels in Film and Streaming Content for 2024
-date: 2024-08-15T02:03:41.960Z
-updated: 2024-08-16T02:03:41.960Z
+date: 2024-10-01T07:14:46.882Z
+updated: 2024-10-06T05:54:03.245Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
 # How to Adjust Audio Volume in Videos \[4 Ways\]
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -33,20 +30,12 @@ The fact of the matter is that even a minor error in the video’s soundtrack ca
 
 To increse the volume of your video, [click here.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Four Ways of Adjusting Audio Volume in Filmora
 
 The audio clips often have different volume levels, so in order to create a balanced soundtrack, you have to adjust the volume of each audio track you intend to use in your projects. Filmora offers several different ways to adjust the volume of audio files quickly and effortlessly. Here’s how you can increase or decrease the volume of the audio clips in Filmora.
 
 Download Filmora and watch the video below to get a full knowledge abtou adjusting volume!
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 1. Changing the Audio Volume of Entire Track
@@ -65,18 +54,12 @@ Filmora also lets you create the Fade In and Fade Out effect directly from the t
 
 On the left side of the Audio Editing panel that can be accessed by double clicking on an audio file, you will be able to see the **volume slider.** Its value is going to be set to **0 dB** by default and you just have to **drag it upward or downward** in order to adjust the audio volume. As you drag the slider the new audio volume value is going to be displayed in a box below the slider. The **left/right balance value** can be adjusted by **dragging the knob** that is located above the volume slider in either direction. Alternatively, you can **insert a new numerical value in the box** below the knob. If the displayed value is **0 dB, then the left and right channels are balanced**, while the value of **\-100 dB** means that all the sound goes through the left channel and if the displayed value is **100 dB** all the sound will go through the right channel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![stereo-mode](https://images.wondershare.com/filmora/guide/stereo-mode.jpg)
 
 #### 4. Adding Keyframes to Adjust the Audio Volume
 
 Once you add an audio file to the timeline you can adjust its volume by **adding keyframes** to it. **Place** **the playhead to the exact spot in the audio file** where you want to add the first keyframe and then **double click on the file to bring up the Audio Editing panel**. Click on the **Add Volume Keyframes** icon and **use the volume slider to adjust the volume** at the position of the first keyframe.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![animation-customize](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
 
 Simply **move the playhead and change the value on the volume slider** to add new keyframes to the audio file. This method of adjusting audio volume enables you to set different volume values for different parts of an audio file.[](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -87,9 +70,6 @@ Still not solved? Try this [audio guide of Filmora](https://tools.techidaily.com
 
 Having complete control over the volume of all audio files you use in your projects is important for so many different reasons. Filmora offers four easy ways to adjust the audio volume so you can focus on more important tasks. Which method of adjusting the audio volume in Filmora do you like to use the most? Leave a comment and let us know.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -98,12 +78,35 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-canva-expertise-10-sneak-peek-tips-for-photo-editors-for-2024/"><u>[New] Canva Expertise 10 Sneak Peek Tips for Photo Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-owner-uncovering-your-subscribers-for-2024/"><u>[New] Channel Owner Uncovering Your Subscribers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-obtain-pristine-photo-sets-for-free-use/"><u>2024 Approved Obtain Pristine Photo Sets for Free Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/adding-soundscapes-to-your-videos-cross-platform-tips-for-windows-and-mac-users/"><u>Adding Soundscapes to Your Videos: Cross-Platform Tips for Windows and Mac Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/come-integrare-le-fotografie-nei-tuoi-filmati-tre-strategie-valide-per-i-webmaster-italiani/"><u>Come Integrare Le Fotografie Nei Tuoi Filmati: Tre Strategie Valide per I Webmaster Italiani</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-and-evaluate-insights-into-mapmyride-for-enthusiastic-cyclists/"><u>Explore & Evaluate - Insights Into MapMyRide for Enthusiastic Cyclists</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-10-slow-motion-video-editing-software/"><u>New In 2024, Top 10 Slow Motion Video Editing Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-fixing-failed-to-start-issues-with-windows-media-player-servers/"><u>Troubleshooting Steps for Fixing 'Failed to Start' Issues with Windows Media Player Servers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-10-secure-online-forums-dedicated-to-meeting-fellow-netizens-for-2024/"><u>Updated 10 Secure Online Forums Dedicated to Meeting Fellow Netizens for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-innovative-music-creation-with-ipads-the-8-leading-ios-daws-you-must-try/"><u>Updated 2024 Approved Innovative Music Creation with iPads The 8 Leading iOS DAWs You Must Try</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-smartest-spots-to-download-trendy-whoosh-sounds-online/"><u>Updated 2024 Approved The Smartest Spots to Download Trendy Whoosh Sounds Online</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-analyzing-auditory-excellence-the-revised-assessment-of-the-cambridge-cxu-equipment-2023-edition-for-2024/"><u>Updated Analyzing Auditory Excellence The Revised Assessment of the Cambridge CXU Equipment, 2023 Edition for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-how-to-dub-a-video-video-dubbing-for-2024/"><u>Updated How to Dub a Video Video Dubbing for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-canticle-cleanse-software-generate-artisanal-harmony-tracks/"><u>Updated In 2024, Canticle Cleanse Software Generate Artisanal Harmony Tracks</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

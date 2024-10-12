@@ -1,7 +1,7 @@
 ---
 title: New Ensuring Consistent Acoustic Output How to Calibrate Volumes in VLC Media Center for 2024
-date: 2024-08-20T09:03:38.023Z
-updated: 2024-08-21T09:03:38.023Z
+date: 2024-10-11T01:29:47.685Z
+updated: 2024-10-11T16:08:25.082Z
 tags: 
   - audio editing software
   - audio editing
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 ## Ensuring Consistent Acoustic Output: How to Calibrate Volumes in VLC Media Center
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How To Normalize Volume in VLC
 
 How to normalize volume, why should we do it, and what is it after all? – these are the questions when it comes to editing our audio files, as well as the video clips we tend to change the sound of. So, first of all, the volume normalization is pretty much explained as follows: The process when a constant amount of gain is applied to the audio recording, bringing the amplitude to a desirable level, which is “the norm” for the project. If it is a little bit difficult to understand, we have to highlight that when this tool is applied to our volume, the whole recording has the same amount of gain across it, every piece affected the same way. Accordingly, when we normalize volume, the relative dynamics are not changed.
@@ -41,9 +38,6 @@ First, of course, as every time working with any software, you need to have VLC 
 
 This is not something perfect, because it’s so simple to do and actually what it does is just help adjust the general volume, so it leaves the specifics alone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![help adjust general volume](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-1.jpg)
 
 But, it might be the case that you are not so satisfied with the simple editing and want a little more to get from the editing process on VLC. So, you can do more with the Audio Effects menu there. And the steps are as follows:
@@ -63,22 +57,27 @@ Don’t underestimate Attack time and release time, either. They graduate the ch
 Therefore, you are now equipped with the most information you will need to normalize volume in VLC Player – so free to give it a go, play around with the different settings and carry out the best result imaginable for you!
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to normalize audio in Wondershare Filmora?
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now, even though we already know how to normalize audio in VLC in the simplest, as well as in the more advanced way, it might be even better if we know some more about normalizing audios in different programs. Something worth discussing is a software called [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which carries out the same task wonderfully. Although, unlike VLC Media Player, it is a real [video editor](https://tools.techidaily.com/wondershare/filmora/download/), but don’t panic if you have never laid your hand on editing – it is one of the easiest to use ini the word, operating also both on Mac and Windows, and its interface is utterly understandable for beginners right away. And, actually, it is a qhile that Wondershare Filmora X introduced the feature to normalize the audio for the first time. What to say more - you might want to stop now and download the latest version of Filmora because now we are about to learn how to normalize audio from the video there – so, tune in![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 When it is done installing, open the software. Now, click and drag the video of which the audio you want to normalize. Now you can select the clip you have chosen – if there are multiple, select all of them, then right-click and choose Detach Audio.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose detach audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-4.jpg)
 
 Now if you have this kind of graphic before your eyes, you can be pretty sure without even listening, that the noises are really, really different from each other, which highlights once again how useful audio normalization can be:
@@ -89,31 +88,36 @@ Select these files, right-click and choose Adjust Audio. New panel will be opene
 
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-7.jpg)
 
 After you have clicked on it, wait until the normalization completes.
 
 ![complete normalization](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Soon, all audio will be normalized, and you will already be able to see on the graphics that the volumes are almost on the same level and when you listen to it, you will make sure that there is no longer apparent difference between how they sound. And from there on, you can save the file you just normalized!
 
 So, in this article, we learned a lot about normalizing volumes, why and how it is done, and, more specifically, how to get this task completed in VLC Media Player as well as in Wondershare Filmora X. you can proceed to putting this new information into a good use and come back to learn more about video and audio editing here![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When it is done installing, open the software. Now, click and drag the video of which the audio you want to normalize. Now you can select the clip you have chosen – if there are multiple, select all of them, then right-click and choose Detach Audio.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose detach audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-4.jpg)
 
 Now if you have this kind of graphic before your eyes, you can be pretty sure without even listening, that the noises are really, really different from each other, which highlights once again how useful audio normalization can be:
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![noise are different from each other](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-5.jpg)
 
 Select these files, right-click and choose Adjust Audio. New panel will be opened on left top and there, you will see Audio Normalization – check the box there.
@@ -121,6 +125,13 @@ Select these files, right-click and choose Adjust Audio. New panel will be opene
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-6.jpg)
 
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-volume-vlc-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After you have clicked on it, wait until the normalization completes.
 
@@ -143,31 +154,25 @@ So, in this article, we learned a lot about normalizing volumes, why and how it 
      data-ad-slot="1223367746"></ins>
 
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Remove Drums From Songs Online
 
 Many drummers are interested in getting the best out of audio tracks. With **drum remover online** tools readily available, it is now easier to do this. A good drum extract online tool will help you practice playing the drums to your favorite songs. It is also a great way for DJs and beatmakers to make drum loops and fills. In this article, we explore the readily available drum extract free online tools that help in achieving this and more.
 
 **AI Vocal Remover** A cross-platform for facilitating your video editing process by offering valuable benefits![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Part 1\. How to Remove Drums From Any Song: 2 Easy Methods**
 
 You’ve probably been there. Wanted to make a drum cover video of our favorite song, but did not know if a drumless version exists. You may have wondered whether there is a way to isolate and remove a drum track easily. Luckily, there are several drum extract free download tools that you can use to take the drums out of any song with just a few clicks. Tools like [Media.io](https://www.media.io/). [UniConverter](https://tools.techidaily.com/wondershare/videoconverter/download/), [Moises.ai](https://moises.ai/), and [LALAL.ai](https://www.lalal.ai/) are known to effectively remove drums from audio files. Let’s have a look at the techniques that you can use:
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### **1\. Extract Drums from a Song Online With A Web App**
 
 Using an online web app is one of the easiest ways to extract drums from your song tracks. This is a great approach for beginners or people who do not have production experience. Probably you do not want to waste time finding the audio files, converting them from iTunes, and bringing them into a DAW. A digital audio workstation (DAW) is an electronic system that is designed for recording, editing, and playing back digital audio files. It usually plays the following functions:
@@ -180,9 +185,6 @@ Using an online web app is one of the easiest ways to extract drums from your so
 
 After bringing the files to the DAW, you still have to remove drums manually for the song. The process will have a lot of clicking and file management that will take time and extra effort. With a web app drum extractor, the process is super easy. Take [Moises.ai](https://moises.ai/), for instance, users extract drums from any public media URL in minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![moises.ai](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-1.JPG)
 
 This makes it a great choice when removing drums from music on SoundCloud or the latest video of YouTube. Why would you try Moises.ai?
@@ -216,9 +218,6 @@ VST plugins are great for customizing your audio results. You have two ways to r
 
 Just play around with the EQ, mixing your drum tracks above the recordings. The end will be your kit’s flaming against the original recording for perfect results.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 2\.** **Remove and Edit Drums in Audio with Filmora**
 
 Removing drums from a song becomes easier with the right tools. In most cases, you will want to remove the drums and process your audio file further. Probably use the file to prepare for karaoke or editing videos on YouTube or TikTok. With Wondershare Filmora, you get to do all this and more. The most recent Filmora Version 13 is an excellent choice for editing audio files on the go. It comes with some amazing AI features that make it super simple to separate vocals, beats, drums, piano, and more in audio tracks.
@@ -231,9 +230,6 @@ Removing drums from a song becomes easier with the right tools. In most cases, y
 
 Extracting drums from songs is made easier with Filmora’s AI Vocal Remover. The AI feature accurately separates vocals and drums from any song in minutes. It is also a great tool for extracting acapella from audio tracks and dubbing videos freely by removing vocals. With the ability to keep the same high-quality for audio and video when removing the vocals, the feature is effective for different kinds of projects:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-3.JPG)
 
 * **Remove Vocals from Audio** – With only one click, the feature removes vocals from audio while maintaining high-quality production. This means you can dub any video without covering up the current and create great drum soundtracks within minutes.
@@ -250,9 +246,6 @@ The AI Vocal Remover feature on Filmora offers a simple and easy way to extract 
 
 To start using the AI Vocal Remover feature, launch Filmora on your desktop. Then click “New Project” in the startup window to prepare the software for the next steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch filmora](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-4.JPG)
 
 ##### Step 2Import Your Song or Sound Track
@@ -266,6 +259,19 @@ On the customer toolbar, select “Media” and then click on the “Files” ic
 Drag and drop the files you have imported to Filmora to the timeline so you can start the editing process. Select the song you want to edit in the timeline and select “Audio” option. Then click AI Vocal Remover from the options available. Navigate the AI Vocal Remover to edit the audio as desired.
 
 ![start ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-6.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -273,14 +279,8 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## **Part 1\. How to Remove Drums From Any Song: 2 Easy Methods**
 
 You’ve probably been there. Wanted to make a drum cover video of our favorite song, but did not know if a drumless version exists. You may have wondered whether there is a way to isolate and remove a drum track easily. Luckily, there are several drum extract free download tools that you can use to take the drums out of any song with just a few clicks. Tools like [Media.io](https://www.media.io/). [UniConverter](https://tools.techidaily.com/wondershare/videoconverter/download/), [Moises.ai](https://moises.ai/), and [LALAL.ai](https://www.lalal.ai/) are known to effectively remove drums from audio files. Let’s have a look at the techniques that you can use:
@@ -309,9 +309,6 @@ This makes it a great choice when removing drums from music on SoundCloud or the
 
 Although some tracks will not isolate the best with this web app, it gets the work done. Once you download the files, it is easy to bring the songs into DAW to play along. The process makes it simple to create drum covers fast that you can play along with other web mixers.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### **2\. Extract Drums from a Song Online with VST Plugins**
 
 For those who want to do more of the work, VST plugins for removing drums from music are a great option. These are software modules that take the form of real-time effects or instruments. They may also have MIDI effects, giving more freedom with audio editing, The inability to adjust or customize settings when extracting drums from a soundtrack is one of the major downfalls of a web-based application. With VST plugins, this issue is no longer a concern.
@@ -341,16 +338,10 @@ Removing drums from a song becomes easier with the right tools. In most cases, y
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **AI Vocal Remover**
 
 Extracting drums from songs is made easier with Filmora’s AI Vocal Remover. The AI feature accurately separates vocals and drums from any song in minutes. It is also a great tool for extracting acapella from audio tracks and dubbing videos freely by removing vocals. With the ability to keep the same high-quality for audio and video when removing the vocals, the feature is effective for different kinds of projects:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-3.JPG)
 
 * **Remove Vocals from Audio** – With only one click, the feature removes vocals from audio while maintaining high-quality production. This means you can dub any video without covering up the current and create great drum soundtracks within minutes.
@@ -379,14 +370,8 @@ On the customer toolbar, select “Media” and then click on the “Files” ic
 
 Drag and drop the files you have imported to Filmora to the timeline so you can start the editing process. Select the song you want to edit in the timeline and select “Audio” option. Then click AI Vocal Remover from the options available. Navigate the AI Vocal Remover to edit the audio as desired.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![start ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-6.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Conclusion**
 
 You may want to extract drums from your favorite songs for various reasons. Maybe you want to create a drum cover video on the latest song or have a drumless version of a certain soundtrack. There are several ways to isolate and remove drums from tracks with ease. Using a web-based drum remover tool or VST plugins is the most common option. However, Wondershare Filmora offers some amazing features that allow you to extract drums from your songs and do more. You get to edit your files further and achieve greater quality.
@@ -401,9 +386,6 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 
 # Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -442,98 +424,6 @@ Great! You can now preview the changes you have made and check the audio ducking
 
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-## Part 2: Wondershare Filmora
-
-As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
-
-#### Step 1: Load the Video or Audio Files on Filmora
-
-Firstly, you can just launch Wondershare Filmora on your Mac and import your videos/audios. You can drag and drop the files or just go to its Import Menu option to browse the files. Afterward, you can drag the files to the timeline at the bottom to work on them.
-
-On the native interface of Filmora, you can also directly record voiceovers. Just click on the voiceover icon (below the preview window) and start recording any dialogue.
-
-Not just that, you can also find a wide range of royalty-free music on Filmora that you can readily use in your projects without any copyright issues.
-
-#### Step 2: Perform Automatic Audio Ducking on Filmora
-
-Great! Now you can see your video and the audio track on the timeline of Filmora. At first, you need to select the voiceover (or any other track) that you want to amplify.
-
-Once the desired audio track is selected, right-click it, and choose the “Adjust Audio” option.
-
-As the dedicated Audio Editor will open, just go to the “Ducking” option at the bottom and turn on the “Lower the volume of other clips” feature. You can further select the level to lower the volume of other background clips in the video here.
-
-#### Step 3: Save and Export Your Video
-
-That’s it! After making the changes, just click on the “OK” button and Filmora would automatically adjust the volume of other clips. You can further make the needed changes in the video and click on the “Export” icon. This will let you save the project in the desired format and resolution on your computer.
-
-Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Oct 26, 2023• Proven solutions
-
-Too many times, while mixing voiceover with the background music in a video, the dialogues don’t seem to be audible. That’s when we follow the process of audio ducking in **Premiere Pro** that would automatically lower the volume of the background music whenever there is a dialogue.
-
-The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
-
-## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
-
-If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
-
-To perform auto-ducking in Premiere Pro, we first need to define each audio track and then use the ducking feature. Here’s how you can also perform audio ducking in Premiere Pro like a pro.
-
-#### Step 1: Define the Audio Types
-
-Since Adobe Premiere Pro can’t automatically detect the type of sounds, you need to do it manually. To do audio ducking in Premiere Pro, you can first import your video clip and the voiceover to the application, and drag them to the working timeline.
-
-Now, you can first select the voiceover file that you want to amplify, and from the sidebar on the right, click on “Dialogue” as the type of the audio file.
-
-Once you mark the audio type, you will get different options. Here, go to the “Loudness” option and click on the “Auto Match” button.
-
-Afterward, you can do the same for your background audio file. Select the file and choose its audio type as “Music”. You can also set its loudness to “Auto Match” if you want to.
-
-#### Step 2: Perform Auto Ducking in Premiere Pro
-
-Now when you have set the audio types, you can just find the Ducking option on the sidebar and turn it on. Here, you can first click on the dialogue icon from the top and get the needed options. You can adjust its sensitivity and set a level or improve or reduce its quality.
-
-Apart from the dialogue icon, you can also click on the Music icon and do the same. For instance, you can reduce the quality of the background music and increase the level of the dialogue track.
-
-#### Step 3: Make the Final Changes
-
-Great! You can now preview the changes you have made and check the audio ducking results in Premiere Pro. If you want to finalize things, then you can perform keyframing and manually adjust the volume.
-
-Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Wondershare Filmora
 
 As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
@@ -564,9 +454,6 @@ That’s it! After making the changes, just click on the “OK” button and Fil
 
 Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -658,8 +545,86 @@ Too many times, while mixing voiceover with the background music in a video, the
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
+
+If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
+
+To perform auto-ducking in Premiere Pro, we first need to define each audio track and then use the ducking feature. Here’s how you can also perform audio ducking in Premiere Pro like a pro.
+
+#### Step 1: Define the Audio Types
+
+Since Adobe Premiere Pro can’t automatically detect the type of sounds, you need to do it manually. To do audio ducking in Premiere Pro, you can first import your video clip and the voiceover to the application, and drag them to the working timeline.
+
+Now, you can first select the voiceover file that you want to amplify, and from the sidebar on the right, click on “Dialogue” as the type of the audio file.
+
+Once you mark the audio type, you will get different options. Here, go to the “Loudness” option and click on the “Auto Match” button.
+
+Afterward, you can do the same for your background audio file. Select the file and choose its audio type as “Music”. You can also set its loudness to “Auto Match” if you want to.
+
+#### Step 2: Perform Auto Ducking in Premiere Pro
+
+Now when you have set the audio types, you can just find the Ducking option on the sidebar and turn it on. Here, you can first click on the dialogue icon from the top and get the needed options. You can adjust its sensitivity and set a level or improve or reduce its quality.
+
+Apart from the dialogue icon, you can also click on the Music icon and do the same. For instance, you can reduce the quality of the background music and increase the level of the dialogue track.
+
+#### Step 3: Make the Final Changes
+
+Great! You can now preview the changes you have made and check the audio ducking results in Premiere Pro. If you want to finalize things, then you can perform keyframing and manually adjust the volume.
+
+Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
+
+## Part 2: Wondershare Filmora
+
+As you can see, the Premiere Pro audio ducking feature can get a bit complicated if you are a beginner. Therefore, if you are looking for a simpler and more effective automatic ducking solution, then use Wondershare Filmora. This intuitive and diverse video/audio editing tool has an automatic audio ducking option that would make your job a whole lot easier.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
+
+#### Step 1: Load the Video or Audio Files on Filmora
+
+Firstly, you can just launch Wondershare Filmora on your Mac and import your videos/audios. You can drag and drop the files or just go to its Import Menu option to browse the files. Afterward, you can drag the files to the timeline at the bottom to work on them.
+
+On the native interface of Filmora, you can also directly record voiceovers. Just click on the voiceover icon (below the preview window) and start recording any dialogue.
+
+Not just that, you can also find a wide range of royalty-free music on Filmora that you can readily use in your projects without any copyright issues.
+
+#### Step 2: Perform Automatic Audio Ducking on Filmora
+
+Great! Now you can see your video and the audio track on the timeline of Filmora. At first, you need to select the voiceover (or any other track) that you want to amplify.
+
+Once the desired audio track is selected, right-click it, and choose the “Adjust Audio” option.
+
+As the dedicated Audio Editor will open, just go to the “Ducking” option at the bottom and turn on the “Lower the volume of other clips” feature. You can further select the level to lower the volume of other background clips in the video here.
+
+#### Step 3: Save and Export Your Video
+
+That’s it! After making the changes, just click on the “OK” button and Filmora would automatically adjust the volume of other clips. You can further make the needed changes in the video and click on the “Export” icon. This will let you save the project in the desired format and resolution on your computer.
+
+Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, if you are looking for even a simpler alternative to Adobe Premiere audio ducking, then consider using Wondershare Filmora. A user-friendly and resourceful video editor, it offers a wide range of features and other inbuilt tools that would meet every post-production requirement of yours in one place.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Oct 26, 2023• Proven solutions
+
+Too many times, while mixing voiceover with the background music in a video, the dialogues don’t seem to be audible. That’s when we follow the process of audio ducking in **Premiere Pro** that would automatically lower the volume of the background music whenever there is a dialogue.
+
+The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
+
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
 If you have been using Adobe Premiere Pro on Mac, then you would already be familiar with the wide range of editing features that it has. One of them is the Premiere Pro audio ducking option that comes inbuilt in the application. Using it, you can automatically lower the volume of the background music and amplify your dialogues.
@@ -740,10 +705,23 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-downloading-the-latest-hits-top-youtube-playlist-savers-for-pc/"><u>[Updated] Downloading the Latest Hits Top YouTube Playlist Savers for PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tailoring-the-last-push-how-to-edit-a-vimeo-video-for-2024/"><u>[Updated] Tailoring the Last Push How to Edit a Vimeo Video for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-live-stream-to-youtube-with-obs-step-by-step-guide-for-beginners/"><u>2024 Approved Live Stream to Youtube with OBS Step by Step Guide for Beginners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guida-ai-migliori-strumenti-di-compressione-dei-video-in-italia-per-ridurre-al-minimo-le-dimensionalita/"><u>Guida Ai Migliori Strumenti Di Compressione Dei Video in Italia per Ridurre Al Minimo Le Dimensionalità</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-beam-your-content-upward-perfecting-youtube-seo-techniques/"><u>In 2024, Beam Your Content Upward Perfecting YouTube SEO Techniques</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-meizu-21-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Meizu 21 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/next-big-apple-reveal-key-dates-rumors-and-all-the-latest-developments-covered/"><u>Next Big Apple Reveal? Key Dates, Rumors, and All the Latest Developments Covered</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-team-players-journey-through-dying-light-exploring-a-unique-first-person-survival-experience/"><u>The Ultimate Team Player's Journey Through Dying Light - Exploring a Unique First-Person Survival Experience</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-echoes-of-the-earth-unveiling-the-10-best-ios-and-android-auditory-journeys-in-nature/"><u>Updated 2024 Approved Echoes of the Earth Unveiling the 10 Best iOS & Android Auditory Journeys in Nature</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-eye-to-screen-safety-proven-strategies-for-secure-online-gatherings/"><u>Updated 2024 Approved Eye-to-Screen Safety Proven Strategies for Secure Online Gatherings</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-2023-guide-to-integrating-creative-audio-elements-into-your-film-projects/"><u>Updated 2024 Approved The 2023 Guide to Integrating Creative Audio Elements Into Your Film Projects</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-fading-audio-in-adobe-rush/"><u>Updated Fading Audio in Adobe Rush</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-accelerating-audio-on-windows-the-leading-10-tools-for-immediate-volume-increase/"><u>Updated In 2024, Accelerating Audio on Windows The Leading 10 Tools for Immediate Volume Increase</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-preserving-melody-methods-to-decelerate-sound-waves-without-modifying-frequency-range/"><u>Updated In 2024, Preserving Melody Methods to Decelerate Sound Waves without Modifying Frequency Range</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-rapid-guide-to-exporting-whatsapp-audio-as-high-quality-mp3-for-2024/"><u>Updated Rapid Guide to Exporting WhatsApp Audio as High-Quality MP3 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-your-pc-to-windows-11-freshly-updated-nvidia-rtx-2060-super-drivers/"><u>Upgrade Your PC to Windows 11 - Freshly Updated NVIDIA RTX ˈ2060 Super Drivers</u></a></li>
+</ul></div>
 

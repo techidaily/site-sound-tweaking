@@ -1,7 +1,7 @@
 ---
 title: New Silencing the Noise How to Normalize Audio Using DaVinci Resolve
-date: 2024-08-03T15:32:09.118Z
-updated: 2024-08-04T15:32:09.118Z
+date: 2024-10-08T16:03:21.299Z
+updated: 2024-10-11T23:28:03.598Z
 tags: 
   - audio editing software
   - audio editing
@@ -42,9 +42,6 @@ The first step you need to make is to set your target loudness level – for thi
 
 Next, you are going to head to the Fairlight page and make sure that your meters are open. the loudness meter is on the right top of the layout of the program, and it goes from +9 to -15 LUFS.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![make sure open the meters](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-2.jpg)
 
 Here, zero represents exactly what our target loudness level is, in this case, as you remember, we set it to -14 LUFS. So, ensure that our loudness is as close as zero as possible on the meter, but you can also make it lower, such as -3\. Whenever you play, you will be able to see that there are some numbers popping up to the right of the meter.
@@ -59,9 +56,6 @@ We can use our main slider (next to the sequence on the right) to make our video
 
 Also, there is an automation tool that can help you dial in your loudness. In order to access this feature, find a red icon, looking like a wave with kind of a key frames.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![automation tool help dial in loudness](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-5.jpg)
 
 Next, open up your Index (on the far top panel, a little bit from the left), and make sure you are in the tracks menu in your editing index.
@@ -70,9 +64,6 @@ Next, open up your Index (on the far top panel, a little bit from the left), and
 
 What you want to do is to make your main track visible on the timeline, so hit on the eyeball next to your main and go to your timeline, where you will expand your main track until you see your Loudness History options.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![make sure main track visible](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-7.jpg)
 
 Here, you will need to check in the box next to Integrated and turn on the Loudness History. This will show the integrated loudness level, adjust your main track’s volume accordingly, so you are below the zero line. And, that’s actually it!
@@ -87,31 +78,35 @@ Even though doing this with the help of DaVinci Resolve is really helpful, and, 
 
 After having installed and opened a software, click and drag the video of which the audio you want to normalize. Now you can select the clip you have chosen – if there are multiple, select all of them, then right-click and choose Detach Audio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![click and drag video of wanted audio to normalize](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-8.jpg)
 
 Now, you can see on the graphic that the noises are of different levels from each other. This makes us understand why we need to balance our audio files whenever we are aiming for a good listening experience for our audiences.
 
 ![noises are of different levels](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Select these files, right-click and choose Adjust Audio. New panel will be opened on left top and there, you will see Audio Normalization – check the box there.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-10.jpg)
 
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-11.jpg)
 
 Now, after clicking on it, you can just wait and the normalization will be completed soon.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![finish normalization](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When it happens, you will be able to see on the graphics that the volumes are almost on the same level, moreover, listening to it, your ears will “understand” that there is no longer apparent difference between how they sound. So, let’s hope you are happy with the result – in this case, you can save the file you just normalized!
 
@@ -121,9 +116,6 @@ So, in this article, we learned one or two things about normalizing volumes and 
 
 After having installed and opened a software, click and drag the video of which the audio you want to normalize. Now you can select the clip you have chosen – if there are multiple, select all of them, then right-click and choose Detach Audio.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click and drag video of wanted audio to normalize](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-8.jpg)
 
 Now, you can see on the graphic that the noises are of different levels from each other. This makes us understand why we need to balance our audio files whenever we are aiming for a good listening experience for our audiences.
@@ -132,21 +124,19 @@ Now, you can see on the graphic that the noises are of different levels from eac
 
 Select these files, right-click and choose Adjust Audio. New panel will be opened on left top and there, you will see Audio Normalization – check the box there.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select files](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![choose adjust audio](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-11.jpg)
 
 Now, after clicking on it, you can just wait and the normalization will be completed soon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![finish normalization](https://images.wondershare.com/filmora/article-images/2022/07/normalize-audio-davinci-12.jpg)
 
 When it happens, you will be able to see on the graphics that the volumes are almost on the same level, moreover, listening to it, your ears will “understand” that there is no longer apparent difference between how they sound. So, let’s hope you are happy with the result – in this case, you can save the file you just normalized!
@@ -165,9 +155,6 @@ So, in this article, we learned one or two things about normalizing volumes and 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Fading Audio in Adobe Rush
 
 # Fading Audio in Adobe Rush
@@ -180,98 +167,23 @@ So, in this article, we learned one or two things about normalizing volumes and 
 
 The importance of music and atmospheric sounds is often underrated in social media videos. A good soundtrack can drastically increase the overall quality of a video since barely audible dialogues or background noises distract a viewer. Even adding simple effects like fade in or fade out can make a huge difference in how well a video is accepted by your friends on social media. If you would like to learn how to fade audio in your videos, you're at the right place, because in this article we are going to show you how to fade in or fade out an audio clip.
 
-## Fading Audio in Adobe Rush
-
-[Adobe Rush](https://www.adobe.com/products/premiere-rush.html) app that was released a short while ago doesn't seem to be living up to the high standard we can commonly expect from Adobe's products. The app doesn't feature fade in/out options and its audio editing capabilities are limited. The only way you can fade audio with Adobe Rush is to open the project in Adobe Premiere Pro CC, but in order to be able to do so, you have to be subscribed to the Adobe's Creative Cloud.
-
-Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/), on the other hand, offers all tools you're going to need to produce a YouTube video including the fade in and fade out audio effects at a more affordable price. Here's how you can fade audio in Filmora.
-
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/fade-audio-in-filmora-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-## Fading Audio in Wondershare Filmora
-
-#### 1\. Import video and audio files into Filmora
-
-Most video clips contain an audio track, but in some cases, you might want to remove the clip's original audio and replace it with music, narration, dialogue or atmospheric sounds you choose. You can import an audio file into Filmora by clicking on the Import drop-down menu and selecting the Import Media Files option.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/filmora-9-media-panel.JPG)
-
-Alternatively, you can just drag and drop an audio file from the folder to the Media Panel. Filmora also features a rich library of royalty-free music you can use to select a soundtrack for your video. Drag and drop the video or audio file into the timeline from the Media Panel.
-
-![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-track.JPG)
-
-#### 2\. Fading audio in Filmora
-
-**Method 1: With Audio panel**
-
-Clicking on the Edit button, located at the end of the software's toolbar will grant you the access to the software's audio panel where you can easily adjust the volume of the clip, select one of Equalizer presets or change the Pitch of the audio file.
-
-![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-panel.JPG)
-
-Fade in and Fade out sliders are located at the top of the Audio panel and you can drag the handle on the slider or you can insert new Fade in or Fade out values manually in the boxes next to the sliders. You can click play and decide if you like the effect you created before you click OK to confirm the changes.
-
-**Method 2: Directly from Timeline**
-
-In case you want to fade an audio quickly you can do so directly from the timeline. Just click on the handle at the beginning or the end of the audio file and then drag it to adjust the duration of the effect. Both of Fade in or Fade out handles can be easily moved directly on the timeline, even if you set their values from the Audio Panel.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/fading-audio-in-filmora-9-timeline.jpg)
-
-Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car Horn that can be combined with the Fade in or Fade out effect to create a better soundtrack for your video. When ready, click on the Export button and proceed to choose the video's resolution, file format or export destination. The software also lets you export MP3 files, which enables you to save all the changes you make while editing an audio file.
-
-#### Conclusion
-
-Even though Adobe Rush is an app aimed at YouTubers and social media video creators, fading in or out of an audio is still not an option. On the other hand, fading an audio in Filmora is a quick and simple process. Gradually introducing a new music theme or slowly fading the sound as a scene ends can make a social media video sound more professional, and it can help content creators to transition from one scene to the other more smoothly. Do you use Fade in or Fade out effects in your videos often? Leave a comment below and share your experiences with us.
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-The importance of music and atmospheric sounds is often underrated in social media videos. A good soundtrack can drastically increase the overall quality of a video since barely audible dialogues or background noises distract a viewer. Even adding simple effects like fade in or fade out can make a huge difference in how well a video is accepted by your friends on social media. If you would like to learn how to fade audio in your videos, you're at the right place, because in this article we are going to show you how to fade in or fade out an audio clip.
-
-## Fading Audio in Adobe Rush
-
-[Adobe Rush](https://www.adobe.com/products/premiere-rush.html) app that was released a short while ago doesn't seem to be living up to the high standard we can commonly expect from Adobe's products. The app doesn't feature fade in/out options and its audio editing capabilities are limited. The only way you can fade audio with Adobe Rush is to open the project in Adobe Premiere Pro CC, but in order to be able to do so, you have to be subscribed to the Adobe's Creative Cloud.
-
-Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/), on the other hand, offers all tools you're going to need to produce a YouTube video including the fade in and fade out audio effects at a more affordable price. Here's how you can fade audio in Filmora.
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/fade-audio-in-filmora-9.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Fading Audio in Adobe Rush
+
+[Adobe Rush](https://www.adobe.com/products/premiere-rush.html) app that was released a short while ago doesn't seem to be living up to the high standard we can commonly expect from Adobe's products. The app doesn't feature fade in/out options and its audio editing capabilities are limited. The only way you can fade audio with Adobe Rush is to open the project in Adobe Premiere Pro CC, but in order to be able to do so, you have to be subscribed to the Adobe's Creative Cloud.
+
+Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/), on the other hand, offers all tools you're going to need to produce a YouTube video including the fade in and fade out audio effects at a more affordable price. Here's how you can fade audio in Filmora.
+
+![](https://images.wondershare.com/filmora/article-images/fade-audio-in-filmora-9.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 ## Fading Audio in Wondershare Filmora
 
 #### 1\. Import video and audio files into Filmora
@@ -282,9 +194,6 @@ Most video clips contain an audio track, but in some cases, you might want to re
 
 Alternatively, you can just drag and drop an audio file from the folder to the Media Panel. Filmora also features a rich library of royalty-free music you can use to select a soundtrack for your video. Drag and drop the video or audio file into the timeline from the Media Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-track.JPG)
 
 #### 2\. Fading audio in Filmora
@@ -329,9 +238,6 @@ The importance of music and atmospheric sounds is often underrated in social med
 
 Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/), on the other hand, offers all tools you're going to need to produce a YouTube video including the fade in and fade out audio effects at a more affordable price. Here's how you can fade audio in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/fade-audio-in-filmora-9.jpg)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -362,9 +268,6 @@ Fade in and Fade out sliders are located at the top of the Audio panel and you c
 
 In case you want to fade an audio quickly you can do so directly from the timeline. Just click on the handle at the beginning or the end of the audio file and then drag it to adjust the duration of the effect. Both of Fade in or Fade out handles can be easily moved directly on the timeline, even if you set their values from the Audio Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/fading-audio-in-filmora-9-timeline.jpg)
 
 Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car Horn that can be combined with the Fade in or Fade out effect to create a better soundtrack for your video. When ready, click on the Export button and proceed to choose the video's resolution, file format or export destination. The software also lets you export MP3 files, which enables you to save all the changes you make while editing an audio file.
@@ -387,23 +290,86 @@ Follow @Liza Brown
 
 The importance of music and atmospheric sounds is often underrated in social media videos. A good soundtrack can drastically increase the overall quality of a video since barely audible dialogues or background noises distract a viewer. Even adding simple effects like fade in or fade out can make a huge difference in how well a video is accepted by your friends on social media. If you would like to learn how to fade audio in your videos, you're at the right place, because in this article we are going to show you how to fade in or fade out an audio clip.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fading Audio in Adobe Rush
 
 [Adobe Rush](https://www.adobe.com/products/premiere-rush.html) app that was released a short while ago doesn't seem to be living up to the high standard we can commonly expect from Adobe's products. The app doesn't feature fade in/out options and its audio editing capabilities are limited. The only way you can fade audio with Adobe Rush is to open the project in Adobe Premiere Pro CC, but in order to be able to do so, you have to be subscribed to the Adobe's Creative Cloud.
 
 Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/), on the other hand, offers all tools you're going to need to produce a YouTube video including the fade in and fade out audio effects at a more affordable price. Here's how you can fade audio in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/fade-audio-in-filmora-9.jpg)
 
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Fading Audio in Wondershare Filmora
+
+#### 1\. Import video and audio files into Filmora
+
+Most video clips contain an audio track, but in some cases, you might want to remove the clip's original audio and replace it with music, narration, dialogue or atmospheric sounds you choose. You can import an audio file into Filmora by clicking on the Import drop-down menu and selecting the Import Media Files option.
+
+![](https://images.wondershare.com/filmora/article-images/filmora-9-media-panel.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Alternatively, you can just drag and drop an audio file from the folder to the Media Panel. Filmora also features a rich library of royalty-free music you can use to select a soundtrack for your video. Drag and drop the video or audio file into the timeline from the Media Panel.
+
+![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-track.JPG)
+
+#### 2\. Fading audio in Filmora
+
+**Method 1: With Audio panel**
+
+Clicking on the Edit button, located at the end of the software's toolbar will grant you the access to the software's audio panel where you can easily adjust the volume of the clip, select one of Equalizer presets or change the Pitch of the audio file.
+
+![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-panel.JPG)
+
+Fade in and Fade out sliders are located at the top of the Audio panel and you can drag the handle on the slider or you can insert new Fade in or Fade out values manually in the boxes next to the sliders. You can click play and decide if you like the effect you created before you click OK to confirm the changes.
+
+**Method 2: Directly from Timeline**
+
+In case you want to fade an audio quickly you can do so directly from the timeline. Just click on the handle at the beginning or the end of the audio file and then drag it to adjust the duration of the effect. Both of Fade in or Fade out handles can be easily moved directly on the timeline, even if you set their values from the Audio Panel.
+
+![](https://images.wondershare.com/filmora/article-images/fading-audio-in-filmora-9-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car Horn that can be combined with the Fade in or Fade out effect to create a better soundtrack for your video. When ready, click on the Export button and proceed to choose the video's resolution, file format or export destination. The software also lets you export MP3 files, which enables you to save all the changes you make while editing an audio file.
+
+#### Conclusion
+
+Even though Adobe Rush is an app aimed at YouTubers and social media video creators, fading in or out of an audio is still not an option. On the other hand, fading an audio in Filmora is a quick and simple process. Gradually introducing a new music theme or slowly fading the sound as a scene ends can make a social media video sound more professional, and it can help content creators to transition from one scene to the other more smoothly. Do you use Fade in or Fade out effects in your videos often? Leave a comment below and share your experiences with us.
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+The importance of music and atmospheric sounds is often underrated in social media videos. A good soundtrack can drastically increase the overall quality of a video since barely audible dialogues or background noises distract a viewer. Even adding simple effects like fade in or fade out can make a huge difference in how well a video is accepted by your friends on social media. If you would like to learn how to fade audio in your videos, you're at the right place, because in this article we are going to show you how to fade in or fade out an audio clip.
+
+## Fading Audio in Adobe Rush
+
+[Adobe Rush](https://www.adobe.com/products/premiere-rush.html) app that was released a short while ago doesn't seem to be living up to the high standard we can commonly expect from Adobe's products. The app doesn't feature fade in/out options and its audio editing capabilities are limited. The only way you can fade audio with Adobe Rush is to open the project in Adobe Premiere Pro CC, but in order to be able to do so, you have to be subscribed to the Adobe's Creative Cloud.
+
+Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/), on the other hand, offers all tools you're going to need to produce a YouTube video including the fade in and fade out audio effects at a more affordable price. Here's how you can fade audio in Filmora.
+
+![](https://images.wondershare.com/filmora/article-images/fade-audio-in-filmora-9.jpg)
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Fading Audio in Wondershare Filmora
@@ -416,10 +382,6 @@ Most video clips contain an audio track, but in some cases, you might want to re
 
 Alternatively, you can just drag and drop an audio file from the folder to the Media Panel. Filmora also features a rich library of royalty-free music you can use to select a soundtrack for your video. Drag and drop the video or audio file into the timeline from the Media Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-track.JPG)
 
 #### 2\. Fading audio in Filmora
@@ -428,9 +390,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 Clicking on the Edit button, located at the end of the software's toolbar will grant you the access to the software's audio panel where you can easily adjust the volume of the clip, select one of Equalizer presets or change the Pitch of the audio file.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-panel.JPG)
 
 Fade in and Fade out sliders are located at the top of the Audio panel and you can drag the handle on the slider or you can insert new Fade in or Fade out values manually in the boxes next to the sliders. You can click play and decide if you like the effect you created before you click OK to confirm the changes.
@@ -439,9 +398,6 @@ Fade in and Fade out sliders are located at the top of the Audio panel and you c
 
 In case you want to fade an audio quickly you can do so directly from the timeline. Just click on the handle at the beginning or the end of the audio file and then drag it to adjust the duration of the effect. Both of Fade in or Fade out handles can be easily moved directly on the timeline, even if you set their values from the Audio Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/fading-audio-in-filmora-9-timeline.jpg)
 
 Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car Horn that can be combined with the Fade in or Fade out effect to create a better soundtrack for your video. When ready, click on the Export button and proceed to choose the video's resolution, file format or export destination. The software also lets you export MP3 files, which enables you to save all the changes you make while editing an audio file.
@@ -464,11 +420,6 @@ Follow @Liza Brown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## "Synchronizing Audio with Visual Media: The QuickTime Method"
 
 # How to Add Audio to QuickTime Video Files
@@ -483,18 +434,12 @@ Sometimes you may want to replace the original audio of a QuickTime video or add
 
 ## How to Add Audio to QuickTime Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 1 Import your QuickTime video files to the program
 
 After you install this video editor, click the shortcut on the desktop to launch it. Then a window will pop up to let your select the aspect ratio between 16:9 and 4:3\. After making your choice, click the “Import” button or drag and drop your QuickTime video & audio files to this program. Since this program supports a vast range of formats, you don't have to convert the original video format to edit it.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add audio to quicktime](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 #### 2 Add audio to QuickTime video files
@@ -503,9 +448,64 @@ After that, place both of the video and audio files to the corresponding tracks 
 
 Tip: You can also replace the original soundtrack of the QuickTime video file. To do this, just right click the video file and choose “Audio Detach”. Then the audio file will appear on the audio track. Then right click the audio file and choose “Delete” to delete the audio.
 
+![add audio track to quicktime](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
+
+#### 3 Export the new video file
+
+After adding audio to the QuickTime video, hit the “Create” to export your video file. You can go to the “Format” tab to save the new video file in different formats. Or go to the “Device” tab if you want to watch the new file on your portable media device like iPod, iPhone, etc. There will be dozens of preset output profiles for converting your video file to almost every kind of media devices like iPod, iPhone, Xbox 360, mobile phones and different players. You can also directly share your video on YouTube or Facebook in the “YouTube” tab or burn to a DVD if you like.
+
+![add audio to quicktime](https://images.wondershare.com/filmora/article-images/export-output.jpg)
+
+Watch the video below to check how to edit videos with Filmora video editor.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+You may also interested in: [How to edit video with QuickTime](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Sometimes you may want to replace the original audio of a QuickTime video or add your own audio file. Instead of compressing the video again, [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/) makes it really easy to do this in just a few steps. Now follow the detailed guide below to learn how to easily add audio to QuickTime video files. You can download this software first:
+
+## How to Add Audio to QuickTime Video Files
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+#### 1 Import your QuickTime video files to the program
+
+After you install this video editor, click the shortcut on the desktop to launch it. Then a window will pop up to let your select the aspect ratio between 16:9 and 4:3\. After making your choice, click the “Import” button or drag and drop your QuickTime video & audio files to this program. Since this program supports a vast range of formats, you don't have to convert the original video format to edit it.
+
+![add audio to quicktime](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
+
+#### 2 Add audio to QuickTime video files
+
+After that, place both of the video and audio files to the corresponding tracks of the timeline. Make sure that the lengths of them are approximately the same. If not, you would need to edit the video and or audio streams (for example, deleting unnecessary fragments) in order to make their lengths equal. You can click the “Split” icon above the Timeline to split and cut the unwanted part of the files. After syncing the video and audio files perfectly, you can right click and further adjust the audio file in the editing panel, like changing the playing speed, volume, pitch, etc.
+
+Tip: You can also replace the original soundtrack of the QuickTime video file. To do this, just right click the video file and choose “Audio Detach”. Then the audio file will appear on the audio track. Then right click the audio file and choose “Delete” to delete the audio.
+
 ![add audio track to quicktime](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
 
 #### 3 Export the new video file
@@ -542,9 +542,6 @@ Sometimes you may want to replace the original audio of a QuickTime video or add
 
 After you install this video editor, click the shortcut on the desktop to launch it. Then a window will pop up to let your select the aspect ratio between 16:9 and 4:3\. After making your choice, click the “Import” button or drag and drop your QuickTime video & audio files to this program. Since this program supports a vast range of formats, you don't have to convert the original video format to edit it.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add audio to quicktime](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 #### 2 Add audio to QuickTime video files
@@ -559,71 +556,6 @@ Tip: You can also replace the original soundtrack of the QuickTime video file. T
 
 After adding audio to the QuickTime video, hit the “Create” to export your video file. You can go to the “Format” tab to save the new video file in different formats. Or go to the “Device” tab if you want to watch the new file on your portable media device like iPod, iPhone, etc. There will be dozens of preset output profiles for converting your video file to almost every kind of media devices like iPod, iPhone, Xbox 360, mobile phones and different players. You can also directly share your video on YouTube or Facebook in the “YouTube” tab or burn to a DVD if you like.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![add audio to quicktime](https://images.wondershare.com/filmora/article-images/export-output.jpg)
-
-Watch the video below to check how to edit videos with Filmora video editor.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-You may also interested in: [How to edit video with QuickTime](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Sometimes you may want to replace the original audio of a QuickTime video or add your own audio file. Instead of compressing the video again, [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/) makes it really easy to do this in just a few steps. Now follow the detailed guide below to learn how to easily add audio to QuickTime video files. You can download this software first:
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to Add Audio to QuickTime Video Files
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 1 Import your QuickTime video files to the program
-
-After you install this video editor, click the shortcut on the desktop to launch it. Then a window will pop up to let your select the aspect ratio between 16:9 and 4:3\. After making your choice, click the “Import” button or drag and drop your QuickTime video & audio files to this program. Since this program supports a vast range of formats, you don't have to convert the original video format to edit it.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
-![add audio to quicktime](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
-
-#### 2 Add audio to QuickTime video files
-
-After that, place both of the video and audio files to the corresponding tracks of the timeline. Make sure that the lengths of them are approximately the same. If not, you would need to edit the video and or audio streams (for example, deleting unnecessary fragments) in order to make their lengths equal. You can click the “Split” icon above the Timeline to split and cut the unwanted part of the files. After syncing the video and audio files perfectly, you can right click and further adjust the audio file in the editing panel, like changing the playing speed, volume, pitch, etc.
-
-Tip: You can also replace the original soundtrack of the QuickTime video file. To do this, just right click the video file and choose “Audio Detach”. Then the audio file will appear on the audio track. Then right click the audio file and choose “Delete” to delete the audio.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
-![add audio track to quicktime](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
-
-#### 3 Export the new video file
-
-After adding audio to the QuickTime video, hit the “Create” to export your video file. You can go to the “Format” tab to save the new video file in different formats. Or go to the “Device” tab if you want to watch the new file on your portable media device like iPod, iPhone, etc. There will be dozens of preset output profiles for converting your video file to almost every kind of media devices like iPod, iPhone, Xbox 360, mobile phones and different players. You can also directly share your video on YouTube or Facebook in the “YouTube” tab or burn to a DVD if you like.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add audio to quicktime](https://images.wondershare.com/filmora/article-images/export-output.jpg)
 
 Watch the video below to check how to edit videos with Filmora video editor.
@@ -654,9 +586,6 @@ Sometimes you may want to replace the original audio of a QuickTime video or add
 
 After you install this video editor, click the shortcut on the desktop to launch it. Then a window will pop up to let your select the aspect ratio between 16:9 and 4:3\. After making your choice, click the “Import” button or drag and drop your QuickTime video & audio files to this program. Since this program supports a vast range of formats, you don't have to convert the original video format to edit it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add audio to quicktime](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 #### 2 Add audio to QuickTime video files
@@ -701,10 +630,19 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-exclusive-list-12-flawless-non-timebound-tools/"><u>[New] 2024 Approved Exclusive List 12 Flawless Non-Timebound Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-becoming-a-vlogger-voice-confident-content-creation-strategies/"><u>[Updated] In 2024, Becoming a Vlogger Voice Confident Content Creation Strategies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-channel-conversion-guide-yt-to-igtv-strategies/"><u>[Updated] In 2024, Channel Conversion Guide YT to IGTV Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-drones-dynamic-duo-gear-and-lgcam-face-off-battle/"><u>[Updated] In 2024, Drones' Dynamic Duo Gear & LGCam Face-Off Battle</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/itunes-digital-rights-management-drm-removal-guide-to-securely-transforming-your-music-and-media/"><u>ITunes Digital Rights Management (DRM) Removal: Guide to Securely Transforming Your Music & Media</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-silencing-soundscape-guiding-you-to-audio-deletion-in-mov-files-for-both-operating-systems/"><u>New 2024 Approved Silencing Soundscape Guiding You to Audio Deletion in MOV Files for Both Operating Systems</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-dynamic-duets-of-sound-and-sight-afx-lyric-templates-for-2024/"><u>New Dynamic Duets of Sound and Sight - AFX Lyric Templates for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-audio-length-reduction-in-apples-imovie-app/"><u>The Ultimate Guide to Audio Length Reduction in Apples iMovie App</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/time-saving-approaches-to-turn-whatsapp-audios-into-mp3-format-for-2024/"><u>Time-Saving Approaches to Turn WhatsApp Audios Into MP3 Format for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-secrets-for-successful-youtube-music-reaction-videos-for-2024/"><u>Top 10 Secrets for Successful YouTube Music Reaction Videos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unlocking-free-speech-transcription-a-triad-of-simple-approaches/"><u>Unlocking Free Speech Transcription - A Triad of Simple Approaches</u></a></li>
+</ul></div>
 

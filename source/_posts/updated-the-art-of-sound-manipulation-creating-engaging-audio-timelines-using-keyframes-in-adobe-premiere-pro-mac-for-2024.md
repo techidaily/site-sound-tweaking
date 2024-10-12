@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Sound Manipulation Creating Engaging Audio Timelines Using Keyframes in Adobe Premiere Pro (Mac) for 2024
-date: 2024-10-03T18:28:37.382Z
-updated: 2024-10-06T01:01:19.630Z
+date: 2024-10-08T23:49:55.868Z
+updated: 2024-10-11T22:21:48.225Z
 tags: 
   - audio editing software
   - audio editing
@@ -68,10 +68,10 @@ Once you have enabled the audio keyframe options in Premiere Pro, you can view k
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
@@ -86,13 +86,6 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Apply Fade-in or Out options**
 
 Once you have clip keyframes in your track, you can easily do whatever you like. You can use the **Pen** tool or press the CMD key on your Mac to select the starting and the ending of the clip.
@@ -102,10 +95,10 @@ Now, go to the audio segment from the timeline and simply place the audio level 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
@@ -117,10 +110,10 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
@@ -128,6 +121,13 @@ In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Cr
 That’s a wrap, everyone! I’m sure that after reading this post, you would be able to set up audio keyframes in Adobe Premiere Pro. Since adding keyframes in Premiere can be done automatically, it would save your time in audio editing and post-production. Mostly, the clip audio keyframing is used in Adobe to customize the sound at any desired segment. Apart from fade-in or out, there are tons of other effects that you can apply to your audio tracks with the help of keyframes. Go ahead and try the Adobe Premiere Pro keyframing feature and let us know about your experience in the comments.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -144,17 +144,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-amplify-video-aesthetics-filters-for-every-screen/"><u>[New] Amplify Video Aesthetics Filters for Every Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-budget-video-players-and-streaming-tools-reviewed-pc-and-mobile/"><u>[Updated] Best Budget Video Players and Streaming Tools Reviewed (PC & Mobile)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-breaking-the-myth-of-color-standards-z32x-reviewed/"><u>[Updated] Breaking the Myth of Color Standards Z32X Reviewed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-thorough-assessment-of-the-tt-dl16-led-lamp-by-taotronics-modern-appeal-meets-quality-lighting/"><u>A Thorough Assessment of the TT-DL16 LED Lamp by TaoTronics: Modern Appeal Meets Quality Lighting</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-camon-20-premier-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Camon 20 Premier 5G Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/peak-psd-layer-magic/"><u>Peak PSD Layer Magic</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/smart-homes-ai-managed-chatgpts-capabilities/"><u>Smart Homes, AI-Managed: ChatGPT's Capabilities</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-step-by-step-techniques-for-infusing-music-into-your-final-cut-pro-video-edits/"><u>Updated 2024 Approved Step-by-Step Techniques for Infusing Music Into Your Final Cut Pro Video Edits</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-discovering-the-leading-9-ai-voice-models-to-transform-your-day-for-2024/"><u>Updated Discovering the Leading 9 AI Voice Models to Transform Your Day for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-selecting-prime-android-applications-for-high-quality-voice-recording-free/"><u>Updated In 2024, Selecting Prime Android Applications for High-Quality Voice Recording (FREE)</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-next-level-siri-sounding-board-for-mac-and-microsoft-systems/"><u>Updated Next-Level Siri Sounding Board for Mac & Microsoft Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-ps5xbox-series-x-gaming-sets-the-top-5-list/"><u>[New] 2024 Approved PS5/Xbox Series X Gaming Sets The Top 5 List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-detailed-guide-to-optimal-full-screen-displaying-for-2024/"><u>[New] Detailed Guide to Optimal Full Screen Displaying for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-saving-your-hangout-participation/"><u>[New] Saving Your Hangout Participation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-bandicam-uncovered-a-critical-review-for-tech-enthusiasts/"><u>[Updated] In 2024, Bandicam Uncovered A Critical Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-extracting-silence-how-to-delete-sound-from-mp4mkvavimov-videos/"><u>2024 Approved Extracting Silence How to Delete Sound From MP4/MKV/AVI/MOV Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhanced-windows-drivers-lower-systems-cpu-load-fixes/"><u>Enhanced Windows Drivers Lower System's CPU Load Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-100-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor 100 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-g2-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-poco-c55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Poco C55 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-exploring-the-peaks-of-magix-samplitude-a-comprehensive-review/"><u>New Exploring the Peaks of MAGIX Samplitude A Comprehensive Review</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-choosing-your-best-online-mp3-editor-from-five-sought-after-options-for-2024/"><u>The Ultimate Guide to Choosing Your Best Online MP3 Editor From Five Sought-After Options for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-creating-professional-quality-audio-integration-in-videos-on-the-cheap-3-budget-friendly-methods-for-2024/"><u>Updated Creating Professional-Quality Audio Integration in Videos on the Cheap 3 Budget-Friendly Methods for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-engineers-choice-selecting-premium-websites-for-advanced-mp3-editing-techniques/"><u>Updated The Engineers Choice Selecting Premium Websites for Advanced MP3 Editing Techniques</u></a></li>
 </ul></div>
 

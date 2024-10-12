@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition)
-date: 2024-10-04T00:22:48.707Z
-updated: 2024-10-05T22:53:59.500Z
+date: 2024-10-07T20:46:27.943Z
+updated: 2024-10-11T20:37:46.471Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,14 +124,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-how-youtube-runs-its-creator-workshop-for-2024/"><u>[New] Discovering How YouTube Runs Its Creator Workshop for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-understanding-aspect-ratio-regulations-on-twitter/"><u>[Updated] In 2024, Understanding Aspect Ratio Regulations on Twitter</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-manual-taking-editing-and-sharing-display-images/"><u>2024 Approved The Complete Manual Taking, Editing, and Sharing Display Images</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-a38-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo A38 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-rhythmic-editing-made-easy-aligning-video-and-sound-in-adobe-premiere-pro/"><u>New 2024 Approved Rhythmic Editing Made Easy Aligning Video and Sound in Adobe Premiere Pro</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-secrets-of-8-high-quality-gratis-videogame-audio-assets/"><u>New 2024 Approved Secrets of 8 High-Quality, Gratis Videogame Audio Assets</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-essential-guide-to-achieving-professional-level-audio-on-your-own-setup/"><u>New In 2024, The Essential Guide to Achieving Professional-Level Audio on Your Own Setup</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-10-best-audio-mixer-software-for-free-for-2024/"><u>New Top 10 Best Audio Mixer Software for FREE for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/cket-your-subscriber-count-6-proven-ways-to-keep-audiences-coming-back-for-2024/"><u>Skyrocket Your Subscriber Count 6 Proven Ways to Keep Audiences Coming Back for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-doodles-to-success-your-guide-to-a-flourishing-design-career/"><u>[New] In 2024, From Doodles to Success Your Guide to a Flourishing Design Career</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-swift-secrets-to-selecting-superior-screen-names/"><u>[New] The Swift Secrets to Selecting Superior Screen Names</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-charting-success-navigating-a-3-step-strategy-for-tracking-youtube-income-for-2024/"><u>[Updated] Charting Success Navigating a 3-Step Strategy for Tracking YouTube Income for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-venture-into-virtual-worlds-a-close-look-at-lgs-360-tech/"><u>[Updated] In 2024, Venture Into Virtual Worlds A Close Look at LG's 360 Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-video-production-150plus-complimentary-pp-samples/"><u>[Updated] Revolutionize Video Production 150+ Complimentary PP Samples</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-8-plusipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 8 Plus/iPad Without Computer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-guide-to-fetching-superior-quality-fb-videos/"><u>In 2024, Guide to Fetching Superior Quality FB Videos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-google-pixel-7a-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Google Pixel 7a</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/thyssenkrupp/"><u>ThyssenKrupp</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-cambridge-audio-cxu-odyssey-a-critical-look-at-its-performance/"><u>Updated 2024 Approved The Cambridge Audio CXU Odyssey - A Critical Look at Its Performance</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-8-best-cinematic-sound-effects-pack-included-for-2024/"><u>Updated 8 Best Cinematic Sound Effects Pack Included for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-beginner-friendly-choir-separation-technology-for-professional-use/"><u>Updated Beginner-Friendly Choir Separation Technology for Professional Use</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-dynamic-sound-design-modifying-audio-velocity-and-frequency-in-adobe-rush-for-2024/"><u>Updated Dynamic Sound Design Modifying Audio Velocity & Frequency in Adobe Rush for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-best-free-video-to-audio-converter-online-and-offline/"><u>Updated In 2024, Best Free Video to Audio Converter Online & Offline</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-demystifying-clubhouse-understanding-the-social-networks-foundation-purpose-and-potential-impact/"><u>Updated In 2024, Demystifying Clubhouse Understanding the Social Networks Foundation, Purpose, and Potential Impact</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-listen-up-write-it-down-comprehensive-guide-to-free-audio-to-text-apps-for-android-and-ios/"><u>Updated In 2024, Listen Up, Write It Down Comprehensive Guide to Free Audio-to-Text Apps for Android and iOS</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-silentizer-xtreme-revolutionize-how-you-listen-and-edit-media/"><u>Updated In 2024, Silentizer Xtreme Revolutionize How You Listen and Edit Media</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-top-8-auditory-frequency-patterns-for-media-crafting/"><u>Updated In 2024, Top 8 Auditory Frequency Patterns for Media Crafting</u></a></li>
 </ul></div>
 

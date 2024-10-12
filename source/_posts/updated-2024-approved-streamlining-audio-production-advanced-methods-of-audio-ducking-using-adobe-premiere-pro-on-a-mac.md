@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Streamlining Audio Production Advanced Methods of Audio Ducking Using Adobe Premiere Pro on a Mac
-date: 2024-10-05T05:01:17.956Z
-updated: 2024-10-05T18:11:59.373Z
+date: 2024-10-09T18:48:43.058Z
+updated: 2024-10-11T16:21:29.576Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,16 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -76,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,18 +124,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/iscovering-the-best-youtube-mp3-transformers-for-2024/"><u>[New] Discovering the Best YouTube MP3 Transformers for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-methods-to-archive-your-whatsapp-chat-for-2024/"><u>[Updated] Advanced Methods to Archive Your WhatsApp Chat for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-screen-saviors-ranked-top-8-for-ios-filmmaking-apps-for-2024/"><u>[Updated] Screen Saviors Ranked Top 8 for iOS Filmmaking Apps for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-c55-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-next-gen-game-viewing-top-5-hdmi-21-infinity-refresh-rates/"><u>2024 Approved Next-Gen Game Viewing Top 5 HDMI 2.1 Infinity Refresh Rates</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/10-volume-magnifiers-for-windowsmacos-for-2024/"><u>Best 10 Volume Magnifiers for Windows/MacOS for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-c33-2023-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme C33 2023 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-modern-sound-engineers-guide-ranking-the-best-ios-daws-for-ipad-and-iphone/"><u>Updated The Modern Sound Engineers Guide Ranking the Best iOS DAWs for iPad and iPhone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-list-best-royalty-free-laughter-soundtracks-for-your-videos-for-2024/"><u>Updated The Ultimate List Best Royalty-Free Laughter Soundtracks for Your Videos for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-user-friendly-speech-transformation-elements-cataloging-tools-guidelines-and-different-approaches/"><u>Updated User-Friendly Speech Transformation Elements Cataloging Tools, Guidelines, and Different Approaches</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/voice-capture-made-easy-the-ultimate-mac-users-guide-for-high-quality-recordings-for-2024/"><u>Voice Capture Made Easy The Ultimate Mac Users Guide for High-Quality Recordings for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-combat-fuzzy-visuals-facebook-videos-tips-and-tricks/"><u>[New] 2024 Approved Combat Fuzzy Visuals Facebook Videos Tips & Tricks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-cutting-edge-editing-a-magix-video-pro-x-evaluation/"><u>[New] 2024 Approved Cutting-Edge Editing A Magix Video Pro X Evaluation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-buy-top-10-gaming-gpus-for-high-quality-online-viewing-for-2024/"><u>[Updated] Best Buy Top 10 Gaming GPUs for High-Quality Online Viewing for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-quick-success-with-tinder-profiles-check-out-these-hacks-now/"><u>[Updated] In 2024, Quick Success with Tinder Profiles? Check Out These Hacks Now</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-sonic-sanctuary-a-comprehensive-guide-to-reducing-reverberation-effects-on-audio-fidelity/"><u>2024 Approved Sonic Sanctuary A Comprehensive Guide to Reducing Reverberation Effects on Audio Fidelity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-most-trusted-collage-maker-tools/"><u>Android’s Most Trusted Collage Maker Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/from-noisy-to-pristine-revolutionizing-sound-quality-with-artificial-intelligence-for-2024/"><u>From Noisy to Pristine Revolutionizing Sound Quality with Artificial Intelligence for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-burn-a-dvd-on-hard-drive-using-windows-10-and-7-with-winxdvd-easy-steps/"><u>How to Burn a DVD on Hard Drive Using Windows 10 & 7 with WinXDVD - Easy Steps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-chortle-chart-discovering-the-worlds-loudest-laughter/"><u>In 2024, Chortle Chart Discovering the Worlds Loudest Laughter</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/sourcing-widespread-echoes-of-despair-soundscapes/"><u>Sourcing Widespread Echoes of Despair Soundscapes</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-premier-selection-of-audio-cutting-software-for-windows-and-mac-users-in-the-year-2024/"><u>The Premier Selection of Audio Cutting Software for Windows and Mac Users in the Year 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-converter-gratis-per-file-mp4-guida-completa-per-la-trasformazione-di-video/"><u>Top 6 Converter Gratis Per File MP4: Guida Completa per La Trasformazione Di Video</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-how-to-mute-audio-from-video/"><u>Updated In 2024, How to Mute Audio From Video</u></a></li>
 </ul></div>
 

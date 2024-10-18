@@ -1,7 +1,7 @@
 ---
 title: Updated Perfecting Your Soundtrack Techniques for Implementing Automatic Audio Suppression in Final Cut Pro X for 2024
-date: 2024-10-05T00:06:38.733Z
-updated: 2024-10-11T17:42:53.067Z
+date: 2024-10-16T23:32:07.156Z
+updated: 2024-10-17T17:19:16.926Z
 tags: 
   - audio editing software
   - audio editing
@@ -92,16 +92,16 @@ Once your video is imported, you can drag it to the timeline at the bottom to wo
 
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
 ![Filmora Royalty Free Audio Files](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Perform Automatic Audio Ducking
 
@@ -110,16 +110,16 @@ Great! Now, on the timeline of Filmora, you can see your video and the music tra
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
@@ -130,13 +130,6 @@ This will open a dedicated Audio Mixer window on the screen. Just go to the Audi
 
 ![Filmora Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3: Export the Edited Video
 
 That’s it! After performing audio ducking on Filmora, you can preview the results and further make the needed changes. In the end, you can click on the “Export” button and save the file in the format and resolution of your choice.
@@ -144,15 +137,22 @@ That’s it! After performing audio ducking on Filmora, you can preview the resu
 ![Filmora Export](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 There you go! After following this guide, you can easily learn how to do audio ducking in Final Cut Pro X easily. Since there is no inbuilt FCPX audio ducking option, you can use a third-party tool like FCPX AutoDuck. Apart from that, if you are looking for a better alternative to do sound ducking, then simply use Wondershare Filmora. It is a user-friendly and resourceful application that would let you perform automatic music ducking like a pro.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -169,24 +169,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earning-mastery-youtube-short-video-tips/"><u>[New] In 2024, Earning Mastery Youtube Short Video Tips</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-android-screenshots-in-4-steps-for-2024/"><u>[New] Mastering Android Screenshots in 4 Steps for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-transition-mastery-in-cinematic-productions-with-kinemaster/"><u>[Updated] Transition Mastery in Cinematic Productions with Kinemaster</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-methodologies-for-detaching-audio-elements-from-new-mkv-file-types/"><u>2024 Approved Methodologies for Detaching Audio Elements From New MKV File Types</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-unveiling-magix-samplitudes-capabilities-are-they-superseding-competitors/"><u>2024 Approved Unveiling MAGIX Samplitudes Capabilities Are They Superseding Competitors?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-cash-flow-chart-launching-a-successful-podcast-for-2024/"><u>Comprehensive Cash Flow Chart Launching a Successful Podcast for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-4-websites-for-seamless-skype-tones/"><u>Discover 4 Websites for Seamless Skype Tones</u></a></li>
-<li><a href="https://win-dash.techidaily.com/getting-targus-displaylink-driver-updates-for-windows-11-8-and-7-guide/"><u>Getting Targus DisplayLink Driver Updates for Windows 11, 8 and 7 - Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/high-capacity-power-solutions-a-review-of-the-chargetech-27000mah-portable-battery-pack/"><u>High-Capacity Power Solutions: A Review of the ChargeTech 27000mAh Portable Battery Pack</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-se-2022-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone SE (2022) Unavailable Issue With Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-non-working-usb-mobile-hotspot-problems/"><u>How To Resolve Non-Working USB Mobile Hotspot Problems</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-supercharge-visual-and-aural-aspects-of-media-content/"><u>In 2024, Supercharge Visual & Aural Aspects of Media Content</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-computing-by-toms-hardware-experts/"><u>In-Depth Analysis of Cutting-Edge Computing by Tom's Hardware Experts</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-discovering-superior-audio-cutting-software-for-podcasters-on-a-budget/"><u>New 2024 Approved Discovering Superior Audio Cutting Software for Podcasters on a Budget</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-decoding-the-best-music-arrangement-apps-iphone-and-android-guide-for-2024/"><u>New Decoding the Best Music Arrangement Apps IPhone & Android Guide for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-audio-file-division-streamlined-strategies-for-independent-sections-of-sound/"><u>New In 2024, Audio File Division Streamlined Strategies for Independent Sections of Sound</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-sculpting-your-audio-experience-in-videos-with-ease-and-precision/"><u>New In 2024, Sculpting Your Audio Experience in Videos with Ease and Precision</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-rapid-guide-to-exporting-whatsapp-audio-as-high-quality-mp3/"><u>New Rapid Guide to Exporting WhatsApp Audio as High-Quality MP3</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-essential-list-of-acoustic-amplifiers-and-boosters-for-android-and-ios-users-2023-edition-for-2024/"><u>The Essential List of Acoustic Amplifiers and Boosters for Android & iOS Users, 2023 Edition for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-echoes-of-the-unliving-top-8-zombie-game-choices/"><u>[New] In 2024, Echoes of the Unliving Top 8 Zombie Game Choices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premium-multi-device-video-talks-solutions/"><u>[New] Premium Multi-Device Video Talks Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds-for-2024/"><u>[New] Reality's New Horizons Analyzing Metaverse and Omniverse Worlds for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhance-your-online-presence-with-these-50-complimentary-banners-for-2024/"><u>[Updated] Enhance Your Online Presence with These 50 Complimentary Banners for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/6-must-visit-online-havens-for-terrifying-audio-effects-for-2024/"><u>6 Must-Visit Online Havens for Terrifying Audio Effects for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-and-free-hd-dvd-ripper-tools-for-windows-1111-in-202n4-top-3-professional-options-available-at-no-cost-complete-guide/"><u>Best & Free HD DVD Ripper Tools for Windows 11/11 in 202N4: Top 3 Professional Options Available at No Cost [Complete Guide]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-on-windows-11-correct-usb-driver-problem-for-smooth-operation/"><u>Blue Screen of Death on Windows 11? Correct USB Driver Problem for Smooth Operation</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/discovering-the-best-places-for-impactful-drum-sounds-for-2024/"><u>Discovering the Best Places for Impactful Drum Sounds for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-epson-perfection-v39-drivers-compatible-with-windows-7810-os/"><u>Get the Latest Epson Perfection V39 Drivers Compatible with Windows 7/8/10 OS</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-master-list-of-prime-online-destinations-for-quality-montage-audio-acquisition/"><u>In 2024, Master List of Prime Online Destinations for Quality Montage Audio Acquisition</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-sonic-storytelling-showcasing-sound-waves-and-engaging-animated-sequences-with-sony-vegas-pro/"><u>In 2024, Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-setting-up-audacity-on-your-chromebook-a-step-by-step-guide-for-2024/"><u>New Setting Up Audacity on Your Chromebook A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-disabling-sound-in-windows-10-movies-and-tutorials-no-software-needed/"><u>New The Ultimate Guide to Disabling Sound in Windows 10 Movies & Tutorials (No Software Needed)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-tools-for-road-tripping-films/"><u>The Best Tools for Road Tripping Films</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/transforming-gameplay-narratives-advanced-strategies-for-utilizing-morphvox-in-live-streamed-gaming-sessions/"><u>Transforming Gameplay Narratives Advanced Strategies for Utilizing Morphvox in Live Streamed Gaming Sessions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/trasforma-i-tuoi-video-da-dts-ad-aac-online-e-libero-con-movavi/"><u>Trasforma I Tuoi Video Da DTS Ad AAC Online E Libero Con Movavi</u></a></li>
 </ul></div>
 

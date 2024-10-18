@@ -1,7 +1,7 @@
 ---
 title: Updated Fading Audio in Adobe Rush
-date: 2024-10-10T18:33:01.616Z
-updated: 2024-10-12T01:44:06.835Z
+date: 2024-10-16T23:27:27.941Z
+updated: 2024-10-17T17:58:28.510Z
 tags: 
   - audio editing software
   - audio editing
@@ -36,6 +36,13 @@ Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fading Audio in Wondershare Filmora
 
 #### 1\. Import video and audio files into Filmora
@@ -45,28 +52,15 @@ Most video clips contain an audio track, but in some cases, you might want to re
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-media-panel.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Alternatively, you can just drag and drop an audio file from the folder to the Media Panel. Filmora also features a rich library of royalty-free music you can use to select a soundtrack for your video. Drag and drop the video or audio file into the timeline from the Media Panel.
 
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-track.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 2\. Fading audio in Filmora
 
@@ -75,6 +69,13 @@ Alternatively, you can just drag and drop an audio file from the folder to the M
 Clicking on the Edit button, located at the end of the software's toolbar will grant you the access to the software's audio panel where you can easily adjust the volume of the clip, select one of Equalizer presets or change the Pitch of the audio file.
 
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-panel.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Fade in and Fade out sliders are located at the top of the Audio panel and you can drag the handle on the slider or you can insert new Fade in or Fade out values manually in the boxes next to the sliders. You can click play and decide if you like the effect you created before you click OK to confirm the changes.
 
@@ -85,10 +86,10 @@ In case you want to fade an audio quickly you can do so directly from the timeli
 ![](https://images.wondershare.com/filmora/article-images/fading-audio-in-filmora-9-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car Horn that can be combined with the Fade in or Fade out effect to create a better soundtrack for your video. When ready, click on the Export button and proceed to choose the video's resolution, file format or export destination. The software also lets you export MP3 files, which enables you to save all the changes you make while editing an audio file.
@@ -98,13 +99,6 @@ Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car H
 Even though Adobe Rush is an app aimed at YouTubers and social media video creators, fading in or out of an audio is still not an option. On the other hand, fading an audio in Filmora is a quick and simple process. Gradually introducing a new music theme or slowly fading the sound as a scene ends can make a social media video sound more professional, and it can help content creators to transition from one scene to the other more smoothly. Do you use Fade in or Fade out effects in your videos often? Leave a comment below and share your experiences with us.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -121,20 +115,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastery-in-video-handling-with-microsoft-hubs/"><u>[Updated] In 2024, Mastery in Video Handling with Microsoft Hubs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-essential-pathway-to-hd-video-acquisition-on-fb/"><u>[Updated] The Essential Pathway to HD Video Acquisition on FB</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-optimizing-your-android-experience-with-effective-recordings/"><u>2024 Approved Optimizing Your Android Experience with Effective Recordings</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/6-must-visit-online-havens-for-terrifying-audio-effects-for-2024/"><u>6 Must-Visit Online Havens for Terrifying Audio Effects for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/accelerate-chrome-now-effective-solutions-for-enhanced-browsing-speeds/"><u>Accelerate Chrome Now: Effective Solutions for Enhanced Browsing Speeds</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-acoustic-excellence-premier-ceiling-audio-solutions/"><u>Discovering Acoustic Excellence: Premier Ceiling Audio Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-camon-20-pro-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Camon 20 Pro 5G Face Lock?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-master-list-of-prime-online-destinations-for-quality-montage-audio-acquisition/"><u>In 2024, Master List of Prime Online Destinations for Quality Montage Audio Acquisition</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-sonic-storytelling-showcasing-sound-waves-and-engaging-animated-sequences-with-sony-vegas-pro/"><u>In 2024, Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-echoing-quietness-a-guide-to-purifying-your-podcasts-from-high-frequency-humming/"><u>New In 2024, Echoing Quietness A Guide to Purifying Your Podcasts From High-Frequency Humming</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-setting-up-audacity-on-your-chromebook-a-step-by-step-guide-for-2024/"><u>New Setting Up Audacity on Your Chromebook A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-disabling-sound-in-windows-10-movies-and-tutorials-no-software-needed/"><u>New The Ultimate Guide to Disabling Sound in Windows 10 Movies & Tutorials (No Software Needed)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-rapid-solutions-for-malfunctioning-widgets-on-ios-devices/"><u>Top 10 Rapid Solutions for Malfunctioning Widgets on iOS Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-didnt-your-imessage-arrive-yesterday-uncover-the-causes-and-solutions/"><u>Why Didn't Your iMessage Arrive Yesterday? Uncover the Causes and Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-handbook-to-zooms-online-presentation-features/"><u>[New] 2024 Approved The Ultimate Handbook to Zoom's Online Presentation Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-whats-not-advertised-ten-facts-about-instagram-reels/"><u>[New] 2024 Approved What's Not Advertised Ten Facts About Instagram Reels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-video-edits-youtube-content-creation-on-windows/"><u>[Updated] Mastering Video Edits YouTube Content Creation on Windows</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-what-is-discord-pfp-and-how-to-make-a-stunning-pfp-for-discord/"><u>[Updated] What Is Discord Pfp and How to Make a Stunning Pfp for Discord</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-generalist-to-specialist-creating-a-personal-ai-assistant-with-gpt-based-tech/"><u>From Generalist to Specialist: Creating a Personal AI Assistant with GPT-Based Tech</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Bootloader Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/moviemakermag-extreme-review-complete-take-on-androvid-editor-for-2024/"><u>MovieMakerMag Extreme Review – Complete Take on AndroVid Editor for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-best-chat-apps-for-video-conversations-the-top-virtual-community-platforms/"><u>Updated 2024 Approved Best Chat Apps for Video Conversations The Top Virtual Community Platforms</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-tips-for-finding-quality-videogame-soundscapes/"><u>Updated 2024 Approved Tips for Finding Quality Videogame Soundscapes</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-10-online-tools-for-professional-studio-recording-free-vs-paid-versions/"><u>Updated 2024 Approved Top 10 Online Tools for Professional Studio Recording - FREE vs PAID Versions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-unlock-free-vocal-manipulation-expertise-with-in-depth-guide-to-voice-editing-via-filmora/"><u>Updated 2024 Approved Unlock Free Vocal Manipulation Expertise with In-Depth Guide to Voice Editing via Filmora</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-6-must-visit-online-havens-for-terrifying-audio-effects/"><u>Updated In 2024, 6 Must-Visit Online Havens for Terrifying Audio Effects</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-mastering-pitch-adjustment-with-pristine-audacity-outputs/"><u>Updated In 2024, Mastering Pitch Adjustment with Pristine Audacity Outputs</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-innovations-in-sound-personalization-examining-voice-transformation-gadgets/"><u>Updated Innovations in Sound Personalization Examining Voice Transformation Gadgets</u></a></li>
 </ul></div>
 

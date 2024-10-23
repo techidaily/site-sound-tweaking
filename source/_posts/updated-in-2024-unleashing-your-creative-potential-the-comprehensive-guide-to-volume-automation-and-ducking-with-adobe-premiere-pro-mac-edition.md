@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition)
-date: 2024-10-12T22:05:56.379Z
-updated: 2024-10-17T22:50:48.502Z
+date: 2024-10-17T18:43:22.321Z
+updated: 2024-10-23T17:34:37.573Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,16 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,20 +124,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-a-tour-through-top-virtual-biking-experiences/"><u>[New] A Tour Through Top Virtual Biking Experiences</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-alternative-to-obs-the-next-gen-stream-software/"><u>[New] In 2024, Alternative to OBS The Next-Gen Stream Software</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-a-deep-dive-into-video-platform-wars-tiktok-vs-snapchat/"><u>[Updated] 2024 Approved A Deep Dive Into Video Platform Wars TikTok vs Snapchat</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-poco-x6-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Poco X6 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-arma-3-advanced-techniques-to-prevent-system-interruptions-in-the-new-year/"><u>Mastering Arma 3: Advanced Techniques to Prevent System Interruptions in the New Year</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-alternatives-to-facetime-androids-leading-video-calling-solutions/"><u>New Alternatives to FaceTime Androids Leading Video Calling Solutions</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-essential-guide-to-combining-multi-track-recordings-into-a-single-clip/"><u>New Essential Guide to Combining Multi-Track Recordings Into a Single Clip</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-from-words-to-music-audio-conversion-of-textual-content-on-various-platforms-for-2024/"><u>New From Words to Music Audio Conversion of Textual Content on Various Platforms for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-perfect-pause-removing-unwanted-noise-and-music-from-your-imovie-videos/"><u>New In 2024, Perfect Pause Removing Unwanted Noise and Music From Your iMovie Videos</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-proven-leaders-in-speech-to-text-the-best-6-automatic-transcription-apps-for-2024/"><u>New Proven Leaders in Speech to Text The Best 6 Automatic Transcription Apps for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-addressing-the-issue-with-0x-referenced-memory-location-0x-writing-failure/"><u>Resolved: Addressing the Issue with 0X Referenced Memory Location (0X) - Writing Failure</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oneplus-ace-3-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your OnePlus Ace 3 Phone Hassle-Free</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-prime-selection-best-podcast-hosting-platforms-of-the-year-2023-for-2024/"><u>The Prime Selection Best Podcast Hosting Platforms of the Year 2023 for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/top-8-digital-audio-workstations-daws-on-pc-compatible-with-windows-10-and-7-free-and-paid-options/"><u>Top 8 Digital Audio Workstations (DAWs) on PC Compatible with Windows 10 & 7, Free and Paid Options</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-visionary-beauty-experts-leading-online-trends/"><u>[New] 2024 Approved 10 Visionary Beauty Experts Leading Online Trends</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-a-beginners-guide-choosing-your-first-film-camera-for-2024/"><u>[New] A Beginner's Guide Choosing Your First Film Camera for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazon-labor-day-special-secure-an-ipad-for-a-steal-at-199-reviews-and-deals-featured/"><u>Amazon Labor Day Special: Secure an iPad for a Steal at $199 – Reviews & Deals Featured</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/discovering-premier-software-for-silencing-ambient-sounds-for-2024/"><u>Discovering Premier Software for Silencing Ambient Sounds for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-ways-to-keep-your-asus-maximus-x-hero-video-card-drivers-up-to-date/"><u>Easy Ways to Keep Your ASUS Maximus X Hero Video Card Drivers Up-to-Date</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-updating-and-downloading-dell-screen-drivers/"><u>Effortless Guide to Updating and Downloading Dell Screen Drivers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-audiophiles-choice-identifying-the-top-5-android-audio-editors-to-invest-in/"><u>In 2024, Audiophiles Choice Identifying the Top 5 Android Audio Editors to Invest In</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-list-of-bgm-audio-archives/"><u>The Ultimate List of BGM Audio Archives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-with-the-latest-usb-30-ethernet-driver-compatible-with-windows/"><u>Update Your PC with the Latest USB 3.0 Ethernet Driver Compatible with Windows</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-free-to-use-images-made-simple-a-deep-dive-into-pexels-features/"><u>Updated Free-to-Use Images Made Simple A Deep Dive Into Pexels Features</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-title-the-enigmatic-world-of-fibonacci-sequences-and-their-mathematical-implications-in-modern-science/"><u>Updated In 2024, Title The Enigmatic World of Fibonacci Sequences and Their Mathematical Implications in Modern Science</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-7-and-10-troubleshooting-fix-plugged-in-but-non-charging-problems/"><u>Windows 7 & 10 Troubleshooting: Fix 'Plugged In' But Non-Charging Problems</u></a></li>
 </ul></div>
 

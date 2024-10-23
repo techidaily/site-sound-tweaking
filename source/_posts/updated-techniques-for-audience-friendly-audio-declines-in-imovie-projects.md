@@ -1,7 +1,7 @@
 ---
 title: Updated Techniques for Audience-Friendly Audio Declines in iMovie Projects
-date: 2024-10-13T22:36:56.468Z
-updated: 2024-10-17T20:59:15.358Z
+date: 2024-10-22T19:20:53.348Z
+updated: 2024-10-23T17:57:14.547Z
 tags: 
   - audio editing software
   - audio editing
@@ -61,6 +61,13 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
 #### Step 2. Move Pointer to Apply Fade Effects
@@ -69,13 +76,6 @@ Move the pointer over a waveform, and drag the small gray fade handle at the lef
 
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3. Playback to Check
 
 Move the playhead to the beginning part of the clips with fade effects to check the fade-in and fade-out effects. If everything works OK, uncheck "Show Waveforms" to hide the waveforms.
@@ -83,10 +83,10 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -100,6 +100,13 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -115,31 +122,11 @@ If you manually adjust the effect, you can have a better effect.
 
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
 Now, that's done! I hope the above information does help you to set the fade effects to smooth your video and audio transitions.
 
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
 
@@ -169,6 +156,13 @@ That's all about how to fade music and audio with iMovie and its alternative. If
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -184,16 +178,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-comprehensive-guide-to-photo-to-video-conversion-via-pixiz/"><u>2024 Approved Comprehensive Guide to Photo-to-Video Conversion via Pixiz</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-solutions-to-update-or-fix-hp-monitor-drivers-in-multiple-windows-os/"><u>Easy Solutions to Update or Fix HP Monitor Drivers in Multiple Windows OS</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-x-fold-2-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo X Fold 2 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/gpu-revival-edition-for-2024/"><u>GPU Revival Edition for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-20-best-video-editors-compatible-with-dji-videos/"><u>In 2024, 20 Best Video Editors Compatible with DJi Videos</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-process-of-purging-audio-content-in-the-latest-avi-codec/"><u>New 2024 Approved The Process of Purging Audio Content in the Latest AVI Codec</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-top-10-acapella-extractors-online-and-on-the-go-solutions/"><u>New 2024 Approved Top 10 Acapella Extractors Online and On-the-Go Solutions</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-echoes-and-rhythms-discovering-the-top-radio-sounds/"><u>New Echoes and Rhythms Discovering the Top Radio Sounds</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-superior-audio-format-changer-instant-mp3-creation-with-zero-hassle/"><u>New In 2024, Superior Audio Format Changer Instant MP3 Creation with Zero Hassle</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/seamless-blending-of-audio-with-visuals-using-quicktime-tools-and-techniques/"><u>Seamless Blending of Audio with Visuals Using QuickTime Tools and Techniques</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-slang-lexicon-common-expressions-in-todays-tongue/"><u>The Slang Lexicon: Common Expressions in Today's Tongue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-enhancing-reels-perfecting-sound-in-instagram-videos/"><u>[New] 2024 Approved Enhancing Reels Perfecting Sound in Instagram Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-perfect-xiaomi-device-for-amateur-filmmakers/"><u>[New] 2024 Approved The Perfect Xiaomi Device for Amateur Filmmakers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-demystifying-the-purpose-and-use-of-a-blue-status-symbol-on-facebook/"><u>[New] In 2024, Demystifying the Purpose and Use of a Blue Status Symbol on Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-insta-videos-3-simple-border-techniques-for-2024/"><u>[Updated] Enhancing Insta Videos 3 Simple Border Techniques for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-unveiling-magix-samplitudes-capabilities-are-they-superseding-competitors/"><u>2024 Approved Unveiling MAGIX Samplitudes Capabilities Are They Superseding Competitors?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/windowsacer-aspirewin11win10win8win7/"><u>如何在Windows系列中执行Acer Aspire的硬件修复：专为Win11、Win10、Win8和Win7设计</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-monoprice-graphics-tablet-comprehensive-review-and-value-insights/"><u>Affordable Monoprice Graphics Tablet - Comprehensive Review & Value Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-immersion-in-the-most-realistic-water-games/"><u>In 2024, Immersion in the Most Realistic Water Games</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-art-of-voice-imitation-leveraging-ai-for-realistic-synthesis/"><u>New Art of Voice Imitation Leveraging AI for Realistic Synthesis</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-audio-file-division-streamlined-strategies-for-independent-sections-of-sound/"><u>New In 2024, Audio File Division Streamlined Strategies for Independent Sections of Sound</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-sculpting-your-audio-experience-in-videos-with-ease-and-precision/"><u>New In 2024, Sculpting Your Audio Experience in Videos with Ease and Precision</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-ultimate-guide-to-selecting-mobile-speech-to-text-software-for-2024/"><u>New Ultimate Guide to Selecting Mobile Speech-to-Text Software for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-essential-list-of-acoustic-amplifiers-and-boosters-for-android-and-ios-users-2023-edition-for-2024/"><u>The Essential List of Acoustic Amplifiers and Boosters for Android & iOS Users, 2023 Edition for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-platforms-for-free-live-music-downloads-and-performances/"><u>Top Platforms for Free Live Music Downloads & Performances</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unleashing-the-power-of-sound-in-videography-a-step-by-step-tutorial-for-2024/"><u>Unleashing the Power of Sound in Videography A Step-by-Step Tutorial for 2024</u></a></li>
 </ul></div>
 

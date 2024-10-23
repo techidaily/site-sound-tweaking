@@ -1,7 +1,7 @@
 ---
 title: Updated Fading Audio in Adobe Rush
-date: 2024-10-16T23:27:27.941Z
-updated: 2024-10-17T17:58:28.510Z
+date: 2024-10-16T19:00:49.113Z
+updated: 2024-10-23T17:20:22.706Z
 tags: 
   - audio editing software
   - audio editing
@@ -37,10 +37,10 @@ Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fading Audio in Wondershare Filmora
@@ -52,10 +52,10 @@ Most video clips contain an audio track, but in some cases, you might want to re
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-media-panel.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Alternatively, you can just drag and drop an audio file from the folder to the Media Panel. Filmora also features a rich library of royalty-free music you can use to select a soundtrack for your video. Drag and drop the video or audio file into the timeline from the Media Panel.
@@ -71,10 +71,10 @@ Clicking on the Edit button, located at the end of the software's toolbar will g
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-panel.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Fade in and Fade out sliders are located at the top of the Audio panel and you can drag the handle on the slider or you can insert new Fade in or Fade out values manually in the boxes next to the sliders. You can click play and decide if you like the effect you created before you click OK to confirm the changes.
@@ -86,10 +86,10 @@ In case you want to fade an audio quickly you can do so directly from the timeli
 ![](https://images.wondershare.com/filmora/article-images/fading-audio-in-filmora-9-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car Horn that can be combined with the Fade in or Fade out effect to create a better soundtrack for your video. When ready, click on the Export button and proceed to choose the video's resolution, file format or export destination. The software also lets you export MP3 files, which enables you to save all the changes you make while editing an audio file.
@@ -115,20 +115,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-handbook-to-zooms-online-presentation-features/"><u>[New] 2024 Approved The Ultimate Handbook to Zoom's Online Presentation Features</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-whats-not-advertised-ten-facts-about-instagram-reels/"><u>[New] 2024 Approved What's Not Advertised Ten Facts About Instagram Reels</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-video-edits-youtube-content-creation-on-windows/"><u>[Updated] Mastering Video Edits YouTube Content Creation on Windows</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-what-is-discord-pfp-and-how-to-make-a-stunning-pfp-for-discord/"><u>[Updated] What Is Discord Pfp and How to Make a Stunning Pfp for Discord</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-generalist-to-specialist-creating-a-personal-ai-assistant-with-gpt-based-tech/"><u>From Generalist to Specialist: Creating a Personal AI Assistant with GPT-Based Tech</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Bootloader Easily</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/moviemakermag-extreme-review-complete-take-on-androvid-editor-for-2024/"><u>MovieMakerMag Extreme Review – Complete Take on AndroVid Editor for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-best-chat-apps-for-video-conversations-the-top-virtual-community-platforms/"><u>Updated 2024 Approved Best Chat Apps for Video Conversations The Top Virtual Community Platforms</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-tips-for-finding-quality-videogame-soundscapes/"><u>Updated 2024 Approved Tips for Finding Quality Videogame Soundscapes</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-10-online-tools-for-professional-studio-recording-free-vs-paid-versions/"><u>Updated 2024 Approved Top 10 Online Tools for Professional Studio Recording - FREE vs PAID Versions</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-unlock-free-vocal-manipulation-expertise-with-in-depth-guide-to-voice-editing-via-filmora/"><u>Updated 2024 Approved Unlock Free Vocal Manipulation Expertise with In-Depth Guide to Voice Editing via Filmora</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-6-must-visit-online-havens-for-terrifying-audio-effects/"><u>Updated In 2024, 6 Must-Visit Online Havens for Terrifying Audio Effects</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-mastering-pitch-adjustment-with-pristine-audacity-outputs/"><u>Updated In 2024, Mastering Pitch Adjustment with Pristine Audacity Outputs</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-innovations-in-sound-personalization-examining-voice-transformation-gadgets/"><u>Updated Innovations in Sound Personalization Examining Voice Transformation Gadgets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-blend-mp3s-with-presentation-content-in-ppt-for-2024/"><u>[New] Blend MP3s with Presentation Content in PPT for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-captivating-captions-writing-copy-that-drives-engagement-and-views/"><u>[New] Captivating Captions Writing Copy That Drives Engagement and Views</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-freeze-the-frame-overcoming-shake-phenomena/"><u>[New] Freeze the Frame Overcoming Shake Phenomena</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-screencast-with-ezvide-maker-tool/"><u>[New] In 2024, Mastering Screencast with EZvide Maker Tool</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/brain-games-that-build-bilingual-brilliance/"><u>Brain Games That Build Bilingual Brilliance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/m4a-webm-movavi/"><u>M4A から WEBMへの強力な無料オンライン変換ツール: Movavi</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/revolutionize-your-viewing-experience-elevate-frame-rates-and-ensure-flawless-image-flow-using-artificial-intelligence-techniques/"><u>Revolutionize Your Viewing Experience: Elevate Frame Rates and Ensure Flawless Image Flow Using Artificial Intelligence Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-ps-vr-with-a-personal-computer/"><u>Step-by-Step Guide: Setting Up Your PS VR with a Personal Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-12-gratis-mac-dvd-ripping-programme-202/"><u>Top 12 Gratis Mac DVD Ripping Programme 202</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-13-must-have-gratis-audio-recording-programs-for-windowsmac-users-the-current-selection-for-2024/"><u>Updated 13 Must-Have Gratis Audio Recording Programs for Windows/Mac Users - The Current Selection for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-cutting-edge-2023-top-8-digital-studio-solutions-for-breakbeat-artists/"><u>Updated 2024 Approved Cutting-Edge 2023 Top 8 Digital Studio Solutions for Breakbeat Artists</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-essential-free-tools-for-every-freelancers-audio-editing-needs-on-windowsmac-platforms/"><u>Updated 2024 Approved Essential Free Tools for Every Freelancers Audio Editing Needs on Windows/Mac Platforms</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-streamlining-speaker-audio-in-microsoft-powerpoint-cross-platform-solutions-for-windows-and-mac/"><u>Updated 2024 Approved Streamlining Speaker Audio in Microsoft PowerPoint Cross-Platform Solutions for Windows and Mac</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-8-best-daw-for-chromebook-to-make-music/"><u>Updated In 2024, 8 Best DAW for Chromebook to Make Music</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-techniques-for-altering-decibel-settings-on-media-playback/"><u>Updated In 2024, Techniques for Altering Decibel Settings on Media Playback</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-melody-and-mics-the-10-most-user-friendly-voice-capture-tools-in-technology/"><u>Updated Melody and Mics The 10 Most User-Friendly Voice Capture Tools in Technology</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-professional-insights-on-separating-soundtracks-from-visual-media-on-apple-technology-for-2024/"><u>Updated Professional Insights on Separating Soundtracks From Visual Media on Apple Technology for 2024</u></a></li>
 </ul></div>
 

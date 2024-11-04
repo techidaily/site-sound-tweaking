@@ -1,7 +1,7 @@
 ---
 title: Updated Methods to Decrease Media Content Volume
-date: 2024-10-24T12:27:33.193Z
-updated: 2024-10-29T14:31:49.575Z
+date: 2024-10-28T16:01:09.812Z
+updated: 2024-11-03T20:45:35.493Z
 tags: 
   - audio editing software
   - audio editing
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 
 ![lower volume](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2 Lower volume of the media files
 
  Double click the target file and the "Editing" Window will appear. Then switch to the "Audio" column, reduce volume by dragging the volume level slider left. Don't worry if you don't get the sound right the first time. You can reset the volume by clicking the "Reset" button. After adjusting the volume, click the play icon to listen to the effect.
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 ![how to lower volume](https://images.wondershare.com/images/multimedia/video-editor/change-volume.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3 Save the files
@@ -67,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 ![software to lower volume](https://images.wondershare.com/images/multimedia/video-editor/apple-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See, it's so easy to lower the volume of the media files. Besides this function, this powerful video editing tool also supports trimming, cropping, adding video effects and loads more. Now just download it and explore more features of it!
@@ -81,13 +74,20 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -105,18 +105,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-unlocking-the-potential-of-consoles-with-pc-gaming-tech-for-2024/"><u>[New] Unlocking the Potential of Consoles with PC Gaming Tech for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-guide-to-the-most-ignored-yet-crucial-windows-11-features/"><u>A Guide to the Most Ignored Yet Crucial Windows 11 Features</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/efficiently-altering-login-details-of-other-users-within-the-windows-environment/"><u>Efficiently Altering Login Details of Other Users Within the Windows Environment</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/essential-techniques-for-silencing-background-sounds-off-and-online-solutions/"><u>Essential Techniques for Silencing Background Sounds Off- and Online Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-motorola-edge-40-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Edge 40 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/initiate-insight-an-entryway-guide-to-online-product-critique-channels/"><u>Initiate Insight An Entryway Guide to Online Product Critique Channels</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-innovative-online-audio-cutter-utilities-the-leading-tools/"><u>New Innovative Online Audio Cutter Utilities – The Leading Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-the-topest-free-sounds-and-effects-sites/"><u>New The Ultimate Guide to the Topest Free Sounds & Effects Sites</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/reveal-flatulent-whispering-waves-compilation/"><u>Reveal Flatulent Whispering Waves Compilation</u></a></li>
-<li><a href="https://fox-place.techidaily.com/ubertragung-von-bilder-dateien-von-einer-sd-karte-auf-einen-computer-drei-effiziente-methoden/"><u>Übertragung Von Bilder Dateien Von Einer SD-Karte Auf Einen Computer: Drei Effiziente Methoden</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-unlocking-visual-content-creation-an-overview-of-pexels-usage/"><u>Updated 2024 Approved Unlocking Visual Content Creation An Overview of Pexels Usage</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-innovations-in-digital-audio-recording-utilizing-audacitys-features-updated-for-2024/"><u>Updated Innovations in Digital Audio Recording Utilizing Audacitys Features (Updated ) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-cerebral-channels-top-educational-yt-networks/"><u>[New] 2024 Approved Cerebral Channels Top Educational YT Networks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-transforming-raw-footage-expert-pc-editing-tips-for-youtube-creators/"><u>[New] 2024 Approved Transforming Raw Footage Expert PC Editing Tips for YouTube Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-6-bargains-for-your-homes-ultimate-viewing/"><u>[New] Prime 6 Bargains for Your Home's Ultimate Viewing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-make-your-own-youtube-opening-and-closing-graphics/"><u>[Updated] 2024 Approved Make Your Own YouTube Opening & Closing Graphics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-7-audio-capturers-2023-edition/"><u>[Updated] Top 7 Audio Capturers 2023 Edition</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/exploring-the-best-editing-suite-for-videos-a-deep-dive-into-cyberlinks-powerdirector-2024/"><u>Exploring the Best Editing Suite for Videos: A Deep Dive Into Cyberlink's PowerDirector 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lg-k92-assessment-is-the-5g-upgrade-truly-a-game-changer/"><u>LG K92 Assessment: Is the 5G Upgrade Truly a Game-Changer?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-advantage-unveiling-steams-benefits/"><u>The Ultimate Gaming Advantage: Unveiling Steam’s Benefits</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-10-best-podcast-editing-software-products-free-and-paid-for-2024/"><u>Updated 10 Best Podcast Editing Software Products Free & Paid for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-cutting-edge-cost-free-daw-software-options-revealed-a-beginners-guide-to-2023/"><u>Updated 2024 Approved Cutting-Edge, Cost-Free DAW Software Options Revealed A Beginners Guide to 2023</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-10-windows-and-macos-compatible-daws-the-ultimate-selection/"><u>Updated 2024 Approved Top 10 Windows & macOS Compatible DAWs The Ultimate Selection</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-essential-techniques-for-adding-voice-to-microsoft-powerpoint-projects-windows-and-macos/"><u>Updated In 2024, Essential Techniques for Adding Voice to Microsoft PowerPoint Projects (Windows & macOS)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-navigating-the-nuances-of-silence-introduction-and-conclusion-in-imovie-videos/"><u>Updated In 2024, Navigating the Nuances of Silence Introduction and Conclusion in iMovie Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-unleashing-your-creative-potential-the-comprehensive-guide-to-volume-automation-and-ducking-with-adobe-premiere-pro-mac-edition/"><u>Updated In 2024, Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-intensify-visual-soundscapes-for-optimal-engagement/"><u>Updated Intensify Visual Soundscapes for Optimal Engagement</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-recording-and-incorporating-narration-a-step-by-step-approach-for-todays-videos-for-2024/"><u>Updated Recording & Incorporating Narration A Step-by-Step Approach for Todays Videos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-rise-above-the-rest-enhancing-speech-clarity-and-volume-with-filmora/"><u>Updated Rise Above the Rest Enhancing Speech Clarity and Volume with Filmora</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-best-of-the-best-16-free-movie-makers-no-experience-needed-for-2024/"><u>Updated The Best of the Best 16 Free Movie Makers (No Experience Needed) for 2024</u></a></li>
 </ul></div>
 

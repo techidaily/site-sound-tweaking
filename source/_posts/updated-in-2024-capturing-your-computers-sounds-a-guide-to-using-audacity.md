@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Capturing Your Computers Sounds A Guide to Using Audacity
-date: 2024-10-25T01:54:37.538Z
-updated: 2024-10-29T13:34:44.032Z
+date: 2024-10-27T21:20:12.209Z
+updated: 2024-11-04T05:58:51.635Z
 tags: 
   - audio editing software
   - audio editing
@@ -84,6 +84,13 @@ WASAPI provides higher-resolution digital recordings. If capturing audio from an
 
 ![  audacity change host ](https://images.wondershare.com/filmora/article-images/audacity-use-windows-wasapi-host.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Switch the **Recording Device** to **Speaker (loopback).** To display the entire label, you might have to slide the toolbar's knobs outwards. Begin recording by pressing the **red dot** and then listen to the audio source. **Audacity** will capture the audio even if your PC is muted.
 
 ## Part 3: How to Record Sounds Playing on Your Computer Using Audacity on Mac?
@@ -144,13 +151,6 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 ![audacity interface](https://images.wondershare.com/filmora/article-images/audacity-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** To begin, select **Tracks** under the **Add New** tab, **Stereo Track**, or **Mono Track** to create a new track.
 
 ![audacity add new track](https://images.wondershare.com/filmora/article-images/add-new-track-audacity.jpg)
@@ -163,16 +163,16 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 ![audacity recorded audio waveform](https://images.wondershare.com/filmora/article-images/recorded-audio-waveform-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5:** With the mouse over any recording area, click the **Delete** button to cut out any portion of it quickly. Click **Ctrl + A**, then **Delete** to erase whatever you've just saved. Alternatively, press the **X** button to delete the track completely.
 
 ![remove unwanted clip in audacity  ](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
@@ -187,13 +187,6 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
 
 ![change audio host in audacity ](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Choose desired option from the **Recording Device** dropdown menu. Based on your configuration, this might be referred to as **Wave Out** or **Loopback**. When you're uncertain, try it out.
 
@@ -211,13 +204,6 @@ WASAPI provides higher-resolution digital recordings. If capturing audio from an
 
 **Step 2:** Switch the **Recording Device** to **Speaker (loopback).** To display the entire label, you might have to slide the toolbar's knobs outwards. Begin recording by pressing the **red dot** and then listen to the audio source. **Audacity** will capture the audio even if your PC is muted.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Record Sounds Playing on Your Computer Using Audacity on Mac?
 
 Unfortunately, there's no ready-made method to record computer audio using Audacity on a Mac. Some alternative ways to use Audacity to record from Mac including using a loopback cable, or download and using a third-party software. You can try some Audacity alternatives to record the computer audio on Mac.
@@ -280,13 +266,6 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 ![audacity add new track](https://images.wondershare.com/filmora/article-images/add-new-track-audacity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Select **Recording Device** from the options list. Select your microphone from the dropdown menu and hit the **Record** option.
 
 ![audacity record audio](https://images.wondershare.com/filmora/article-images/record-audio-audacity.jpg)
@@ -299,6 +278,13 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 
 ![remove unwanted clip in audacity  ](https://images.wondershare.com/filmora/article-images/remove-unwanted-audio-clip-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Record Sounds Playing on Your Computer Using Audacity On Windows?
 
 Unlike Mac, Windows makes it simple to capture audio from a movie or media file running on your desktop. There seem to be two primary methods for accomplishing audacity record desktop audio in this way:
@@ -309,13 +295,6 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 
 ![record playing sound with audacity ](https://images.wondershare.com/filmora/article-images/record-playing-computer-sound-audacity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Change the **Audio Host** (to the left of **Recording Device**) to **MME**—this is the standard setting, so you might not have to change anything.
 
 ![change audio host in audacity ](https://images.wondershare.com/filmora/article-images/change-audio-host-audacity.jpg)
@@ -325,10 +304,16 @@ Unlike Mac, Windows makes it simple to capture audio from a movie or media file 
 ![choose audio recording device in audacity ](https://images.wondershare.com/filmora/article-images/choose-recording-device-audacity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4:** To record your audio source, click **Record**, then play it back.
@@ -361,13 +346,6 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 ![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/filmora-mac-record-pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Set up the recording settings based on the need. Since we’re going to record the playing audio from the Mac computer, select Microphone and System Audio On and click the Red button to start.
 
 ![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
@@ -411,6 +389,13 @@ For both Windows and Mac, the procedures for recording audio from a microphone a
 **Step 2:** To begin, select **Tracks** under the **Add New** tab, **Stereo Track**, or **Mono Track** to create a new track.
 
 ![audacity add new track](https://images.wondershare.com/filmora/article-images/add-new-track-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Select **Recording Device** from the options list. Select your microphone from the dropdown menu and hit the **Record** option.
 
@@ -476,9 +461,29 @@ If you have installed Filmora already, you can use it to record the sound playin
 
 ![ filmora mac record pc  screen ](https://images.wondershare.com/filmora/article-images/set-up-filmora-mac-screen-record.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Now you have a screen captured video with sound included. Since we need th audio only, we can attache the [audio from the video](https://tools.techidaily.com/wondershare/filmora/download/) first and then do some editing such as adding fade in and fade out effect, or remove unwanted audio clip.
 
 ![ filmora   detach audio ](https://images.wondershare.com/filmora/article-images/detach-audio-from-video-to-get-computer-audio.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Set up Audacity to Record as Schedule?
 
@@ -510,6 +515,13 @@ Wondershare Filmora is the finest thing that has come out in recent years for re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Guide to Understanding the Nuances of Accompanying Pictures with Soundscape
 
@@ -521,18 +533,20 @@ In this post, we will describe and clear all your queries on how to add audio to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mp4-file-capture-comparative-study-and-reviews/"><u>[New] In 2024, MP4 File Capture Comparative Study & Reviews</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-essential-pathway-to-hd-video-acquisition-on-fb-for-2024/"><u>[New] The Essential Pathway to HD Video Acquisition on FB for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-6-best-apps-to-remove-objects-from-photo-on-iphone/"><u>[Updated] In 2024, 6 Best Apps to Remove Objects From Photo on iPhone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-audio-wizardry-with-windows-10-a-complete-tutorial-for-professionals/"><u>2024 Approved Audio Wizardry with Windows 10 A Complete Tutorial for Professionals</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-the-easy-way-with-massmail-app-harvesting-contact-details-en-masse-from-digital-files/"><u>Discover the Easy Way with MassMail App: Harvesting Contact Details En Masse From Digital Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/full-analysis-of-t5-eyes-exceptional-action-recording/"><u>Full Analysis of T5 Eye's Exceptional Action Recording</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-14-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone 14 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-10-best-voice-recorder-for-pc/"><u>New 10 Best Voice Recorder for PC</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-essential-insights-into-image-stock-sourcing-pexels-uncovered/"><u>New Essential Insights Into Image Stock Sourcing Pexels Uncovered</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-premium-audio-editors-for-creative-distortion/"><u>The Ultimate Guide to Premium Audio Editors for Creative Distortion</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-tcls-latest-additions-19-cutting-edge-q-and-s-class-smart-tvs-now-available/"><u>Unveiling TCL's Latest Additions: 19 Cutting-Edge Q and S Class Smart TVs Now Available</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-creative-and-catchy-ringtone-selections-for-modern-phones/"><u>Updated In 2024, Creative and Catchy Ringtone Selections for Modern Phones</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-twinsoundlink-bridging-gaps-between-auditory-elements-in-premiere-pro-projects-2023-overhaul/"><u>Updated In 2024, TwinSoundLink Bridging Gaps Between Auditory Elements in Premiere Pro Projects 2023 Overhaul</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-gopro-hero5-black-showdown-with-hero4-silver/"><u>[New] In 2024, GoPro Hero5 Black Showdown with Hero4 Silver</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-secure-total-visual-display-for-2024/"><u>[New] Secure Total Visual Display for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-apple-tunes-with-visual-media/"><u>2024 Approved Integrating Apple Tunes with Visual Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-pc-chillers-of-2hem-expertly-reviewed-best-all-in-one-liquid-coolers-2024/"><u>Advanced PC Chillers of 2Hem: Expertly Reviewed Best All-in-One Liquid Coolers - 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/guiding-principles-for-altering-tone-without-sacrificing-sound-quality-using-audacity/"><u>Guiding Principles for Altering Tone Without Sacrificing Sound Quality Using Audacity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-logitech-g-pro-x-microphones/"><u>How to Resolve Non-Functional Logitech G Pro X Microphones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/image-framing-essentials-top-apps-and-websites-creators/"><u>Image Framing Essentials Top Apps & Websites Creators</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/instantgrabbed-extendedcapture-for-2024/"><u>InstantGrabbed ExtendedCapture for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-10-free-online-mp3-to-text-converters-wondershare-filmora/"><u>New 10 FREE Online MP3 to Text Converters-Wondershare Filmora</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-essential-online-hubs-for-natural-environment-recordings/"><u>New In 2024, Essential Online Hubs for Natural Environment Recordings</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-the-art-of-flawless-podcast-production-your-comprehensive-tutorial/"><u>New Mastering the Art of Flawless Podcast Production Your Comprehensive Tutorial</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-tier-tempo-tune-videography-tools/"><u>New Top-Tier Tempo Tune Videography Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-complete-guide-to-designing-iconic-podcast-artwork-for-the-modern-ear/"><u>The Complete Guide to Designing Iconic Podcast Artwork for the Modern Ear</u></a></li>
 </ul></div>
 

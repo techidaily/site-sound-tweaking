@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Essential Techniques for Adding Voice to Microsoft PowerPoint Projects (Windows & macOS)
-date: 2024-10-26T02:58:06.583Z
-updated: 2024-10-29T09:21:33.273Z
+date: 2024-10-31T21:42:26.144Z
+updated: 2024-11-04T02:49:10.105Z
 tags: 
   - audio editing software
   - audio editing
@@ -70,6 +70,19 @@ Step 2: After that, you have to open the slide where you want to record the audi
 
 ![click on record audio](https://images.wondershare.com/filmora/article-images/2021/record-audio-on-powerpoint-8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: At this point, a Record Audio panel will show up on the right side of the screen. From that panel, click on the ‘Record’ button to start the recording.
 
 ![hit record button](https://images.wondershare.com/filmora/article-images/2021/record-audio-on-powerpoint-9.jpg)
@@ -94,6 +107,13 @@ Adding stock images and background images is a very common trend for making slid
 
 Also, changing the common trends will make your presentation different and classic as compared to regularly designed slides.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. One Story at a Time
 
 A very common mistake that people generally make because they are unaware of it is the content. The best practice for quality presentation slides is to add and discuss one story per slide. You should never confuse your audience by sharing multiple things from the same slide.
@@ -103,13 +123,6 @@ If you plan to discuss various things, then make separate slides for each story.
 ### 4\. Alignment and Symmetry
 
 While making your slides, one key factor that can either make or break your presentation is consistency and alignment. You should never present a rough slide. Always align the text, images, and headings of your slides. Symmetry and consistency are also very important. Follow the same consistent pattern in all slides.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Formatting and Settings
 
@@ -124,10 +137,10 @@ Always follow the ‘Add and Adjust’ policy. You should never throw data and e
 For the case of an image, you should add it, inspect it and if needed, crop it. Adding things with perfection makes your presentation stand out and shine differently.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Animation
@@ -155,6 +168,19 @@ Detailed tutorials provided by the official channel
 02 [How to Record Audio on PowerPoint in Mac?](#part2)
 
 03 [7 PowerPoint Presentation Tips to Make Creative Slideshows](#part3)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: How to Record Audio on PowerPoint in Windows?
 
@@ -288,23 +314,9 @@ Step 3: The Media offers 3 further options. Among those options, you have to hit
 
 ![select record audio option](https://images.wondershare.com/filmora/article-images/2021/record-audio-on-powerpoint-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Now, a small window for Record Sound will show up. Here, set a name for your recording and hit the Record button to start the recording.
 
 ![click on start recording button](https://images.wondershare.com/filmora/article-images/2021/record-audio-on-powerpoint-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Once you have completed the recording, click on the Stop button to end the recording and then hit the ‘Ok’ button to exit the recording window.
 
@@ -326,9 +338,23 @@ Step 2: After that, you have to open the slide where you want to record the audi
 
 ![click on record audio](https://images.wondershare.com/filmora/article-images/2021/record-audio-on-powerpoint-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: At this point, a Record Audio panel will show up on the right side of the screen. From that panel, click on the ‘Record’ button to start the recording.
 
 ![hit record button](https://images.wondershare.com/filmora/article-images/2021/record-audio-on-powerpoint-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: After you have completed the recording, hit the ‘Stop’ button. Now, PowerPoint will ask you to either Insert or Discard the audio. Upon clicking on ‘Insert,’ a speaker icon will pop up on the screen. You can listen to your recording from that speaker icon.
 
@@ -343,13 +369,6 @@ Now that all the Windows and Mac users are satisfied after learning about PowerP
 The most crucial tip when it comes to making creative slides is the amount of information. It is said that 'Less is More.' While making your slides, you should always add less information to the slides, and you should speak more.
 
 The slides must contain minimal data. Too many wordy slides look boring, and they can never sustain your audiences' interest. So, it is best suggested to add less and make your slides neat and spacious.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use Design Elements
 
@@ -379,6 +398,13 @@ Always follow the ‘Add and Adjust’ policy. You should never throw data and e
 
 For the case of an image, you should add it, inspect it and if needed, crop it. Adding things with perfection makes your presentation stand out and shine differently.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Animation
 
 Static slides are too mainstream for today's fast world. The last tip to make creative slides that can retain your audiences’ attention is animation. By adding a few animated elements to your presentation makes it look classy and quirky. With animation, you can also maintain the interest of your audience.
@@ -405,6 +431,13 @@ Detailed tutorials provided by the official channel
 
 03 [7 PowerPoint Presentation Tips to Make Creative Slideshows](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Record Audio on PowerPoint in Windows?
 
 Powerpoint is a presentation-based program. The Microsoft Office product is available for both Windows and macOS. PowerPoint is mostly used in offices for demonstration purposes. It is widely used by teachers to deliver their lectures. With record voice-over PowerPoint, its users can make better presentations.
@@ -430,13 +463,6 @@ Step 4: Now, a small window for Record Sound will show up. Here, set a name for 
 Step 5: Once you have completed the recording, click on the Stop button to end the recording and then hit the ‘Ok’ button to exit the recording window.
 
 ![stop recording process](https://images.wondershare.com/filmora/article-images/2021/record-audio-on-powerpoint-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 6: At the end, a speaker icon will appear on the screen. When you hover on that icon, it will show the option to play the recording. You can adjust the speaker icon on the slide, and lastly, save your changes to PowerPoint.
 
@@ -483,13 +509,6 @@ Also, changing the common trends will make your presentation different and class
 A very common mistake that people generally make because they are unaware of it is the content. The best practice for quality presentation slides is to add and discuss one story per slide. You should never confuse your audience by sharing multiple things from the same slide.
 
 If you plan to discuss various things, then make separate slides for each story. This way, the audience gets sufficient time to digest and understand one story before moving on to another.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Alignment and Symmetry
 
@@ -541,13 +560,6 @@ Detailed tutorials provided by the official channel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Mastering AutoTune Effects: A Guide for Audacity Users
 
@@ -557,24 +569,24 @@ However, GSnap is one of the free plugins that enable you to autotune in Audacit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube/"><u>[Updated] From Capture to Air Expert Tips for Streaming Upside-Down Videos on Youtube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweak-quick-twitter-video-preview/"><u>[Updated] In 2024, Tweak Quick Twitter Video Preview</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-supercharge-your-channel-with-smart-youtube-collaborations/"><u>2024 Approved Supercharge Your Channel with Smart YouTube Collaborations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-art-of-hdr-photography-on-iphone/"><u>2024 Approved Unveiling the Art of HDR Photography on iPhone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-poco-c51-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Poco C51 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-swiftly-rotate-videos-in-vlc-for-smooth-viewing/"><u>In 2024, Swiftly Rotate Videos in VLC for Smooth Viewing</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-androids-best-face-to-face-apps-the-ultimate-list/"><u>New 2024 Approved Androids Best Face-to-Face Apps The Ultimate List</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-most-effective-6-internet-audio-cutting-software/"><u>New 2024 Approved Most Effective 6 Internet Audio Cutting Software</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-unlocking-sound-customization-adjusting-loudness-in-videoaudio-archives/"><u>New 2024 Approved Unlocking Sound Customization Adjusting Loudness in Video/Audio Archives</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-advanced-strategies-to-exclude-percussion-from-digital-song-archives/"><u>New Advanced Strategies to Exclude Percussion From Digital Song Archives</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-audiophiles-manual-to-volume-control-on-digital-media-updated/"><u>New In 2024, Audiophiles Manual to Volume Control on Digital Media – Updated</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-animated-video-makers-for-android-and-ios-updated-2023/"><u>New In 2024, Best Animated Video Makers for Android and iOS (Updated 2023)</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-navigating-the-future-essential-text-to-speech-websites-ranked-for-2024/"><u>New Navigating the Future Essential Text to Speech Websites Ranked for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-unveiling-top-tunes-without-words-a-guide-to-musical-backdrops-for-films-for-2024/"><u>New Unveiling Top Tunes Without Words A Guide to Musical Backdrops for Films for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/prime-collection-of-popular-pop-melodies-for-video-scores-for-2024/"><u>Prime Collection of Popular Pop Melodies for Video Scores for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/screencaptureapps-recording-your-next-google-meet/"><u>ScreenCaptureApps Recording Your Next Google Meet</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-list-8-best-audio-starts-to-boost-your-youtuber-profile/"><u>The Ultimate List 8 Best Audio Starts to Boost Your Youtuber Profile</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-the-secrets-to-intense-hdr-portraits-for-2024/"><u>Unlock the Secrets to Intense HDR Portraits for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tutorial-on-vlcs-automatic-screen-recorder-for-2024/"><u>[Updated] Tutorial on VLC's Automatic Screen Recorder for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/13-efficient-methods-for-converting-vob-files-into-mp4-format-on-windows-11-and-macos/"><u>13 Efficient Methods for Converting VOB Files Into MP4 Format on Windows 11 and macOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-movavi-pro-review-the-next-level-of-video-editing/"><u>2024 Approved Movavi Pro Review The Next Level of Video Editing</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-screen-quality-with-the-latest-display-driver-installations/"><u>Boost Your Screen Quality with the Latest Display Driver Installations</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-login-blockers-with-these-8-steps/"><u>Bypassing Windows Login Blockers with These 8 Steps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/discovering-the-most-advanced-online-tools-for-mp3-file-tagging-and-categorization/"><u>Discovering the Most Advanced Online Tools for MP3 File Tagging and Categorization</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximize-mobile-shots-the-top-iphone-photography-apps-7plus/"><u>Maximize Mobile Shots The Top iPhone Photography Apps (7+)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-becoming-the-next-star-how-to-utilize-voice-changer-plus-app-for-iphones-effectively-for-2024/"><u>New Becoming the Next Star How to Utilize Voice Changer Plus App for iPhones Effectively for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-discovering-the-best-places-for-impactful-drum-sounds-for-2024/"><u>New Discovering the Best Places for Impactful Drum Sounds for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-mastering-audio-clarity-the-most-effective-noise-reduction-tools-revealed/"><u>New In 2024, Mastering Audio Clarity The Most Effective Noise Reduction Tools Revealed</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-mastering-your-tracks-the-best-online-services-for-precision-audio-editing/"><u>New In 2024, Mastering Your Tracks The Best Online Services for Precision Audio Editing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-incorporating-sound-techniques-for-embedding-audio-in-quicktime-media/"><u>New Incorporating Sound Techniques for Embedding Audio in QuickTime Media</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/schritt-fur-schritt-guide-wie-sie-mithilfe-von-3-strategien-eine-sichere-windows-10-image-kopie-erstellen-konnen/"><u>Schritt-Für-Schritt-Guide: Wie Sie Mithilfe Von [3 Strategien] Eine Sichere Windows 10 Image-Kopie Erstellen Können</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/seek-out-wolfs-vocalization-echo-for-2024/"><u>Seek Out Wolfs Vocalization Echo for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/soutien-technique-virtuel-experimente-avec-le-logiciel-dextraction-dvd-winx-et-la-conversion-video-sur-plateforme-web/"><u>Soutien Technique Virtuel Expérimenté Avec Le Logiciel D’Extraction DVD WinX Et La Conversion Vidéo Sur Plateforme Web</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-elevating-audio-excellence-adjusting-pitch-in-audacity-without-compromising-quality/"><u>Updated 2024 Approved Elevating Audio Excellence Adjusting Pitch in Audacity without Compromising Quality</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-fusion-of-forms-innovative-methods-for-merging-video-with-sound/"><u>Updated 2024 Approved Fusion of Forms Innovative Methods for Merging Video with Sound ()</u></a></li>
+<li><a href="https://fox-that.techidaily.com/widget-woes-swift-fixes-to-get-them-running-again-on-your-apple-device/"><u>Widget Woes? Swift Fixes to Get Them Running Again on Your Apple Device</u></a></li>
 </ul></div>
 

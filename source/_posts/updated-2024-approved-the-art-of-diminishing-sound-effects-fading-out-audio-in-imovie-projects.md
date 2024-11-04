@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects
-date: 2024-09-25T21:52:43.723Z
-updated: 2024-09-30T21:03:40.322Z
+date: 2024-10-31T23:08:15.550Z
+updated: 2024-11-03T18:37:58.006Z
 tags: 
   - audio editing software
   - audio editing
@@ -51,13 +51,6 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
 Firstly, let's take a look at the video below to check how to fade audio in/out the audio in iMovie with fade handles.
@@ -68,6 +61,19 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
 #### Step 2. Move Pointer to Apply Fade Effects
@@ -75,13 +81,6 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 Move the pointer over a waveform, and drag the small gray fade handle at the left of the clip to adjust the fade audio in effect. Then drag the small fade handle at the right of the clip to adjust the fade-out effect.
 
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 3. Playback to Check
 
@@ -100,6 +99,13 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -121,11 +127,31 @@ Now, that's done! I hope the above information does help you to set the fade eff
 
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
 
 Let watch the video below to check how to apply fade-in and fade-out effects in an easier way with [**Wondershare Filmora for Mac**](https://tools.techidaily.com/wondershare/filmora/download/). And download it now to try it by yourself.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you want to quickly apply fade-in or fade-out effects, [iMovie's alternative for Mac](https://tools.techidaily.com/wondershare/filmora/download/) \- Wondershare Filmora can help you. It enables you to easily edit videos. After you've made your creation, it also allows you to directly upload the complete video file to YouTube and Vimeo for sharing. Check out the quick guide below to see how to add audio fade effects in Filmora.
 
@@ -145,23 +171,9 @@ Click the "Export" button to select one of the export methods. You can choose yo
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -178,22 +190,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-user-experience-recovering-lost-youtubefb-videos-for-2024/"><u>[New] Enhancing User Experience Recovering Lost YouTube/FB Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-yield-strategies-for-successful-money-making-on-mobile-youtube/"><u>[New] In 2024, Boosting Yield Strategies for Successful Money-Making on Mobile YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-endorsements-premier-portals-for-procuring-snapalert-rhythms/"><u>[Updated] Exclusive Endorsements Premier Portals for Procuring SnapAlert Rhythms</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-singing-alerts-crafting-and-configuring-customizable-sounds-and-ringtones-on-android/"><u>[Updated] In 2024, Singing Alerts Crafting and Configuring Customizable Sounds & Ringtones on Android</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-countdown-best-zombie-games-ranked-for-2024/"><u>[Updated] The Ultimate Countdown Best Zombie Games Ranked for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy S23 Ultra Phone?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-screen-snatchers-handbook-by-zd-software-experts/"><u>In 2024, The Ultimate Screen Snatcher’s Handbook by ZD Software Experts</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-elite-free-vst-plugin-catalogue-top-picks-and-downloading-platforms/"><u>New 2024 Approved The Elite Free VST Plugin Catalogue Top Picks and Downloading Platforms</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-cutting-edge-speech-recognition-apps-a-review-of-the-best-options-for-2024/"><u>New Cutting-Edge Speech Recognition Apps A Review of the Best Options for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-free-online-daw-options-ranking-the-most-convenient-and-cost-effective-tools/"><u>New Free Online DAW Options Ranking the Most Convenient and Cost-Effective Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-remove-audio-from-video-online/"><u>New In 2024, How to Remove Audio From Video Online?</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-replace-the-audio-track-in-a-video-step-by-step/"><u>New In 2024, How To Replace the Audio Track in a Video Step by Step</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-easy-path-to-crafting-your-audio-book-a-detailed-tutorial/"><u>New In 2024, The Easy-Path to Crafting Your Audio Book A Detailed Tutorial</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-mastering-mobile-a-guide-to-free-audio-to-text-conversion-on-android-and-ios-for-2024/"><u>New Mastering Mobile A Guide to Free Audio-to-Text Conversion on Android & iOS for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-optimal-siri-acoustics-creator-for-windows-pcs-and-apple-computers-for-2024/"><u>New Optimal Siri Acoustics Creator for Windows PCs and Apple Computers for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-ru7300-55-4k-ultra-hd-smart-tv-comprehensive-assessment-is-it-justified-by-its-design/"><u>Samsung RU7300 55 4K Ultra HD Smart TV Comprehensive Assessment: Is It Justified by Its Design?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boosting-zoom-image-resolution-expert-advice/"><u>[New] Boosting Zoom Image Resolution Expert Advice</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-tips-to-amplify-your-character-with-easy-pubg-alterations/"><u>[Updated] 2024 Approved Tips to Amplify Your Character with Easy PUBG Alterations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>[Updated] In 2024, Finding the Balance Adding Videos to Text on a Budget</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-art-of-angle-alteration-mastering-the-rotation-ritual-on-instagram/"><u>[Updated] In 2024, The Art of Angle Alteration Mastering the Rotation Ritual on Instagram</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-sell-more-grow-faster-discover-how-these-15-facebook-apps-can-help-for-2024/"><u>[Updated] Sell More, Grow Faster Discover How These 15 Facebook Apps Can Help for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-silliness-set-to-sound-10-hilarious-hits/"><u>[Updated] Silliness Set to Sound 10 Hilarious Hits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-sony-xperia-5-v-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Sony Xperia 5 V</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-spotify-link-errors-on-windows-systems/"><u>Eliminating Spotify Link Errors on Windows Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-record-facebook-messenger-calls-full-solutions/"><u>In 2024, Record Facebook Messenger Calls [Full Solutions]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-foundations-of-lexisaudioscript-your-first-steps-into-audio-editing/"><u>Updated 2024 Approved Foundations of LexisAudioScript Your First Steps Into Audio Editing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-how-to-add-audio-to-avi-2023-update/"><u>Updated 2024 Approved How to Add Audio to AVI-2023 Update</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-7-best-transition-sound-effects-free-download-that-you-dont-know/"><u>Updated 7 Best Transition Sound Effects (Free Download) That You Dont Know</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-advanced-mac-audio-division-toolkit-latest-2024-features/"><u>Updated Advanced Mac Audio Division Toolkit - Latest 2024 Features</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-exploring-advanced-methods-to-distill-sound-from-visual-clips-innovations/"><u>Updated Exploring Advanced Methods to Distill Sound From Visual Clips Innovations</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-exploring-the-finest-free-web-integrated-digital-audio-workstations-for-2024/"><u>Updated Exploring the Finest Free, Web-Integrated Digital Audio Workstations for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-essential-links-for-obtaining-high-quality-ding-sound-samples/"><u>Updated In 2024, Essential Links for Obtaining High-Quality Ding Sound Samples</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-synthetic-symphony-building-a-soundtrack-to-enhance-your-cinematic-vision/"><u>Updated In 2024, Synthetic Symphony Building a Soundtrack to Enhance Your Cinematic Vision</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-leading-voice-over-platforms-the-ultimate-guide-for-digital-audio-converters-for-2024/"><u>Updated Leading Voice-Over Platforms The Ultimate Guide for Digital Audio Converters for 2024</u></a></li>
 </ul></div>
 

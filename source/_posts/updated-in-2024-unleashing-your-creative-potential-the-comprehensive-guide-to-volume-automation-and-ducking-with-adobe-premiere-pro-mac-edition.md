@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition)
-date: 2024-10-23T10:47:09.992Z
-updated: 2024-10-28T21:01:47.793Z
+date: 2024-10-27T19:18:06.966Z
+updated: 2024-11-04T04:16:09.051Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +70,16 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +109,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,24 +130,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagrams-best-practices-video-sizes-and-formats/"><u>[New] 2024 Approved Instagram's Best Practices Video Sizes and Formats</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-revolutionizing-live-streams-discover-top-5-innovations-for-2024/"><u>[New] Revolutionizing Live Streams Discover Top 5 Innovations for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-5-best-title-maker-online/"><u>[Updated] 5 Best Title Maker Online</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-cutting-edge-screen-time-youtubes-top-movies-list/"><u>[Updated] In 2024, Cutting Edge Screen Time YouTube's Top Movies List</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-airwaves-to-archives-online-recording-strategies-for-tv-shows/"><u>2024 Approved From Airwaves to Archives Online Recording Strategies for TV Shows</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-105-classic-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia 105 Classic Quickly? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-channel-identity-made-simple-with-these-top-11-zero-cost-tools/"><u>In 2024, Channel Identity Made Simple with These Top 11 Zero-Cost Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/mastering-audio-amplitude-control-in-audacity/"><u>Mastering Audio Amplitude Control in Audacity</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-pioneering-the-next-wave-the-best-8-android-applications-for-sound-engineering/"><u>New 2024 Approved Pioneering the Next Wave The Best 8 Android Applications for Sound Engineering</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-rhythm-cleanser-app-design-tailored-accompaniment-sets/"><u>New 2024 Approved Rhythm Cleanser App Design Tailored Accompaniment Sets</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-editors-path-to-perfection-techniques-for-removing-ambient-noise-from-your-project/"><u>New 2024 Approved The Editors Path to Perfection Techniques for Removing Ambient Noise From Your Project</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-convert-videos-into-high-quality-audio-the-10-best-tools-at-your-fingertips-free/"><u>New In 2024, Convert Videos Into High-Quality Audio - The 10 Best Tools at Your Fingertips (Free)</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-edit-the-beat-and-sync-videos-to-music-in-final-cut-pro-x/"><u>New In 2024, How to Edit the Beat and Sync Videos to Music in Final Cut Pro X</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-silencing-sounds-techniques-for-audio-deletion-in-imovie-videos/"><u>New In 2024, Silencing Sounds Techniques for Audio Deletion in iMovie Videos</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-polishing-your-projects-soundtrack-effective-methods-for-removing-unwanted-audio-noise-in-videoworks-pro/"><u>New Polishing Your Projects Soundtrack Effective Methods for Removing Unwanted Audio Noise in VideoWorks Pro</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-unlocking-mp3-from-aiff-step-by-step-processes-revealed/"><u>New Unlocking MP3 From AIFF Step-by-Step Processes Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-hdmi-access-restrictions-fixes-when-another-program-is-in-use-of-the-device/"><u>Overcoming HDMI Access Restrictions: Fixes When Another Program Is in Use of the Device</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-y36i-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo Y36i Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-105-classic-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia 105 Classic Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-boosting-income-via-social-media-snapchats-methods/"><u>[Updated] 2024 Approved Boosting Income via Social Media Snapchat's Methods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>[Updated] 2024 Approved Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quickly-uncover-lately-watched-facebook-videos-for-2024/"><u>[Updated] Quickly Uncover Lately Watched Facebook Videos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-how-to-remove-static-noise-from-audio-in-seconds/"><u>2024 Approved How to Remove Static Noise From Audio in Seconds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-videos-made-simple-unified-techniques-for-desktop-and-mobile-for-2024/"><u>Facebook Videos Made Simple Unified Techniques for Desktop & Mobile for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/inverted-soundscapes-the-premier-backwards-music-videos-for-2024/"><u>Inverted Soundscapes The Premier Backwards Music Videos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-crafting-an-elegant-audio-dissolve-experience/"><u>New 2024 Approved Crafting an Elegant Audio Dissolve Experience</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-guide-to-discovering-mp3-files-with-kitty-calls-and-meows/"><u>New 2024 Approved Guide to Discovering MP3 Files with Kitty Calls and Meows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone XS? | Dr.fone</u></a></li>
 </ul></div>
 

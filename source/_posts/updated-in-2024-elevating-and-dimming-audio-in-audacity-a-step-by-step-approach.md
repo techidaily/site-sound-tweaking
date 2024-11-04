@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevating and Dimming Audio in Audacity A Step-by-Step Approach
-date: 2024-10-24T09:26:54.159Z
-updated: 2024-10-28T16:53:36.463Z
+date: 2024-10-30T18:00:25.479Z
+updated: 2024-11-03T20:24:03.580Z
 tags: 
   - audio editing software
   - audio editing
@@ -72,13 +72,6 @@ You may also apply the modifications to multiple files at once, rather than one 
 
 ![select multiple audio files audacity](https://images.wondershare.com/filmora/article-images/select-multiple-audio-files-audacity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Now, either enter the value in the text box next to the **Amplification Decibels** tab or use the slider under it. To verify the operation of increasing the volume, check the **allow clipping** checkbox. When you're through with the options, click the **Ok** button.
 
 ![adjust multiple audio files amplify](https://images.wondershare.com/filmora/article-images/adjust-multiple-audio-files-amplify.jpg)
@@ -118,6 +111,13 @@ It is the quickest approach to comprehend the effect's name if you want to know 
 Furthermore, because this amplification is extended to all frequencies and amplitude, the noise increases. If you choose ten sources and magnify them by ten decibels, each source will be ten decibels louder than your present sound.
 
 ![amplify audio audacity](https://images.wondershare.com/filmora/article-images/amplify-audio-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Normalize**
 
@@ -184,22 +184,15 @@ You may also apply the modifications to multiple files at once, rather than one 
 ![import audio files to audacity](https://images.wondershare.com/filmora/article-images/import-audio-files-to-audacity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2:** To select all the files, press **Ctrl + A**, click on the **Effect** option in the menu bar and pick **Amplify.**
 
 ![select multiple audio files audacity](https://images.wondershare.com/filmora/article-images/select-multiple-audio-files-audacity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Now, either enter the value in the text box next to the **Amplification Decibels** tab or use the slider under it. To verify the operation of increasing the volume, check the **allow clipping** checkbox. When you're through with the options, click the **Ok** button.
 
@@ -225,9 +218,23 @@ The audacity software also allows you to alter a specific section of an audio fi
 
 ![amplify part of audio files audacity](https://images.wondershare.com/filmora/article-images/amplify-part-of-audio-files-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Now, for that specific region, modify the amplification and click **OK**. This will only change the volume for the area you have selected.
 
 ![adjust part of audio amplification audacity](https://images.wondershare.com/filmora/article-images/adjust-part-of-audio-amplification-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: What's the Difference between Normalize and Amplify?
 
@@ -240,6 +247,13 @@ It is the quickest approach to comprehend the effect's name if you want to know 
 Furthermore, because this amplification is extended to all frequencies and amplitude, the noise increases. If you choose ten sources and magnify them by ten decibels, each source will be ten decibels louder than your present sound.
 
 ![amplify audio audacity](https://images.wondershare.com/filmora/article-images/amplify-audio-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Normalize**
 
@@ -319,13 +333,6 @@ You may also apply the modifications to multiple files at once, rather than one 
 
 If you’re running Audacity on macOS computer, you can watch the video tutorial below to apply effects to multiple files.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Increase Volume in Certain Parts of Track?
 
 The audacity software also allows you to alter a specific section of an audio file. The selection tool can assist in locating a particular area of the track. After you've chosen a section of the audio file, you may utilize the amplification effect to increase its loudness. Check out the instructions below to learn how you can achieve it:
@@ -344,6 +351,13 @@ The audacity software also allows you to alter a specific section of an audio fi
 
 ![adjust part of audio amplification audacity](https://images.wondershare.com/filmora/article-images/adjust-part-of-audio-amplification-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: What's the Difference between Normalize and Amplify?
 
 Amplify and Normalize are two essential features of the Audacity tool. Many people think they are the same thing, they are right up to some extent, but there exists a big difference between both the features. Before discussing the differences, you need to know what the terms Normalize and Amplify imply.
@@ -355,6 +369,13 @@ It is the quickest approach to comprehend the effect's name if you want to know 
 Furthermore, because this amplification is extended to all frequencies and amplitude, the noise increases. If you choose ten sources and magnify them by ten decibels, each source will be ten decibels louder than your present sound.
 
 ![amplify audio audacity](https://images.wondershare.com/filmora/article-images/amplify-audio-audacity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Normalize**
 
@@ -400,25 +421,11 @@ Learn how **Audacity increase volume without distortion** by following the proce
 
 ![audacity effects amplify adjust audio volume](https://images.wondershare.com/filmora/article-images/audacity-effects-amplify-adjust-audio-volume.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** You can increase or decrease the volume by double-clicking the track and using the slider under the **Gain** title.
 
 **Step 4:** Increase or decrease the volume by sliding the slider or typing the amplification value in the text box next to it in the Amplify window as needed.
 
 ![increase decrease audio volume audacity amplify](https://images.wondershare.com/filmora/article-images/increase-decrease-audio-volume-audacity-amplify.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** Ensure that the **Allow Clipping** checkbox remains unchecked to avoid clipping. Moreover, keep in mind that increasing the volume to a greater extent can result in distortion.
 
@@ -448,13 +455,6 @@ You may also apply the modifications to multiple files at once, rather than one 
 
 If you’re running Audacity on macOS computer, you can watch the video tutorial below to apply effects to multiple files.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Increase Volume in Certain Parts of Track?
 
 The audacity software also allows you to alter a specific section of an audio file. The selection tool can assist in locating a particular area of the track. After you've chosen a section of the audio file, you may utilize the amplification effect to increase its loudness. Check out the instructions below to learn how you can achieve it:
@@ -474,10 +474,10 @@ The audacity software also allows you to alter a specific section of an audio fi
 ![adjust part of audio amplification audacity](https://images.wondershare.com/filmora/article-images/adjust-part-of-audio-amplification-audacity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: What's the Difference between Normalize and Amplify?
@@ -534,18 +534,16 @@ The article will solely focus on talking about the best voice changer software. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-scout-platforms-securing-partnerships-with-youtube-content-creators/"><u>[New] In 2024, Scout Platforms Securing Partnerships with YouTube Content Creators</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-eliminating-automatic-sound-reduction-on-your-iphone/"><u>2024 Approved Eliminating Automatic Sound Reduction on Your iPhone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/efficient-passport-photography-our-top-10-low-cost-digital-options/"><u>Efficient Passport Photography Our Top 10 Low-Cost Digital Options</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oneplus-11r-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass OnePlus 11R FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-faces-of-technology-analyzing-face-detection-in-phones/"><u>In 2024, Faces of Technology Analyzing Face Detection in Phones</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-turning-hobby-into-habit-making-money-with-vlogs/"><u>In 2024, Turning Hobby Into Habit Making Money with Vlogs</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-on-page-seo-techniques-and-insights-for-enhanced-rankings-webmaster-toolkit/"><u>Mastering On-Page SEO Techniques & Insights for Enhanced Rankings | Webmaster Toolkit</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-auditory-accents-for-your-gifs-a-comprehensive-guide-for-apple-computers/"><u>New 2024 Approved Auditory Accents for Your GIFs A Comprehensive Guide for Apple Computers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-how-to-merge-video-and-audio/"><u>New 2024 Approved How to Merge Video and Audio</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-ultimate-guide-to-protected-and-entertaining-chatting-apps-for-unknown-individuals/"><u>New In 2024, Ultimate Guide to Protected and Entertaining Chatting Apps for Unknown Individuals</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-editors-pathway-weaving-clips-with-flawless-transitions-for-2024/"><u>New The Editors Pathway Weaving Clips with Flawless Transitions for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/reclaiming-your-omegle-presence-steps-to-overcome-an-online-ban/"><u>Reclaiming Your Omegle Presence Steps to Overcome an Online Ban</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2213945-9780008138004-virgo-2016-your-personal-horoscope/"><u>Virgo 2016: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-jpg-to-gif-tools-online-free-and-easy/"><u>[Updated] Best JPG to GIF Tools Online, Free and Easy</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-tier-mkv-players-macos-edition/"><u>[Updated] Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-unlist-your-business-on-facebook-effortlessly/"><u>How to Unlist Your Business on Facebook Effortlessly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-x9b-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor X9b?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-audience-behind-interactive-reactions-to-your-instagram-shares/"><u>Unveiling the Audience Behind Interactive Reactions to Your Instagram Shares</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-symphony-in-reverse-a-guide-to-state-of-the-art-audio-reversal-applications-for-2024/"><u>Updated Symphony in Reverse A Guide to State-of-the-Art Audio Reversal Applications for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>Updated Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-10-windows-and-macos-compatible-daws-the-ultimate-selection-for-2024/"><u>Updated Top 10 Windows & macOS Compatible DAWs The Ultimate Selection for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-transforming-vocal-landscapes-a-methodical-approach-to-swapping-video-audio-tracks-part-1-for-2024/"><u>Updated Transforming Vocal Landscapes A Methodical Approach to Swapping Video Audio Tracks (Part 1) for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-ultimate-guide-to-selecting-mobile-speech-to-text-software-for-2024/"><u>Updated Ultimate Guide to Selecting Mobile Speech-to-Text Software for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Techniques for Audience-Friendly Audio Declines in iMovie Projects
-date: 2024-10-31T03:16:24.492Z
-updated: 2024-11-03T19:49:46.010Z
+date: 2024-11-08T23:56:49.905Z
+updated: 2024-11-12T17:57:34.804Z
 tags: 
   - audio editing software
   - audio editing
@@ -61,6 +61,13 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
 #### Step 2. Move Pointer to Apply Fade Effects
@@ -70,10 +77,10 @@ Move the pointer over a waveform, and drag the small gray fade handle at the lef
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3. Playback to Check
@@ -93,13 +100,6 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -122,10 +122,10 @@ Now, that's done! I hope the above information does help you to set the fade eff
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
@@ -133,6 +133,13 @@ Now, that's done! I hope the above information does help you to set the fade eff
 Let watch the video below to check how to apply fade-in and fade-out effects in an easier way with [**Wondershare Filmora for Mac**](https://tools.techidaily.com/wondershare/filmora/download/). And download it now to try it by yourself.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you want to quickly apply fade-in or fade-out effects, [iMovie's alternative for Mac](https://tools.techidaily.com/wondershare/filmora/download/) \- Wondershare Filmora can help you. It enables you to easily edit videos. After you've made your creation, it also allows you to directly upload the complete video file to YouTube and Vimeo for sharing. Check out the quick guide below to see how to add audio fade effects in Filmora.
 
@@ -156,13 +163,6 @@ That's all about how to fade music and audio with iMovie and its alternative. If
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -178,14 +178,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-enhancing-productivity-the-art-of-using-no-cost-timers/"><u>[Updated] 2024 Approved Enhancing Productivity The Art of Using No-Cost Timers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/comprehensive-overview-discover-the-best-macos-based-music-editors-ranked-top-4-for-2024/"><u>Comprehensive Overview Discover the Best macOS-Based Music Editors Ranked Top 4 for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guide-facile-pour-reinitialiser-le-code-dacces-au-controleur-de-gestion-windows/"><u>Guide Facile Pour Réinitialiser Le Code D'Accès Au Contrôleur De Gestion Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-skyrocket-your-subscriber-count-6-proven-ways-to-keep-audiences-coming-back/"><u>In 2024, Skyrocket Your Subscriber Count 6 Proven Ways to Keep Audiences Coming Back</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-canticle-cleanse-software-generate-artisanal-harmony-tracks/"><u>New 2024 Approved Canticle Cleanse Software Generate Artisanal Harmony Tracks</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-pros-pathway-to-purging-percussion-from-digital-melodies/"><u>New In 2024, The Pros Pathway to Purging Percussion From Digital Melodies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-overcoming-difficulties-with-launching-nvidia-geforce-experience/"><u>Solved: Overcoming Difficulties with Launching NVIDIA GeForce Experience</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-essential-guide-to-flushing-out-your-tvs-memory-boost-performance-and-privacy/"><u>The Essential Guide to Flushing Out Your TV's Memory: Boost Performance & Privacy</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/top-rated-free-video-to-audio-converters-on-demand-edition-for-2024/"><u>Top-Rated Free Video-to-Audio Converters On-Demand Edition for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-free-open-source-video-conferencing-software-ranked-by-industry/"><u>[Updated] 2024 Approved Best Free Open Source Video Conferencing Software Ranked by Industry</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-calls-of-tomorrow-iphones-audio-archive/"><u>[Updated] Calls of Tomorrow - iPhone's Audio Archive</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capture-your-gaming-moments-xbox-one-screenshots-made-simple-for-2024/"><u>[Updated] Capture Your Gaming Moments Xbox One Screenshots Made Simple for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/click-download-button-next-to-the-latest-version-compatible-with-your-os-n-indicates-a-new-line-for-readability/"><u>Click Download Button Next to the Latest Version Compatible with Your OS. ( N Indicates a New Line for Readability)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/comprehensive-playlists-of-relaxing-melodies-for-serene-atmospheres/"><u>Comprehensive Playlists of Relaxing Melodies for Serene Atmospheres</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-best-combined-cable-modemrouter-systems-for-optimal-home-networking-2024/"><u>Discover the Best Combined Cable Modem/Router Systems for Optimal Home Networking, 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/hashtag-mastery-enhancing-freefire-gameplay-videos-for-2024/"><u>Hashtag Mastery Enhancing FreeFire Gameplay Videos for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-cover-art-mastery-transforming-your-podcasts-first-impression-with-tips-and-tricks/"><u>New 2024 Approved Cover Art Mastery Transforming Your Podcasts First Impression (With Tips & Tricks)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-enhancing-audio-production-integrating-and-leveraging-audacitys-autotune-feature/"><u>New 2024 Approved Enhancing Audio Production Integrating and Leveraging Audacitys Autotune Feature</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-find-fart-sounds-effect/"><u>New Find Fart Sounds Effect</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-3-top-ranked-online-tools-for-enhancing-audio-clarity/"><u>New In 2024, 3 Top-Ranked Online Tools for Enhancing Audio Clarity</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-silence-meets-you-an-easy-step-by-step-approach-to-disabling-zoom-microphones/"><u>New In 2024, Silence Meets You An Easy, Step-by-Step Approach to Disabling Zoom Microphones</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mp3-conversion-made-simple-3-effective-techniques-for-podcast-files/"><u>New MP3 Conversion Made Simple 3 Effective Techniques for Podcast Files</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-detect-clapping-impact-soundscape/"><u>Updated In 2024, Detect Clapping Impact Soundscape</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-where-can-i-find-moan-sound-effect-in-2024/"><u>Updated Where Can I Find Moan Sound Effect, In 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Itel A05s | Dr.fone</u></a></li>
 </ul></div>
 

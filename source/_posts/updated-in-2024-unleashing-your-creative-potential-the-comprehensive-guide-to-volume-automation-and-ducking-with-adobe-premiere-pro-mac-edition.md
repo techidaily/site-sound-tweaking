@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition)
-date: 2024-10-27T19:18:06.966Z
-updated: 2024-11-04T04:16:09.051Z
+date: 2024-11-05T22:22:22.551Z
+updated: 2024-11-12T21:46:16.907Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,16 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,14 +124,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-boosting-income-via-social-media-snapchats-methods/"><u>[Updated] 2024 Approved Boosting Income via Social Media Snapchat's Methods</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>[Updated] 2024 Approved Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-quickly-uncover-lately-watched-facebook-videos-for-2024/"><u>[Updated] Quickly Uncover Lately Watched Facebook Videos for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-how-to-remove-static-noise-from-audio-in-seconds/"><u>2024 Approved How to Remove Static Noise From Audio in Seconds</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebook-videos-made-simple-unified-techniques-for-desktop-and-mobile-for-2024/"><u>Facebook Videos Made Simple Unified Techniques for Desktop & Mobile for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/inverted-soundscapes-the-premier-backwards-music-videos-for-2024/"><u>Inverted Soundscapes The Premier Backwards Music Videos for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-crafting-an-elegant-audio-dissolve-experience/"><u>New 2024 Approved Crafting an Elegant Audio Dissolve Experience</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-guide-to-discovering-mp3-files-with-kitty-calls-and-meows/"><u>New 2024 Approved Guide to Discovering MP3 Files with Kitty Calls and Meows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-diy-ig-videos-tips-and-template-inspirations-for-2024/"><u>[New] DIY IG Videos Tips & Template Inspirations for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-comparative-study-youtube-app-on-smartphone-platforms/"><u>[New] In 2024, Comparative Study YouTube App on Smartphone Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>[New] The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-compreranium-of-hand-tracking-systems-for-2024/"><u>A Compreranium of Hand Tracking Systems for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-drive-issue-solved-driver-responding/"><u>Display Drive Issue Solved: Driver Responding</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/first-ever-software-fixes-quickbooks-corruption-thanks-to-stellar/"><u>First-Ever Software Fixes QuickBooks Corruption, Thanks to Stellar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-x50-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor X50? Try These Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-safety-suite-explained-how-to-manage-elevated-disk-usage-by-mssecuesexe-file/"><u>Microsoft Safety Suite Explained: How to Manage Elevated Disk Usage by mssecues.exe File</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-harmony-of-the-wild-selecting-the-very-best-ios-and-android-nature-audio-apps/"><u>New 2024 Approved Harmony of the Wild Selecting the Very Best iOS & Android Nature Audio Apps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-perfecting-your-macs-audio-capabilities-5-must-know-techniques-to-record-high-quality-sounds/"><u>New 2024 Approved Perfecting Your Macs Audio Capabilities 5 Must-Know Techniques to Record High-Quality Sounds</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-composing-for-cinema-adding-musical-layers-to-video-content-for-2024/"><u>New Composing for Cinema Adding Musical Layers to Video Content for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-add-music-background-music-to-video-without-hassle/"><u>New In 2024, How to Add Music (Background Music) to Video without Hassle</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-the-top-8-acoustic-themes-for-professional-video-enhancement/"><u>New The Ultimate Guide to the Top 8 Acoustic Themes for Professional Video Enhancement</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-rated-free-video-to-audio-converters-on-demand-edition/"><u>New Top-Rated Free Video-to-Audio Converters On-Demand Edition</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-transformations-in-anime-how-localization-brings-characters-home-for-2024/"><u>New Transformations in Anime How Localization Brings Characters Home for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unlock-the-full-potential-of-online-gaming-with-morphvox-a-players-ultimate-manual-to-mastering-changeable-voices-for-2024/"><u>Unlock the Full Potential of Online Gaming with Morphvox A Players Ultimate Manual to Mastering Changeable Voices for 2024</u></a></li>
 </ul></div>
 

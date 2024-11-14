@@ -1,7 +1,7 @@
 ---
 title: Updated Navigating Spatial Audio Management A Guide to Efficient Ducking in Video Production
-date: 2024-10-28T04:53:37.024Z
-updated: 2024-11-04T04:01:13.297Z
+date: 2024-11-08T03:49:32.861Z
+updated: 2024-11-12T21:01:31.275Z
 tags: 
   - audio editing software
   - audio editing
@@ -40,13 +40,6 @@ In most cases, it is achieved through a side-chain compression technique. A cont
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When Do You Need to Implement Audio Ducking?
 
 Since the concept of audio ducking is pretty useful, it can be implemented in different ways during the video editing process. While you can apply the process to any video, here are some of the major instances where it is used.
@@ -75,6 +68,13 @@ To implement audio ducking in your videos, you can use a reliable editing tool l
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To learn how to implement audio ducking in your videos using Filmora, you can go through these basic steps:
 
 #### Step 1\.  Import Your Videos on Filmora
@@ -89,9 +89,23 @@ Let's suppose that your video already has an audio track in the background, and 
 
 ![Record Voiceover for Audio Ducking](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apart from that, you can also go to the "Import" feature to add any other audio component to the project. Besides that, Wondershare Filmora also has a wide range of royalty-free audio files that you can easily add to your projects.
 
 ![Royalty-free Audio files for Audio Ducking](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3\.  Apply Audio Ducking to Your Video
 
@@ -103,38 +117,24 @@ Once you have selected the audio you wish to amplify, right-click to get its con
 
 ![Adjust Audio Ducking](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This will launch a dedicated window on the screen with various audio options to apply. Go to the "Ducking" option here and enable the "Lower the volume of other clips" feature. You can also use a slider here to adjust how much you wish to lower the volume of other clips in the project.
 
 ![Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That’s it! Once you have selected the value, click on the "OK" button. You can now preview the results on Filmora and check that the volume of other audio components has been ducked. You can later go to the “Export” option and save the project in the format of your choice.
 
 ![Preview Audio Ducking](https://images.wondershare.com/filmora/article-images/preview-audio-ducking.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After reading this post, I'm sure that you will know more about audio ducking and how we can implement it. Since many content creators encounter issues while working on their videos, audio ducking would certainly be a helpful feature. With an application like Wondershare Filmora, you can easily implement audio ducking on multiple files and further edit your videos like a pro!
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -153,16 +153,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>[Updated] 2024 Approved Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-money-with-8-youtube-aspects/"><u>[Updated] Mastering Money with 8 YouTube Aspects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-choosing-video-aspect-ratios/"><u>[Updated] The Art of Choosing Video Aspect Ratios</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341711383-a-subdivision-plat-which-records-new-lot-boundaries-and-other-details-must-be-created-and-approved/"><u>A Subdivision Plat, Which Records New Lot Boundaries and Other Details, Must Be Created and Approved</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-correct-the-multiple-irp-complete-issues-leading-to-a-system-crash-on-windows/"><u>How to Correct the 'Multiple IRP Complete' Issues Leading to a System Crash on Windows</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-a-curated-selection-of-websites-for-obtaining-quality-whoosh-sound-experience/"><u>New 2024 Approved A Curated Selection of Websites for Obtaining Quality Whoosh Sound Experience</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-essential-mobile-audio-cutting-software-the-ultimate-list-for-iphones-and-tablets/"><u>New 2024 Approved Essential Mobile Audio Cutting Software The Ultimate List for iPhones and Tablets</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-top-11-no-cost-audio-transformation-apps-for-ios-devices/"><u>New 2024 Approved Top 11 No-Cost Audio Transformation Apps for iOS Devices</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio/"><u>New In 2024, The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-unveiling-the-best-macdaw-software-of-the-year-detailed-reviews-and-comparisons/"><u>New In 2024, Unveiling the Best MacDAW Software of the Year Detailed Reviews and Comparisons</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/share-your-video-vision-youtube-to-facebook-guide-2024/"><u>Share Your Video Vision YouTube to Facebook Guide 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-free-form-funny-meme-tools-on-a-shoestring-budget/"><u>[Updated] Free-Form Funny Meme Tools on a Shoestring Budget</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-15-essential-soundtracks-curating-the-perfect-score-for-various-video-genres/"><u>2024 Approved 15 Essential Soundtracks Curating the Perfect Score for Various Video Genres</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-jest-in-jam-your-complete-manual-to-cartoon-snaps-on-snapchat/"><u>2024 Approved Jest in Jam Your Complete Manual to Cartoon Snaps on Snapchat</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/advanced-drawing-experience-with-the-huion-inspiroy-g10t-tablet-superior-quality-examined/"><u>Advanced Drawing Experience with the Huion Inspiroy G10T Tablet - Superior Quality Examined</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/how-to-record-audio-on-chromebook-7-useful-ways-for-2024/"><u>How to Record Audio on Chromebook? 7 Useful Ways for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-6s-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 6s Plus Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-device-didnt-migrate-error-in-windows-10/"><u>How to Resolve the 'Device Didn't Migrate' Error in Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-deals-why-the-discounted-ring-video-doorbell-pro-is-your-top-pick-for-smart-home-security/"><u>Labor Day Deals: Why the Discounted Ring Video Doorbell Pro Is Your Top Pick for Smart Home Security</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-real-time-navigation-a-guide-to-google-maps-live-view/"><u>Mastering Real-Time Navigation: A Guide to Google Maps Live View</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-discovering-dynamic-dry-brush-audio-layers-for-productions/"><u>New 2024 Approved Discovering Dynamic Dry Brush Audio Layers for Productions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-methods-to-exclude-sound-from-multimedia-files/"><u>New 2024 Approved Methods to Exclude Sound From Multimedia Files</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-deciphering-the-prowess-of-magix-samplitude-in-modern-music-production-for-2024/"><u>New Deciphering the Prowess of MAGIX Samplitude in Modern Music Production for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-harmonizing-soundscapes-advanced-techniques-for-audio-normalization-in-davinci-resolve/"><u>New Harmonizing Soundscapes Advanced Techniques for Audio Normalization in DaVinci Resolve</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/tracking-down-enhanced-alien-voices-effects/"><u>Tracking Down Enhanced Alien Voices Effects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unplanned-bambu-lab-a1-3d-printer-refunds-by-tiktok-mistake-involves-new-models-with-no-safety-hazards/"><u>Unplanned Bambu Lab A1 3D Printer Refunds by TikTok: Mistake Involves New Models With No Safety Hazards</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-pro-level-mp3-cutting-discover-the-top-5-online-platforms/"><u>Updated 2024 Approved Pro-Level MP3 Cutting Discover the Top 5 Online Platforms</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-ace-2v-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus Ace 2V | Dr.fone</u></a></li>
 </ul></div>
 

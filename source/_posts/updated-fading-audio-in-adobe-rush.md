@@ -1,7 +1,7 @@
 ---
 title: Updated Fading Audio in Adobe Rush
-date: 2024-11-02T08:20:26.778Z
-updated: 2024-11-04T04:03:40.166Z
+date: 2024-11-10T08:01:15.650Z
+updated: 2024-11-13T02:54:30.788Z
 tags: 
   - audio editing software
   - audio editing
@@ -36,6 +36,19 @@ Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fading Audio in Wondershare Filmora
 
 #### 1\. Import video and audio files into Filmora
@@ -49,10 +62,10 @@ Alternatively, you can just drag and drop an audio file from the folder to the M
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-track.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Fading audio in Filmora
@@ -64,10 +77,10 @@ Clicking on the Edit button, located at the end of the software's toolbar will g
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-panel.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Fade in and Fade out sliders are located at the top of the Audio panel and you can drag the handle on the slider or you can insert new Fade in or Fade out values manually in the boxes next to the sliders. You can click play and decide if you like the effect you created before you click OK to confirm the changes.
@@ -78,13 +91,6 @@ In case you want to fade an audio quickly you can do so directly from the timeli
 
 ![](https://images.wondershare.com/filmora/article-images/fading-audio-in-filmora-9-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car Horn that can be combined with the Fade in or Fade out effect to create a better soundtrack for your video. When ready, click on the Export button and proceed to choose the video's resolution, file format or export destination. The software also lets you export MP3 files, which enables you to save all the changes you make while editing an audio file.
 
 #### Conclusion
@@ -94,10 +100,10 @@ Even though Adobe Rush is an app aimed at YouTubers and social media video creat
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -115,19 +121,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-organizing-virtual-gatherings-syncing-slack-with-filmoras-features/"><u>[New] 2024 Approved Organizing Virtual Gatherings Syncing Slack with Filmora's Features</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/avigating-social-media-preferences-tiktok-versus-youtube-shorts-for-2024/"><u>[New] Navigating Social Media Preferences TikTok Versus YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-conquer-social-media-optimal-video-converters-for-twitters/"><u>[Updated] 2024 Approved Conquer Social Media Optimal Video Converters for Twitters</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-celestial-composition-the-art-of-nighttime-photography-mastery/"><u>[Updated] Celestial Composition The Art of Nighttime Photography Mastery</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-ignite-imagination-crafting-engaging-content-for-channels/"><u>2024 Approved Ignite Imagination Crafting Engaging Content for Channels</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/methods-to-exclude-sound-from-multimedia-files-for-2024/"><u>Methods to Exclude Sound From Multimedia Files for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-5-amazing-voice-changer-for-google-meet-for-2024/"><u>New 5 Amazing Voice Changer for Google Meet for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-compilation-of-affordable-audio-manipulation-software-for-windows-and-mac-os-x/"><u>New In 2024, The Ultimate Compilation of Affordable Audio Manipulation Software for Windows and Mac OS X</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-step-by-step-audio-augmentation-for-quality-video-files-on-quicktime/"><u>New Step-by-Step Audio Augmentation for Quality Video Files on QuickTime</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-streamlining-sound-sync-how-to-implement-audio-ducking-for-dynamic-volume-control-in-powerdirector/"><u>New Streamlining Sound Sync How to Implement Audio Ducking for Dynamic Volume Control in PowerDirector</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taskers-puzzle-edge-and-other-processes/"><u>Tasker's Puzzle: Edge and Other Processes</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-technical-journey-behind-xbox-cloud-gaming/"><u>The Technical Journey Behind Xbox Cloud Gaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winxvideo-ai-une-solution-revolutionnaire-pour-laugmentation-et-la-restauration-des-images-en-haute-resolution-4k-8k-and-10k/"><u>WinxVideo AI : Une Solution Révolutionnaire Pour L'Augmentation Et La Restauration Des Images en Haute Résolution (4K, 8K & 10K)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-skype-voice-to-mp3-the-economical-choice/"><u>[New] 2024 Approved Skype Voice to MP3 The Economical Choice</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-good-quality-to-great-optimal-hd-fb-streaming/"><u>[New] From Good Quality to Great Optimal HD FB Streaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-innovative-approaches-for-logging-online-discussions/"><u>[New] In 2024, Innovative Approaches for Logging Online Discussions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-top-10-trending-tweets-sparking-conversations-worldwide/"><u>2024 Approved Top 10 Trending Tweets Sparking Conversations Worldwide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-job-market-the-evolving-scenario/"><u>AI-Driven Job Market: The Evolving Scenario</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-ios-edge-explained-6-key-differences/"><u>ChatGPT's iOS Edge Explained: 6 Key Differences</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/discover-fresh-korean-drama-episodes-locate-and-download-them-without-payment/"><u>Discover Fresh Korean Drama Episodes - Locate & Download Them Without Payment</u></a></li>
+<li><a href="https://article-files.techidaily.com/discovering-the-secrets-to-professional-music-mixing-with-magix-for-2024/"><u>Discovering the Secrets to Professional Music Mixing with Magix for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-the-art-of-video-with-these-html5-platforms/"><u>Master the Art of Video with These HTML5 Platforms</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-enhancing-aural-experiences-implementing-progressive-volume-changes-today/"><u>New 2024 Approved Enhancing Aural Experiences Implementing Progressive Volume Changes Today</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-tips-for-lowering-the-bit-rate-of-multimedia-content/"><u>New In 2024, Tips for Lowering the Bit Rate of Multimedia Content</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-voicelinkpro-sync-your-soundscapes-with-ease-in-the-latest-of-premiere-pro-2023-iteration-for-2024/"><u>New VoiceLinkPro Sync Your Soundscapes with Ease in the Latest of Premiere Pro 2023 Iteration for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-top-5-hits-where-to-get-royalty-evading-laugh-tracks-online/"><u>Updated 2024 Approved The Top 5 Hits Where to Get Royalty-Evading Laugh Tracks Online</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-auditory-sculpture-in-motion-constructing-vibrant-audio-visual-compositions-with-premiere-pro/"><u>Updated Auditory Sculpture in Motion Constructing Vibrant Audio-Visual Compositions with Premiere Pro</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-synchronizing-audio-with-visual-media-the-quicktime-method-for-2024/"><u>Updated Synchronizing Audio with Visual Media The QuickTime Method for 2024</u></a></li>
 </ul></div>
 

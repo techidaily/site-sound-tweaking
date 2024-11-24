@@ -1,7 +1,7 @@
 ---
 title: Updated Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects for 2024
-date: 2024-11-08T00:58:22.687Z
-updated: 2024-11-13T16:17:52.630Z
+date: 2024-11-21T20:39:00.576Z
+updated: 2024-11-23T16:29:04.667Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,6 +28,10 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Audio in After Effects
 
 1\. Start the program and open a new project.
@@ -35,6 +39,10 @@ Working with audio files in Adobe After Effects would be challenging since it is
 2\. Import the files in the project panel. Mute the video sound if neccesary
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Import the audio file to the project file as well (that is required to be added).
 
@@ -49,19 +57,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Best Audio Editing Software to Add Audio to Video
 
@@ -81,13 +76,6 @@ Multiple audio adjustment options are available across Wondershare Filmora. Whil
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To add audio in Wondershare Filmora, you need to follow the steps as explained below.
 
 **Step 1: Start a New Project on Wondershare Filmora**
@@ -103,10 +91,7 @@ Once a new project starts, tap on 'File' followed by "Import Media." Select the 
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Drag Audio to Timeline**
@@ -115,6 +100,10 @@ To perform different edits across the audio, the user needs to drag the audio on
 
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Export Audio File**
 
 Once you are done editing the audio, you can easily save it across your device. For that, tap on "Export" to open a new window. Across the "Local" section, select "MP3" from the list of formats and figuratively set all the other settings before tapping on "Export."
@@ -122,10 +111,7 @@ Once you are done editing the audio, you can easily save it across your device. 
 ![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3\.  FL Studio 12.1.2
@@ -157,20 +143,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-speech-recognition-made-accessible-transforming-audio-to-text-with-ease-in-microsoft-word/"><u>[New] Speech Recognition Made Accessible Transforming Audio to Text with Ease in Microsoft Word</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-tier-laptops-and-pcs-for-ultimate-comfort/"><u>[Updated] 2024 Approved Top-Tier Laptops & PCs for Ultimate Comfort</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/getting-started-macbook-cam-recording/"><u>Getting Started MacBook Cam Recording</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-12-mini-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 12 mini?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23plus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23+ to Outlook | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-speedy-guide-to-mute-vocals-in-recording-software-audacity-edition/"><u>New 2024 Approved Speedy Guide to Mute Vocals in Recording Software – Audacity Edition</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-harmonizing-technology-with-taste-your-guide-to-mastering-audio-format-selection/"><u>New In 2024, Harmonizing Technology with Taste Your Guide to Mastering Audio Format Selection</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-leading-video-chat-services-a-ranked-guide-to-alternative-omegle-options/"><u>New In 2024, Leading Video Chat Services A Ranked Guide to Alternative Omegle Options</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-mastering-auditory-enhancements-in-animated-gifs-with-macos-software-for-2024/"><u>New Mastering Auditory Enhancements in Animated GIFs with macOS Software for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-10-windows-and-macos-compatible-daws-the-ultimate-selection-for-2024/"><u>New Top 10 Windows & macOS Compatible DAWs The Ultimate Selection for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-secret-weapon-of-gamers-vocal-charisma-mastering-morphvox-techniques-for-in-game-broadcasts/"><u>The Secret Weapon of Gamers Vocal Charisma Mastering Morphvox Techniques for In-Game Broadcasts</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-choosing-a-daw-our-picks-on-top-8-software-for-exceptional-recording-mixing-and-mastering-capabilities/"><u>The Ultimate Guide to Choosing a DAW Our Picks on Top 8 Software for Exceptional Recording, Mixing, and Mastering Capabilities</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210298197-9781644680636-three-simple-words/"><u>Three Simple Words | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g13-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G13 Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-insta-authenticity-your-selfie-verification-journey/"><u>[New] 2024 Approved Unlocking Insta Authenticity Your Selfie Verification Journey</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/8-best-online-free-voice-recorder/"><u>8 Best Online Free Voice Recorder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-desktop-image-fusion/"><u>A Step-by-Step Guide to Desktop Image Fusion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-tale-of-high-quality-mobility-sony-xperia-xz-summary/"><u>A Tale of High-Quality Mobility Sony Xperia XZ Summary</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gebruik-gratuitiecode-convertinge-mkv-naar-wav-online-met-movavi/"><u>Gebruik Gratuitiecode - Convertinge MKV Naar WAV Online Met Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-19-pc-instances-of-unexpected-shutdowns-and-glitches/"><u>How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-melody-and-motion-best-sync-videography-applications-of-the-decades-first-half/"><u>New 2024 Approved Melody and Motion Best-Sync Videography Applications of the Decades First Half</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-ultimate-guide-to-choosing-a-top-10-windows-and-macos-digital-audio-workstation/"><u>New 2024 Approved The Ultimate Guide to Choosing a Top 10 Windows & macOS Digital Audio Workstation</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-aiff-to-mp3-mastery-transforming-your-audio-collection-effortlessly-for-2024/"><u>New AIFF to MP3 Mastery Transforming Your Audio Collection Effortlessly for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-compilation-of-affordable-audio-manipulation-software-for-windows-and-mac-os-x/"><u>New The Ultimate Compilation of Affordable Audio Manipulation Software for Windows and Mac OS X</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-s23plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel S23+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-most-reliable-online-platforms-for-securely-downloading-ding-sound-effects-2023-selection-for-2024/"><u>The Most Reliable Online Platforms for Securely Downloading Ding Sound Effects (2023 Selection) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-handling-discord-js-errors-with-ease/"><u>Troubleshoot Like a Pro: Handling Discord JS Errors with Ease</u></a></li>
 </ul></div>
 

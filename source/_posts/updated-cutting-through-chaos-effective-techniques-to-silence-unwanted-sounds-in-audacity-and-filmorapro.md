@@ -1,7 +1,7 @@
 ---
 title: Updated Cutting Through Chaos Effective Techniques to Silence Unwanted Sounds in Audacity and FilmoraPro
-date: 2024-10-29T18:04:37.669Z
-updated: 2024-11-03T17:28:30.983Z
+date: 2024-11-22T21:36:54.692Z
+updated: 2024-11-23T17:27:48.736Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,6 +30,10 @@ For a [recording to have good audio quality](https://blogs.articulate.com/rapid-
 
 The good news is that with software like Audacity, amateurs and professionals can easily do noise reduction in a few simple steps. In this post, we show you how to easily do **noise reduction in Audacity**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to do noise reduction in Audacity
 
 [Audacity](https://www.audacityteam.org/about/features/) is a lightweight opensource audio recording and editing software that’s used by many serious podcasters and vloggers. It has PC and MAC versions, and it can be downloaded with an easy-to-read manual. Before you begin the noise reduction process, assess your audio recording, taking note of parts that have background noise and the different background sounds in the recording. You should also form the habit of taking a separate recording of the ROOM TONE. You can know more infomation of Audacity from [PCmag review](https://www.pcmag.com/review/362572/audacity). This recording will provide a clear sample of the background noise in the room and will be very useful in the noise reduction process. See steps below:
@@ -39,25 +43,30 @@ The good news is that with software like Audacity, amateurs and professionals ca
 
 ![audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/audacity-noise-reduction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once a new window labelled ‘STEP 1’ opens, click on the ‘GET NOISE PROFILE’ button. This creates the NOISE PROFILE which Audacity will use in the noise reduction process.
 
 ![apply audacity noise reduction](https://images.wondershare.com/filmora/filmorapro/apply-noise-reduction.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Next, select the entire audio file that requires noise reduction. Then, select NOISE REDUCTION from the EFFECTS tab on the top menu bar.
 * When the new window labelled ‘STEP 2’ opens, take your time to enter the settings that give you the desired level of noise reduction. Carefully adjust the bands for NOISE REDUCTION, SENSITIVITY and FREQUENCY SMOOTHING.
 
 ![manually reduce noise](https://images.wondershare.com/filmora/filmorapro/set-how-to-reduce-noise.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, click the PREVIEW button to hear the effect of your noise reduction settings. If you are not satisfied with the preview, you can adjust the settings bars until you achieve a good result.
 * You should also click on the RESIDUE radio button to hear the sounds that will be eliminated from your recording if your chosen settings are applied. This can be very useful as some settings can result in the loss of valuable audio content. If you hear valuable audio content captured in the residue, adjust your settings accordingly. Try as much as possible to minimize the loss of valuable audio content.
 * Once you are satisfied with your audio preview and residue, click the OK button with the REDUCE radio button selected. This will perform the noise reduction effect on your audio recording.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -66,10 +75,7 @@ Keep in mind that noise reduction is not a perfect process and strong noise redu
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -87,22 +93,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-hilarity-in-hd-the-best-photo-editing-tools-online/"><u>[New] In 2024, Hilarity in HD The Best Photo Editing Tools Online</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-propella-7s-40-inflatable-boards-top-review-for-budget-friendly-fun-on-water/"><u>Affordable Propella 7S 4.0 Inflatable Boards - Top Review for Budget-Friendly Fun on Water</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/discover-the-best-deal-on-microsoft-office-2019-for-both-pc-and-mac-save-big-with-a-secure-price-of-25-insights-by-zdnet/"><u>Discover the Best Deal on Microsoft Office 2019 for Both PC and Mac: Save Big with a Secure Price of $25 | Insights by ZDNET</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/lipsync-lite-top-picks-for-cost-free-audio-conversion-on-your-smartphone-and-tablet-for-2024/"><u>LipSync Lite Top Picks for Cost-Free Audio Conversion on Your Smartphone & Tablet for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/maintain-anonymity-in-fb-narratives/"><u>Maintain Anonymity in FB Narratives</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-achieving-professional-results-attaching-soundtracks-to-videos-with-magix-movie-editor/"><u>New 2024 Approved Achieving Professional Results Attaching Soundtracks to Videos with Magix Movie Editor</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-best-beat-sync-video-editing-apps/"><u>New Best Beat Sync Video Editing Apps</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-from-sound-to-screen-revolutionary-ways-to-auto-synchronize-in-the-age-of-digital-media-production/"><u>New From Sound to Screen Revolutionary Ways to Auto-Synchronize in the Age of Digital Media Production</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-best-8-speech-transcription-services-suitable-for-all-major-os-including-cloud-computing/"><u>New In 2024, The Best 8 Speech Transcription Services Suitable for All Major OS Including Cloud Computing</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-mastering-your-music-on-a-chromebook-the-top-8-daws-that-will-elevate-your-sound-updated-list-2023-for-2024/"><u>New Mastering Your Music on a Chromebook The Top 8 DAWs that Will Elevate Your Sound (Updated List, 2023) for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-step-by-step-instructional-guide-recording-high-quality-audio-on-iphone-devices/"><u>New Step-by-Step Instructional Guide Recording High-Quality Audio on iPhone Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ocidll-not-detected-heres-how-you-can-resolve-this-problem/"><u>OCI.DLL Not Detected? Here's How You Can Resolve This Problem</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-tips-for-swift-printers/"><u>Quick Tips for Swift Printers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-essential-guide-to-recording-dynamic-digital-audio-broadcasts-for-2024/"><u>The Essential Guide to Recording Dynamic Digital Audio Broadcasts for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-13-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 13 Pro Making It Possible</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-30plus-metaverse-quotes-to-inspire-you-include-ar-and-vr/"><u>[New] 30+ Metaverse Quotes to Inspire You [Include AR & VR]</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-truth-behind-your-instagram-selfie-for-2024/"><u>[New] The Truth Behind Your Instagram Selfie for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ultimate-guide-to-selecting-best-windows-screen-capture-tools/"><u>[Updated] 2024 Approved Ultimate Guide to Selecting Best Windows Screen Capture Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-list-of-free-video-intros/"><u>[Updated] Comprehensive List of Free Video Intros</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-innovative-animation-solutions-with-advanced-3d-modellers-for-2024/"><u>[Updated] Innovative Animation Solutions with Advanced 3D Modellers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-your-youtube-videos-after-publishing/"><u>[Updated] Perfect Your YouTube Videos After Publishing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-terraria-game-boosters-for-2024/"><u>[Updated] Top 10 Terraria Game Boosters for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-reno-10-pro-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo Reno 10 Pro 5G Phone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-enhancing-listening-experience-steps-for-standardizing-audio-amplitude-in-vlc/"><u>New Enhancing Listening Experience Steps for Standardizing Audio Amplitude in VLC</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-identifying-repositories-of-flatulence-related-auditory-experiences-for-creative-use/"><u>New Identifying Repositories of Flatulence-Related Auditory Experiences for Creative Use</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-navigating-the-nuances-of-audio-graphics-plotting-waveform-data-and-infusing-videos-with-life-like-animations-using-premiere-pro-for-2024/"><u>New Navigating the Nuances of Audio Graphics Plotting Waveform Data & Infusing Videos with Life-Like Animations Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-streamline-your-audio-capture-with-these-top-5-mp3-specific-recording-devices/"><u>New Streamline Your Audio Capture with These Top 5 MP3-Specific Recording Devices</u></a></li>
 </ul></div>
 

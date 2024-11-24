@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Unleashing Your Creative Potential The Comprehensive Guide to Volume Automation and Ducking with Adobe Premiere Pro (Mac Edition)
-date: 2024-11-08T18:15:13.737Z
-updated: 2024-11-13T18:37:44.560Z
+date: 2024-11-22T22:55:34.353Z
+updated: 2024-11-23T23:02:46.269Z
 tags: 
   - audio editing software
   - audio editing
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 Too many times, while mixing voiceover with the background music in a video, the dialogues don’t seem to be audible. That’s when we follow the process of audio ducking in **Premiere Pro** that would automatically lower the volume of the background music whenever there is a dialogue.
 
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
 
@@ -57,16 +61,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -76,10 +71,7 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +101,7 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,18 +119,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-beyond-playfulness-unveiling-the-subtext-in-snapchat-symbols/"><u>[New] In 2024, Beyond Playfulness Unveiling the Subtext in Snapchat Symbols</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-natural-beauty-video-suggestions/"><u>2024 Approved Natural Beauty Video Suggestions</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/amoeba-discover-how-aomei-empowers-camilles-digital-restoration-services/"><u>Amoeba: Discover How AOMEI Empowers Camille's Digital Restoration Services</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-sensations-how-vr-enhances-pleasure-for-2024/"><u>Digital Sensations How VR Enhances Pleasure for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-guide-to-personalizing-the-windows-11-taskbars-shade/"><u>DIY Guide to Personalizing the Windows 11 Taskbar's Shade</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-iphone-wireless-charging-issues-with-these-7-quick-tips/"><u>Fix iPhone Wireless Charging Issues with These 7 Quick Tips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-guide-to-10-top-ranked-entrepreneurial-youtube-platforms/"><u>In 2024, Guide to 10 Top-Ranked Entrepreneurial YouTube Platforms</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-2-key-steps-to-achieve-clear-vocal-recordings-without-echo/"><u>Updated 2024 Approved 2 Key Steps to Achieve Clear Vocal Recordings without Echo</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mobile-and-web-based-a-capellas-mastery-tools/"><u>Updated 2024 Approved The Ultimate Guide to Mobile and Web-Based A Capellas Mastery Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-unveiling-the-premier-10-windows-and-apple-devices-compatible-daws-of-today/"><u>Updated 2024 Approved Unveiling the Premier 10 Windows & Apple Devices-Compatible DAWs of Today</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-cutting-through-chaos-effective-techniques-to-silence-unwanted-sounds-in-audacity-and-filmorapro/"><u>Updated Cutting Through Chaos Effective Techniques to Silence Unwanted Sounds in Audacity and FilmoraPro</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-a-comprehensive-review-the-premier-audio-changers-for-smartphones/"><u>Updated In 2024, A Comprehensive Review The Premier Audio Changers for Smartphones</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-capturing-your-computers-sounds-a-guide-to-using-audacity/"><u>Updated In 2024, Capturing Your Computers Sounds A Guide to Using Audacity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-limiting-bitrate-overshoot-in-obs/"><u>[Updated] 2024 Approved Limiting Bitrate Overshoot in OBS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-getting-comfy-with-video-chats-in-instagrams-ecosystem/"><u>[Updated] Getting Comfy with Video Chats in Instagram's Ecosystem</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/change-rai-files-to-png-easily-and-for-free-using-movavis-online-tool/"><u>Change RAI Files to PNG Easily & for Free Using Movavi's Online Tool</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/designing-winning-youtube-banners-that-captivate-and-expand-your-audience-base/"><u>Designing Winning YouTube Banners That Captivate and Expand Your Audience Base</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/guide-deliberately-creating-low-quality-videos/"><u>Guide: Deliberately Creating Low-Quality Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-m54-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy M54 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-essential-mobile-audio-cutting-software-the-ultimate-list-for-iphones-and-tablets/"><u>New 2024 Approved Essential Mobile Audio Cutting Software The Ultimate List for iPhones and Tablets</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-top-11-no-cost-audio-transformation-apps-for-ios-devices/"><u>New 2024 Approved Top 11 No-Cost Audio Transformation Apps for iOS Devices</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio/"><u>New In 2024, The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-unveiling-the-best-macdaw-software-of-the-year-detailed-reviews-and-comparisons/"><u>New In 2024, Unveiling the Best MacDAW Software of the Year Detailed Reviews and Comparisons</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-for-resolving-non-loading-of-enex-drivers-on-windows-11/"><u>Steps for Resolving Non-Loading of eNEX Drivers on Windows 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/your-go-to-guide-for-the-best-top-10-apps-to-download-facebook-videos-on-android-for-2024/"><u>Your Go-To Guide for the Best Top 10 Apps to Download Facebook Videos on Android for 2024</u></a></li>
 </ul></div>
 

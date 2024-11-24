@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Sound Manipulation Creating Engaging Audio Timelines Using Keyframes in Adobe Premiere Pro (Mac) for 2024
-date: 2024-11-12T20:20:42.355Z
-updated: 2024-11-14T01:21:39.797Z
+date: 2024-11-22T00:24:40.951Z
+updated: 2024-11-23T18:42:36.478Z
 tags: 
   - audio editing software
   - audio editing
@@ -43,9 +43,17 @@ To start with, you can launch Adobe Premiere Pro, go to your Project > Import, a
 
 ![Import Audio Files in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/import-audio-files-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the audio track is added to the project, you can further drag and drop it to the sequence section (timelines) at the bottom.
 
 ![Add Audio to Timeline in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/add-audio-to-timeline-adobe-premiere-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Show Keyframes for the Track**
 
@@ -68,10 +76,7 @@ Once you have enabled the audio keyframe options in Premiere Pro, you can view k
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
@@ -86,6 +91,10 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Apply Fade-in or Out options**
 
 Once you have clip keyframes in your track, you can easily do whatever you like. You can use the **Pen** tool or press the CMD key on your Mac to select the starting and the ending of the clip.
@@ -93,13 +102,6 @@ Once you have clip keyframes in your track, you can easily do whatever you like.
 Now, go to the audio segment from the timeline and simply place the audio level up (to fade-in) or down (to fade-out). You can set the audio levels for different segments the way you like to customize these operations in your audio track.
 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
 
@@ -109,13 +111,6 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
 
 That’s a wrap, everyone! I’m sure that after reading this post, you would be able to set up audio keyframes in Adobe Premiere Pro. Since adding keyframes in Premiere can be done automatically, it would save your time in audio editing and post-production. Mostly, the clip audio keyframing is used in Adobe to customize the sound at any desired segment. Apart from fade-in or out, there are tons of other effects that you can apply to your audio tracks with the help of keyframes. Go ahead and try the Adobe Premiere Pro keyframing feature and let us know about your experience in the comments.
@@ -123,10 +118,7 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -144,22 +136,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-authoritative-guide-to-premium-auto-camera-tech/"><u>[New] In 2024, Authoritative Guide to Premium Auto Camera Tech</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-peek-into-past-posts-panel/"><u>[New] In 2024, Peek Into Past Posts Panel</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-safe-methods-to-fast-forward-in-spotify-files/"><u>[New] In 2024, Safe Methods to Fast-Forward in Spotify Files</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-preserve-precision-4-advanced-screen-recording-for-gamers-for-2024/"><u>[New] Preserve Precision 4 Advanced Screen Recording for Gamers for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-best-practices-for-incorporating-b-footage-in-projects-for-2024/"><u>[Updated] Best Practices for Incorporating B-Footage in Projects for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-snicker-studio-cybernetic-cackles/"><u>[Updated] Snicker Studio Cybernetic Cackles</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/harmonyvoices-mastering-cross-platform-audio-synchronization-in-adobe-premiere-pro/"><u>HarmonyVoices Mastering Cross-Platform Audio Synchronization in Adobe Premiere Pro</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-cutting-edge-sound-isolation-for-video-content-a-comprehensive-overview-of-techniques/"><u>In 2024, Cutting-Edge Sound Isolation for Video Content A Comprehensive Overview of Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-nubia-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Nubia</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unveiling-vrs-immersive-visual-experience/"><u>In 2024, Unveiling VR's Immersive Visual Experience</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-how-to-install-and-use-autotune-in-audacity/"><u>New How to Install and Use Autotune in Audacity</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-exploring-depth-of-field-for-giant-audio-waves/"><u>New In 2024, Exploring Depth of Field for Giant Audio Waves</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-premier-top-10-audio-manipulation-software-for-windows-and-mac-users-for-2024/"><u>New Premier Top 10 Audio Manipulation Software for Windows and Mac Users for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms-for-2024/"><u>The Essential List of Top 10 Audio Editors for Windows & Mac Platforms for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-avi-to-mp4-how-to-cast-any-video-file-to-chromecast/"><u>Updated 2024 Approved From AVI to MP4 How to Cast Any Video File to Chromecast</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-leading-applications-for-clearing-up-audio-distractions-during-filming/"><u>Updated 2024 Approved Leading Applications for Clearing Up Audio Distractions During Filming</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-best-digital-audio-trimmer-tools-of-the-future/"><u>Updated The Best Digital Audio Trimmer Tools of the Future</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-accelerate-your-retro-play-with-best-ps2-android-emulators/"><u>[Updated] 2024 Approved Accelerate Your Retro Play with Best Ps2 Android Emulators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-compute-aspect-variety-from-anywhere/"><u>[Updated] Compute Aspect Variety From Anywhere</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-exploring-the-metaverse-meme-landscape-for-2024/"><u>[Updated] Exploring the Metaverse Meme Landscape for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-investing-successfully-with-a-makeup-channel/"><u>[Updated] Investing Successfully with a Makeup Channel</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-from-default-dial-tones-to-signature-sounds-the-ringtone-artisans-manual/"><u>2024 Approved From Default Dial-Tones to Signature Sounds The Ringtone Artisans Manual</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-signed-out-error-in-imessage-for-seamless-messaging-on-iphone/"><u>Fixing the Signed Out Error in iMessage for Seamless Messaging on iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-up-to-photo-perfection-with-leading-skin-editors/"><u>In 2024, Step Up to Photo Perfection with Leading Skin Editors</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-trace-acoustic-expressions-linked-to-painting-devices/"><u>In 2024, Trace Acoustic Expressions Linked to Painting Devices</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-how-to-remove-vocals-from-any-song-top-8-song-lyrics-removers-for-2024/"><u>New How to Remove Vocals From Any Song Top 8 Song Lyrics Removers for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-procuring-specialized-sounds-mimicking-intestinal-gas-release-for-enhanced-aural-realism-for-2024/"><u>New Procuring Specialized Sounds Mimicking Intestinal Gas Release for Enhanced Aural Realism for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/optimal-strategies-for-livestream-sports-recording-for-2024/"><u>Optimal Strategies for Livestream Sports Recording for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/silencing-sounds-a-deep-dive-into-audacitys-features-for-sound-reduction/"><u>Silencing Sounds A Deep Dive Into Audacitys Features for Sound Reduction</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-magix-samplitude-vs-competitors-unveiling-the-top-music-producer/"><u>Updated MAGIX Samplitude Vs. Competitors Unveiling the Top Music Producer</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-premier-digital-audio-editor-for-2024/"><u>Updated Premier Digital Audio Editor for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-precision-audio-technicians-handbook-comprehensive-approaches-to-reverb-removal-for-2024/"><u>Updated The Precision Audio Technicians Handbook Comprehensive Approaches to Reverb Removal for 2024</u></a></li>
 </ul></div>
 

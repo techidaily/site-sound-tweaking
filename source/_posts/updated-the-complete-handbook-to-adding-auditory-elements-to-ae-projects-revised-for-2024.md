@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Handbook to Adding Auditory Elements to AE Projects, Revised for 2024
-date: 2024-11-09T19:38:22.348Z
-updated: 2024-11-13T23:29:46.454Z
+date: 2024-11-19T21:47:40.794Z
+updated: 2024-11-24T00:50:22.740Z
 tags: 
   - audio editing software
   - audio editing
@@ -36,6 +36,10 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Import the audio file to the project file as well (that is required to be added).
 
 4\. Make sure to convert the audio file to .mp3 format.
@@ -69,10 +73,7 @@ Multiple audio adjustment options are available across Wondershare Filmora. Whil
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To add audio in Wondershare Filmora, you need to follow the steps as explained below.
@@ -84,10 +85,7 @@ Download and install the official software of Wondershare Filmora on your device
 ![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Import Audio File**
@@ -96,6 +94,10 @@ Once a new project starts, tap on 'File' followed by "Import Media." Select the 
 
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Drag Audio to Timeline**
 
 To perform different edits across the audio, the user needs to drag the audio on the timeline.
@@ -103,10 +105,7 @@ To perform different edits across the audio, the user needs to drag the audio on
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Export Audio File**
@@ -129,13 +128,6 @@ Wavosaur is an old tool that doesn’t run on most modern computers and laptops.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -151,16 +143,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-legacy-linkup-suite/"><u>[New] 2024 Approved Legacy Linkup Suite</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-clarity-unleashed-in-depth-review-of-the-hp-z32-x-display/"><u>[Updated] Clarity Unleashed In-Depth Review of the HP Z32 X Display</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tiny-content-overview-made-easy/"><u>[Updated] Tiny Content Overview Made Easy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-tips-for-preventing-continuous-overwatch-npc-collapses-and-enhancing-playtime/"><u>Effective Tips for Preventing Continuous Overwatch nPC Collapses and Enhancing Playtime</u></a></li>
-<li><a href="https://fox-http.techidaily.com/navigating-through-pc-hdr-content-watch-edit-enjoy-for-2024/"><u>Navigating Through PC HDR Content Watch, Edit, Enjoy for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-audiophiles-manual-incorporating-pristine-sounds-in-mp4-videos-for-2024/"><u>Updated Audiophiles Manual Incorporating Pristine Sounds in MP4 Videos for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-cutting-edge-editors-toolkit-the-definitive-list-of-10-reaper-plugins-to-enhance-your-workflows-for-2024/"><u>Updated Cutting-Edge Editors Toolkit The Definitive List of 10 Reaper Plugins to Enhance Your Workflows for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-fusing-cinematics-with-soundtracks-innovations-and-tips/"><u>Updated Fusing Cinematics with Soundtracks Innovations and Tips</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-essential-music-libraries-for-film-and-video-editing-free-edition/"><u>Updated In 2024, Essential Music Libraries for Film and Video Editing - Free Edition</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-obs-audio-levels-techniques-for-dynamic-ducking-and-lifting-for-2024/"><u>Updated Mastering OBS Audio Levels Techniques for Dynamic Ducking and Lifting for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrading-xerox-c6515-system/"><u>Upgrading Xerox C6515 System</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-step-by-step-voice-customization-in-free-fire-guide-included-no-cost/"><u>[New] In 2024, Step-by-Step Voice Customization in Free Fire (Guide Included - No Cost)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unpacking-magix-video-editor-features-for-2024/"><u>[Updated] Unpacking MAGIX Video Editor Features for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-lava-yuva-2-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Lava Yuva 2 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/snip-and-save-malfunction-resolve-it-with-ease/"><u>Snip-and-Save Malfunction? Resolve It with Ease</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/step-by-step-tutorial-on-moving-songs-from-windows-laptop-to-iphones-using-a-universal-cable/"><u>Step-by-Step Tutorial on Moving Songs From Windows Laptop to iPhones Using a Universal Cable</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sustaining-wellbeing-in-virtual-reality/"><u>Sustaining Wellbeing in Virtual Reality</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-gratis-fotobackupsoftware-die-bessere-wahl-fur-sie/"><u>Top Gratis Fotobackupsoftware: Die Bessere Wahl Für Sie</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-clues-within-windows-blue-screen-events/"><u>Unlocking Clues Within Windows Blue Screen Events</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-essential-film-audio-experience-discovering-the-top-8-sounds/"><u>Updated 2024 Approved Essential Film Audio Experience Discovering the Top 8 Sounds</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-mp3-to-mp4-converter-how-to-convert-mp3-to-mp4/"><u>Updated 2024 Approved MP3 to MP4 Converter How to Convert MP3 to MP4?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-explore-our-top-8-selection-of-aural-designs-for-cutting-edge-video-sound-integration/"><u>Updated Explore Our Top 8 Selection of Aural Designs for Cutting-Edge Video Sound Integration</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-dualtracksync-the-ultimate-audio-matching-solution-for-adobe-premiere-pro-users/"><u>Updated In 2024, DualTrackSync The Ultimate Audio Matching Solution for Adobe Premiere Pro Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-interface-revolution-learning-the-widget-basics/"><u>Windows 11 Interface Revolution: Learning the Widget Basics</u></a></li>
 </ul></div>
 

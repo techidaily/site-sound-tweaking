@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Silence the Rhythm An Expert Approach to Drum-Free Song Editing Online
-date: 2024-11-07T16:53:25.615Z
-updated: 2024-11-13T21:11:04.077Z
+date: 2024-11-19T19:00:07.418Z
+updated: 2024-11-24T00:32:59.618Z
 tags: 
   - audio editing software
   - audio editing
@@ -52,18 +52,15 @@ This makes it a great choice when removing drums from music on SoundCloud or the
 
 Although some tracks will not isolate the best with this web app, it gets the work done. Once you download the files, it is easy to bring the songs into DAW to play along. The process makes it simple to create drum covers fast that you can play along with other web mixers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. Extract Drums from a Song Online with VST Plugins**
 
 For those who want to do more of the work, VST plugins for removing drums from music are a great option. These are software modules that take the form of real-time effects or instruments. They may also have MIDI effects, giving more freedom with audio editing, The inability to adjust or customize settings when extracting drums from a soundtrack is one of the major downfalls of a web-based application. With VST plugins, this issue is no longer a concern.
 
 ![vst plugins](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With VSTs, you are more flexible and able to deliver better results. They are often used in applications that support VST technology, including Cakewalk Sonar, Steinberg Cubase, Sound Forge Pro, Ableton Live, and many others. Some of the most common ones include:
 
@@ -89,10 +86,7 @@ Removing drums from a song becomes easier with the right tools. In most cases, y
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [**AI Vocal Remover**](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -102,10 +96,7 @@ Extracting drums from songs is made easier with Filmora’s AI Vocal Remover. Th
 ![ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-3.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * **Remove Vocals from Audio** – With only one click, the feature removes vocals from audio while maintaining high-quality production. This means you can dub any video without covering up the current and create great drum soundtracks within minutes.
@@ -125,10 +116,7 @@ To start using the AI Vocal Remover feature, launch Filmora on your desktop. The
 ![launch filmora](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-4.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2Import Your Song or Sound Track
@@ -142,6 +130,10 @@ On the customer toolbar, select “Media” and then click on the “Files” ic
 Drag and drop the files you have imported to Filmora to the timeline so you can start the editing process. Select the song you want to edit in the timeline and select “Audio” option. Then click AI Vocal Remover from the options available. Navigate the AI Vocal Remover to edit the audio as desired.
 
 ![start ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-6.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -160,18 +152,18 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-immerse-slides-with-audio-harmony/"><u>[New] Immerse Slides with Audio Harmony</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-bridge-ppt-content-with-video-channeling/"><u>[Updated] 2024 Approved Bridge PPT Content with Video Channeling</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-color-crafting-chronicles-pro-techniques-compilation/"><u>2024 Approved Color Crafting Chronicles Pro Techniques Compilation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-simplicity-in-skewing-photographic-content/"><u>2024 Approved Simplicity in Skewing Photographic Content</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/enhancing-musical-journeys-implementing-softening-effects-in-soundtracks-for-2024/"><u>Enhancing Musical Journeys Implementing Softening Effects in Soundtracks for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-stop-fbs-persistent-video-ad-popups-for-2024/"><u>How to Stop FB's Persistent Video Ad Popups for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-get-the-best-mp4-recorder-software-guide/"><u>In 2024, Get the Best MP4 Recorder Software Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-navigating-video-editing-incorporating-dubbing-techniques-in-filmora/"><u>New 2024 Approved Navigating Video Editing Incorporating Dubbing Techniques in Filmora</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-vocal-navigator-discovering-premium-online-text-to-speech-providers/"><u>New 2024 Approved The Vocal Navigator Discovering Premium Online Text to Speech Providers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-crafting-the-perfect-audio-backdrop-a-guide-to-top-instrumental-music-selections/"><u>New Crafting the Perfect Audio Backdrop A Guide to Top Instrumental Music Selections</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-audio-engineers-guide-to-live-sound-management-with-obs-maximizing-your-broadcast-quality/"><u>New In 2024, The Audio Engineers Guide to Live Sound Management with OBS Maximizing Your Broadcast Quality</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-instantaneous-voice-eradication-technique-using-audacity/"><u>New Instantaneous Voice Eradication Technique Using Audacity</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-revolutionize-your-edits-top-premiere-pro-transition-tools/"><u>Updated In 2024, Revolutionize Your Edits Top Premiere Pro Transition Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-safely-capture-your-favorite-youtube-audio-for-free/"><u>[New] 2024 Approved How to Safely Capture Your Favorite YouTube Audio for Free</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-easily-create-captions-and-subtitles-for-facebook-videos/"><u>[New] In 2024, How to Easily Create Captions and Subtitles for Facebook Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-next-gen-patient-rehabilitation-tools-for-2024/"><u>[Updated] Next-Gen Patient Rehabilitation Tools for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-comparing-reels-and-stories-whats-your-preference/"><u>In 2024, Comparing Reels & Stories What's Your Preference?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovating-entertainment-the-updated-sony-blu-ray-s6500/"><u>Innovating Entertainment The Updated Sony Blu-Ray S6500</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-audio-architects-guide-to-stripping-down-beats-online/"><u>New 2024 Approved The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-art-of-voice-imitation-leveraging-ai-for-realistic-synthesis/"><u>New Art of Voice Imitation Leveraging AI for Realistic Synthesis</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-sculpting-your-audio-experience-in-videos-with-ease-and-precision/"><u>New In 2024, Sculpting Your Audio Experience in Videos with Ease and Precision</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-ultimate-guide-to-selecting-mobile-speech-to-text-software-for-2024/"><u>New Ultimate Guide to Selecting Mobile Speech-to-Text Software for 2024</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-12-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-technique-for-noiseless-iphone-movies/"><u>The Ultimate Technique for Noiseless iPhone Movies</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unleashing-the-power-of-sound-in-videography-a-step-by-step-tutorial-for-2024/"><u>Unleashing the Power of Sound in Videography A Step-by-Step Tutorial for 2024</u></a></li>
 </ul></div>
 

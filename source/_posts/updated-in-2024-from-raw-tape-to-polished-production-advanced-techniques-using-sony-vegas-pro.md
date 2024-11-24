@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, From Raw Tape to Polished Production Advanced Techniques Using Sony Vegas Pro
-date: 2024-11-01T03:58:01.751Z
-updated: 2024-11-04T07:54:32.601Z
+date: 2024-11-19T17:01:12.838Z
+updated: 2024-11-23T20:08:52.169Z
 tags: 
   - audio editing software
   - audio editing
@@ -49,6 +49,10 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
 * Pan Slider: It is possible to make adjustments for audio pan using a slider named as Center. Users can slide it to left side or right side as per audio project requirements.
 
@@ -63,6 +67,10 @@ Those who want to control volume separately for different portions of audio file
 **Mute:** A blue line is visible on timeline at your selected audio event, simply double click over it for addition of a specific point and then right click for mute adjustments. From appeared drop down menu you can select muted or not muted and the adjustments will be effective on right side of event point.
 
 ![Mute audio to selected part](https://images.wondershare.com/edit-audio-in-vegas-pro-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
 
@@ -79,6 +87,10 @@ Some professional settings to audio project can be made using fade in/out option
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
 ![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Section 3: Speed up or Slow down
 
@@ -114,9 +126,17 @@ If you want to add specific effects to your audio files then use two simple meth
 
 ![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For additional personalization you need to use plug-in chain button from right corner.
 
 ![Audio plugins](https://images.wondershare.com/edit-audio-in-vegas-pro-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
@@ -131,6 +151,10 @@ For additional personalization you need to use plug-in chain button from right c
 The Vegas Pro is rated as a professional editing software tool due to its advanced user interface, high price range and availability on Mac devices only. If you are searching for some video editing tools that can work on Windows as well as Mac devices then [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best options for you all.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -151,25 +175,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-full-disclosure-inside-djis-next-gen-drone-inspire-2/"><u>[New] 2024 Approved Full Disclosure Inside DJI's Next Gen Drone - Inspire 2</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-ryans-revenue-revolution-from-childhood-to-youtube-riches/"><u>[New] 2024 Approved Ryan’s Revenue Revolution From Childhood to YouTube Riches</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-switch-clash-top-10-intense-battles-to-play/"><u>[Updated] 2024 Approved Switch Clash Top 10 Intense Battles to Play</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/explore-and-download-the-latest-electronic-dance-music-edm-for-2024/"><u>Explore & Download the Latest Electronic Dance Music (EDM) for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-find-x6-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Find X6 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-6-best-voice-changers-for-chromebook-deserve-a-try-filmora/"><u>New In 2024, 6 Best Voice Changers for Chromebook Deserve a Try - Filmora</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-elevating-music-production-a-curated-list-of-the-top-8-macdaws/"><u>New In 2024, Elevating Music Production A Curated List of the Top 8 MacDAWS</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-essential-film-audio-experience-discovering-the-top-8-sounds/"><u>New In 2024, Essential Film Audio Experience Discovering the Top 8 Sounds</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-exploring-the-horizon-of-audio-transcription-technologies/"><u>New In 2024, Exploring the Horizon of Audio Transcription Technologies</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nintendos-latest-feature-face-off-the-switch-lite-versus-the-oled-edition/"><u>Nintendo's Latest Feature Face-Off: The Switch Lite Versus the OLED Edition</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-role-of-high-stakes-soundtracks-in-crafting-unforgettable-movie-experiences/"><u>The Role of High-Stakes Soundtracks in Crafting Unforgettable Movie Experiences</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleash-your-videos-potential-with-dynamic-titles-for-2024/"><u>Unleash Your Video's Potential with Dynamic Titles for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/anked-the-best-7-android-adblockers-for-screen-freedom-for-2024/"><u>[New] Ranked The Best 7 Android AdBlockers for Screen Freedom for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art/"><u>[Updated] In 2024, Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterpiece-moments-top-15-musician-behind-the-scenes-vlogs/"><u>[Updated] Masterpiece Moments Top 15 Musician Behind-the-Scenes Vlogs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-screencapture-simplified-the-comprehensive-camstudio-review/"><u>2024 Approved ScreenCapture Simplified The Comprehensive CamStudio Review</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/garmin-venu-evaluation-the-ultimate-device-for-continuous-fitness-monitoring-and-health-tracking/"><u>Garmin Venu Evaluation: The Ultimate Device for Continuous Fitness Monitoring and Health Tracking</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-how-to-cut-ringtones/"><u>In 2024, How to Cut Ringtones</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-15-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 15? 5 Tips You Must Know</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-audio-harmony-in-editing-perfecting-the-dance-between-music-and-visuals-in-final-cut-pro-x/"><u>New 2024 Approved Audio Harmony in Editing Perfecting the Dance Between Music and Visuals in Final Cut Pro X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-big-the-best-6-online-coupon-hubs-for-budget-friendly-shopping/"><u>Save Big: The Best 6 Online Coupon Hubs for Budget-Friendly Shopping</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-list-of-cost-free-digital-sound-balancing-apps/"><u>The Ultimate List of Cost-Free Digital Sound Balancing Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-10-zoom-recording-essentials/"><u>Top 10 Zoom Recording Essentials</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2023s-favorite-retro-tempo-tunes-compilation-for-2024/"><u>Updated 2023S Favorite Retro-Tempo Tunes Compilation for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-precision-sound-engineering-harnessing-the-power-of-keyframes-for-audio-fade-insouts-in-filmora-mac/"><u>Updated 2024 Approved Precision Sound Engineering Harnessing the Power of Keyframes for Audio Fade-Ins/Outs in Filmora (Mac)</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

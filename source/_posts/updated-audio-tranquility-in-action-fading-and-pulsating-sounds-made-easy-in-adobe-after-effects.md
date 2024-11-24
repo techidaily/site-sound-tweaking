@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Tranquility in Action Fading and Pulsating Sounds Made Easy in Adobe After Effects
-date: 2024-11-01T01:07:41.976Z
-updated: 2024-11-03T20:44:49.654Z
+date: 2024-11-20T19:11:21.726Z
+updated: 2024-11-24T00:16:37.680Z
 tags: 
   - audio editing software
   - audio editing
@@ -46,6 +46,10 @@ The next thing you will have to do is place the playhead at the exact location w
 
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Complete Fade out/in audio in After Effects
 
 Move the playhead to the location where you want the effect to end and add another keyframe by clicking on the 'Add or remove keyframe at current time' icon. Set the Audio Level value to 0db, and that is it. You've created the Fade in effect. Keep in mind that you can use more than two keyframes to fade in audio, enabling you to increase the audio level gradually. The process of creating the Fade effect requires you to add a keyframe that has a 0db value a few seconds before the clip ends and then add another keyframe at the very end of the audio file that has -50 or -100db audio level value.
@@ -53,10 +57,7 @@ Move the playhead to the location where you want the effect to end and add anoth
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips For Making Better Fade In and Fade Out Effects
@@ -64,10 +65,7 @@ Move the playhead to the location where you want the effect to end and add anoth
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Avoid Hard Cuts
@@ -77,10 +75,7 @@ A high pitch sound at the very begging of a new sequence can ruin your soundtrac
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
@@ -100,10 +95,7 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -121,17 +113,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-unlock-vivacut-potential-with-comprehensive-guide-and-review-2024/"><u>[New] Unlock VivaCut Potential with Comprehensive Guide & Review 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-recovering-from-a-youtube-penalty/"><u>[Updated] Recovering From a Youtube Penalty</u></a></li>
-<li><a href="https://win-unique.techidaily.com/die-beste-losung-zur-migrationen-von-samsung-daten-unser-ranking-der-top-software/"><u>Die Beste Lösung Zur Migrationen Von Samsung-Daten - Unser Ranking Der Top-Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streaming-strategy-is-vlc-worthy-to-challenge-mpc/"><u>In 2024, Streaming Strategy Is VLC Worthy to Challenge MPC?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-harmonizing-words-into-sounds-top-choices-in-online-text-to-speech-services/"><u>New 2024 Approved Harmonizing Words Into Sounds Top Choices in Online Text-to-Speech Services</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-adding-professional-titles-to-your-videos-with-final-cut-pro-x/"><u>New In 2024, Adding Professional Titles to Your Videos with Final Cut Pro X</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-essential-list-of-cost-free-audio-to-transcription-tools-for-the-modern-user/"><u>New In 2024, Essential List of Cost-Free Audio to Transcription Tools for the Modern User</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-leading-free-daw-applications-accessible-via-browsers-for-2024/"><u>New Leading Free DAW Applications Accessible via Browsers for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-modern-editors-handbook-cutting-and-mixing-in-avidemux/"><u>New The Modern Editors Handbook Cutting and Mixing in Avidemux</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-save-video-in-virtual-meetings/"><u>[New] In 2024, How to Save Video in Virtual Meetings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-collagecraft-stitching-videos-for-instagram-on-iosandroid/"><u>[Updated] 2024 Approved CollageCraft Stitching Videos for Instagram on iOS/Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-conquering-image-search-a-pathway-to-stunning-pexels-visuals/"><u>2024 Approved Conquering Image Search A Pathway to Stunning Pexels Visuals</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/8-best-online-free-voice-recorder-for-2024/"><u>8 Best Online Free Voice Recorder for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-xs-max-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone XS Max Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/free-streaming-of-new-releases-on-xmovies8-full-episodes-and-movies-available-now/"><u>Free Streaming of New Releases on Xmovies8: Full Episodes and Movies Available Now</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a78-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A78 5G</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-audiovisual-transition-incorporating-a-subtle-decline-into-your-soundscapes-updated/"><u>In 2024, Audiovisual Transition Incorporating a Subtle Decline Into Your Soundscapes (Updated)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-analysis-of-the-sturdy-panasonic-toughbook-g2-notebook-customizable-compact-laptop-reviewed-by-zdnet/"><u>In-Depth Analysis of the Sturdy Panasonic Toughbook G2 Notebook | Customizable, Compact Laptop Reviewed by ZDNET</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/innovating-sound-design-the-impact-and-prowess-of-magix-samplitude-for-2024/"><u>Innovating Sound Design The Impact and Prowess of MAGIX Samplitude for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-your-eveo-bluetooth-transmitter-with-this-free-software/"><u>Install Your EVEO Bluetooth Transmitter with This Free Software</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-auditory-technology-insight-understanding-sound-forge/"><u>New Auditory Technology Insight Understanding Sound Forge</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-best-websites-to-download-nature-sounds/"><u>New Best Websites to Download Nature Sounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-resident-evil-5-unable-to-start-on-desktop-systems/"><u>Resolved: Fixes for 'Resident Evil 5' Unable to Start on Desktop Systems</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-exploring-cricket-auditory-signatures/"><u>Updated 2024 Approved Exploring Cricket Auditory Signatures</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-how-to-remove-vocals-from-any-song-top-8-song-lyrics-removers/"><u>Updated 2024 Approved How to Remove Vocals From Any Song Top 8 Song Lyrics Removers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-identifying-repositories-of-flatulence-related-auditory-experiences-for-creative-use/"><u>Updated In 2024, Identifying Repositories of Flatulence-Related Auditory Experiences for Creative Use</u></a></li>
 </ul></div>
 

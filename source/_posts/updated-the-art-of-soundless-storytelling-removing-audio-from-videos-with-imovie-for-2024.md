@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Soundless Storytelling Removing Audio From Videos with iMovie for 2024
-date: 2024-11-23T00:12:17.938Z
-updated: 2024-11-23T20:29:29.649Z
+date: 2024-11-25T00:50:11.984Z
+updated: 2024-12-02T03:40:25.399Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ _“How do you remove audio from a video in Movie on an iPhone or Mac? I have a 
 As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
@@ -55,7 +55,7 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pro Tip: How to Mute Background Noise in iMovie
@@ -63,7 +63,7 @@ Once you have muted the sound in the video, just tap on the “Done” button to
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
@@ -91,7 +91,7 @@ I’m sure that after reading this post, you would be able to remove audio from 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -109,18 +109,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-laptop-recording-mastering-screenrec/"><u>[New] 2024 Approved Ultimate Laptop Recording Mastering ScreenRec</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-trending-picture-tales-history-revealed-for-2024/"><u>[New] Trending Picture Tales History Revealed for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-elevate-your-visuals-with-hdr-written-in-the-stars-hdr/"><u>2024 Approved Elevate Your Visuals with HDR' Written in the Stars (HDR)</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/best-6-iphone-voice-memo-applications-you-should-try/"><u>Best 6 iPhone Voice Memo Applications You Should Try</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-top-tier-professional-development-on-linkedin/"><u>Discover Top-Tier Professional Development on LinkedIn</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/how-to-replace-the-audio-track-in-a-video-step-by-step-for-2024/"><u>How To Replace the Audio Track in a Video Step by Step for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-mobile-camera-best-android-practices/"><u>Mastering Mobile Camera Best Android Practices</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/melody-compendium-the-15-best-music-selections-for-different-visual-media-types/"><u>Melody Compendium The 15 Best Music Selections for Different Visual Media Types</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-art-of-sound-visualization-combining-waveform-graphics-and-animation-techniques-in-premiere-pro/"><u>New 2024 Approved The Art of Sound Visualization Combining Waveform Graphics & Animation Techniques in Premiere Pro</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-optimal-windows-10-sound-aggregation-ranking-the-best-mixers/"><u>New In 2024, Optimal Windows 10 Sound Aggregation Ranking the Best Mixers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-quiet-cutscenes-comprehensive-guide-to-minimizing-loud-backgrounds-using-premiere-pro-for-2024/"><u>New Quiet Cutscenes Comprehensive Guide to Minimizing Loud Backgrounds Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-discover-rhythmic-percussion-audio-cue-for-2024/"><u>Updated Discover Rhythmic Percussion Audio Cue for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-collaboration-guide-to-find-partners-and-make-collab-videos/"><u>YouTube Collaboration Guide to Find Partners and Make Collab Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-free-techniques-to-change-your-characters-voice-and-sound-identity-in-free-fire-gaming/"><u>[New] 2024 Approved Free Techniques to Change Your Character's Voice and Sound Identity in Free Fire Gaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2-ways-to-increase-your-youtube-audience-fast/"><u>[Updated] 2 Ways to Increase Your YouTube Audience Fast</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insta-unfollow-a-path-towards-a-lasting-account-discontinuation/"><u>[Updated] Insta Unfollow A Path Towards a Lasting Account Discontinuation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-a60-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel A60</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhancing-content-strategy-with-igtv-performance-metrics/"><u>Enhancing Content Strategy with IGTV Performance Metrics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-lava-agni-2-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Lava Agni 2 5G?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-audio-change-tools-enhancing-virtual-presence/"><u>In 2024, Top 10 Audio Change Tools Enhancing Virtual Presence</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-from-raw-tape-to-polished-production-advanced-techniques-using-sony-vegas-pro/"><u>Updated 2024 Approved From Raw Tape to Polished Production Advanced Techniques Using Sony Vegas Pro</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-8-downloaded-audio-tracks-capturing-natural-precipitation-sounds/"><u>Updated 2024 Approved Top 8 Downloaded Audio Tracks Capturing Natural Precipitation Sounds</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-mastering-the-art-of-audio-enhancement-in-digital-media-creation/"><u>Updated In 2024, Mastering the Art of Audio Enhancement in Digital Media Creation</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-muting-zoom-a-step-by-step-guide-for-quiet-calls-on-laptops-and-phones-for-2024/"><u>Updated Muting Zoom A Step-by-Step Guide for Quiet Calls on Laptops & Phones for 2024</u></a></li>
 </ul></div>
 

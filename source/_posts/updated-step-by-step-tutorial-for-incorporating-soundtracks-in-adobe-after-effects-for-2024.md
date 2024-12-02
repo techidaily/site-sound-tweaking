@@ -1,7 +1,7 @@
 ---
 title: Updated Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects for 2024
-date: 2024-11-21T20:39:00.576Z
-updated: 2024-11-23T16:29:04.667Z
+date: 2024-12-01T03:15:45.854Z
+updated: 2024-12-01T16:28:07.894Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,10 +28,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Audio in After Effects
 
 1\. Start the program and open a new project.
@@ -39,10 +35,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 2\. Import the files in the project panel. Mute the video sound if neccesary
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. Import the audio file to the project file as well (that is required to be added).
 
@@ -56,7 +48,15 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Best Audio Editing Software to Add Audio to Video
 
@@ -91,7 +91,7 @@ Once a new project starts, tap on 'File' followed by "Import Media." Select the 
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Drag Audio to Timeline**
@@ -101,7 +101,7 @@ To perform different edits across the audio, the user needs to drag the audio on
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Export Audio File**
@@ -109,10 +109,6 @@ To perform different edits across the audio, the user needs to drag the audio on
 Once you are done editing the audio, you can easily save it across your device. For that, tap on "Export" to open a new window. Across the "Local" section, select "MP3" from the list of formats and figuratively set all the other settings before tapping on "Export."
 
 ![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 3\.  FL Studio 12.1.2
 
@@ -127,6 +123,10 @@ Here you will get a mix of simplicity and professionalism. It is easy to get use
 Wavosaur is an old tool that doesn’t run on most modern computers and laptops. But it does offer many features and methods of processing for audio clips.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -143,19 +143,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-insta-authenticity-your-selfie-verification-journey/"><u>[New] 2024 Approved Unlocking Insta Authenticity Your Selfie Verification Journey</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/8-best-online-free-voice-recorder/"><u>8 Best Online Free Voice Recorder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-desktop-image-fusion/"><u>A Step-by-Step Guide to Desktop Image Fusion</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/a-tale-of-high-quality-mobility-sony-xperia-xz-summary/"><u>A Tale of High-Quality Mobility Sony Xperia XZ Summary</u></a></li>
-<li><a href="https://win-blog.techidaily.com/gebruik-gratuitiecode-convertinge-mkv-naar-wav-online-met-movavi/"><u>Gebruik Gratuitiecode - Convertinge MKV Naar WAV Online Met Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-19-pc-instances-of-unexpected-shutdowns-and-glitches/"><u>How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-melody-and-motion-best-sync-videography-applications-of-the-decades-first-half/"><u>New 2024 Approved Melody and Motion Best-Sync Videography Applications of the Decades First Half</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-ultimate-guide-to-choosing-a-top-10-windows-and-macos-digital-audio-workstation/"><u>New 2024 Approved The Ultimate Guide to Choosing a Top 10 Windows & macOS Digital Audio Workstation</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-aiff-to-mp3-mastery-transforming-your-audio-collection-effortlessly-for-2024/"><u>New AIFF to MP3 Mastery Transforming Your Audio Collection Effortlessly for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-compilation-of-affordable-audio-manipulation-software-for-windows-and-mac-os-x/"><u>New The Ultimate Compilation of Affordable Audio Manipulation Software for Windows and Mac OS X</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-s23plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel S23+ to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-most-reliable-online-platforms-for-securely-downloading-ding-sound-effects-2023-selection-for-2024/"><u>The Most Reliable Online Platforms for Securely Downloading Ding Sound Effects (2023 Selection) for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-handling-discord-js-errors-with-ease/"><u>Troubleshoot Like a Pro: Handling Discord JS Errors with Ease</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-buyers-path-to-a-top-360-camera-purchase-guide/"><u>[New] In 2024, Buyer's Path to a Top 360 Camera Purchase Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-stepwise-strategies-to-record-flawless-screens-with-adobe-captive/"><u>[New] Stepwise Strategies to Record Flawless Screens with Adobe Captive</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-visual-impact-journey-begins-with-our-50-free-banners-for-2024/"><u>[New] Your Visual Impact Journey Begins with Our 50 FREE Banners for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-strategies-to-find-the-perfect-power-source-for-drones/"><u>[Updated] 2024 Approved Strategies to Find the Perfect Power Source for Drones</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-overcoming-the-challenge-of-acoustic-reflections-in-sound-engineering/"><u>In 2024, Overcoming the Challenge of Acoustic Reflections in Sound Engineering</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-song-inverted-the-finest-backwards-music-videos-crafted/"><u>New In 2024, Song Inverted The Finest Backwards Music Videos Crafted</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-installation-of-the-epson-et-4550-printer-driver-on-windows/"><u>Quick and Easy Installation of the Epson ET-4550 Printer Driver on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/resolving-update-issues-microsoft-flight-simulator-2020-freezing-during-installation/"><u>Resolving Update Issues: Microsoft Flight Simulator 2020 Freezing During Installation</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/reverse-engineering-audioscape-unveiling-premium-sound-reversal-software/"><u>Reverse Engineering Audioscape Unveiling Premium Sound Reversal Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-feasibility-of-dual-playbacks-can-two-people-enjoy-spotify-at-once/"><u>The Feasibility of Dual Playbacks – Can Two People Enjoy Spotify at Once?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-quintessential-compilation-3-aplus-online-services-for-elevated-sound-in-media/"><u>The Quintessential Compilation 3 A+ Online Services for Elevated Sound in Media</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/travel-top-tripod-the-best-in-stability-and-portability/"><u>Travel Top Tripod: The Best in Stability and Portability</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-multimodal-media-mastery-integrating-audio-into-video-projects-today/"><u>Updated 2024 Approved Multimodal Media Mastery Integrating Audio Into Video Projects Today</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-glitch-your-way-to-creativity-top-free-online-effect-generators-for-2024/"><u>Updated Glitch Your Way to Creativity Top Free Online Effect Generators for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-guide-to-the-best-10-websites-for-obtaining-vintage-and-contemporary-montage-sounds-for-2024/"><u>Updated The Ultimate Guide to the Best 10 Websites for Obtaining Vintage and Contemporary Montage Sounds for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Mastering Sound Integration Adding Audio to Your AE Projects
-date: 2024-11-26T04:36:52.879Z
-updated: 2024-12-02T01:40:28.381Z
+date: 2024-12-02T18:18:00.613Z
+updated: 2024-12-09T19:29:34.338Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,6 +28,10 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Audio in After Effects
 
 1\. Start the program and open a new project.
@@ -35,6 +39,10 @@ Working with audio files in Adobe After Effects would be challenging since it is
 2\. Import the files in the project panel. Mute the video sound if neccesary
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Import the audio file to the project file as well (that is required to be added).
 
@@ -68,10 +76,6 @@ Multiple audio adjustment options are available across Wondershare Filmora. Whil
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To add audio in Wondershare Filmora, you need to follow the steps as explained below.
 
 **Step 1: Start a New Project on Wondershare Filmora**
@@ -80,19 +84,11 @@ Download and install the official software of Wondershare Filmora on your device
 
 ![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Import Audio File**
 
 Once a new project starts, tap on 'File' followed by "Import Media." Select the option of "Import Media Files" to proceed to the next screen. Add in the required audio successfully.
 
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Drag Audio to Timeline**
 
@@ -101,7 +97,7 @@ To perform different edits across the audio, the user needs to drag the audio on
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Export Audio File**
@@ -109,6 +105,10 @@ To perform different edits across the audio, the user needs to drag the audio on
 Once you are done editing the audio, you can easily save it across your device. For that, tap on "Export" to open a new window. Across the "Local" section, select "MP3" from the list of formats and figuratively set all the other settings before tapping on "Export."
 
 ![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\.  FL Studio 12.1.2
 
@@ -125,7 +125,7 @@ Wavosaur is an old tool that doesn’t run on most modern computers and laptops.
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -143,17 +143,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-cuddle-time-visuals-evaluation-report/"><u>[New] Cuddle Time Visuals Evaluation Report</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-exclusive-game-recordings-tools-for-2024/"><u>[New] Exclusive Game Recordings Tools for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-professional-gamers-toolkit-advanced-recording-tactics-for-2024/"><u>[New] Professional Gamers' Toolkit Advanced Recording Tactics for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-ideal-indoor-delights-mastering-mobile-lassitude/"><u>2024 Approved Ideal Indoor Delights Mastering Mobile Lassitude</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversion-rapide-de-votre-image-dng-vers-jpg-sans-frais-utilisez-loutil-gratuit-de-movavi/"><u>Conversion Rapide De Votre Image DNG Vers JPG Sans Frais - Utilisez L'outil Gratuit De Movavi</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/essential-digital-applications-for-sounding-transformation-for-2024/"><u>Essential Digital Applications for Sounding Transformation for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-show-audio-waveform-and-add-waveform-animation-in-premiere-protutorial/"><u>New 2024 Approved Show Audio Waveform and Add Waveform Animation in Premiere ProTutorial</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-key-approaches-to-amassing-an-irreplaceable-compilation-of-youtube-audio-content/"><u>New In 2024, Key Approaches to Amassing an Irreplaceable Compilation of YouTube Audio Content</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-guide-how-to-download-and-update-dell-monitor-drivers-with-ease/"><u>Quick Guide: How to Download and Update Dell Monitor Drivers with Ease</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-enhancing-videos-with-voiceover-modern-techniques/"><u>Updated 2024 Approved Enhancing Videos with Voiceover Modern Techniques</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-essential-links-for-obtaining-high-quality-ding-sound-samples/"><u>Updated Essential Links for Obtaining High-Quality Ding Sound Samples</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>[New] Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-securing-fb-videos-download-on-pcmac-systems/"><u>[Updated] In 2024, Securing FB Videos Download on PC/Mac Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-sj4000-owners-guide-to-stylish-and-practical-gear/"><u>[Updated] SJ4000 Owners' Guide to Stylish & Practical Gear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-azure-guide-to-speech-to-text-integration/"><u>[Updated] The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/p-by-step-guide-to-edit-youtube-videos-in-finalcut-for-2024/"><u>A Step-by-Step Guide to Edit YouTube Videos in FinalCut for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-improve-video-loading-times-in-instagram/"><u>In 2024, Improve Video Loading Times in Instagram</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-premium-online-mp3-customization-suite/"><u>In 2024, Premium Online MP3 Customization Suite</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-ios-issues-with-the-complete-iphone-toolkit-software/"><u>Mastering iOS Issues with the Complete iPhone Toolkit Software</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-from-zero-to-done-first-steps-in-using-audacity-with-ubuntu/"><u>New 2024 Approved From Zero to Done First Steps in Using Audacity with Ubuntu</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-modifying-sound-intensity-in-video-and-music-files-for-2024/"><u>New Modifying Sound Intensity in Video and Music Files for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-harmonizing-soundscape-and-aesthetics-showcasing-audio-signals-in-visual-forms-and-animating-them-for-cinematic-vision-in-adobe-audition-pro-master-/"><u>Updated Harmonizing Soundscape and Aesthetics Showcasing Audio Signals in Visual Forms & Animating Them for Cinematic Vision in Adobe Audition Pro Master. For 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-best-software-utilities-for-altering-audio-frequencies/"><u>Updated In 2024, Best Software Utilities for Altering Audio Frequencies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Premier Techniques Streamlining Audio Panning and Volume Balancing
-date: 2024-11-19T00:20:20.048Z
-updated: 2024-11-23T18:10:04.646Z
+date: 2024-12-13T20:46:45.768Z
+updated: 2024-12-15T20:23:04.657Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,6 +32,10 @@ So how do you use the audio track mixer to manage your audio inside of a video? 
 * [**Part 2: How to Change the Audio Track Mixer Settings**](#part2)
 * [**Part 3: Using Audio Track Mixer for Your next Project**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How Does the Audio Track Mixer Work
 
 Mixing tracks is when audio is blended and mixed together in a sequence, and you have multiple sounds over one channel. For instance, when you watch a TV show and have music cut over two characters talking, that’s an example of mixed tracks. You can mix music, dialogue, sound effects, voiceovers, and other things to create a seamless finished product. You can even have different types of audio, or have different tracks play in different earphones of the headset if you want to.
@@ -39,7 +43,7 @@ Mixing tracks is when audio is blended and mixed together in a sequence, and you
 ![Audio Track Mixer overview](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-overview.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With audio track mixer, you can see each track being played in real time, not just on the timeline but also on its own screen. Then you can do a few things to each track such as:
@@ -51,16 +55,12 @@ With audio track mixer, you can see each track being played in real time, not ju
 ![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can even look at meters while the main window is closed, which is helpful if you need to free up some space or organize your sounds while other data is shown.
 
 You can see the sequence in real time as it is being played, see the peaks and valleys of the sound, and ensure that you can control the volume for every track. You’ll have total control over the sound, and the playback.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Audio Track Mixer Settings
 
@@ -70,12 +70,16 @@ Using mono tracks allows you to alter the sound for left and right settings, whi
 
 ![ Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The audio files are edited both in the audio interface and in a timeline, where it is either imported or directly recorded. Then their waveforms can be viewed, the volume and sounds can be adjusted, and [larger audio mixes can be divided into sub-mixes](https://www.izotope.com/en/blog/mixing/5-approaches-to-submixes.html).
 
 All your changes will happen on the timeline, and you’ll be able to listen to the new track instantly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Using Audio Track Mixer for Your next Project
@@ -85,10 +89,6 @@ If you are an aspiring filmmaker, working on a project, or just putting some cli
 Instead of wasting hours staring at the computer screen, using the Audio Track Mixer in Premiere Pro is a great way to cut down on the micromanagement and instead focus on what’s really important - getting a good quality sound out of your video and audio.
 
 Use the track mixer to manage and customize your sounds, see the volume and base of each individual track in real time, and set when tracks come in and fade out. Using the mixer will allow you to have picture perfect sound quality, every single time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -111,16 +111,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-channel-your-inner-narrative-impactful-life-stories-yt/"><u>[New] 2024 Approved Channel Your Inner Narrative Impactful Life Stories YT</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-strategy-for-high-quality-remote-recordings/"><u>[Updated] The Ultimate Strategy for High-Quality Remote Recordings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-perfect-unboxing-tunes-a-guide/"><u>2024 Approved Selecting Perfect Unboxing Tunes A Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-top-10-audio-normalizers-for-windows-dont-miss-it/"><u>2024 Approved Top 10 Audio Normalizers for Windows-Dont Miss It</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/exploring-options-for-authentic-gaseous-sounds-in-audio-production/"><u>Exploring Options for Authentic Gaseous Sounds in Audio Production</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g533-microphone-issues-comprehensive-troubleshooting-guide/"><u>Fixing Logitech G533 Microphone Issues: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-laptop-drivers-download-installation-and-updates-tutorial-for-windows-os/"><u>HP Laptop Drivers: Download, Installation & Updates Tutorial for Windows OS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-5-windows-11-gaming-capture-techniques/"><u>In 2024, Top 5 Windows 11 Gaming Capture Techniques</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-key-approaches-to-amassing-an-irreplaceable-compilation-of-youtube-audio-content/"><u>New In 2024, Key Approaches to Amassing an Irreplaceable Compilation of YouTube Audio Content</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-unmissable-online-music-collection/"><u>New In 2024, Unmissable Online Music Collection</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-enhancing-videos-with-voiceover-modern-techniques/"><u>Updated 2024 Approved Enhancing Videos with Voiceover Modern Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-av1-decoded-a-novices-introduction/"><u>[New] In 2024, AV1 Decoded A Novice's Introduction</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-6-free-online-tools-for-downloading-youtube-shorts-for-2024/"><u>[New] Top 6 Free, Online Tools for Downloading YouTube Shorts for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-beatbank-your-digital-library-of-dj-masterpieces/"><u>2024 Approved BeatBank Your Digital Library of DJ Masterpieces</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descubre-como-agregar-un-temporizador-automatico-a-tu-video-sin-costo-alguno-pasos-faciles/"><u>Descubre Cómo Agregar Un Temporizador Automático a Tu Vídeo Sin Costo Alguno - Pasos Fáciles</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-content-upgrade-to-game-pass-ultimate-now/"><u>Exclusive Content: Upgrade to Game Pass Ultimate Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-vivo-y100t-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Y100t Lock Screen Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/icloud-photo-deletion-tips-safely-remove-images-without-losing-iphone-copies/"><u>ICloud Photo Deletion Tips: Safely Remove Images without Losing iPhone Copies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-digital-vaults-best-cloud-platforms-for-future-success/"><u>Mastering Digital Vaults Best Cloud Platforms for Future Success</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-beat-centric-editing-mastery-the-ultimate-guide-to-audio-and-video-coordination-in-final-cut-pro-x/"><u>New 2024 Approved Beat-Centric Editing Mastery The Ultimate Guide to Audio and Video Coordination in Final Cut Pro X</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-best-song-finder-apps-to-recognize-music-on-android/"><u>New 2024 Approved The Best Song Finder Apps to Recognize Music on Android</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-how-to-remove-drums-from-songs-online-for-2024/"><u>New How to Remove Drums From Songs Online for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-effortless-audio-silencing-an-audacity-users-manual/"><u>New In 2024, Effortless Audio Silencing An Audacity Users Manual</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-intensify-visual-soundscapes-for-optimal-engagement/"><u>New In 2024, Intensify Visual Soundscapes for Optimal Engagement</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-top-5-revolutionary-google-meet-voice-modification-tools/"><u>New In 2024, Top 5 Revolutionary Google Meet Voice Modification Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-step-by-step-guide-for-aspiring-filmmakers-incorporating-audio-with-imovie/"><u>New Step-By-Step Guide for Aspiring Filmmakers Incorporating Audio with iMovie</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quality-monitors-showdown-best-4k-edition-ranked-1-10/"><u>Quality Monitors Showdown Best 4K Edition, Ranked #1-10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-are-there-no-more-chatgpt-jailbreaks-7-reasons-chatgpt-jailbreaks-dont-work/"><u>Why Are There No More ChatGPT Jailbreaks? 7 Reasons ChatGPT Jailbreaks Don't Work</u></a></li>
 </ul></div>
 

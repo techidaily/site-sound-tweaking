@@ -1,7 +1,7 @@
 ---
 title: Updated Navigating Spatial Audio Management A Guide to Efficient Ducking in Video Production
-date: 2024-12-26T21:05:49.102Z
-updated: 2025-01-01T23:01:18.284Z
+date: 2025-01-05T20:20:41.049Z
+updated: 2025-01-09T18:58:25.555Z
 tags: 
   - audio editing software
   - audio editing
@@ -39,10 +39,6 @@ In nutshell, it is a process that “ducks” or lowers the background volume wh
 In most cases, it is achieved through a side-chain compression technique. A control channel is set up that enables the compression of one sound (the background) while amplifying another (the voiceover).
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When Do You Need to Implement Audio Ducking?
 
@@ -91,7 +87,7 @@ Apart from that, you can also go to the "Import" feature to add any other audio 
 ![Royalty-free Audio files for Audio Ducking](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3\.  Apply Audio Ducking to Your Video
@@ -100,25 +96,29 @@ After adding the second audio component, you can view it under the video timelin
 
 ![Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once you have selected the audio you wish to amplify, right-click to get its context menu. Just select the “Adjust Audio” feature from all the available options.
 
 ![Adjust Audio Ducking](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This will launch a dedicated window on the screen with various audio options to apply. Go to the "Ducking" option here and enable the "Lower the volume of other clips" feature. You can also use a slider here to adjust how much you wish to lower the volume of other clips in the project.
 
 ![Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That’s it! Once you have selected the value, click on the "OK" button. You can now preview the results on Filmora and check that the volume of other audio components has been ducked. You can later go to the “Export” option and save the project in the format of your choice.
 
 ![Preview Audio Ducking](https://images.wondershare.com/filmora/article-images/preview-audio-ducking.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After reading this post, I'm sure that you will know more about audio ducking and how we can implement it. Since many content creators encounter issues while working on their videos, audio ducking would certainly be a helpful feature. With an application like Wondershare Filmora, you can easily implement audio ducking on multiple files and further edit your videos like a pro!
 
@@ -127,7 +127,7 @@ After reading this post, I'm sure that you will know more about audio ducking an
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -145,14 +145,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-the-best-11-no-fee-name-crafting-for-channels-for-2024/"><u>[Updated] Discover the Best 11 No-Fee Name Crafting for Channels for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-guide-turning-insta-vids-to-mp3-tracks-for-2024/"><u>[Updated] Guide Turning Insta Vids to MP3 Tracks for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/circumvent-the-temptation-of-mobile-gpt-apps/"><u>Circumvent the Temptation of Mobile GPT Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-how-nvidia-g-sync-smoothes-out-game-frames/"><u>Discover How Nvidia G-Sync Smoothes Out Game Frames</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-must-try-list-of-prime-song-capture-technology-for-fans/"><u>In 2024, Must-Try List of Prime Song Capture Technology for Fans</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-audacity-pro-audio-recording-techniques-focusing-on-computer-sounds/"><u>New Audacity Pro Audio Recording Techniques Focusing on Computer Sounds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-no-cost-cloud-file-syncing-solutions/"><u>Top Rated No-Cost Cloud File Syncing Solutions</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-mp4-music-a-collection-of-streamlined-audio-extraction-procedures-set/"><u>Updated 2024 Approved Mastering MP4 Music A Collection of Streamlined Audio Extraction Procedures Set</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-overcoming-the-challenge-of-acoustic-reflections-in-sound-engineering-for-2024/"><u>Updated Overcoming the Challenge of Acoustic Reflections in Sound Engineering for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-expert-tips-choosing-the-ideal-screen-recorder-software/"><u>[New] 2024 Approved Expert Tips Choosing the Ideal Screen Recorder Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snappy-satire-iphone-memes/"><u>[New] Snappy Satire IPhone Memes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-10-record-screen-and-upload-to-youtube-tools-pc-mac-online-for-2024/"><u>[Updated] 10 Record Screen and Upload to YouTube Tools [PC, Mac, Online] for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unveiling-30-proven-facebook-tricks-to-skyrocket-your-brand/"><u>[Updated] 2024 Approved Unveiling 30 Proven Facebook Tricks to Skyrocket Your Brand</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-regular-payouts-for-youtube-content-makers/"><u>[Updated] Regular Payouts for YouTube Content Makers?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 12 mini</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nokia-g42-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nokia G42 5G without App | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/latest-update-on-playstation-5-slim-current-pricing-and-expected-launch-timeline/"><u>Latest Update on PlayStation 5 Slim - Current Pricing & Expected Launch Timeline</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-advanced-editing-eliminating-audio-tracks-in-imovie-productions/"><u>Updated 2024 Approved Advanced Editing Eliminating Audio Tracks in iMovie Productions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-essential-list-of-top-10-gratis-audio-capture-software-tailored-for-modern-podcasters/"><u>Updated 2024 Approved The Essential List of Top 10 Gratis Audio Capture Software Tailored for Modern Podcasters</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-expediting-audio-imports-in-premiere-pro-a-concise-step-by-step-guide/"><u>Updated In 2024, Expediting Audio Imports in Premiere Pro A Concise, Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-methods-to-exclude-sound-from-multimedia-files/"><u>Updated In 2024, Methods to Exclude Sound From Multimedia Files</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-multimedia-educational-show-key-insights-demystified/"><u>Updated In 2024, Multimedia Educational Show Key Insights Demystified</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-pro-video-editors-choice-10-invaluable-plugins-for-seamless-cutting-and-trimming/"><u>Updated In 2024, Pro Video Editors Choice 10 Invaluable Plugins for Seamless Cutting and Trimming</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-superior-10-audio-enhancement-solutions-your-guide-to-richer-mobile-sound/"><u>Updated In 2024, Superior 10 Audio Enhancement Solutions Your Guide to Richer Mobile Sound</u></a></li>
 </ul></div>
 

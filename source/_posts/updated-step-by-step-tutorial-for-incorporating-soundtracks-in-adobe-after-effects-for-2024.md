@@ -1,7 +1,7 @@
 ---
 title: Updated Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects for 2024
-date: 2025-01-04T16:42:19.253Z
-updated: 2025-01-09T16:57:33.306Z
+date: 2025-01-09T23:49:17.916Z
+updated: 2025-01-15T03:03:16.195Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,10 +28,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Audio in After Effects
 
 1\. Start the program and open a new project.
@@ -41,7 +37,7 @@ Working with audio files in Adobe After Effects would be challenging since it is
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Import the audio file to the project file as well (that is required to be added).
@@ -57,7 +53,7 @@ Working with audio files in Adobe After Effects would be challenging since it is
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
@@ -88,6 +84,10 @@ Download and install the official software of Wondershare Filmora on your device
 
 ![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Import Audio File**
 
 Once a new project starts, tap on 'File' followed by "Import Media." Select the option of "Import Media Files" to proceed to the next screen. Add in the required audio successfully.
@@ -95,7 +95,7 @@ Once a new project starts, tap on 'File' followed by "Import Media." Select the 
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Drag Audio to Timeline**
@@ -104,15 +104,15 @@ To perform different edits across the audio, the user needs to drag the audio on
 
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Export Audio File**
 
 Once you are done editing the audio, you can easily save it across your device. For that, tap on "Export" to open a new window. Across the "Local" section, select "MP3" from the list of formats and figuratively set all the other settings before tapping on "Export."
 
 ![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\.  FL Studio 12.1.2
 
@@ -143,22 +143,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-apps-for-downloading-youtube-content/"><u>[New] Top Apps for Downloading YouTube Content</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-complete-guide-to-use-instagram-video-chat-for-2024/"><u>A Complete Guide to Use Instagram Video Chat for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/comprehensive-samsung-galaxy-watch-active-assessment-tailored-health-and-fitness-tracking/"><u>Comprehensive Samsung Galaxy Watch Active Assessment: Tailored Health & Fitness Tracking</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-a-modern-interface-in-retro-machines-guide-to-windows-11-to-go-and-rufus/"><u>Crafting a Modern Interface in Retro Machines - Guide to Windows 11, To Go & Rufus</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s17e-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S17e If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-gpt-3-a-step-by-step-guide-to-using-the-openai-interface/"><u>Mastering GPT-3: A Step-by-Step Guide to Using the OpenAI Interface</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-engaging-with-the-new-nvidia-rtx-ai-chatbot-from-any-pc/"><u>Step-by-Step Guide: Engaging with the New Nvidia RTX AI Chatbot From Any PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-13-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 13 Making It Possible</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-youtube-numbers-for-enhanced-performance-for-2024/"><u>Unlock YouTube Numbers for Enhanced Performance for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-analyzing-auditory-excellence-the-revised-assessment-of-the-cambridge-cxu-equipment-2023-edition/"><u>Updated 2024 Approved Analyzing Auditory Excellence The Revised Assessment of the Cambridge CXU Equipment, 2023 Edition</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-sync-up-your-studio-setup-the-8-most-popular-music-production-applications-for-mac-and-windows/"><u>Updated Sync-Up Your Studio Setup The 8 Most Popular Music Production Applications for Mac and Windows</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-editors-beat-pairing-visual-sequences-with-musical-tempo-using-adobe-premiere-pro-for-2024/"><u>Updated The Editors Beat Pairing Visual Sequences with Musical Tempo Using Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-compilation-of-costless-peak-quality-audio-apps-for-ios-and-android/"><u>Updated The Ultimate Compilation of Costless, Peak-Quality Audio Apps for iOS and Android</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-guide-10-must-have-extractors-in-post-production-software/"><u>Updated The Ultimate Guide 10 Must-Have Extractors in Post-Production Software</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-guide-to-preventing-phasing-issues-in-studio-monitoring/"><u>Updated The Ultimate Guide to Preventing Phasing Issues in Studio Monitoring</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-updated-guide-to-video-audio-integration-for-filmmakers/"><u>Updated The Updated Guide to Video-Audio Integration for Filmmakers</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-top-8-daw-compatible-with-chromebooks-for-music-creation-for-2024/"><u>Updated Top 8 DAW Compatible with Chromebooks for Music Creation for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-iphone-framing-finding-the-best-camera-positions/"><u>[Updated] The Art of iPhone Framing Finding the Best Camera Positions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-echoes-of-interaction-searching-for-buttons-acoustic-footprints/"><u>2024 Approved Echoes of Interaction Searching for Buttons Acoustic Footprints</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-language-models-bert-and-gpt-unveiled/"><u>Exploring Language Models: BERT & GPT Unveiled</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/exploring-options-for-authentic-gaseous-sounds-in-audio-production/"><u>Exploring Options for Authentic Gaseous Sounds in Audio Production</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/fixing-damaged-mov-videos-on-macos/"><u>Fixing Damaged MOV Videos on macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-completa-para-disenar-videos-de-moda-y-memorables-en-3-pasos-la-nueva-era-del-meme-en-2024/"><u>Guía Completa Para Diseñar Vídeos De Moda Y Memorables en 3 Pasos - La Nueva Era Del Meme en 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-12-pro-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/my-journey-with-chatgpt-in-crafting-a-captivating-podcast-the-full-story/"><u>My Journey with ChatGPT in Crafting a Captivating Podcast - The Full Story</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-techniques-in-artificial-intelligence-for-effective-sonic-clarity-and-denoising/"><u>New In 2024, Techniques in Artificial Intelligence for Effective Sonic Clarity and Denoising</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-unmissable-online-music-collection/"><u>New In 2024, Unmissable Online Music Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-screen-size-barriers-in-windows-games/"><u>Overcoming Screen Size Barriers in Windows Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-the-fisheye-lens-for-immersive-views-for-2024/"><u>Perfecting the Fisheye Lens for Immersive Views for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-silent-movie-revolution-procedures-for-deleting-sound-elements-in-mov-files-across-computers-and-devices/"><u>The Silent Movie Revolution Procedures for Deleting Sound Elements in MOV Files Across Computers and Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-6-youtube-shorts-downloaders-free-and-online-for-2024/"><u>Top 6 YouTube Shorts Downloaders [Free & Online] for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-complete-handbook-to-adding-auditory-elements-to-ae-projects-revised-for-2024/"><u>Updated The Complete Handbook to Adding Auditory Elements to AE Projects, Revised for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-unlocking-audio-fidelity-top-advice-for-playing-m4a-on-android-devices-for-2024/"><u>Updated Unlocking Audio Fidelity Top Advice for Playing M4A on Android Devices for 2024</u></a></li>
 </ul></div>
 

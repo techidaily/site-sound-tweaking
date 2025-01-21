@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Sound Manipulation Creating Engaging Audio Timelines Using Keyframes in Adobe Premiere Pro (Mac) for 2024
-date: 2025-01-09T17:07:18.132Z
-updated: 2025-01-14T22:23:43.967Z
+date: 2025-01-18T16:48:31.227Z
+updated: 2025-01-21T18:40:31.423Z
 tags: 
   - audio editing software
   - audio editing
@@ -43,13 +43,13 @@ To start with, you can launch Adobe Premiere Pro, go to your Project > Import, a
 
 ![Import Audio Files in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/import-audio-files-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the audio track is added to the project, you can further drag and drop it to the sequence section (timelines) at the bottom.
 
 ![Add Audio to Timeline in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/add-audio-to-timeline-adobe-premiere-pro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2: Show Keyframes for the Track**
 
@@ -61,10 +61,6 @@ If you want, you can also click on the “Show Keyframes” button that is depic
 
 ![Show Keyframes Button in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-keyframes-button-adobe-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Work on Audio Keyframes in Premiere Pro**
 
 Now, you can view either clip or track keyframes for the track. For this, you can just right-click the keyframe button on the timeline to get different options. Here, you can choose to get Clip or Track keyframes in Premiere Pro. There are options to mute the entire audio or set up its volume under the track option.
@@ -72,16 +68,12 @@ Now, you can view either clip or track keyframes for the track. For this, you ca
 ![Track Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/track-keyframes-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once you have enabled the audio keyframe options in Premiere Pro, you can view keyframes in a highlighted color. You can now take the assistance of the Pen tool or press the CMD key on your Mac to select keyframes. This will let you select the starting and ending keyframes in Premiere Pro so that you can easily apply the desired effect to the selected segment.
 
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
 
@@ -96,7 +88,7 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Apply Fade-in or Out options**
@@ -106,6 +98,10 @@ Once you have clip keyframes in your track, you can easily do whatever you like.
 Now, go to the audio segment from the timeline and simply place the audio level up (to fade-in) or down (to fade-out). You can set the audio levels for different segments the way you like to customize these operations in your audio track.
 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
 
@@ -120,6 +116,10 @@ In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Cr
 That’s a wrap, everyone! I’m sure that after reading this post, you would be able to set up audio keyframes in Adobe Premiere Pro. Since adding keyframes in Premiere can be done automatically, it would save your time in audio editing and post-production. Mostly, the clip audio keyframing is used in Adobe to customize the sound at any desired segment. Apart from fade-in or out, there are tons of other effects that you can apply to your audio tracks with the help of keyframes. Go ahead and try the Adobe Premiere Pro keyframing feature and let us know about your experience in the comments.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -136,24 +136,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-maximizing-visual-impact-with-extra-camera-work/"><u>[New] 2024 Approved Maximizing Visual Impact with Extra Camera Work</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-modern-way-tweeting-videos-to-whatsapp-for-2024/"><u>[New] The Modern Way Tweeting Videos to WhatsApp for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-how-to-transform-your-youtube-vids-a-guide-to-softened-screens-for-2024/"><u>[Updated] How to Transform Your Youtube Vids A Guide to Softened Screens for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-understanding-camera-shake-in-photographyvideo-for-2024/"><u>[Updated] Understanding Camera Shake in Photography/Video for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-procuring-growls-and-whispers-audio-packages/"><u>2024 Approved Procuring Growls and Whispers Audio Packages</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-14-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 14 Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-fix-guide-for-sse7562d-is-missing-errors-and-how-to-prevent-them/"><u>DIY Fix Guide for Sse7562_d Is Missing Errors and How to Prevent Them</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/experience-the-extraordinary-with-dells-premium-3k-gaming-rig-a-revolutionary-review/"><u>Experience the Extraordinary with Dell's Premium $3K Gaming Rig - A Revolutionary Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-scoop-on-android-16s-release-date-no-cost-features-and-cutting-edge-specs-all-the-rumors-you-need/"><u>Inside Scoop on Android 16'S Release Date, No-Cost Features, and Cutting-Edge Specs: All the Rumors You Need!</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-8-best-daw-for-windows-107-freeandpaid/"><u>New 2024 Approved 8 Best DAW for Windows 10/7 Free&Paid</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-forge-your-path-with-music-top-6-budget-friendly-daw-tools-recommended-for-beginners/"><u>New In 2024, Forge Your Path with Music Top 6 Budget-Friendly DAW Tools Recommended for Beginners</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-essential-guide-to-achieving-professional-level-audio-on-your-own-setup/"><u>New The Essential Guide to Achieving Professional-Level Audio on Your Own Setup</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-aesthetic-audio-enhancer-benefits-drawbacks-and-alternative-options/"><u>New The Ultimate Guide to Aesthetic Audio Enhancer Benefits, Drawbacks, and Alternative Options</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-10-free-browser-based-daws-for-creatives-for-2024/"><u>New Top 10 Free Browser-Based DAWs for Creatives for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-unleashing-the-power-of-sound-in-videography-a-step-by-step-tutorial-for-2024/"><u>New Unleashing the Power of Sound in Videography A Step-by-Step Tutorial for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/prevent-unrequested-social-network-friend-alerts/"><u>Prevent Unrequested Social Network Friend Alerts</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/revolutionize-your-soundtracks-a-comprehensive-guide-to-the-most-effective-voice-suppressing-technology-in-music-and-karaoke-production/"><u>Revolutionize Your Soundtracks A Comprehensive Guide to the Most Effective Voice-Suppressing Technology in Music and Karaoke Production.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-galaxy-unveiling-on-july-10-anticipating-the-new-innovations/"><u>Samsung Galaxy Unveiling on July 10: Anticipating the New Innovations</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-checklist-for-virtual-vigilance-safeguarding-during-online-interactions-for-2024/"><u>The Ultimate Checklist for Virtual Vigilance Safeguarding During Online Interactions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-screen-replayer-for-high-impact-youtubing-experience/"><u>[New] 2024 Approved Best Screen Replayer for High-Impact YouTubing Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-regular-vlogger-discussion-guidelines/"><u>[Updated] 2024 Approved Regular Vlogger Discussion Guidelines</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-1-5-best-editors-apart-from-youtube-platform/"><u>[Updated] In 2024, 1-#5 Best Editors Apart From YouTube Platform</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-revamp-voice-output-with-ease-for-ps5ps4-gamers/"><u>[Updated] In 2024, Revamp Voice Output with Ease for PS5/PS4 Gamers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-6-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 6</u></a></li>
+<li><a href="https://article-tips.techidaily.com/creative-choreography-compendiums/"><u>Creative Choreography Compendiums</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/explore-exclusive-honda-jazz-screen-savers-and-more-quality-wallpapers-from-yl-computings-innovative-software-solutions/"><u>Explore Exclusive Honda Jazz Screen Savers and More - Quality Wallpapers From YL Computing's Innovative Software Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-steps-to-create-a-soft-start-audio-experience/"><u>In 2024, Steps to Create a Soft-Start Audio Experience</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-exploring-the-best-online-hubs-for-free-bgm-music-downloads/"><u>New 2024 Approved Exploring the Best Online Hubs for Free BGM Music Downloads</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-demystifying-pexels-your-comprehensive-guide-to-free-imagery/"><u>Updated In 2024, Demystifying Pexels Your Comprehensive Guide to Free Imagery</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-puzzle-of-production-piecing-together-roles-for-an-immersive-filming-experience/"><u>Updated In 2024, The Puzzle of Production Piecing Together Roles for an Immersive Filming Experience</u></a></li>
 </ul></div>
 

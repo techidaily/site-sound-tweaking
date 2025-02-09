@@ -1,7 +1,7 @@
 ---
 title: Updated How to Mute Audio in Windows Movie Maker?
-date: 2024-11-18T00:43:35.234Z
-updated: 2024-11-23T17:10:31.766Z
+date: 2025-02-02T16:39:31.347Z
+updated: 2025-02-09T16:59:46.572Z
 tags: 
   - audio editing software
   - audio editing
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
 
 **Step 2:** After you added a clip to the storyboard you can preview it in order to decide which parts of the video you'd like to mute. Click on the **Edit** menu in the software's ribbon, to gain access to the video editing tools Windows Movie Maker has to offer.
@@ -51,10 +55,14 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Adding a New Audio Clip to a Video
 
@@ -65,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 ![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
@@ -75,14 +83,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -127,16 +127,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-transform-your-images-erase-backdrops-with-canva-skills/"><u>[New] Transform Your Images Erase Backdrops with Canva Skills</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-banish-background-buzz-comprehensive-measures-to-minimize-room-disturbances-on-microphone-setup/"><u>2024 Approved Banish Background Buzz Comprehensive Measures to Minimize Room Disturbances on Microphone Setup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-tutorial-how-to-cleanly-delete-applications-in-windows-11/"><u>Comprehensive Tutorial: How to Cleanly Delete Applications in Windows 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-actor-rights-free-movie-downloads-license/"><u>In 2024, Actor Rights Free Movie Downloads License</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y56-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y56 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/mac-users-rejoice-top-pinnacle-studio-alternatives-revealed-for-2024/"><u>Mac Users, Rejoice! Top Pinnacle Studio Alternatives Revealed for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-behind-the-scenes-a-detailed-guide-to-setting-up-and-recording-with-garageband/"><u>New In 2024, Behind the Scenes A Detailed Guide to Setting Up and Recording with GarageBand</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/simple-voice-changer-software-features-guidelines-and-alternatives-for-2024/"><u>Simple Voice Changer Software Features, Guidelines and Alternatives for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-modern-editors-toolkit-turning-off-audio-in-media-files-for-2024/"><u>The Modern Editors Toolkit Turning Off Audio in Media Files for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-next-gen-samsung-gear-360-finding-your-perfect-replacement/"><u>The Next Gen Samsung Gear 360 - Finding Your Perfect Replacement</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/mpeg-movavi/"><u>오피스에서 제공: MPEG 편집 무료 및 전환 - Movavi</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-video-to-twitter-platforms/"><u>[New] Leading Video To Twitter Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-perfecting-your-images-with-cleared-backdrops/"><u>[Updated] 2024 Approved Perfecting Your Images with Cleared Backdrops</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-elevating-your-video-projects-with-audio-synchronization-in-magix-pro/"><u>2024 Approved Elevating Your Video Projects with Audio Synchronization in Magix Pro</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-excellent-free-online-audio-calibration-alternatives/"><u>2024 Approved Excellent Free Online Audio Calibration Alternatives</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/analytics-unlocked-your-step-by-step-youtube-guide/"><u>Analytics Unlocked Your Step-by-Step YouTube Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/articulate-achievement-overcoming-phonetic-obstacles/"><u>Articulate Achievement: Overcoming Phonetic Obstacles</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-data-deletion-solution-explore-the-power-of-bitrasers-enterprise-data-erasure-app/"><u>Complete Data Deletion Solution: Explore the Power of BitRaser's Enterprise Data Erasure App</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/se-vlogging-content-suggestions/"><u>Diverse Vlogging Content Suggestions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fending-off-automated-imitation-nightshades-protocols-for-protecting-art/"><u>Fending Off Automated Imitation: Nightshade's Protocols for Protecting Art</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mac-users-guide-styling-top-tier-ootd-tiktoks/"><u>Mac Users' Guide Styling Top-Tier OOTD TikToks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-enhancing-narratives-a-look-at-3-creative-audio-integration-strategies-for-movies/"><u>New Enhancing Narratives A Look at 3 Creative Audio Integration Strategies for Movies</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-from-silence-to-symphony-adding-soundtracks-to-kinemaster/"><u>New From Silence to Symphony Adding Soundtracks to KineMaster</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-6-best-websites-to-download-whoosh-sound-effect-easily/"><u>New In 2024, 6 Best Websites to Download Whoosh Sound Effect (Easily)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-dealing-with-a-failed-gmail-sync/"><u>Step-by-Step Solution: Dealing With a Failed Gmail Sync</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-art-and-technique-of-incorporating-dramatic-soundtracks-into-movies-for-2024/"><u>The Art and Technique of Incorporating Dramatic Soundtracks Into Movies for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-audio-dial-achieving-smooth-volume-ramp-ups/"><u>Updated Audio Dial Achieving Smooth Volume Ramp-Ups</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-step-by-step-techniques-for-integrating-music-sections-within-video-projects-via-filmora-for-2024/"><u>Updated Step-by-Step Techniques for Integrating Music Sections Within Video Projects via Filmora for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Audio Tranquility in Action Fading and Pulsating Sounds Made Easy in Adobe After Effects
-date: 2024-12-31T20:31:12.222Z
-updated: 2025-01-02T02:29:35.471Z
+date: 2025-02-03T16:39:44.351Z
+updated: 2025-02-09T16:58:50.882Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,11 +30,11 @@ However, you will need to have at least basic video and sound editing skills to 
 
  **Read More to Get:** [Best Audio Mixer Software to Trim Your Sound Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-## Adding the Fade In and Fade Out Effects to Audio Files in AE
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Adding the Fade In and Fade Out Effects to Audio Files in AE
 
 ### Step 1: Check audio waveform in After Effects
 
@@ -42,15 +42,15 @@ Once you've created a new project in AE and you've imported the audio files you'
 
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Add a keyframe to the audio file
 
 The next thing you will have to do is place the playhead at the exact location where you want the Fade In effect to start. In most cases, Fade effects are added at the starting point of the audio file, so you should position the playhead at the beginning of the timeline or zero seconds. You will be able to see a stopwatch next to the Audio Levels option located in the Composition tab. Click on it to add the first keyframe and assign a negative value to the Audio Level setting. -100db or -50db values will make the audio file silent, and you can pick either based on how long you want the Fade in effect to last. If you don't know how to use keyframes in After Effects, [this article will give you some info](https://www.schoolofmotion.com/blog/how-to-set-keyframes-after-effects).
 
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -60,13 +60,13 @@ Move the playhead to the location where you want the effect to end and add anoth
 
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips For Making Better Fade In and Fade Out Effects
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Avoid Hard Cuts
 
@@ -75,7 +75,7 @@ A high pitch sound at the very begging of a new sequence can ruin your soundtrac
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
@@ -95,7 +95,7 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -113,24 +113,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-flips-mastering-the-video-360-turn/"><u>[Updated] 2024 Approved Instagram Flips Mastering the Video 360-Turn</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-learn-smart-circumventing-edgenuity-video-lessons-quickly-for-2024/"><u>[Updated] Learn Smart Circumventing Edgenuity Video Lessons Quickly for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-navigating-the-world-of-omegle-an-overview-and-safety-concerns/"><u>2024 Approved Navigating the World of Omegle An Overview and Safety Concerns</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-secrets-of-windows-10-effortless-media-importation-methods/"><u>2024 Approved Secrets of Windows 10 Effortless Media Importation Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ai-naming-power-the-top-ten-podcast-renamers/"><u>AI Naming Power The Top Ten Podcast Renamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/balancing-act-growth-in-the-game-publishing-sector-in-depth-analysis-podcast/"><u>Balancing Act: Growth in the Game Publishing Sector [In-Depth Analysis Podcast]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-global-communication-chatgpts-role/"><u>Enhancing Global Communication: ChatGPT's Role</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Itel S23 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-convert-live-photo-to-video/"><u>In 2024, How to Convert Live Photo to Video</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-pushing-boundaries-incorporating-photography-into-audio-experiences-audiovisual-trends-2023/"><u>In 2024, Pushing Boundaries Incorporating Photography Into Audio Experiences Audiovisual Trends 2023</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-top-5-digital-audio-file-organizers-for-seamless-mp3-management/"><u>In 2024, Top 5 Digital Audio File Organizers for Seamless MP3 Management</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-achieving-consistent-sound-levels-with-davinci-resolve-for-2024/"><u>New Achieving Consistent Sound Levels with DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-guiding-steps-for-harmonizing-sound-amplitude-in-vlc-playback-for-2024/"><u>New Guiding Steps for Harmonizing Sound Amplitude in VLC Playback for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-art-of-accessibility-how-pexelscom-transforms-design-processes-for-2024/"><u>New The Art of Accessibility How Pexels.com Transforms Design Processes for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-8-free-soundscape-resources-for-audio-enhancement/"><u>New Top 8 Free Soundscape Resources for Audio Enhancement</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/screen-with-televisions-how-to-for-perfect-mirroring-results/"><u>Screen with Televisions: How-To for Perfect Mirroring Results</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-essential-factors-to-evaluate-when-shopping-for-your-next-dashcam/"><u>Top 9 Essential Factors to Evaluate When Shopping for Your Next Dashcam</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-behind-the-lens-understanding-the-indispensable-roles-of-crew-members-in-filming/"><u>Updated 2024 Approved Behind the Lens Understanding the Indispensable Roles of Crew Members in Filming</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-decoding-the-quest-for-ultimate-sound-engineering-mastery-the-role-of-magix-samplitude/"><u>Updated Decoding the Quest for Ultimate Sound Engineering Mastery The Role of MAGIX Samplitude</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-premier-of-popularity-worldwide-top-subscribed-creators/"><u>[New] In 2024, The Premier of Popularity Worldwide Top Subscribed Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-selection-of-budget-friendly-4k-projector-brands/"><u>[Updated] 2024 Approved Ultimate Selection of Budget-Friendly 4K Projector Brands</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-deskjet-2755e-drivers-for-smooth-windows-printing/"><u>Download & Install HP Deskjet 2755E Drivers for Smooth Windows Printing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-immersive-escapes-androidioss-favorite-ar-games/"><u>In 2024, Immersive Escapes Android/iOS's Favorite AR Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-productivity-wiring-trio-displays-to-a-single-computer/"><u>Maximizing Productivity: Wiring Trio Displays to a Single Computer</u></a></li>
+<li><a href="https://discover-community.techidaily.com/probleme-de-saisie-impossible-dacceder-au-fichier-dans-le-systeme/"><u>Problème De Saisie : Impossible D'Accéder Au Fichier Dans Le Système</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-testimonial-toolkit-for-effective-promotion/"><u>The Testimonial Toolkit for Effective Promotion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unseen-dangers-in-turning-to-artificnial-intelligence-for-therapy-or-counseling/"><u>The Unseen Dangers in Turning to Artificnial Intelligence for Therapy or Counseling</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-elevate-your-video-storytelling-with-professional-voiceovers/"><u>Updated 2024 Approved Elevate Your Video Storytelling with Professional Voiceovers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-essential-windows-audio-production-tools-selecting-top-8-daws-with-various-pricing-models/"><u>Updated 2024 Approved Essential Windows Audio Production Tools Selecting Top 8 DAWs with Various Pricing Models</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-exploring-innovative-voice-powered-software-the-top-8-selection-compatible-with-windowsmacos-and-internet-services/"><u>Updated 2024 Approved Exploring Innovative Voice-Powered Software The Top 8 Selection Compatible with Windows/macOS and Internet Services</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-podcast-editing-101-how-to-edit-a-podcasta-beginners-guide/"><u>Updated 2024 Approved Podcast Editing 101 How to Edit a Podcasta Beginners Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-remove-drums-from-a-song-online-easy-tips-and-tricks/"><u>Updated 2024 Approved Remove Drums From a Song Online Easy Tips and Tricks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-ultimate-list-of-budget-friendly-web-based-daw-tools/"><u>Updated 2024 Approved Ultimate List of Budget-Friendly, Web-Based DAW Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-art-of-voice-imitation-leveraging-ai-for-realistic-synthesis/"><u>Updated In 2024, Art of Voice Imitation Leveraging AI for Realistic Synthesis</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>Updated In 2024, Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-step-by-step-tutorial-for-incorporating-soundtracks-in-adobe-after-effects-for-2024/"><u>Updated Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects for 2024</u></a></li>
 </ul></div>
 

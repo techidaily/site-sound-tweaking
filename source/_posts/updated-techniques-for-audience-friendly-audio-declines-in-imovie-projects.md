@@ -1,7 +1,7 @@
 ---
 title: Updated Techniques for Audience-Friendly Audio Declines in iMovie Projects
-date: 2025-01-26T17:30:20.596Z
-updated: 2025-01-28T11:51:18.662Z
+date: 2025-02-03T16:13:39.103Z
+updated: 2025-02-09T17:01:04.050Z
 tags: 
   - audio editing software
   - audio editing
@@ -47,17 +47,9 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Fade Music and Audio in iMovie on Mac
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
@@ -69,10 +61,6 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
 #### Step 2. Move Pointer to Apply Fade Effects
@@ -80,6 +68,10 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 Move the pointer over a waveform, and drag the small gray fade handle at the left of the clip to adjust the fade audio in effect. Then drag the small fade handle at the right of the clip to adjust the fade-out effect.
 
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3. Playback to Check
 
@@ -90,7 +82,7 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
@@ -102,6 +94,10 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -122,10 +118,6 @@ After the settings, you can preview the effect in the viewing window to make sur
 Now, that's done! I hope the above information does help you to set the fade effects to smooth your video and audio transitions.
 
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
 
@@ -151,9 +143,17 @@ Click the "Export" button to select one of the export methods. You can choose yo
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -170,24 +170,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] Guide to Incorited Visuals in Text Without Cost</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-are-free-words-detrimental-to-your-email-marketing-strategy-with-massmail-software/"><u>1. Are Free Words Detrimental to Your Email Marketing Strategy with Massmail Software?</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-fixing-the-critical-halo-t-4-ue4-fatal-error-and-avoiding-system-crashes/"><u>Comprehensive Guide: Fixing the Critical Halo T 4 UE4 'Fatal Error' & Avoiding System Crashes</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-premier-collection-of-popular-mobile-alert-melodies/"><u>In 2024, Premier Collection of Popular Mobile Alert Melodies</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-streamlining-your-mixes-normalizing-audio-in-davinci-resolve/"><u>In 2024, Streamlining Your Mixes Normalizing Audio in DaVinci Resolve</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-logitech-sound-card-drivers-for-windows-11-7-and-8-free-download/"><u>Latest Logitech Sound Card Drivers for Windows 11, 7 and 8 - Free Download</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-netgear-device-newly-revealed-default-login-info-for-july-2024/"><u>Mastering Your NETGEAR Device: Newly Revealed Default Login Info for July 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-audio-dynamics-crafting-the-ideal-listening-environment-via-video-adjustments/"><u>New Audio Dynamics Crafting the Ideal Listening Environment via Video Adjustments</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-find-brush-sound-effect-for-2024/"><u>New Find Brush Sound Effect for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-guide-to-affordable-stock-photography-insights-from-pexelscom/"><u>New In 2024, The Ultimate Guide to Affordable Stock Photography Insights From Pexels.com</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-hush-technique-audio-removal-expertise-for-mp4-mkv-avi-mov-wmv-video-files/"><u>New The Hush Technique Audio Removal Expertise for MP4, MKV, AVI, MOV, WMV Video Files</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snag-the-last-apple-m2-macbook-air-at-unbeatable-price-of-749-during-octobers-huge-amazon-prime-day-sale-dont-miss-out/"><u>Snag the Last Apple M2 MacBook Air at Unbeatable Price of $749 During October's Huge Amazon Prime Day Sale – Don't Miss Out!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-paradox-of-machine-writing-how-chatgpt-struggles-with-self-identification/"><u>The Paradox of Machine Writing: How ChatGPT Struggles with Self-Identification</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-technique-for-spotify-song-lifting-a-comprehensive-tutorial/"><u>The Ultimate Technique for Spotify Song Lifting A Comprehensive Tutorial</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-x8b-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor X8b for Parents | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-common-pitfalls-in-crafting-chatgpt-queries/"><u>Top 6 Common Pitfalls in Crafting ChatGPT Queries</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/understanding-mirillis-usage-guidelines-a-comprehensive-guide/"><u>Understanding Mirillis' Usage Guidelines: A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-pexels-explained-how-to-maximize-your-use-of-public-domain-photos/"><u>Updated In 2024, Pexels Explained How to Maximize Your Use of Public Domain Photos</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-voice-personalization-on-iphones-a-beginners-primer-for-using-voicechange-pro/"><u>Updated In 2024, Voice Personalization on iPhones A Beginners Primer for Using VoiceChange Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-efficiently-archive-your-gaming-adventures-on-windows-10/"><u>[New] 2024 Approved Efficiently Archive Your Gaming Adventures on Windows 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/coring-big-on-youtube-how-much-do-ad-revenues-add-up-for-2024/"><u>[New] Scoring Big on YouTube How Much Do Ad Revenues Add Up for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-financial-worth-one-million-youtube-eyes/"><u>[New] The Financial Worth One Million YouTube Eyes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-approaches-to-non-sound-media/"><u>[Updated] 2024 Approved Best Approaches to Non-Sound Media</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-exclusive-list-of-top-digital-tutorial-providers-sans-udemy/"><u>[Updated] 2024 Approved Exclusive List of Top Digital Tutorial Providers Sans Udemy</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pushing-boundaries-with-yuneecs-typhoon-h-drone/"><u>[Updated] 2024 Approved Pushing Boundaries with Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/movswf-movavi-web/"><u>無料変換ツール:MOVからSWFへの直接変換サービス - MOVavi Web</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-camon-20-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Camon 20 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-step-by-step-process-for-extracting-rhythmic-grooves-from-tracks/"><u>New 2024 Approved Step-by-Step Process for Extracting Rhythmic Grooves From Tracks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-intensify-visual-soundscapes-for-optimal-engagement/"><u>New In 2024, Intensify Visual Soundscapes for Optimal Engagement</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-sustaining-sonic-excellence-while-changing-octave-levels-in-audacity/"><u>New In 2024, Sustaining Sonic Excellence While Changing Octave Levels in Audacity</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-complete-manual-of-garageband-audio-sessions/"><u>New In 2024, The Complete Manual of GarageBand Audio Sessions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-perfect-match-top-7-daws-tailored-to-guitarists-recording-and-playback-needs/"><u>New In 2024, The Perfect Match Top 7 DAWs Tailored to Guitarists Recording and Playback Needs</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-step-by-step-guide-for-aspiring-filmmakers-incorporating-audio-with-imovie/"><u>New Step-By-Step Guide for Aspiring Filmmakers Incorporating Audio with iMovie</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-unveiling-the-nuances-of-anime-dubbing-methodology-examples-and-best-practices-for-2024/"><u>New Unveiling the Nuances of Anime Dubbing Methodology, Examples, & Best Practices for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-tech-review-dji-phantom-3-professional-drone-for-2024/"><u>The Ultimate Tech Review DJI Phantom 3 Professional Drone for 2024</u></a></li>
 </ul></div>
 

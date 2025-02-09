@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Handbook to Adding Auditory Elements to AE Projects, Revised for 2024
-date: 2025-01-21T07:04:37.491Z
-updated: 2025-01-28T07:57:31.256Z
+date: 2025-02-04T16:38:03.182Z
+updated: 2025-02-09T16:29:44.204Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,10 +28,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Audio in After Effects
 
 1\. Start the program and open a new project.
@@ -41,7 +37,7 @@ Working with audio files in Adobe After Effects would be challenging since it is
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Import the audio file to the project file as well (that is required to be added).
@@ -55,6 +51,10 @@ Working with audio files in Adobe After Effects would be challenging since it is
 6\. Adjust the audio settings. Double click "L" on you keyboard to show the audio waveform.
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
 
@@ -76,6 +76,10 @@ Multiple audio adjustment options are available across Wondershare Filmora. Whil
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To add audio in Wondershare Filmora, you need to follow the steps as explained below.
 
 **Step 1: Start a New Project on Wondershare Filmora**
@@ -91,7 +95,7 @@ Once a new project starts, tap on 'File' followed by "Import Media." Select the 
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Drag Audio to Timeline**
@@ -101,7 +105,7 @@ To perform different edits across the audio, the user needs to drag the audio on
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Export Audio File**
@@ -124,10 +128,6 @@ Wavosaur is an old tool that doesn’t run on most modern computers and laptops.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -143,18 +143,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>[Updated] In 2024, Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-first-steps-in-learning-av1-compression/"><u>[Updated] In 2024, First Steps in Learning AV1 Compression</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-essential-hacks-for-the-elusive-iphone-x-users/"><u>2024 Approved Essential Hacks for the Elusive iPhone X Users</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-uncover-digital-entertainment-auditory-elements/"><u>2024 Approved Uncover Digital Entertainment Auditory Elements</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/biometric-battleground-face-id-vs-samsungs-facial-identification/"><u>Biometric Battleground Face ID Vs. Samsung's Facial Identification</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-steadicam-choices-for-improved-dslr-footage/"><u>In 2024, Leading Steadicam Choices for Improved DSLR Footage</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-overcoming-the-challenge-of-acoustic-reflections-in-sound-engineering/"><u>In 2024, Overcoming the Challenge of Acoustic Reflections in Sound Engineering</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keyboard-troubles-heres-a-list-of-solutions-to-rescue-ineffectual-shortcuts-in-windows/"><u>Keyboard Troubles? Here's a List of Solutions to Rescue Ineffectual Shortcuts in Windows</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-song-inverted-the-finest-backwards-music-videos-crafted/"><u>New In 2024, Song Inverted The Finest Backwards Music Videos Crafted</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-choosing-your-best-online-mp3-editor-from-five-sought-after-options/"><u>New The Ultimate Guide to Choosing Your Best Online MP3 Editor From Five Sought-After Options</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/samsung-smart-tv-tips-and-tricks-how-to-efficiently-remove-apps/"><u>Samsung Smart TV Tips & Tricks: How to Efficiently Remove Apps</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-multimodal-media-mastery-integrating-audio-into-video-projects-today/"><u>Updated 2024 Approved Multimodal Media Mastery Integrating Audio Into Video Projects Today</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-guide-to-the-best-10-websites-for-obtaining-vintage-and-contemporary-montage-sounds-for-2024/"><u>Updated The Ultimate Guide to the Best 10 Websites for Obtaining Vintage and Contemporary Montage Sounds for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ideal-sound-devices-for-digital-influencers/"><u>[New] 2024 Approved Ideal Sound Devices for Digital Influencers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-paint-perfection-experts-guide-to-color-transformation/"><u>[New] Paint Perfection Expert's Guide to Color Transformation</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-top-10-free-football-streaming-websites-for-live-matches/"><u>2024 Approved Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-civi-3-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Civi 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/mastering-audio-amplitude-control-in-audacity/"><u>Mastering Audio Amplitude Control in Audacity</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-convert-videos-into-high-quality-audio-the-10-best-tools-at-your-fingertips-free/"><u>New In 2024, Convert Videos Into High-Quality Audio - The 10 Best Tools at Your Fingertips (Free)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-edit-the-beat-and-sync-videos-to-music-in-final-cut-pro-x/"><u>New In 2024, How to Edit the Beat and Sync Videos to Music in Final Cut Pro X</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-silencing-sounds-techniques-for-audio-deletion-in-imovie-videos/"><u>New In 2024, Silencing Sounds Techniques for Audio Deletion in iMovie Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-unlocking-mp3-from-aiff-step-by-step-processes-revealed/"><u>New Unlocking MP3 From AIFF Step-by-Step Processes Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-hp-camera-in-windows-11-essential-troubleshooting-steps-for-users/"><u>Revive Your HP Camera in Windows 11: Essential Troubleshooting Steps for Users</u></a></li>
+<li><a href="https://win-web3.techidaily.com/solution-pour-laffichage-des-6-derniers-fichiers-dans-excel-comment-resoudre-le-probleme/"><u>Solution Pour L’Affichage Des 6 Derniers Fichiers Dans Excel: Comment Résoudre Le Problème?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-10-free-video-editing-software-for-web/"><u>Updated Top 10 Free Video Editing Software for Web</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/wavts-movavi/"><u>オンラインで簡単！WAVファイルをTSに自由転送 - Movavi</u></a></li>
 </ul></div>
 

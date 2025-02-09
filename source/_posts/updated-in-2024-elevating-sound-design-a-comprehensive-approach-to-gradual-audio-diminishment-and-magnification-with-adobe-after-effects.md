@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevating Sound Design A Comprehensive Approach to Gradual Audio Diminishment and Magnification with Adobe After Effects
-date: 2024-11-19T16:37:24.199Z
-updated: 2024-11-23T17:30:26.174Z
+date: 2025-02-08T16:36:06.262Z
+updated: 2025-02-09T17:09:41.604Z
 tags: 
   - audio editing software
   - audio editing
@@ -30,21 +30,17 @@ However, you will need to have at least basic video and sound editing skills to 
 
  **Read More to Get:** [Best Audio Mixer Software to Trim Your Sound Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Check audio waveform in After Effects
 
 Once you've created a new project in AE and you've imported the audio files you'd like to include in the soundtrack of the video you're making, you should place that audio file on the timeline. Click on the arrow located next to the audio file, then click on the Audio arrow that will be displayed under the file, and finally click on the Waveform arrow. This will enable you to see the waveform of the audio file you'd like to edit on the timeline and allow you to add Fade in and fade out effects with more precision. The file you added to your composition will be displayed as a layer in the Composition tab located in the lower-left region of the software's interface.
 
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Add a keyframe to the audio file
 
@@ -54,11 +50,19 @@ The next thing you will have to do is place the playhead at the exact location w
 
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Complete Fade out/in audio in After Effects
 
 Move the playhead to the location where you want the effect to end and add another keyframe by clicking on the 'Add or remove keyframe at current time' icon. Set the Audio Level value to 0db, and that is it. You've created the Fade in effect. Keep in mind that you can use more than two keyframes to fade in audio, enabling you to increase the audio level gradually. The process of creating the Fade effect requires you to add a keyframe that has a 0db value a few seconds before the clip ends and then add another keyframe at the very end of the audio file that has -50 or -100db audio level value.
 
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips For Making Better Fade In and Fade Out Effects
 
@@ -71,7 +75,7 @@ A high pitch sound at the very begging of a new sequence can ruin your soundtrac
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Be Mindful of Audio Compression
@@ -82,10 +86,6 @@ You may also like: [How to Cut Video in After Effects](https://tools.techidaily.
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Fading in or fading out audio files in Adobe After Effects doesn't require much effort, as you have to add a few keyframes to the file and adjust the Audio Level value. However, finding the best way to improve the quality of your soundtrack by applying these effects may take some practice. Do you often add Fade in and fade out audio effects in AE? Leave a comment below and share your experiences with us.
@@ -95,7 +95,7 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -113,19 +113,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-launch-your-zoom-meeting-in-a-flash-on-your-android-smartphonetablet/"><u>[New] Launch Your Zoom Meeting in a Flash on Your Android Smartphone/Tablet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-filmmakers-edge-mastering-kinemasters-zoom-functionality-for-2024/"><u>[New] The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-periscope-a-comprehensive-tutorial/"><u>2024 Approved Mastering Periscope A Comprehensive Tutorial</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/cookiebot-enabled-enhancing-user-experience-with-personalized-data-tracking/"><u>Cookiebot-Enabled: Enhancing User Experience with Personalized Data Tracking</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/ensuring-uniformity-in-volume-levels-using-davinci-resolves-tools/"><u>Ensuring Uniformity in Volume Levels Using DaVinci Resolves Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-fasttrack-retrosnap-replay/"><u>In 2024, FastTrack RetroSnap Replay</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-cutting-the-clutter-strategies-for-eliminating-background-noise-in-final-cut-pro/"><u>New Cutting the Clutter Strategies for Eliminating Background Noise in Final Cut Pro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/new-eco-friendly-asus-laptops-tailored-for-professionals-and-learners-explore-green-tech-at-work-and-study/"><u>New Eco-Friendly Asus Laptops Tailored for Professionals and Learners - Explore Green Tech at Work and Study!</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-elevating-video-experience-perfecting-the-mix-of-music-and-cinematography/"><u>New Elevating Video Experience Perfecting the Mix of Music and Cinematography</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-intensify-visual-soundscapes-for-optimal-engagement-for-2024/"><u>New Intensify Visual Soundscapes for Optimal Engagement for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-mkvtoolnix-for-mac-the-easiest-way-to-edit-videos/"><u>New MKVtoolnix for Mac The Easiest Way to Edit Videos</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/perfect-pitch-control-the-ultimate-strategy-for-uniform-sound-amplitude-in-videos/"><u>Perfect Pitch Control The Ultimate Strategy for Uniform Sound Amplitude in Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionizing-mobile-workstations-the-m1-chips-impact-on-the-latest-2021-ipad-pro-unveiled-in-this-review/"><u>Revolutionizing Mobile Workstations: The M1 Chip's Impact on the Latest 2021 iPad Pro Unveiled in This Review!</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/streamlining-sound-creation-the-6-most-user-friendly-free-online-auditory-editing-tools/"><u>Streamlining Sound Creation The 6 Most User-Friendly, Free Online Auditory Editing Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[New] In 2024, Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/6-must-visit-online-havens-for-terrifying-audio-effects-for-2024/"><u>6 Must-Visit Online Havens for Terrifying Audio Effects for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/a-comprehensive-look-at-youtube-to-facebook-file-transfers/"><u>A Comprehensive Look at YouTube-to-Facebook File Transfers</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-13c-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/discovering-the-best-places-for-impactful-drum-sounds-for-2024/"><u>Discovering the Best Places for Impactful Drum Sounds for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-edit-youtube-videos-in-finalcut-pro/"><u>How to Edit YouTube Videos in Finalcut Pro</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-master-list-of-prime-online-destinations-for-quality-montage-audio-acquisition/"><u>In 2024, Master List of Prime Online Destinations for Quality Montage Audio Acquisition</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-sonic-storytelling-showcasing-sound-waves-and-engaging-animated-sequences-with-sony-vegas-pro/"><u>In 2024, Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-ultimate-guide-to-polishing-videos-for-youtube-via-windows-pc/"><u>In 2024, The Ultimate Guide to Polishing Videos for YouTube via Windows PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximizing-android-video-brilliance-simple-steps/"><u>Maximizing Android Video Brilliance Simple Steps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-setting-up-audacity-on-your-chromebook-a-step-by-step-guide-for-2024/"><u>New Setting Up Audacity on Your Chromebook A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-disabling-sound-in-windows-10-movies-and-tutorials-no-software-needed/"><u>New The Ultimate Guide to Disabling Sound in Windows 10 Movies & Tutorials (No Software Needed)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210252428-9781945252884-the-four-fundamental-aspects-of-love/"><u>The Four Fundamental Aspects of Love | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-motorola-edge-40-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Motorola Edge 40 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/transforming-gameplay-narratives-advanced-strategies-for-utilizing-morphvox-in-live-streamed-gaming-sessions/"><u>Transforming Gameplay Narratives Advanced Strategies for Utilizing Morphvox in Live Streamed Gaming Sessions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-taskbar-in-win11/"><u>Unlock the Full Potential of Taskbar in Win11</u></a></li>
 </ul></div>
 

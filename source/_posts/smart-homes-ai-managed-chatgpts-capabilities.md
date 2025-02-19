@@ -1,7 +1,7 @@
 ---
 title: "Smart Homes, AI-Managed: ChatGPT's Capabilities"
-date: 2025-02-06T16:07:36.231Z
-updated: 2025-02-09T16:59:57.121Z
+date: 2025-02-18T18:19:35.860Z
+updated: 2025-02-19T16:44:29.536Z
 tags:
   - chatgpt
   - open-ai
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
  AI can now be used for more purposes than ever before. While previously out of reach, tasks such as creating high-quality art and composing web apps are now possible. Many jobs that were formerly unattainable by computers are suddenly at risk of automation.
 
  With advancements increasing at an alarming rate, it’s easy to worry that your job may be at risk of automation. Despite the surprising abilities AI programs like ChatGPT have already shown, there are still places where humans can outshine them. Here are three things you can do using Excel that are still out of reach for ChatGPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
 
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to[visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Customizable Report Creation in Excel
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
  Make your reports more useful by adding some[simple Excel features](https://www.makeuseof.com/essential-excel-functions/) . Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Easy-to-Use Forms in Excel
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
  Pairing a little bit of[basic VBA](https://www.makeuseof.com/tag/unlock-hidden-developer-tab-excel/) with Excel’s extensive list of controls allows for creating surprisingly complex forms. Linking different spreadsheets with forms is a straightforward yet valuable skill to master. ChatGPT may be capable of interpreting data, but giving your users a secure way to enter data is still beyond its reach.
 
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
 
@@ -106,24 +106,22 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-pinpointing-stellar-photos-on-pexels/"><u>[Updated] 2024 Approved A Step-by-Step Approach to Pinpointing Stellar Photos on Pexels</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-captivating-customer-revelation/"><u>[Updated] 2024 Approved Captivating Customer Revelation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ideal-photo-and-video-shows-from-x-to-ios14/"><u>[Updated] In 2024, Ideal Photo & Video Shows From X to IOS14</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-c32-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia C32 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/202niphonemacmp3/"><u>最新技術202n四：連接iPhone和電腦/Mac，順利傳送MP3音樂文件</u></a></li>
-<li><a href="https://win11.techidaily.com/determining-cpu-version-on-windows-here-are-8-ways/"><u>Determining CPU Version on Windows – Here Are 8 Ways!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-worldwide-convenience-google-unveils-its-global-ai-infused-personal-planner/"><u>Experience Worldwide Convenience: Google Unveils Its Global AI-Infused Personal Planner!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/full-range-virtual-sphere-review-for-2024/"><u>Full Range Virtual Sphere Review for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/launchpad-to-success-as-a-prompt-system-designer/"><u>Launchpad to Success as a Prompt System Designer</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/lyric-locators-discovering-hit-songs-of-the-year-updated/"><u>Lyric Locators Discovering Hit Songs of the Year, Updated</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-achieving-superior-sound-in-mp4-videos-a-comprehensive-guide/"><u>New 2024 Approved Achieving Superior Sound in MP4 Videos A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-silent-interludes-harmonious-sounds-expert-techniques-for-audio-ducking-in-adobe-premiere-pro-on-a-mac-computer/"><u>New 2024 Approved Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-combine-audio-with-motion-graphics-on-windows-platform/"><u>New Combine Audio with Motion Graphics on Windows Platform</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-fundamental-features-to-consider-when-selecting-an-audio-editor-for-mac-users-for-2024/"><u>New Fundamental Features to Consider When Selecting an Audio Editor for Mac Users for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-discover-the-premier-8-audio-waveform-designs-for-enhancing-videos/"><u>New In 2024, Discover the Premier 8 Audio Waveform Designs for Enhancing Videos</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-dub-a-video-video-dubbing-wondershare-filmora/"><u>New In 2024, How to Dub a Video Video Dubbing - Wondershare Filmora</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-premium-techniques-for-integrating-audio-into-instagram-tv-for-2024/"><u>New Premium Techniques for Integrating Audio Into Instagram TV for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/superior-mpeg-4-to-mp3-transformer-flawless-gratuitous-migration-from-mpa-files-to-mp3-clips-2023-version/"><u>Superior MPEG-4 to MP3 Transformer Flawless, Gratuitous Migration From MPA Files to MP3 Clips (2023 Version)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pushing-boundaries-with-intova-x-action-tech-for-2024/"><u>[New] Pushing Boundaries with Intova X Action Tech for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-visual-excellence-leveraging-enhancer-22/"><u>[New] The Art of Visual Excellence - Leveraging Enhancer 2.2</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-experts-choice-the-top-10-digital-stores-specializing-in-montage-music-downloads/"><u>2024 Approved Experts Choice The Top 10 Digital Stores Specializing in Montage Music Downloads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-record-everything-on-your-phone-without-paying-a-penny/"><u>2024 Approved Record Everything on Your Phone Without Paying a Penny</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/detailed-vimeo-video-overview-featuring-aspect-ratio/"><u>Detailed Vimeo Video Overview Featuring Aspect Ratio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experts-pick-the-ultimate-collection-of-iphone-16-and-iphone-16-pro-cases-featuring-maximum-durability-and-style/"><u>Experts' Pick: The Ultimate Collection of iPhone 16 and iPhone 16 Pro Cases Featuring Maximum Durability & Style</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-official-dell-wireless-network-adapter-driver/"><u>Free Download: Official Dell Wireless Network Adapter Driver</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-a-viral-phenomenon-on-igtv-with-savvy-hash-tags/"><u>In 2024, Crafting a Viral Phenomenon on IGTV with Savvy Hash Tags</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-redmi-a2plus-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi Redmi A2+ Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>New 2024 Approved Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-insightful-exploration-discovering-the-finest-zero-price-free-audio-design-platforms-on-windows/"><u>New 2024 Approved Insightful Exploration Discovering the Finest Zero-Price Free Audio Design Platforms on Windows</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-unlocking-vocal-transformations-in-audacity-through-autotune-use/"><u>New 2024 Approved Unlocking Vocal Transformations in Audacity Through Autotune Use</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-unwind-online-top-ten-virtual-retreats-to-calm-your-mind-and-enhance-wellbeing-for-2024/"><u>New Unwind Online Top Ten Virtual Retreats to Calm Your Mind and Enhance Wellbeing for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/the-ticking-clock-for-microsoft-addressing-major-windows-11-issues-in-a-race-against-time-zdnet-insights/"><u>The Ticking Clock for Microsoft: Addressing Major Windows 11 Issues in a Race Against Time | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-checklist-before-choosing-youtube-tv/"><u>The Ultimate Checklist Before Choosing YouTube TV</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-essential-list-the-best-song-editing-apps-for-windowsmac-devices/"><u>Updated 2024 Approved Essential List The Best Song Editing Apps for Windows/Mac Devices</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-how-to-normalize-volume-in-vlc/"><u>Updated How To Normalize Volume in VLC</u></a></li>
 </ul></div>
 

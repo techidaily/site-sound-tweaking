@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Sound Manipulation Creating Engaging Audio Timelines Using Keyframes in Adobe Premiere Pro (Mac) for 2024
-date: 2025-02-05T16:44:36.974Z
-updated: 2025-02-09T16:04:56.138Z
+date: 2025-02-16T16:32:16.892Z
+updated: 2025-02-19T16:21:18.316Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ Keyframing is one of the most vital components in post-production that can be ap
 Therefore, with the Premiere Pro keyframe options, you can achieve a gradual flow in your tracks. Without much ado, I’m going to help you set up audio keyframes in Premiere Pro with their vital operations in this post.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Add Audio Keyframes in Adobe Premiere Pro on Mac?
@@ -47,12 +47,16 @@ To start with, you can launch Adobe Premiere Pro, go to your Project > Import, a
 
 ![Import Audio Files in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/import-audio-files-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the audio track is added to the project, you can further drag and drop it to the sequence section (timelines) at the bottom.
 
 ![Add Audio to Timeline in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/add-audio-to-timeline-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Show Keyframes for the Track**
@@ -71,10 +75,6 @@ Now, you can view either clip or track keyframes for the track. For this, you ca
 
 ![Track Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/track-keyframes-adobe-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once you have enabled the audio keyframe options in Premiere Pro, you can view keyframes in a highlighted color. You can now take the assistance of the Pen tool or press the CMD key on your Mac to select keyframes. This will let you select the starting and ending keyframes in Premiere Pro so that you can easily apply the desired effect to the selected segment.
 
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
@@ -91,6 +91,10 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Apply Fade-in or Out options**
 
 Once you have clip keyframes in your track, you can easily do whatever you like. You can use the **Pen** tool or press the CMD key on your Mac to select the starting and the ending of the clip.
@@ -98,10 +102,6 @@ Once you have clip keyframes in your track, you can easily do whatever you like.
 Now, go to the audio segment from the timeline and simply place the audio level up (to fade-in) or down (to fade-out). You can set the audio levels for different segments the way you like to customize these operations in your audio track.
 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
 
@@ -118,7 +118,7 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -136,20 +136,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-zero-to-hero-with-telegram-promotion-techniques/"><u>[Updated] From Zero to Hero with Telegram Promotion Techniques</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-6s-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 6s Plus</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-nord-n30-se-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Nord N30 SE by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro/"><u>Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-xiaomi-14-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Xiaomi 14 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-implications-of-non-responsive-users-in-messaging/"><u>The Implications of Non-Responsive Users in Messaging</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-free-iphone-video-rotation-tools/"><u>The Ultimate Guide to Free iPhone Video Rotation Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-cambridge-audio-cxu-odyssey-a-critical-look-at-its-performance/"><u>Updated 2024 Approved The Cambridge Audio CXU Odyssey - A Critical Look at Its Performance</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-beginner-friendly-choir-separation-technology-for-professional-use/"><u>Updated Beginner-Friendly Choir Separation Technology for Professional Use</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-best-free-video-to-audio-converter-online-and-offline/"><u>Updated In 2024, Best Free Video to Audio Converter Online & Offline</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-demystifying-clubhouse-understanding-the-social-networks-foundation-purpose-and-potential-impact/"><u>Updated In 2024, Demystifying Clubhouse Understanding the Social Networks Foundation, Purpose, and Potential Impact</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-silentizer-xtreme-revolutionize-how-you-listen-and-edit-media/"><u>Updated In 2024, Silentizer Xtreme Revolutionize How You Listen and Edit Media</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-top-8-auditory-frequency-patterns-for-media-crafting/"><u>Updated In 2024, Top 8 Auditory Frequency Patterns for Media Crafting</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/1728473106520-windows-11/"><u>Windows 11における削除ファイルの安全な復元手順</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-showdown-full-review-and-ratings/"><u>2024 Approved GoPro Showdown Full Review and Ratings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bing-chat-or-chatgpt-for-your-freelance-work-a-look-at-8-critical-comparison-points/"><u>Bing Chat or ChatGPT for Your Freelance Work: A Look at 8 Critical Comparison Points</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721955235580-discover-secure-chat-options-engage-with-duckduckgos-ai-including-chatgpt/"><u>Discover Secure Chat Options: Engage with DuckDuckGo’s AI, Including ChatGPT</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/discover-the-peak-sound-perfection-recommended-equalizer-settings/"><u>Discover the Peak Sound Perfection Recommended Equalizer Settings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-methods-to-clear-files-and-folders-through-cmd-in-windows-10/"><u>Effective Methods to Clear Files and Folders Through CMD in Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-poco-c50-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Poco C50</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-how-to-cut-audio-from-video-on-iphonemac/"><u>New How to Cut Audio From Video on iPhone/Mac</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-anime-localization-breakdown-process-case-studies-and-strategies-for-perfecting-the-final-product/"><u>New In 2024, Anime Localization Breakdown Process, Case Studies & Strategies for Perfecting the Final Product</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-change-volume-in-media-files-with-filmora/"><u>New In 2024, How to Change Volume in Media Files with Filmora</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-intensify-visual-soundscapes-for-optimal-engagement-for-2024/"><u>New Intensify Visual Soundscapes for Optimal Engagement for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-soundtrack-to-today-celebrating-the-most-popular-radio-audio-for-2024/"><u>New The Soundtrack to Today Celebrating the Most Popular Radio Audio for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/panopticam-review-breakdown-for-2024/"><u>PanoptiCam Review Breakdown for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/streamlining-sound-creation-the-6-most-user-friendly-free-online-auditory-editing-tools/"><u>Streamlining Sound Creation The 6 Most User-Friendly, Free Online Auditory Editing Tools</u></a></li>
 </ul></div>
 

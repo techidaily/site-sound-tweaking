@@ -1,7 +1,7 @@
 ---
 title: Updated Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects for 2024
-date: 2025-02-04T16:45:01.614Z
-updated: 2025-02-09T16:22:07.161Z
+date: 2025-02-15T16:34:22.971Z
+updated: 2025-02-19T16:17:59.875Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,10 +28,6 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Audio in After Effects
 
 1\. Start the program and open a new project.
@@ -39,6 +35,10 @@ Working with audio files in Adobe After Effects would be challenging since it is
 2\. Import the files in the project panel. Mute the video sound if neccesary
 
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Import the audio file to the project file as well (that is required to be added).
 
@@ -53,7 +53,7 @@ Working with audio files in Adobe After Effects would be challenging since it is
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/audio-waveform-in-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
@@ -76,6 +76,10 @@ Multiple audio adjustment options are available across Wondershare Filmora. Whil
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To add audio in Wondershare Filmora, you need to follow the steps as explained below.
 
 **Step 1: Start a New Project on Wondershare Filmora**
@@ -84,15 +88,15 @@ Download and install the official software of Wondershare Filmora on your device
 
 ![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Import Audio File**
 
 Once a new project starts, tap on 'File' followed by "Import Media." Select the option of "Import Media Files" to proceed to the next screen. Add in the required audio successfully.
 
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Drag Audio to Timeline**
 
@@ -101,7 +105,7 @@ To perform different edits across the audio, the user needs to drag the audio on
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Export Audio File**
@@ -109,10 +113,6 @@ To perform different edits across the audio, the user needs to drag the audio on
 Once you are done editing the audio, you can easily save it across your device. For that, tap on "Export" to open a new window. Across the "Local" section, select "MP3" from the list of formats and figuratively set all the other settings before tapping on "Export."
 
 ![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 3\.  FL Studio 12.1.2
 
@@ -143,15 +143,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-top-7-action-cams-to-capture-ski-trips/"><u>[New] Top 7 Action Cams to Capture Ski Trips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-voice-command-utilization-no-cost/"><u>2024 Approved Voice Command Utilization No Cost</u></a></li>
-<li><a href="https://win-docs.techidaily.com/aomei-cyberbackup-telecharger-gratuitement-votre-solution-de-retablissement-dentreprise-sur-vmware/"><u>AOMEI CyberBackup : Télécharger Gratuitement Votre Solution De Rétablissement D'Entreprise Sur VMware!</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/detect-subtle-moan-vocalizations/"><u>Detect Subtle Moan Vocalizations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-use-your-roku-device-as-a-portable-hotspot-during-trips-or-college-life/"><u>How to Use Your Roku Device as a Portable Hotspot During Trips or College Life</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-leading-internet-mp3-editing-solution/"><u>In 2024, Leading Internet MP3 Editing Solution</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/israelian-excursion-guide-must-know-phrases-and-practical-suggestions/"><u>Israelian Excursion Guide: Must-Know Phrases & Practical Suggestions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tactical-steps-to-download-securely-free-vlc-media-on-mac/"><u>Tactical Steps to Download Securely Free VLC Media on MAC</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-complete-tutorial-on-using-autotune-with-audacity-users-for-2024/"><u>Updated The Complete Tutorial on Using Autotune with Audacity Users for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-ultimate-guide-to-disabling-sound-in-windows-10-movies-and-tutorials-no-software-needed/"><u>Updated The Ultimate Guide to Disabling Sound in Windows 10 Movies & Tutorials (No Software Needed)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-fifth-place-winners-excellent-recorder-apps/"><u>[New] 2024 Approved Fifth Place Winners Excellent Recorder Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-master-your-media-free-fb-video-conversion-techniques/"><u>[New] 2024 Approved Master Your Media - Free FB Video Conversion Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unveiling-the-secret-how-to-disable-youtube-snippet-playback/"><u>[Updated] 2024 Approved Unveiling the Secret How to Disable YouTube Snippet Playback</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-dos-and-donts-of-recording-in-zoom-work-environments/"><u>[Updated] In 2024, The Do's and Don’ts of Recording in Zoom Work Environments</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unravel-time-the-art-of-snapchat-video-reverse/"><u>[Updated] Unravel Time The Art of Snapchat Video Reverse</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-access-advanced-startup-options-on-your-mac-computer/"><u>How to Access Advanced Startup Options on Your Mac Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-narzo-n53-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme Narzo N53 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-sound-integration-adding-audio-to-your-ae-projects/"><u>Updated 2024 Approved Mastering Sound Integration Adding Audio to Your AE Projects</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-vocaltune-hub-deciphering-the-technology-praise-from-users-and-what-else-you-should-explore/"><u>Updated 2024 Approved VocalTune Hub Deciphering the Technology, Praise From Users, and What Else You Should Explore</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-future-of-music-creation-explore-the-best-iphone-and-android-audio-processing-apps/"><u>Updated In 2024, The Future of Music Creation – Explore the Best iPhone and Android Audio Processing Apps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-master-list-of-prime-audio-time-reverse-software-ranked-for-desktop-laptop-and-smartphone-use-for-2024/"><u>Updated Master List of Prime Audio Time-Reverse Software Ranked for Desktop, Laptop, and Smartphone Use for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-navigating-the-nuances-of-audio-balancing-a-deep-dive-into-obs-sound-dynamics-for-2024/"><u>Updated Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-reverse-rhythms-2023s-most-memorable-inverted-melodies/"><u>Updated Reverse Rhythms 2023S Most Memorable Inverted Melodies</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-selecting-the-optimal-game-voice-modification-tool-a-comprehensive-guide-for-2024/"><u>Updated Selecting the Optimal Game Voice Modification Tool A Comprehensive Guide for 2024</u></a></li>
 </ul></div>
 
